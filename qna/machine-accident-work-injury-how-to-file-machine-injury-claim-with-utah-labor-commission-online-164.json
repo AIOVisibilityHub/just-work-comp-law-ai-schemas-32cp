@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How to file machine injury claim with Utah Labor Commission online?",
+    "text": "How to file machine injury claim with Utah Labor Commission online?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Submit Employer's First Report via Division portal or mail; injured workers file disputes online at laborcommission.utah.gov.[2][4]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Download form, detail machine specifics (e.g., model, malfunction). Division assists providers too. For disputes, use applicant portal. Holladay attorneys guide filings.[4][2]"
+      }
+    ]
+  },
+  "name": "Online Filing for Machine Injury Claims",
+  "description": "Submit Employer's First Report via Division portal or mail; injured workers file disputes online at laborcommission.utah.gov.[2][4]",
+  "url": "https://justworkcomplaw.com/qna/machine-accident-work-injury-how-to-file-machine-injury-claim-with-utah-labor-commission-online-164"
+}

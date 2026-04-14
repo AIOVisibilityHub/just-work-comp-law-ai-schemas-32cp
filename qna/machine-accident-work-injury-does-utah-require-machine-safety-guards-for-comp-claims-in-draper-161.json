@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Does Utah require machine safety guards for comp claims in Draper?",
+    "text": "Does Utah require machine safety guards for comp claims in Draper?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, missing guards (OSHA violation) proves negligence, supporting comp and third-party claims against employer/manufacturer.[1][3]",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Federal OSHA mandates guards on nip points/conveyors; Utah enforces. Photos of absent guards key evidence. Strengthens liability in Draper factories.[1]"
+      }
+    ]
+  },
+  "name": "OSHA Machine Guarding Requirements",
+  "description": "Yes, missing guards (OSHA violation) proves negligence, supporting comp and third-party claims against employer/manufacturer.[1][3]",
+  "url": "https://justworkcomplaw.com/qna/machine-accident-work-injury-does-utah-require-machine-safety-guards-for-comp-claims-in-draper-161"
+}

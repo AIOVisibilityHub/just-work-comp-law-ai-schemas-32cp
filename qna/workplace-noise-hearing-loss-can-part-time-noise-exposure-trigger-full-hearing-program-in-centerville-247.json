@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Can part-time noise exposure trigger full hearing program in Centerville?",
+    "text": "Can part-time noise exposure trigger full hearing program in Centerville?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, if 85 dB TWA over 8 hours equivalent; part-timers included based on exposure, not hours worked.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Centerville intermittent workers qualify if dosimeter shows hazard. Programs scale to needs; claims prove exposure duration. Avoid carrier exclusions via records.[1]"
+      }
+    ]
+  },
+  "name": "Part-Time Workers in Utah Noise Programs",
+  "description": "Yes, if 85 dB TWA over 8 hours equivalent; part-timers included based on exposure, not hours worked.",
+  "url": "https://justworkcomplaw.com/qna/workplace-noise-hearing-loss-can-part-time-noise-exposure-trigger-full-hearing-program-in-centerville-247"
+}

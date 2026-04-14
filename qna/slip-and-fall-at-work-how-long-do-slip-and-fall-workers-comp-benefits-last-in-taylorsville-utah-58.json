@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How long do slip and fall workers' comp benefits last in Taylorsville Utah?",
+    "text": "How long do slip and fall workers' comp benefits last in Taylorsville Utah?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Taylorsville Utah temp total disability pays up to 312 weeks or until max medical improvement. Permanent benefits based on impairment rating lifelong if total disability.[7]",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Duration depends on recovery. Light duty return cuts benefits. Vocational rehab may extend. Insurers monitor social media for inconsistencies. Regular doctor reports needed. Consult local experts for MMI disputes common in prolonged cases.[7]"
+      }
+    ]
+  },
+  "name": "Duration of Benefits After Work Slip in Taylorsville",
+  "description": "Taylorsville Utah temp total disability pays up to 312 weeks or until max medical improvement. Permanent benefits based on impairment rating lifelong if total d",
+  "url": "https://justworkcomplaw.com/qna/slip-and-fall-at-work-how-long-do-slip-and-fall-workers-comp-benefits-last-in-taylorsville-utah-58"
+}

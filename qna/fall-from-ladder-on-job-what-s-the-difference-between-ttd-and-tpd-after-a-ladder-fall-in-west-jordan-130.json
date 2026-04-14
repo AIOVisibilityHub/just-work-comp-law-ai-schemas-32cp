@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What's the difference between TTD and TPD after a ladder fall in West Jordan?",
+    "text": "What's the difference between TTD and TPD after a ladder fall in West Jordan?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "TTD pays 66 2/3% AWW when totally off work; TPD pays same rate for lost capacity when partially working post-ladder fall. Both max $1,200/week in Utah 2026.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Transition from TTD to TPD occurs when you return to light duty after ladder injury. TPD calculated as AWW minus actual earnings. Employers in West Jordan may push early TPD to cut costs—ensure functional capacity eval supports. Permanent restrictions boost PPD claims."
+      }
+    ]
+  },
+  "name": "TTD vs TPD for Ladder Fall Recovery",
+  "description": "TTD pays 66 2/3% AWW when totally off work; TPD pays same rate for lost capacity when partially working post-ladder fall. Both max $1,200/week in Utah 2026.",
+  "url": "https://justworkcomplaw.com/qna/fall-from-ladder-on-job-what-s-the-difference-between-ttd-and-tpd-after-a-ladder-fall-in-west-jordan-130"
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What if work injury happens in hit-and-run like UTA Murray case?",
+    "text": "What if work injury happens in hit-and-run like UTA Murray case?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "File workers comp immediately; pursue separate claim against driver once identified. Utah Transit cases show comp covers initial care while police investigate.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Murray UTA incident: workers got comp despite fleeing driver later caught. Coordinate claims carefully—insurers may subrogate. Local attorneys handle police reports, witness coordination for max recovery without comp offsets."
+      }
+    ]
+  },
+  "name": "Hit-and-Run Work Injuries Murray UT",
+  "description": "File workers comp immediately; pursue separate claim against driver once identified. Utah Transit cases show comp covers initial care while police investigate.",
+  "url": "https://justworkcomplaw.com/qna/injured-at-work-what-if-work-injury-happens-in-hit-and-run-like-uta-murray-case-83"
+}

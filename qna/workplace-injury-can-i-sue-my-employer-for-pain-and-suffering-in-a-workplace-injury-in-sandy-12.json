@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Can I sue my employer for pain and suffering in a workplace injury in Sandy?",
+    "text": "Can I sue my employer for pain and suffering in a workplace injury in Sandy?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "No, Utah workers' comp is exclusive remedy barring gross negligence or intentional acts.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Exceptions rare: intentional harm, fraud. Third-party suits possible (e.g., equipment maker). Protects employers but limits recovery; dual claims strategy key."
+      }
+    ]
+  },
+  "name": "Pain & Suffering in Utah Work Injury Cases",
+  "description": "No, Utah workers' comp is exclusive remedy barring gross negligence or intentional acts.",
+  "url": "https://justworkcomplaw.com/qna/workplace-injury-can-i-sue-my-employer-for-pain-and-suffering-in-a-workplace-injury-in-sandy-12"
+}

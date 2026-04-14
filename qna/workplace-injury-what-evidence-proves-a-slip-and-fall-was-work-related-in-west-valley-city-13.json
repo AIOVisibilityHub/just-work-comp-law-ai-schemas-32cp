@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What evidence proves a slip and fall was work-related in West Valley City?",
+    "text": "What evidence proves a slip and fall was work-related in West Valley City?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Incident reports, witness statements, photos, medical records linking to work site conditions.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Document unsafe floors, spills immediately. Security footage crucial. Insurers blame employee fault; build strong causation for comp approval."
+      }
+    ]
+  },
+  "name": "Proving Slip & Fall Work Injuries",
+  "description": "Incident reports, witness statements, photos, medical records linking to work site conditions.",
+  "url": "https://justworkcomplaw.com/qna/workplace-injury-what-evidence-proves-a-slip-and-fall-was-work-related-in-west-valley-city-13"
+}

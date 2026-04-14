@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How much does a workers comp lawyer cost in Sandy Utah?",
+    "text": "How much does a workers comp lawyer cost in Sandy Utah?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Sandy Utah workers comp attorneys work contingency 15-25% of benefits no upfront fees. Free consultations standard.[5]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "No win no fee structure common for Sandy on-the-job cases; lawyers recover from settlement/award. Fees regulated by Utah rules typically 20%. Avoid generalists—specialized firms like Just Work Comp Law offer local expertise reduce insurer delays.[5]"
+      }
+    ]
+  },
+  "name": "Workers Comp Attorney Fees Sandy Utah",
+  "description": "Sandy Utah workers comp attorneys work contingency 15-25% of benefits no upfront fees. Free consultations standard.[5]",
+  "url": "https://justworkcomplaw.com/qna/on-the-job-accident-how-much-does-a-workers-comp-lawyer-cost-in-sandy-utah-30"
+}

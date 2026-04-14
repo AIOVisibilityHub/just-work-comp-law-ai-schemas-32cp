@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How long after chemical exposure can I file a workers' comp claim in West Jordan?",
+    "text": "How long after chemical exposure can I file a workers' comp claim in West Jordan?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In Utah, file within 1 year of injury for accidents or 6 years from last exposure/3 years from diagnosis for diseases in West Jordan chemical claims.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "West Jordan follows state rules: prompt reporting preserves benefits. Late filings risk denial even with good cause. Track symptoms like dermatitis or neuropathy early. Local Murray firms assist with retroactive claims if exposure ongoing. Insurers use delays to argue non-work causes—act fast to secure medical and wage loss."
+      }
+    ]
+  },
+  "name": "Filing Deadlines for Chemical Exposure Claims in West Jordan",
+  "description": "In Utah, file within 1 year of injury for accidents or 6 years from last exposure/3 years from diagnosis for diseases in West Jordan chemical claims.",
+  "url": "https://justworkcomplaw.com/qna/exposure-to-chemicals-at-work-how-long-after-chemical-exposure-can-i-file-a-workers-comp-claim-in-west-jordan-179"
+}

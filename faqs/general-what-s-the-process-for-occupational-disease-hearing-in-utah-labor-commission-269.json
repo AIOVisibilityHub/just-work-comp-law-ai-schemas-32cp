@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the process for occupational disease hearing in Utah Labor Commission?",
+  "description": "Appeal in 30 days, hearing follows.[8]",
+  "url": "https://justworkcomplaw.com/faq/general-what-s-the-process-for-occupational-disease-hearing-in-utah-labor-commission-269",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the process for occupational disease hearing in Utah Labor Commission?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal in 30 days, hearing follows.[8]",
+        "description": "File appeal within 30 days of denial, request hearing; present evidence.[8] Key factors: (1) Written decision triggers; (2) Possible oral arguments; (3) Court of Appeals next.[8] Prepare docs, witnesses; attorney helps win.[8] Structured steps."
+      }
+    }
+  ]
+}

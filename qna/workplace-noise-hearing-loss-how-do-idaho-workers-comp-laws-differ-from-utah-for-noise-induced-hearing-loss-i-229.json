@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How do Idaho workers' comp laws differ from Utah for noise-induced hearing loss in Boise?",
+    "text": "How do Idaho workers' comp laws differ from Utah for noise-induced hearing loss in Boise?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Idaho follows federal OSHA but lacks Utah's specific industrial noise statutes (34A-2-501 et seq.); claims use general occupational disease rules with no 180-day report mandate, emphasizing medical evidence of causation during employment.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Unlike Utah's codified hearing loss rules with strict reporting, Idaho treats NIHL as occupational disease under Idaho Code §72-1001, requiring proof of work causation without unique deadlines. Boise workers face similar OSHA thresholds but varying insurer scrutiny. Cross-state commuters need jurisdiction-specific advice; Utah firms like Just Work Comp may refer Idaho cases.[1]"
+      }
+    ]
+  },
+  "name": "Utah vs Idaho Workplace Hearing Loss Comp Laws",
+  "description": "Idaho follows federal OSHA but lacks Utah's specific industrial noise statutes (34A-2-501 et seq.); claims use general occupational disease rules with no 180-da",
+  "url": "https://justworkcomplaw.com/qna/workplace-noise-hearing-loss-how-do-idaho-workers-comp-laws-differ-from-utah-for-noise-induced-hearing-loss-i-229"
+}

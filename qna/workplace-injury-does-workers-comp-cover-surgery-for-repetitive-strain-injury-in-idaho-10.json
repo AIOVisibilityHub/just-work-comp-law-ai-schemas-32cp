@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Does workers' comp cover surgery for repetitive strain injury in Idaho?",
+    "text": "Does workers' comp cover surgery for repetitive strain injury in Idaho?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, if causally linked to work and medically necessary, per Idaho Industrial Commission approval.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "RSI like carpal tunnel qualifies if documented. Prior authorization needed; second opinions common. Delays treatment; lawyer speeds approval for Meridian/Boise claims."
+      }
+    ]
+  },
+  "name": "Surgery Coverage for RSI Under Idaho Workers' Comp",
+  "description": "Yes, if causally linked to work and medically necessary, per Idaho Industrial Commission approval.",
+  "url": "https://justworkcomplaw.com/qna/workplace-injury-does-workers-comp-cover-surgery-for-repetitive-strain-injury-in-idaho-10"
+}

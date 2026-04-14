@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Timeline from ladder fall to settlement in Sandy UT?",
+    "text": "Timeline from ladder fall to settlement in Sandy UT?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "6-18 months typical: 3 mo TTD, 6 mo MMI, 3 mo negotiate. Appeals add 12 mo.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Sandy fast-tracks simple sprains; fractures extend to 24 mo. Monitor via status conferences. Early attorney involvement cuts 30% time per stats."
+      }
+    ]
+  },
+  "name": "Settlement Timeline for Ladder Injuries",
+  "description": "6-18 months typical: 3 mo TTD, 6 mo MMI, 3 mo negotiate. Appeals add 12 mo.",
+  "url": "https://justworkcomplaw.com/qna/fall-from-ladder-on-job-timeline-from-ladder-fall-to-settlement-in-sandy-ut-144"
+}

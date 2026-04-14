@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Timeline for prosthetic approval in Salt Lake County comp claims?",
+    "text": "Timeline for prosthetic approval in Salt Lake County comp claims?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Insurer must pre-approve; 14-30 days typical, urgent via ER[1][8].",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Salt Lake: Delays common—utilization review. Attorney accelerates[1]."
+      }
+    ]
+  },
+  "name": "Prosthetic Approval Timeline Salt Lake",
+  "description": "Insurer must pre-approve; 14-30 days typical, urgent via ER[1][8].",
+  "url": "https://justworkcomplaw.com/qna/work-injury-claim-timeline-for-prosthetic-approval-in-salt-lake-county-comp-claims-120"
+}

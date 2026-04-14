@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How to file hearing loss claim after quitting noisy job in Midvale?",
+    "text": "How to file hearing loss claim after quitting noisy job in Midvale?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Report to last employer within 180 days of awareness per Utah Code; file formal comp claim with Utah Labor Commission within 1 year of injury date (last exposure).",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Post-employment, notify ex-employer promptly; use certified mail. Submit Form 188 to Commission with audiogram. Midvale ex-workers face carrier delays; attorney accelerates approvals, counters denials on causation. Preserve pay stubs for wage loss.[4]"
+      }
+    ]
+  },
+  "name": "Filing Claims After Leaving Noisy Utah Jobs",
+  "description": "Report to last employer within 180 days of awareness per Utah Code; file formal comp claim with Utah Labor Commission within 1 year of injury date (last exposur",
+  "url": "https://justworkcomplaw.com/qna/workplace-noise-hearing-loss-how-to-file-hearing-loss-claim-after-quitting-noisy-job-in-midvale-238"
+}

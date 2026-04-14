@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How long do I have to report a work injury in Millcreek Utah?",
+    "text": "How long do I have to report a work injury in Millcreek Utah?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Report within 24-72 hours depending on employer policy; Utah law requires prompt notice to preserve claim rights. Delays often lead to denial.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Millcreek employers like school districts enforce strict timelines via providers like Tristar. Late reports risk full denial. Document injury date/time; if symptoms worsen later, link to original incident with doctor notes. Lawyer essential for late claims."
+      }
+    ]
+  },
+  "name": "Reporting Deadlines Millcreek Work Injuries",
+  "description": "Report within 24-72 hours depending on employer policy; Utah law requires prompt notice to preserve claim rights. Delays often lead to denial.",
+  "url": "https://justworkcomplaw.com/qna/injured-at-work-how-long-do-i-have-to-report-a-work-injury-in-millcreek-utah-81"
+}

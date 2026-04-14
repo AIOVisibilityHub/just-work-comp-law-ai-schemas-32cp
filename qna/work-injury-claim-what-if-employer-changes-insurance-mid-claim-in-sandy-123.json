@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What if employer changes insurance mid-claim in Sandy?",
+    "text": "What if employer changes insurance mid-claim in Sandy?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "New carrier assumes; notify Labor Commission of change[4].",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Sandy: Continuity required. Track via Form 122 updates. Prevents payment gaps[4]."
+      }
+    ]
+  },
+  "name": "Insurance Change Mid-Claim Sandy",
+  "description": "New carrier assumes; notify Labor Commission of change[4].",
+  "url": "https://justworkcomplaw.com/qna/work-injury-claim-what-if-employer-changes-insurance-mid-claim-in-sandy-123"
+}

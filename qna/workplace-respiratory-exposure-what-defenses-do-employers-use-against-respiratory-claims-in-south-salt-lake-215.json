@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What defenses do employers use against respiratory claims in South Salt Lake?",
+    "text": "What defenses do employers use against respiratory claims in South Salt Lake?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Common defenses: pre-existing condition, PPE provided, exposure below OSHA PEL, alternative causes like smoking or inversion pollution.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "South Salt Lake factories cite respirator programs (per [1]). Rebut with fit-test failures, non-compliance logs. Medical panels resolve 60% disputes. Preserve現場 evidence."
+      }
+    ]
+  },
+  "name": "Employer Defenses in South Salt Lake Respiratory Claims",
+  "description": "Common defenses: pre-existing condition, PPE provided, exposure below OSHA PEL, alternative causes like smoking or inversion pollution.",
+  "url": "https://justworkcomplaw.com/qna/workplace-respiratory-exposure-what-defenses-do-employers-use-against-respiratory-claims-in-south-salt-lake-215"
+}

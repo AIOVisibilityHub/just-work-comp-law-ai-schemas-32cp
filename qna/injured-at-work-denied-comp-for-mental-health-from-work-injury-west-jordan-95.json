@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Denied comp for mental health from work injury West Jordan?",
+    "text": "Denied comp for mental health from work injury West Jordan?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Covered if physical injury causes mental; prove causation with psych eval.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "West Jordan: PTSD/anxiety post-physical trauma compensable. Insurers deny psych claims; specialist reports + lawyer overturn most."
+      }
+    ]
+  },
+  "name": "Mental Health Comp West Jordan",
+  "description": "Covered if physical injury causes mental; prove causation with psych eval.",
+  "url": "https://justworkcomplaw.com/qna/injured-at-work-denied-comp-for-mental-health-from-work-injury-west-jordan-95"
+}

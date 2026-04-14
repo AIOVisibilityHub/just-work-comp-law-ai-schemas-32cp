@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Can I get workers' comp for occupational illness if I was exposed years ago in Midvale?",
+    "text": "Can I get workers' comp for occupational illness if I was exposed years ago in Midvale?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, Utah allows claims for latent occupational illnesses if filed within 3 years of discovery and linked to past Midvale exposure via medical proof and work history.[5]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Latent conditions like mesothelioma qualify if causation traces to prior employment. Utah law tolls limitations until diagnosis. Gather old employment records and exposure logs. Insurers in Taylorsville area challenge 'stale' claims; Bountiful attorneys use vocational experts to prove ongoing disability from historical harm.[5]"
+      }
+    ]
+  },
+  "name": "Latent Occupational Illness Claims from Past Exposure",
+  "description": "Yes, Utah allows claims for latent occupational illnesses if filed within 3 years of discovery and linked to past Midvale exposure via medical proof and work hi",
+  "url": "https://justworkcomplaw.com/qna/occupational-illness-can-i-get-workers-comp-for-occupational-illness-if-i-was-exposed-years-ago-in-mi-255"
+}

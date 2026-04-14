@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Do I get paid during light duty after falling from ladder in Bountiful?",
+    "text": "Do I get paid during light duty after falling from ladder in Bountiful?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, Utah requires employers to offer light duty or same wage if available; workers' comp TPD supplements if earnings drop below pre-injury AWW after ladder fall.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Bountiful construction firms must accommodate restrictions from ladder falls. Refusal without cause triggers TTD reinstatement. Track all communications to prevent retaliation claims. Vocational rehab available if no light duty fits your post-injury capacity."
+      }
+    ]
+  },
+  "name": "Light Duty Pay After Ladder Falls in Bountiful",
+  "description": "Yes, Utah requires employers to offer light duty or same wage if available; workers' comp TPD supplements if earnings drop below pre-injury AWW after ladder fal",
+  "url": "https://justworkcomplaw.com/qna/fall-from-ladder-on-job-do-i-get-paid-during-light-duty-after-falling-from-ladder-in-bountiful-131"
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Process for construction fall injury claim in Riverton UT?",
+    "text": "Process for construction fall injury claim in Riverton UT?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Report immediately, get ER eval with drug test, employer files Form 122 in 7 days; covers scaffolding/height falls as traumatic[1][8].",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Riverton construction: Mandatory drug/alcohol tests post-fall. All med/prosthetics covered. OSHA report separate. High denial rate—attorney prevents offsets[1][7][8]."
+      }
+    ]
+  },
+  "name": "Construction Fall Claims Riverton",
+  "description": "Report immediately, get ER eval with drug test, employer files Form 122 in 7 days; covers scaffolding/height falls as traumatic[1][8].",
+  "url": "https://justworkcomplaw.com/qna/work-injury-claim-process-for-construction-fall-injury-claim-in-riverton-ut-112"
+}

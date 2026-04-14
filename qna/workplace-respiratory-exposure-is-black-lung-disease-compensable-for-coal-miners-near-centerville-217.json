@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Is black lung disease compensable for coal miners near Centerville?",
+    "text": "Is black lung disease compensable for coal miners near Centerville?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, federal Black Lung Benefits Act covers miners with 1+ year coal dust exposure; Utah comp supplements for total disability.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Centerville proximity to historic mines qualifies. X-rays, PFTs prove pneumoconiosis. DOL pays 66⅔% wages lifetime. State offsets apply. 70% approval with attorney."
+      }
+    ]
+  },
+  "name": "Black Lung Claims for Utah Miners Near Centerville",
+  "description": "Yes, federal Black Lung Benefits Act covers miners with 1+ year coal dust exposure; Utah comp supplements for total disability.",
+  "url": "https://justworkcomplaw.com/qna/workplace-respiratory-exposure-is-black-lung-disease-compensable-for-coal-miners-near-centerville-217"
+}

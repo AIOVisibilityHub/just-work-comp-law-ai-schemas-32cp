@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How long do workers comp benefits last in Midvale Utah?",
+    "text": "How long do workers comp benefits last in Midvale Utah?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Temporary benefits until MMI or 312 weeks max permanent lifelong if total disability.[10]",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Midvale claims pay TTD 66 2/3% wages cap $900+/week until recovery; PTD indefinite for unable to work. Partial caps at 312 weeks. Reopen if condition worsens within 6 years—monitor health report changes.[10]"
+      }
+    ]
+  },
+  "name": "Duration of Workers Comp Benefits Midvale",
+  "description": "Temporary benefits until MMI or 312 weeks max permanent lifelong if total disability.[10]",
+  "url": "https://justworkcomplaw.com/qna/on-the-job-accident-how-long-do-workers-comp-benefits-last-in-midvale-utah-35"
+}

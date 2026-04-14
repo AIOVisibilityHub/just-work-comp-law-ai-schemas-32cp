@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What are my rights after an on-the-job accident in Murray Utah?",
+    "text": "What are my rights after an on-the-job accident in Murray Utah?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In Murray Utah workers comp covers medical bills lost wages and disability benefits for on-the-job accidents regardless of fault. Report injury within 180 days file claim promptly and seek legal help if denied.[1]",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Utah workers compensation for on-the-job accidents in Murray provides no-fault coverage including medical treatment lost wages and permanent disability. Report to employer immediately within 180 days to preserve rights. Insurance may deny claims citing pre-existing conditions—consult attorney to appeal. Delays can bar benefits; local firms like Just Work Comp Law assist Murray residents.[1]"
+      }
+    ]
+  },
+  "name": "Rights After On-the-Job Accident in Murray Utah",
+  "description": "In Murray Utah workers comp covers medical bills lost wages and disability benefits for on-the-job accidents regardless of fault. Report injury within 180 days ",
+  "url": "https://justworkcomplaw.com/qna/on-the-job-accident-what-are-my-rights-after-an-on-the-job-accident-in-murray-utah-26"
+}

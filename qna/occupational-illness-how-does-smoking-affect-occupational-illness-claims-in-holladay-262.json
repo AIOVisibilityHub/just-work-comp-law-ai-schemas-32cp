@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How does smoking affect occupational illness claims in Holladay?",
+    "text": "How does smoking affect occupational illness claims in Holladay?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Smoking complicates lung disease claims in Holladay but doesn't bar if work exposure is predominant cause per medical opinion.[5]",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Apportionment reduces benefits based on contribution. Holladay experts use lung function tests to quantify. Draper smokers win with exposure modeling showing dominance. Insurers overstate personal fault.[5]"
+      }
+    ]
+  },
+  "name": "Smoking's Impact on Occupational Lung Claims",
+  "description": "Smoking complicates lung disease claims in Holladay but doesn't bar if work exposure is predominant cause per medical opinion.[5]",
+  "url": "https://justworkcomplaw.com/qna/occupational-illness-how-does-smoking-affect-occupational-illness-claims-in-holladay-262"
+}

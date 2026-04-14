@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Can family members claim benefits if a worker dies from respiratory disease in Midvale?",
+    "text": "Can family members claim benefits if a worker dies from respiratory disease in Midvale?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, Utah death benefits provide 66⅔% wages to dependents for 8 years max or until age 62, plus burial costs up to $10K if work caused fatal asbestosis or similar.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Midvale mining widows file within 1 year of death. Prove causation via autopsy/IME. Benefits offset by SSDI. Children qualify till 18. Disputes common; 40% settle pre-hearing."
+      }
+    ]
+  },
+  "name": "Family Death Benefits for Respiratory Diseases in Midvale",
+  "description": "Yes, Utah death benefits provide 66⅔% wages to dependents for 8 years max or until age 62, plus burial costs up to $10K if work caused fatal asbestosis or simil",
+  "url": "https://justworkcomplaw.com/qna/workplace-respiratory-exposure-can-family-members-claim-benefits-if-a-worker-dies-from-respiratory-disease-in-m-210"
+}

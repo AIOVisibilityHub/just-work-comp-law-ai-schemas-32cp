@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Can I get permanent disability for reduced lung function from paint fumes in Farmington?",
+    "text": "Can I get permanent disability for reduced lung function from paint fumes in Farmington?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, Utah awards PPI 5-30% based on AMA FVC/FEV1 reductions from paint isocyanates, plus retraining if unemployable.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Farmington painters document via serial spirometry. Benefits: $200-$400/week TPD, lump-sum PPI $50K avg. Vocational expert for job loss. Avoid release without rating."
+      }
+    ]
+  },
+  "name": "Permanent Disability for Paint Fume Lung Damage in Farmington",
+  "description": "Yes, Utah awards PPI 5-30% based on AMA FVC/FEV1 reductions from paint isocyanates, plus retraining if unemployable.",
+  "url": "https://justworkcomplaw.com/qna/workplace-respiratory-exposure-can-i-get-permanent-disability-for-reduced-lung-function-from-paint-fumes-in-far-214"
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my employer directly for intentional asbestos exposure in Millcreek?",
+  "description": "Only if intentional or uninsured; comp usually exclusive.[1]",
+  "url": "https://justworkcomplaw.com/faq/general-can-i-sue-my-employer-directly-for-intentional-asbestos-exposure-in-millcreek-265",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my employer directly for intentional asbestos exposure in Millcreek?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Only if intentional or uninsured; comp usually exclusive.[1]",
+        "description": "Rarely; exclusive remedy bars suits unless intentional injury or no insurance.[1] Key factors: (1) Deliberate harm by officers; (2) Removing guards knowingly; (3) No comp coverage exposes them.[1] Prove intent hard; stick to comp usually.[1] Third-party suits easier for negligence.[1]"
+      }
+    }
+  ]
+}

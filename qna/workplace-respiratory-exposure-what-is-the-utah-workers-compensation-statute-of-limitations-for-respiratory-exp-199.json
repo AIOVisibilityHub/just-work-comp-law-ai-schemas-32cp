@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What is the Utah workers' compensation statute of limitations for respiratory exposure claims in Murray?",
+    "text": "What is the Utah workers' compensation statute of limitations for respiratory exposure claims in Murray?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In Utah, the statute of limitations for workers' compensation respiratory exposure claims is generally 6 years from the date of injury or last exposure, or 3 years from disability manifestation for occupational diseases, with extensions possible for latent conditions under Utah Code §34A-2-417.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Utah workers' comp claims for respiratory exposure, often classified as occupational diseases, must typically be filed within 6 years of last exposure or 3 years of discovering the condition per Utah Code §34A-2-417. Latent lung diseases from workplace dust or chemicals may qualify for extensions. Consult a Murray attorney immediately as insurers dispute delayed-onset claims. Missing deadlines bars recovery for medical costs, lost wages, and impairment benefits."
+      }
+    ]
+  },
+  "name": "Utah Workers' Comp Deadline for Respiratory Exposure Claims in Murray",
+  "description": "In Utah, the statute of limitations for workers' compensation respiratory exposure claims is generally 6 years from the date of injury or last exposure, or 3 ye",
+  "url": "https://justworkcomplaw.com/qna/workplace-respiratory-exposure-what-is-the-utah-workers-compensation-statute-of-limitations-for-respiratory-exp-199"
+}

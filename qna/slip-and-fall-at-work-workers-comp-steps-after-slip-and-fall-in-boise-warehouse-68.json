@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Workers comp steps after slip and fall in Boise warehouse?",
+    "text": "Workers comp steps after slip and fall in Boise warehouse?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Boise warehouse slip report to supervisor seek medical aid file Form D61 with Idaho SIF attend appointments follow light duty if offered.[1]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Warehouses high risk OSHA reportable. Surveillance key evidence. Comp covers PT ergonomics training post-injury. Insurers watch for malingering. Local Boise firms handle industrial claims.[1]"
+      }
+    ]
+  },
+  "name": "Warehouse Slip Process in Boise",
+  "description": "Boise warehouse slip report to supervisor seek medical aid file Form D61 with Idaho SIF attend appointments follow light duty if offered.[1]",
+  "url": "https://justworkcomplaw.com/qna/slip-and-fall-at-work-workers-comp-steps-after-slip-and-fall-in-boise-warehouse-68"
+}

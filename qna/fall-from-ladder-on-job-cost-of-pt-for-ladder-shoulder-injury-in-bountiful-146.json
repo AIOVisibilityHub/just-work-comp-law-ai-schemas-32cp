@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Cost of PT for ladder shoulder injury in Bountiful?",
+    "text": "Cost of PT for ladder shoulder injury in Bountiful?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "100% covered by comp; 12-24 weeks typical, $150/session but no out-pocket.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Bountiful: Insist on evidence-based PT; deny chiropractic if ineffective. Transition to home program saves claim costs long-term."
+      }
+    ]
+  },
+  "name": "PT Coverage Details",
+  "description": "100% covered by comp; 12-24 weeks typical, $150/session but no out-pocket.",
+  "url": "https://justworkcomplaw.com/qna/fall-from-ladder-on-job-cost-of-pt-for-ladder-shoulder-injury-in-bountiful-146"
+}

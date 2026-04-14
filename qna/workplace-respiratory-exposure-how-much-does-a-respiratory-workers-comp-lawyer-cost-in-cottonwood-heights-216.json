@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How much does a respiratory workers' comp lawyer cost in Cottonwood Heights?",
+    "text": "How much does a respiratory workers' comp lawyer cost in Cottonwood Heights?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Contingency 20% first $25K, 15% next $25K, 10% above per Utah rules; no upfront fees, paid from settlement.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Cottonwood Heights firms like Just Work Comp advance costs. Recoverable if win. Averages $75K+ recoveries justify fees. Free consults standard; shop 3 quotes."
+      }
+    ]
+  },
+  "name": "Lawyer Fees for Respiratory Claims in Cottonwood Heights",
+  "description": "Contingency 20% first $25K, 15% next $25K, 10% above per Utah rules; no upfront fees, paid from settlement.",
+  "url": "https://justworkcomplaw.com/qna/workplace-respiratory-exposure-how-much-does-a-respiratory-workers-comp-lawyer-cost-in-cottonwood-heights-216"
+}

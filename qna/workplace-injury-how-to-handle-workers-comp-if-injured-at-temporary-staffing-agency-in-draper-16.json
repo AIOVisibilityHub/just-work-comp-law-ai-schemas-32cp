@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How to handle workers' comp if injured at temporary staffing agency in Draper?",
+    "text": "How to handle workers' comp if injured at temporary staffing agency in Draper?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Notify agency and client employer immediately; benefits from responsible party with coverage.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Utah joint liability; general employer (agency) primary. Coordinate dual reports. Common in warehousing; clarify coverage disputes early."
+      }
+    ]
+  },
+  "name": "Temp Agency Work Injuries in Utah",
+  "description": "Notify agency and client employer immediately; benefits from responsible party with coverage.",
+  "url": "https://justworkcomplaw.com/qna/workplace-injury-how-to-handle-workers-comp-if-injured-at-temporary-staffing-agency-in-draper-16"
+}

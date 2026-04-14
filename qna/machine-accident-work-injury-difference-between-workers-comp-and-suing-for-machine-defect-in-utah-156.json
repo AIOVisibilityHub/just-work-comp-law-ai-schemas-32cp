@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Difference between workers' comp and suing for machine defect in Utah?",
+    "text": "Difference between workers' comp and suing for machine defect in Utah?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Workers' comp provides no-fault medical/wage benefits quickly; third-party defect suits against manufacturers offer pain/suffering damages but require proving fault.[3][6]",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Comp is guaranteed (no lawsuit needed) but caps benefits; defect claims pursue full losses like lost future earnings. Can't sue employer usually, but manufacturers yes. Coordinate both via attorney in Boise or Draper to maximize recovery without comp offset issues.[3][6][7]"
+      }
+    ]
+  },
+  "name": "Workers' Comp vs. Manufacturer Liability Claims",
+  "description": "Workers' comp provides no-fault medical/wage benefits quickly; third-party defect suits against manufacturers offer pain/suffering damages but require proving f",
+  "url": "https://justworkcomplaw.com/qna/machine-accident-work-injury-difference-between-workers-comp-and-suing-for-machine-defect-in-utah-156"
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What medical tests prove chemical exposure in Utah workers' comp?",
+    "text": "What medical tests prove chemical exposure in Utah workers' comp?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Tests: blood/urine toxicology, lung function (spirometry), biomonitoring for metals, and specialist evals like neurology for solvents.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Request employer-paid tests via claim. Utah accepts NIOSH methods. In Draper, solvent claims use hippuric acid urine tests. Insurers question validity—use board-certified toxicol. Early testing preserves causation; delays hurt appeals."
+      }
+    ]
+  },
+  "name": "Key Medical Tests for Proving Chemical Exposure in Utah",
+  "description": "Tests: blood/urine toxicology, lung function (spirometry), biomonitoring for metals, and specialist evals like neurology for solvents.",
+  "url": "https://justworkcomplaw.com/qna/exposure-to-chemicals-at-work-what-medical-tests-prove-chemical-exposure-in-utah-workers-comp-186"
+}

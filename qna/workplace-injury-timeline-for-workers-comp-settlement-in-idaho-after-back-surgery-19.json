@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Timeline for workers' comp settlement in Idaho after back surgery?",
+    "text": "Timeline for workers' comp settlement in Idaho after back surgery?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "6-18 months post-MMI; faster with lawyer negotiation vs. hearing.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Medicals first, then PPI rating. Lump sum approval by Commission. Insurers lowball; structured settlements for ongoing care in Nampa."
+      }
+    ]
+  },
+  "name": "Idaho Work Injury Settlement Timeline",
+  "description": "6-18 months post-MMI; faster with lawyer negotiation vs. hearing.",
+  "url": "https://justworkcomplaw.com/qna/workplace-injury-timeline-for-workers-comp-settlement-in-idaho-after-back-surgery-19"
+}

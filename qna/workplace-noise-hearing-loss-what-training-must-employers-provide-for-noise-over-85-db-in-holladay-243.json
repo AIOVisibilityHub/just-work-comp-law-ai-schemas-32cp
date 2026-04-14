@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What training must employers provide for noise over 85 dB in Holladay?",
+    "text": "What training must employers provide for noise over 85 dB in Holladay?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "OSHA-mandated annual training on noise risks, protection use, program purpose, measured by qualified personnel per 29 CFR 1910.95, applicable in Utah.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Holladay warehouses require documented sessions covering effects, fitting, care. Inadequate training weakens employer defenses in claims. Workers verify records; gaps support negligence arguments for higher awards. Annual refresh post-STS mandatory.[2]"
+      }
+    ]
+  },
+  "name": "Required Noise Training for Utah Employers",
+  "description": "OSHA-mandated annual training on noise risks, protection use, program purpose, measured by qualified personnel per 29 CFR 1910.95, applicable in Utah.",
+  "url": "https://justworkcomplaw.com/qna/workplace-noise-hearing-loss-what-training-must-employers-provide-for-noise-over-85-db-in-holladay-243"
+}

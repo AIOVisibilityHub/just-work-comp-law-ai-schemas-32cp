@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What is the workers' compensation statute of limitations for chemical exposure claims in Utah?",
+    "text": "What is the workers' compensation statute of limitations for chemical exposure claims in Utah?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In Utah, the statute of limitations for workers' compensation claims due to chemical exposure is generally 6 years from the date of injury or last exposure, or 3 years from discovery of the occupational disease, whichever is later, per Utah Code § 34A-2-417.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Utah's workers' comp law sets a 6-year limit from the last harmful exposure for occupational diseases like chemical exposure, or 3 years from when you knew or should have known about the condition. Delays can weaken claims due to evidence loss. Consult a local attorney immediately in Murray or Boise to file before deadlines, as insurers often challenge timeliness. Missing it bars recovery."
+      }
+    ]
+  },
+  "name": "Utah Workers' Comp Statute of Limitations for Chemical Exposure Claims",
+  "description": "In Utah, the statute of limitations for workers' compensation claims due to chemical exposure is generally 6 years from the date of injury or last exposure, or ",
+  "url": "https://justworkcomplaw.com/qna/exposure-to-chemicals-at-work-what-is-the-workers-compensation-statute-of-limitations-for-chemical-exposure-cl-174"
+}

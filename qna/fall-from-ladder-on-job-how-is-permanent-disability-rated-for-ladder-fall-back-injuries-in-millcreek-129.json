@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How is permanent disability rated for ladder fall back injuries in Millcreek?",
+    "text": "How is permanent disability rated for ladder fall back injuries in Millcreek?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Utah uses AMA Guides 6th Edition for impairment ratings; back ladder fall injuries often rated 5-25% whole person impairment (WPI) based on DRE categories, yielding PPD compensation.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Ladder falls commonly cause lumbar strains rated via DRE method (e.g., DRE Lumbar Category II: 5-8% WPI). Independent medical exam (IME) determines rating. Dispute unfair IMEs with your doctor. Millcreek claims average $20K-$100K PPD; negotiate lump sums carefully."
+      }
+    ]
+  },
+  "name": "Disability Ratings for Ladder Back Injuries",
+  "description": "Utah uses AMA Guides 6th Edition for impairment ratings; back ladder fall injuries often rated 5-25% whole person impairment (WPI) based on DRE categories, yiel",
+  "url": "https://justworkcomplaw.com/qna/fall-from-ladder-on-job-how-is-permanent-disability-rated-for-ladder-fall-back-injuries-in-millcreek-129"
+}

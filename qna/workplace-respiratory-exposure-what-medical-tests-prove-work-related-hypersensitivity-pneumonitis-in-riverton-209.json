@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What medical tests prove work-related hypersensitivity pneumonitis in Riverton?",
+    "text": "What medical tests prove work-related hypersensitivity pneumonitis in Riverton?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "HRCT scans showing ground-glass opacities, BAL lymphocytosis >40%, lung biopsy if needed, and exposure history to mold/bioaerosols link to Riverton ag processing.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Hypersensitivity pneumonitis from Riverton farm equipment dust requires serial PFTs documenting decline, specific IgG panels. Utah comp covers removal from exposure, steroids, O2. PPI up to 20% for fibrosis. Early filing preserves benefits."
+      }
+    ]
+  },
+  "name": "Tests for Work-Related Hypersensitivity Pneumonitis in Riverton",
+  "description": "HRCT scans showing ground-glass opacities, BAL lymphocytosis >40%, lung biopsy if needed, and exposure history to mold/bioaerosols link to Riverton ag processin",
+  "url": "https://justworkcomplaw.com/qna/workplace-respiratory-exposure-what-medical-tests-prove-work-related-hypersensitivity-pneumonitis-in-riverton-209"
+}

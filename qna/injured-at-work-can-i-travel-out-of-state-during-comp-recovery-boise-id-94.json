@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Can I travel out of state during comp recovery Boise ID?",
+    "text": "Can I travel out of state during comp recovery Boise ID?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, but notify insurer, continue approved treatment. Travel doesn't void claim unless fraud.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Boise: document medical compliance. Insurers surveil; attorney advises on restrictions, counters surveillance disputes."
+      }
+    ]
+  },
+  "name": "Travel During Recovery Boise",
+  "description": "Yes, but notify insurer, continue approved treatment. Travel doesn't void claim unless fraud.",
+  "url": "https://justworkcomplaw.com/qna/injured-at-work-can-i-travel-out-of-state-during-comp-recovery-boise-id-94"
+}

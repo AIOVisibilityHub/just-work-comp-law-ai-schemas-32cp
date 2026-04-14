@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Difference between occupational illness and occupational injury in Utah law?",
+    "text": "Difference between occupational illness and occupational injury in Utah law?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Utah distinguishes occupational injury (sudden events like slips) from illness (gradual diseases like asbestosis from exposure). Illness claims face stricter causation proof and longer latency issues.[5]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Occupational injuries stem from identifiable incidents with immediate symptoms, easing proof. Illnesses develop over time, requiring evidence of cumulative exposure outweighing non-work factors. Utah statute treats both compensable but illnesses trigger disputes over diagnosis dates. For Sandy or Draper workers, this affects notice timelines. Attorneys in these areas specialize in medical expert battles for illness claims.[5]"
+      }
+    ]
+  },
+  "name": "Occupational Illness vs Injury in Utah",
+  "description": "Utah distinguishes occupational injury (sudden events like slips) from illness (gradual diseases like asbestosis from exposure). Illness claims face stricter ca",
+  "url": "https://justworkcomplaw.com/qna/occupational-illness-difference-between-occupational-illness-and-occupational-injury-in-utah-law-253"
+}

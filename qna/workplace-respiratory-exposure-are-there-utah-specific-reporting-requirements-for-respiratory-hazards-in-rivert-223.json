@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Are there Utah-specific reporting requirements for respiratory hazards in Riverton?",
+    "text": "Are there Utah-specific reporting requirements for respiratory hazards in Riverton?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Utah OSHA 1910.1020 mandates medical records retention 30 years; report injuries via DOLI Form 109 within 7 days.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Riverton employers must track via Log 300. Employees request access. Non-compliance penalties aid claims. Annual hazard surveys required."
+      }
+    ]
+  },
+  "name": "Reporting Respiratory Hazards in Riverton",
+  "description": "Utah OSHA 1910.1020 mandates medical records retention 30 years; report injuries via DOLI Form 109 within 7 days.",
+  "url": "https://justworkcomplaw.com/qna/workplace-respiratory-exposure-are-there-utah-specific-reporting-requirements-for-respiratory-hazards-in-rivert-223"
+}

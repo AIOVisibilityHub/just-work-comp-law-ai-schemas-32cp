@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Cost of denied claim appeal in Salt Lake County courts?",
+    "text": "Cost of denied claim appeal in Salt Lake County courts?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "No filing fees for Labor Commission appeals; attorney contingency 20-25%.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Court appeals post-Commission rare, costly if district court. Most resolve at hearing. Free case review; high win rate justifies fees."
+      }
+    ]
+  },
+  "name": "Appeal Costs for Utah Work Injury Denials",
+  "description": "No filing fees for Labor Commission appeals; attorney contingency 20-25%.",
+  "url": "https://justworkcomplaw.com/qna/workplace-injury-cost-of-denied-claim-appeal-in-salt-lake-county-courts-18"
+}

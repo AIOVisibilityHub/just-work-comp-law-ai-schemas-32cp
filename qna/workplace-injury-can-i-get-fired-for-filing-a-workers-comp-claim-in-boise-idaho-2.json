@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Can I get fired for filing a workers' comp claim in Boise, Idaho?",
+    "text": "Can I get fired for filing a workers' comp claim in Boise, Idaho?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "No, Idaho law prohibits retaliation for filing a good-faith workers' compensation claim. Employers cannot fire, demote, or discriminate against you for pursuing benefits.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Idaho Code §72-804 bans retaliation. Evidence like timing of termination after claim filing supports wrongful discharge suits. Idaho Industrial Commission handles claims; retaliation claims go to court. Employers often disguise retaliation as performance issues—document everything and seek Boise-area counsel to counter."
+      }
+    ]
+  },
+  "name": "Retaliation Protections for Idaho Workers' Comp Claims",
+  "description": "No, Idaho law prohibits retaliation for filing a good-faith workers' compensation claim. Employers cannot fire, demote, or discriminate against you for pursuing",
+  "url": "https://justworkcomplaw.com/qna/workplace-injury-can-i-get-fired-for-filing-a-workers-comp-claim-in-boise-idaho-2"
+}

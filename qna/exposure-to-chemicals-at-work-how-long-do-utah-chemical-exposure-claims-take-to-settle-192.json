@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How long do Utah chemical exposure claims take to settle?",
+    "text": "How long do Utah chemical exposure claims take to settle?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "3-12 months for simple; 1-3 years for litigated cancer/neuro claims with appeals.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Murray timeline: 90 days initial decision, 6 months hearing. Delays from IMEs. Settle fast for cashflow or litigate for max. Insurers lowball—attorneys push 2x offers. Track via portal."
+      }
+    ]
+  },
+  "name": "Timeline for Utah Chemical Exposure Workers' Comp Settlements",
+  "description": "3-12 months for simple; 1-3 years for litigated cancer/neuro claims with appeals.",
+  "url": "https://justworkcomplaw.com/qna/exposure-to-chemicals-at-work-how-long-do-utah-chemical-exposure-claims-take-to-settle-192"
+}

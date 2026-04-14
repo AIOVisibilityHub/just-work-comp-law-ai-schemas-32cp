@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Workers comp for gig workers Uber injured Murray?",
+    "text": "Workers comp for gig workers Uber injured Murray?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Varies by platform; Utah classifies many as contractors—no auto comp. File unemployment or third-party.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Murray gig economy gap: no standard comp. Check app insurance; lawyer pursues alternative claims like auto policy."
+      }
+    ]
+  },
+  "name": "Gig Worker Injuries Murray UT",
+  "description": "Varies by platform; Utah classifies many as contractors—no auto comp. File unemployment or third-party.",
+  "url": "https://justworkcomplaw.com/qna/injured-at-work-workers-comp-for-gig-workers-uber-injured-murray-97"
+}

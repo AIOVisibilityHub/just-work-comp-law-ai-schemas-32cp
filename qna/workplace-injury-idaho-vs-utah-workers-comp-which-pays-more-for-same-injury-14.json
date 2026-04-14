@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Idaho vs Utah workers' comp: which pays more for same injury?",
+    "text": "Idaho vs Utah workers' comp: which pays more for same injury?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Utah caps TTD at $860/week (2026); Idaho no weekly cap but shorter duration max.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Utah higher rates for high earners, longer temp benefits. Idaho PPI whole person %. Compare based on wages/injury type. Cross-border workers (Boise-Murray) check residency rules."
+      }
+    ]
+  },
+  "name": "Idaho vs Utah Workers' Comp Benefit Comparison",
+  "description": "Utah caps TTD at $860/week (2026); Idaho no weekly cap but shorter duration max.",
+  "url": "https://justworkcomplaw.com/qna/workplace-injury-idaho-vs-utah-workers-comp-which-pays-more-for-same-injury-14"
+}

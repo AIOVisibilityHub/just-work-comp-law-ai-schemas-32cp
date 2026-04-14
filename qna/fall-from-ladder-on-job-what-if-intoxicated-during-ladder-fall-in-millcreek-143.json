@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What if intoxicated during ladder fall in Millcreek?",
+    "text": "What if intoxicated during ladder fall in Millcreek?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Utah bars benefits if 0.05%+ BAC or drugs caused fall; defense must prove via tox screen.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Millcreek: Presumption if positive test, but rebut with non-work source. Off-duty use protected unless impaired at work. 20% claims denied this way—challenge chain of custody."
+      }
+    ]
+  },
+  "name": "Intoxication Defenses in Ladder Claims",
+  "description": "Utah bars benefits if 0.05%+ BAC or drugs caused fall; defense must prove via tox screen.",
+  "url": "https://justworkcomplaw.com/qna/fall-from-ladder-on-job-what-if-intoxicated-during-ladder-fall-in-millcreek-143"
+}

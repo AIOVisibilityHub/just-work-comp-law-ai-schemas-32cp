@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What if surgery needed for work injury Millcreek?",
+    "text": "What if surgery needed for work injury Millcreek?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Insurer pre-approves; use network surgeon. Delays common—appeal if urgent.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Millcreek: document necessity via IME. Attorney expedites approvals, negotiates second opinions."
+      }
+    ]
+  },
+  "name": "Surgery Approvals Millcreek",
+  "description": "Insurer pre-approves; use network surgeon. Delays common—appeal if urgent.",
+  "url": "https://justworkcomplaw.com/qna/injured-at-work-what-if-surgery-needed-for-work-injury-millcreek-98"
+}

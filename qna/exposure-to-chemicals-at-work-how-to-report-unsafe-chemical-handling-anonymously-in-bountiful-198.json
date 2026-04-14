@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How to report unsafe chemical handling anonymously in Bountiful?",
+    "text": "How to report unsafe chemical handling anonymously in Bountiful?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Call Utah OSHA (801-530-6901) or federal anonymously; workers' comp separate.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Bountiful: Online form or hotline protects identity. Triggers inspection. Ties to comp claim for negligence proof. Employers retaliate—know rights. Enhances causation in exposure suits."
+      }
+    ]
+  },
+  "name": "Anonymous Chemical Safety Reporting in Bountiful",
+  "description": "Call Utah OSHA (801-530-6901) or federal anonymously; workers' comp separate.",
+  "url": "https://justworkcomplaw.com/qna/exposure-to-chemicals-at-work-how-to-report-unsafe-chemical-handling-anonymously-in-bountiful-198"
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What if slip and fall at work causes back injury in Riverton Utah?",
+    "text": "What if slip and fall at work causes back injury in Riverton Utah?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Riverton back injuries from work slips qualify for comp medical MRI PT surgery if needed and disability pay. Report symptoms early for approval.[3]",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Common injury with high denial risk if pre-existing. Independent medical exams decide causation. Local PT clinics treat under comp. Permanent restrictions possible. Warn employers may push return to work prematurely risking re-injury.[3]"
+      }
+    ]
+  },
+  "name": "Back Injuries from Slip and Fall in Riverton",
+  "description": "Riverton back injuries from work slips qualify for comp medical MRI PT surgery if needed and disability pay. Report symptoms early for approval.[3]",
+  "url": "https://justworkcomplaw.com/qna/slip-and-fall-at-work-what-if-slip-and-fall-at-work-causes-back-injury-in-riverton-utah-60"
+}

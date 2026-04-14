@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Do I need lawyer for minor work injury in Cottonwood Heights?",
+    "text": "Do I need lawyer for minor work injury in Cottonwood Heights?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Often yes—even minor claims denied if disputed. Free consult assesses denial risk.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Cottonwood Heights: insurers contest 'minor' for future claims. Lawyer prevents low settlements, ensures full medical paid. No cost unless win; stats show represented claims 2x higher."
+      }
+    ]
+  },
+  "name": "When Need Lawyer Minor Injuries",
+  "description": "Often yes—even minor claims denied if disputed. Free consult assesses denial risk.",
+  "url": "https://justworkcomplaw.com/qna/injured-at-work-do-i-need-lawyer-for-minor-work-injury-in-cottonwood-heights-89"
+}

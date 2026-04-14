@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Duration of temporary total disability pay after machine fracture in Taylorsville?",
+    "text": "Duration of temporary total disability pay after machine fracture in Taylorsville?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "66.67% of average weekly wage until maximum medical improvement or return to work, max 52 weeks initially.[4]",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Extendable if healing slow. Physician releases trigger end. Track via insurer statements. Taylorsville claims often prolonged for fractures.[4]"
+      }
+    ]
+  },
+  "name": "Temporary Disability Duration Post-Machine Injury",
+  "description": "66.67% of average weekly wage until maximum medical improvement or return to work, max 52 weeks initially.[4]",
+  "url": "https://justworkcomplaw.com/qna/machine-accident-work-injury-duration-of-temporary-total-disability-pay-after-machine-fracture-in-taylorsvill-166"
+}

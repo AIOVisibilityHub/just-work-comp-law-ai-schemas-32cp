@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What benefits do I get for a slip and fall workers' comp claim in Sandy Utah?",
+    "text": "What benefits do I get for a slip and fall workers' comp claim in Sandy Utah?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Sandy Utah slip and fall workers' comp covers 100% medical expenses lost wages at 66 2/3% of average weekly wage up to $824 max temporary total disability and permanent partial if applicable.[7]",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Benefits include all reasonable medical care wage replacement and impairment ratings for lasting effects. No coverage for pain suffering. Local Murray clinics offer PT under comp. Disputes common on causation so gather evidence. Attorney fees capped at 20% of back benefits. Insurers may offer low settlements early.[3][7]"
+      }
+    ]
+  },
+  "name": "Slip and Fall Workers' Comp Benefits in Sandy Utah",
+  "description": "Sandy Utah slip and fall workers' comp covers 100% medical expenses lost wages at 66 2/3% of average weekly wage up to $824 max temporary total disability and p",
+  "url": "https://justworkcomplaw.com/qna/slip-and-fall-at-work-what-benefits-do-i-get-for-a-slip-and-fall-workers-comp-claim-in-sandy-utah-54"
+}

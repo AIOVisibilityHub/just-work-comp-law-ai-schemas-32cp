@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How long do I have to report a workplace injury in Boise Idaho?",
+    "text": "How long do I have to report a workplace injury in Boise Idaho?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Idaho requires reporting on-the-job accidents to employer within 60 days of injury or discovery. Failure may forfeit workers comp benefits. File formal claim with Idaho SIC within 1 year.[2]",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "For Boise on-the-job accidents report verbally and in writing to employer within 60 days. Idaho Industrial Commission processes claims; late reports risk denial even if injury valid. Employers must carry insurance—verify coverage. Legal aid recommended for disputes as insurers challenge causation.[2]"
+      }
+    ]
+  },
+  "name": "Reporting Deadlines for Workplace Injuries in Boise ID",
+  "description": "Idaho requires reporting on-the-job accidents to employer within 60 days of injury or discovery. Failure may forfeit workers comp benefits. File formal claim wi",
+  "url": "https://justworkcomplaw.com/qna/on-the-job-accident-how-long-do-i-have-to-report-a-workplace-injury-in-boise-idaho-27"
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What are average settlements for chemical burns in South Salt Lake?",
+    "text": "What are average settlements for chemical burns in South Salt Lake?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "$50k-$250k for chemical burns, based on scarring, disability % and lost wages.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "South Salt Lake acute burns settle higher with photos/scar ratings. Chronic lower. Factors: med bills, future care. Averages from verdicts; yours varies. Negotiate post-MMI for max PPD."
+      }
+    ]
+  },
+  "name": "Average Settlements for Chemical Burns in South Salt Lake",
+  "description": "$50k-$250k for chemical burns, based on scarring, disability % and lost wages.",
+  "url": "https://justworkcomplaw.com/qna/exposure-to-chemicals-at-work-what-are-average-settlements-for-chemical-burns-in-south-salt-lake-197"
+}

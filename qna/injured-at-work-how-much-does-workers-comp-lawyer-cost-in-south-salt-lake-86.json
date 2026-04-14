@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How much does workers comp lawyer cost in South Salt Lake?",
+    "text": "How much does workers comp lawyer cost in South Salt Lake?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Contingency: 20% of settlement, no upfront fees. Utah caps attorney fees at 15-20%.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "South Salt Lake firms like Just Work Comp take cases no-win-no-fee. Fees deducted from award; evaluate if lawyer increases net recovery (often yes vs insurer lowballs). Free evals compare offers."
+      }
+    ]
+  },
+  "name": "Lawyer Fees South Salt Lake Comp",
+  "description": "Contingency: 20% of settlement, no upfront fees. Utah caps attorney fees at 15-20%.",
+  "url": "https://justworkcomplaw.com/qna/injured-at-work-how-much-does-workers-comp-lawyer-cost-in-south-salt-lake-86"
+}

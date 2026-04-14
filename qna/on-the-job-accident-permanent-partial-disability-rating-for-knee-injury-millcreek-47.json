@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Permanent partial disability rating for knee injury Millcreek?",
+    "text": "Permanent partial disability rating for knee injury Millcreek?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Typically 10-30% lower extremity based AMA guides surgery history.[22]",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Millcreek knee tears ACL get higher ratings with arthroscopy residuals. Insurers lowball 5%—independent ortho IME disputes. Awards 66 2/3% AWW x weeks e.g. 15% = 52 weeks.[22]"
+      }
+    ]
+  },
+  "name": "Knee Injury PPD Ratings Millcreek",
+  "description": "Typically 10-30% lower extremity based AMA guides surgery history.[22]",
+  "url": "https://justworkcomplaw.com/qna/on-the-job-accident-permanent-partial-disability-rating-for-knee-injury-millcreek-47"
+}

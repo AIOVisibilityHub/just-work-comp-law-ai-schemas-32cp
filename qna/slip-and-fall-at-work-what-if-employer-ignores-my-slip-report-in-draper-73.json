@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What if employer ignores my slip report in Draper?",
+    "text": "What if employer ignores my slip report in Draper?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Document ignore resubmit in writing file directly with Labor Commission if no action in 3 days.[6]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Retaliation risk high. Commission investigates. Back benefits from injury date if proven. Witnesses crucial. Just Work Comp firms file fast for delayed claims.[6]"
+      }
+    ]
+  },
+  "name": "Employer Ignores Injury Report in Draper",
+  "description": "Document ignore resubmit in writing file directly with Labor Commission if no action in 3 days.[6]",
+  "url": "https://justworkcomplaw.com/qna/slip-and-fall-at-work-what-if-employer-ignores-my-slip-report-in-draper-73"
+}

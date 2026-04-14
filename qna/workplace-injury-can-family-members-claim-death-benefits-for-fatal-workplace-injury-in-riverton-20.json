@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Can family members claim death benefits for fatal workplace injury in Riverton?",
+    "text": "Can family members claim death benefits for fatal workplace injury in Riverton?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, Utah death benefits to spouse (2/3 wages 8 years), dependents.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "§34A-2-419: burial $10K, dependency payments. File promptly. Wrongful death suits if third-party fault. Emotional claims complex."
+      }
+    ]
+  },
+  "name": "Family Death Benefits in Utah Work Fatalities",
+  "description": "Yes, Utah death benefits to spouse (2/3 wages 8 years), dependents.",
+  "url": "https://justworkcomplaw.com/qna/workplace-injury-can-family-members-claim-death-benefits-for-fatal-workplace-injury-in-riverton-20"
+}

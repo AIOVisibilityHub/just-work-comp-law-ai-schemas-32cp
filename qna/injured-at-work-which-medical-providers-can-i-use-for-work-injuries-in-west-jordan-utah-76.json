@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Which medical providers can I use for work injuries in West Jordan Utah?",
+    "text": "Which medical providers can I use for work injuries in West Jordan Utah?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Use approved network providers: West Jordan InstaCare (2655 W 9000 S, 801-256-6399), IHC Work Med in South Jordan, or Murray. All non-emergency care must be from these to receive full payment; pre-approve other services.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Jordan District and similar employers in West Jordan require managed care networks. Stick to listed InstaCares and Work Med centers; going outside results in denied claims and personal bills. Insurers like Tristar monitor compliance closely—verify your employer's list and get lawyer help if denied."
+      }
+    ]
+  },
+  "name": "Approved Doctors for Work Injuries West Jordan",
+  "description": "Use approved network providers: West Jordan InstaCare (2655 W 9000 S, 801-256-6399), IHC Work Med in South Jordan, or Murray. All non-emergency care must be fro",
+  "url": "https://justworkcomplaw.com/qna/injured-at-work-which-medical-providers-can-i-use-for-work-injuries-in-west-jordan-utah-76"
+}

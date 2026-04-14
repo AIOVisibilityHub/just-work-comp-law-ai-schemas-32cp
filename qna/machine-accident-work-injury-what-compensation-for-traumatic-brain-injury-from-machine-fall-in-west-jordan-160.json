@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What compensation for traumatic brain injury from machine fall in West Jordan?",
+    "text": "What compensation for traumatic brain injury from machine fall in West Jordan?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Medical care, temporary disability wages (66.67% avg earnings), permanent impairment rating, and possible total disability benefits.[4]",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "TBI from machinery often yields high impairment ratings (20-50%+), plus lifelong therapy. Utah caps some benefits but allows hearing for extras. Document cognitive losses. West Jordan attorneys fight undervaluation.[1][4]"
+      }
+    ]
+  },
+  "name": "TBI Compensation in Machine Accidents",
+  "description": "Medical care, temporary disability wages (66.67% avg earnings), permanent impairment rating, and possible total disability benefits.[4]",
+  "url": "https://justworkcomplaw.com/qna/machine-accident-work-injury-what-compensation-for-traumatic-brain-injury-from-machine-fall-in-west-jordan-160"
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What should I do immediately after a work injury in Murray Utah?",
+    "text": "What should I do immediately after a work injury in Murray Utah?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Report the injury to your supervisor within 24 hours, seek medical care from approved providers like IHC Work Med, and complete an Employee Injury Report. For emergencies, go to the nearest hospital; otherwise, use network providers to avoid claim denial.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "In Murray UT, immediately notify your employer and get treatment from designated providers such as IHC Work Med locations to ensure coverage. Pre-approval is required for diagnostics, therapy, or hospital stays via Tristar Risk Management. Delays can jeopardize benefits; document everything and consider consulting a workers' comp attorney to protect against insurer denials common in Utah claims."
+      }
+    ]
+  },
+  "name": "Immediate Steps After Work Injury in Murray UT",
+  "description": "Report the injury to your supervisor within 24 hours, seek medical care from approved providers like IHC Work Med, and complete an Employee Injury Report. For e",
+  "url": "https://justworkcomplaw.com/qna/injured-at-work-what-should-i-do-immediately-after-a-work-injury-in-murray-utah-75"
+}

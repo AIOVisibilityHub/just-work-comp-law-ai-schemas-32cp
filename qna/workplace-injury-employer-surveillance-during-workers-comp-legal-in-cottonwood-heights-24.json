@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Employer surveillance during workers' comp: legal in Cottonwood Heights?",
+    "text": "Employer surveillance during workers' comp: legal in Cottonwood Heights?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, legal if public areas; cannot trespass or harass.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Video to dispute claims; know rights. Don't exaggerate symptoms. Lawyer counters biased footage in hearings."
+      }
+    ]
+  },
+  "name": "Dealing with Employer Surveillance in Claims",
+  "description": "Yes, legal if public areas; cannot trespass or harass.",
+  "url": "https://justworkcomplaw.com/qna/workplace-injury-employer-surveillance-during-workers-comp-legal-in-cottonwood-heights-24"
+}

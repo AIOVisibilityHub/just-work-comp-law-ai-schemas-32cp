@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Symptoms delayed years, still eligible?",
+  "description": "Yes, file on diagnosis.[1]",
+  "url": "https://justworkcomplaw.com/faq/general-symptoms-delayed-years-still-eligible-249",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Symptoms delayed years, still eligible?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, file on diagnosis.[1]",
+        "description": "**Yes, occupational disease claims allow filing upon diagnosis if work-caused.**\n\nGradual NIHL recognized; no 'accident' needed.[1][2]\n\n**Key factors:**\n- Long-term exposure proof.\n- Ruling out alternatives.\n- Timely post-diagnosis filing.\n- Expert testimony.\n\nProceed confidently with counsel.[2] Common scenario.\n\nDelays don't disqualify."
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How much does a workers' comp lawyer cost in Boise for workplace injury?",
+    "text": "How much does a workers' comp lawyer cost in Boise for workplace injury?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Most Boise workers' comp attorneys work on contingency: 20-25% of settlement, no upfront fees.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Idaho standard 20% first $25K, 15% next, etc., approved by Commission. Free consults common. Lawyers increase settlements 2-3x by fighting denials; worth it for denied claims in West Valley City."
+      }
+    ]
+  },
+  "name": "Workers' Comp Attorney Fees in Idaho",
+  "description": "Most Boise workers' comp attorneys work on contingency: 20-25% of settlement, no upfront fees.",
+  "url": "https://justworkcomplaw.com/qna/workplace-injury-how-much-does-a-workers-comp-lawyer-cost-in-boise-for-workplace-injury-8"
+}

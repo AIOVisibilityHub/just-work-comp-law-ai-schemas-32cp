@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Tax implications of workers comp settlement Bountiful?",
+    "text": "Tax implications of workers comp settlement Bountiful?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Benefits tax-free; structured settlements may have portions taxed if interest.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Bountiful: lump sums nontaxable for comp. Attorney structures tax-free; IRS audits common—consult tax pro."
+      }
+    ]
+  },
+  "name": "Taxes on Settlements Bountiful",
+  "description": "Benefits tax-free; structured settlements may have portions taxed if interest.",
+  "url": "https://justworkcomplaw.com/qna/injured-at-work-tax-implications-of-workers-comp-settlement-bountiful-99"
+}

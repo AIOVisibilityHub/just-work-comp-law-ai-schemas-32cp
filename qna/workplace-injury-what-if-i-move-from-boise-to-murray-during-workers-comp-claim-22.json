@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What if I move from Boise to Murray during workers' comp claim?",
+    "text": "What if I move from Boise to Murray during workers' comp claim?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Jurisdiction follows injury state; benefits portable but treatment local.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Idaho claim stays in Idaho; Utah injury under Utah law. Coordinate carriers. Travel reimbursement possible; notify Commission."
+      }
+    ]
+  },
+  "name": "Cross-State Moves During Work Injury Claims",
+  "description": "Jurisdiction follows injury state; benefits portable but treatment local.",
+  "url": "https://justworkcomplaw.com/qna/workplace-injury-what-if-i-move-from-boise-to-murray-during-workers-comp-claim-22"
+}

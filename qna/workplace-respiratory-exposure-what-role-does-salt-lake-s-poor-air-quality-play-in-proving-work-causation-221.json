@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What role does Salt Lake's poor air quality play in proving work causation?",
+    "text": "What role does Salt Lake's poor air quality play in proving work causation?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Community air (F-grade ozone/particles, ALA 2025) sets baseline; prove occupational dose exceeds via modeling or biomonitoring.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Inversions amplify claims—use DEQ data. Specialists apportion 50%+ work. Insurers challenge; panels favor specifics. Boosts settlements 15-20%."
+      }
+    ]
+  },
+  "name": "Using Air Quality Data in Salt Lake Respiratory Claims",
+  "description": "Community air (F-grade ozone/particles, ALA 2025) sets baseline; prove occupational dose exceeds via modeling or biomonitoring.",
+  "url": "https://justworkcomplaw.com/qna/workplace-respiratory-exposure-what-role-does-salt-lake-s-poor-air-quality-play-in-proving-work-causation-221"
+}

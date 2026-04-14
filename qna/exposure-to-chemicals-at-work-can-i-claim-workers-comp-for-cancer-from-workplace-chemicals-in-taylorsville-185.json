@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Can I claim workers' comp for cancer from workplace chemicals in Taylorsville?",
+    "text": "Can I claim workers' comp for cancer from workplace chemicals in Taylorsville?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, if medical evidence links cancer (e.g., benzene leukemia) to Taylorsville workplace exposure at 'more probable than not' level.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Latent cancers need exposure timelines matching latency periods. Taylorsville manufacturing claims require oncologist nexus letters. Insurers blame smoking—counter with studies. Utah pays for chemo/treatment; permanent total if terminal. File early despite diagnosis delay."
+      }
+    ]
+  },
+  "name": "Workers' Comp for Cancer from Chemicals in Taylorsville",
+  "description": "Yes, if medical evidence links cancer (e.g., benzene leukemia) to Taylorsville workplace exposure at 'more probable than not' level.",
+  "url": "https://justworkcomplaw.com/qna/exposure-to-chemicals-at-work-can-i-claim-workers-comp-for-cancer-from-workplace-chemicals-in-taylorsville-185"
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What is the 180-day reporting deadline for occupational hearing loss claims in Utah under Utah Code 34A-2-506?",
+    "text": "What is the 180-day reporting deadline for occupational hearing loss claims in Utah under Utah Code 34A-2-506?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Utah Code 34A-2-506 requires employees to report occupational hearing loss to their employer within 180 days from when they first suffered altered hearing and knew or should have known it was work-related. Failure to report timely may bar compensation claims.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Under Utah Code § 34A-2-506, workers must notify their employer of occupational hearing loss within 180 days of first noticing symptoms and linking them to workplace noise exposure. This strict deadline starts from awareness, not diagnosis. Late reports risk claim denial. Consult a workers' comp attorney immediately if nearing the deadline, as insurance carriers often challenge timeliness to deny benefits. Early audiometric testing strengthens claims.[4]"
+      }
+    ]
+  },
+  "name": "Utah's 180-Day Deadline for Reporting Work Hearing Loss Claims",
+  "description": "Utah Code 34A-2-506 requires employees to report occupational hearing loss to their employer within 180 days from when they first suffered altered hearing and k",
+  "url": "https://justworkcomplaw.com/qna/workplace-noise-hearing-loss-what-is-the-180-day-reporting-deadline-for-occupational-hearing-loss-claims-in-u-224"
+}

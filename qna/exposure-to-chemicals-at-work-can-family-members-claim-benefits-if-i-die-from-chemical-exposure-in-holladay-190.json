@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Can family members claim benefits if I die from chemical exposure in Holladay?",
+    "text": "Can family members claim benefits if I die from chemical exposure in Holladay?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, Utah death benefits to spouse (66 2/3% wages x 8 yrs max) and dependents if work exposure caused death.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "File within 1 year of death. Prove nexus via autopsy/tox reports. Holladay payouts up to $300k+. Insurers challenge dependency—docs prove. Survivors get burial ($10k) and ongoing support."
+      }
+    ]
+  },
+  "name": "Death Benefits for Chemical Exposure in Holladay Utah",
+  "description": "Yes, Utah death benefits to spouse (66 2/3% wages x 8 yrs max) and dependents if work exposure caused death.",
+  "url": "https://justworkcomplaw.com/qna/exposure-to-chemicals-at-work-can-family-members-claim-benefits-if-i-die-from-chemical-exposure-in-holladay-190"
+}

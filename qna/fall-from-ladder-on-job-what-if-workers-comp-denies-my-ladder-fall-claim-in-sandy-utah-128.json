@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What if workers' comp denies my ladder fall claim in Sandy Utah?",
+    "text": "What if workers' comp denies my ladder fall claim in Sandy Utah?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Appeal denial to Utah Labor Commission within 20 days via Objection form; request mediation or hearing. Common denial reasons: missed deadlines, intoxication, or pre-existing conditions.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "File objection within 20 days of denial notice. Gather medical records, witness statements, and OSHA ladder safety reports. Many denials overturned on appeal. West Jordan/Sandy firms like Just Work Comp Law handle these routinely. Beware insurer lowball settlements before appeal."
+      }
+    ]
+  },
+  "name": "Appealing Denied Ladder Fall Claims in Sandy",
+  "description": "Appeal denial to Utah Labor Commission within 20 days via Objection form; request mediation or hearing. Common denial reasons: missed deadlines, intoxication, o",
+  "url": "https://justworkcomplaw.com/qna/fall-from-ladder-on-job-what-if-workers-comp-denies-my-ladder-fall-claim-in-sandy-utah-128"
+}

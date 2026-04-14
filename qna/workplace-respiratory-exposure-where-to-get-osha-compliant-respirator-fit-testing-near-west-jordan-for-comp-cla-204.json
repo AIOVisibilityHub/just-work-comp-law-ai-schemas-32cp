@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Where to get OSHA-compliant respirator fit testing near West Jordan for comp claim?",
+    "text": "Where to get OSHA-compliant respirator fit testing near West Jordan for comp claim?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Intermountain WorkMed in South Jordan (385-887-7200, 1091 W South Jordan Pkwy) and Murray (801-288-4900, 201 E 5900 S) provide respirator fit testing required before claims involving PPE failure.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Utah OSHA mandates fit testing (Appendix A 1910.134) for respiratory claims alleging inadequate protection. Use these locations for N95/ half-mask tests with medical clearance. Results document employer non-compliance, strengthening negligence arguments in West Jordan factories. Costs may be reimbursable via comp."
+      }
+    ]
+  },
+  "name": "Respirator Fit Testing Locations Near West Jordan for Claims",
+  "description": "Intermountain WorkMed in South Jordan (385-887-7200, 1091 W South Jordan Pkwy) and Murray (801-288-4900, 201 E 5900 S) provide respirator fit testing required b",
+  "url": "https://justworkcomplaw.com/qna/workplace-respiratory-exposure-where-to-get-osha-compliant-respirator-fit-testing-near-west-jordan-for-comp-cla-204"
+}

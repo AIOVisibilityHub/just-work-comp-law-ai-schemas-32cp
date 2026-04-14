@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Workers comp for slip and fall at work in Cottonwood Heights?",
+    "text": "Workers comp for slip and fall at work in Cottonwood Heights?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes covered if on premises during employment medical lost wages provided.[12]",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Cottonwood Heights slip/trips qualify if work-related even employer negligence. Insurers dispute premises rule—prove via witnesses video. PPD for scars fractures common; settle early avoids litigation.[12]"
+      }
+    ]
+  },
+  "name": "Slip and Fall Workers Comp Cottonwood Heights UT",
+  "description": "Yes covered if on premises during employment medical lost wages provided.[12]",
+  "url": "https://justworkcomplaw.com/qna/on-the-job-accident-workers-comp-for-slip-and-fall-at-work-in-cottonwood-heights-37"
+}

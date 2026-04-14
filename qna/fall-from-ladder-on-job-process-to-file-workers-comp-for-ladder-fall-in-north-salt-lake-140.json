@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Process to file workers' comp for ladder fall in North Salt Lake?",
+    "text": "Process to file workers' comp for ladder fall in North Salt Lake?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "1. Report to employer day-of. 2. See doctor, file Form 112 within 1 year. 3. If dispute, object within 20 days.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "North Salt Lake: Employer files first report; you submit medicals. Track via Labor Commission portal. Common pitfalls: signing releases early. Attorney accelerates approvals."
+      }
+    ]
+  },
+  "name": "Filing Steps for NSL Ladder Claims",
+  "description": "1. Report to employer day-of. 2. See doctor, file Form 112 within 1 year. 3. If dispute, object within 20 days.",
+  "url": "https://justworkcomplaw.com/qna/fall-from-ladder-on-job-process-to-file-workers-comp-for-ladder-fall-in-north-salt-lake-140"
+}

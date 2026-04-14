@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What if my employer says my machine injury pre-existed the accident in Murray?",
+    "text": "What if my employer says my machine injury pre-existed the accident in Murray?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Workers' comp covers aggravation of pre-existing conditions if the work accident worsened it. Get medical opinion linking the machine incident.[5]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Insurers deny claims alleging prior issues like back pain aggravated by machine crush. Physician reports proving work causation override this. Utah law protects aggravation claims. Document history and get attorney in Murray to counter denial via Industrial Accidents Division.[5][2]"
+      }
+    ]
+  },
+  "name": "Handling Pre-Existing Condition Denials",
+  "description": "Workers' comp covers aggravation of pre-existing conditions if the work accident worsened it. Get medical opinion linking the machine incident.[5]",
+  "url": "https://justworkcomplaw.com/qna/machine-accident-work-injury-what-if-my-employer-says-my-machine-injury-pre-existed-the-accident-in-murray-155"
+}

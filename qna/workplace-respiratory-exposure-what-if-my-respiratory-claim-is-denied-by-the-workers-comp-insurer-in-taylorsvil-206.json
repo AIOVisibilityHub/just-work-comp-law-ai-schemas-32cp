@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What if my respiratory claim is denied by the workers' comp insurer in Taylorsville?",
+    "text": "What if my respiratory claim is denied by the workers' comp insurer in Taylorsville?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Appeal within 20 days via Utah Labor Commission Form 25; request medical panel if causation disputed, then evidentiary hearing before ALJ within 6 months.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Taylorsville denials common for 'pre-existing' conditions. Gather IME, co-worker affidavits, exposure data. Commission reverses 30% on appeal. Attorney fees from insurer if successful. Delays average 12-18 months; continue treatment via fee disputes."
+      }
+    ]
+  },
+  "name": "Appealing Denied Respiratory Workers' Comp Claims in Taylorsville",
+  "description": "Appeal within 20 days via Utah Labor Commission Form 25; request medical panel if causation disputed, then evidentiary hearing before ALJ within 6 months.",
+  "url": "https://justworkcomplaw.com/qna/workplace-respiratory-exposure-what-if-my-respiratory-claim-is-denied-by-the-workers-comp-insurer-in-taylorsvil-206"
+}

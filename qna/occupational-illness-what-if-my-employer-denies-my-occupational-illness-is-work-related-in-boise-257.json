@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What if my employer denies my occupational illness is work-related in Boise?",
+    "text": "What if my employer denies my occupational illness is work-related in Boise?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Appeal Boise occupational illness denials to Idaho Industrial Commission within 1 year. Submit counter-medical evidence and request hearing. Attorney representation advised.[1]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Idaho employers must provide panel doctors; if denied, select your own IME. Common denials cite alternative causes like smoking. Boise-Murray commuters benefit from dual-state firms contesting via depositions. Success rates rise with expert testimony refuting defenses.[1]"
+      }
+    ]
+  },
+  "name": "Appealing Denied Occupational Illness in Boise",
+  "description": "Appeal Boise occupational illness denials to Idaho Industrial Commission within 1 year. Submit counter-medical evidence and request hearing. Attorney representa",
+  "url": "https://justworkcomplaw.com/qna/occupational-illness-what-if-my-employer-denies-my-occupational-illness-is-work-related-in-boise-257"
+}

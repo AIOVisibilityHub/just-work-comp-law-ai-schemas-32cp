@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Multiple employers exposed me to toxins. Which claim in Utah?",
+  "description": "Last injurious employer; track all.[1]",
+  "url": "https://justworkcomplaw.com/faq/general-multiple-employers-exposed-me-to-toxins-which-claim-in-utah-272",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Multiple employers exposed me to toxins. Which claim in Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Last injurious employer; track all.[1]",
+        "description": "File against last injurious exposure employer; successive claims possible.[1] Key factors: (1) Analyze dates; (2) Medical apportion; (3) Labor Commission assigns.[1] Track all jobs, exposures; legal guidance key.[1] Complex but doable."
+      }
+    }
+  ]
+}

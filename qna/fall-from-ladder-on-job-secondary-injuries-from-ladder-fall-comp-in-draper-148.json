@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Secondary injuries from ladder fall comp in Draper?",
+    "text": "Secondary injuries from ladder fall comp in Draper?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Covered if proximately caused; e.g., limp from ankle fracture causing back pain.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Draper: Nexus via doc opinion. Chain PT records. Insurers sever—appeal with causation IME."
+      }
+    ]
+  },
+  "name": "Secondary Injury Claims",
+  "description": "Covered if proximately caused; e.g., limp from ankle fracture causing back pain.",
+  "url": "https://justworkcomplaw.com/qna/fall-from-ladder-on-job-secondary-injuries-from-ladder-fall-comp-in-draper-148"
+}

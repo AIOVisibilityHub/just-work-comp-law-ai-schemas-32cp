@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What if exposure happened at multiple jobs in Murray and North Salt Lake?",
+    "text": "What if exposure happened at multiple jobs in Murray and North Salt Lake?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "File with last injurious exposure employer under Utah 'last exposure' rule; apportion benefits if multiple carriers liable.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Murray/North Salt Lake multi-employer claims require payroll records from all sites. Commission apportions liability. Complex; attorney coordinates. Total benefits unchanged."
+      }
+    ]
+  },
+  "name": "Multi-Employer Respiratory Exposure Claims",
+  "description": "File with last injurious exposure employer under Utah 'last exposure' rule; apportion benefits if multiple carriers liable.",
+  "url": "https://justworkcomplaw.com/qna/workplace-respiratory-exposure-what-if-exposure-happened-at-multiple-jobs-in-murray-and-north-salt-lake-218"
+}

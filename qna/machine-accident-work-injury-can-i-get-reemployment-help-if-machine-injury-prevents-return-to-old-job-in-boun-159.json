@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Can I get reemployment help if machine injury prevents return to old job in Bountiful?",
+    "text": "Can I get reemployment help if machine injury prevents return to old job in Bountiful?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, Utah offers reemployment assistance if unable to return due to industrial injury; contact insurer or Industrial Accidents Division.[4]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Program covers retraining/vocational rehab for new careers post-amputation or TBI. Eligibility requires physician certification. Insurers resist—appeal denials. Relevant for Bountiful or Farmington workers transitioning jobs.[4][2]"
+      }
+    ]
+  },
+  "name": "Reemployment Assistance After Machine Injuries",
+  "description": "Yes, Utah offers reemployment assistance if unable to return due to industrial injury; contact insurer or Industrial Accidents Division.[4]",
+  "url": "https://justworkcomplaw.com/qna/machine-accident-work-injury-can-i-get-reemployment-help-if-machine-injury-prevents-return-to-old-job-in-boun-159"
+}

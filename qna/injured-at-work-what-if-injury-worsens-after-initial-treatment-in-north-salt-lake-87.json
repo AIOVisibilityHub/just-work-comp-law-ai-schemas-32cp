@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What if injury worsens after initial treatment in North Salt Lake?",
+    "text": "What if injury worsens after initial treatment in North Salt Lake?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Reopen claim with new medical evidence; no strict time limit if causally related. Notify insurer promptly.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "North Salt Lake: progressive injuries common in construction. Doctors link to original; insurers resist reopenings. Attorney gathers IME, fights denials for ongoing benefits."
+      }
+    ]
+  },
+  "name": "Worsening Injuries North Salt Lake",
+  "description": "Reopen claim with new medical evidence; no strict time limit if causally related. Notify insurer promptly.",
+  "url": "https://justworkcomplaw.com/qna/injured-at-work-what-if-injury-worsens-after-initial-treatment-in-north-salt-lake-87"
+}

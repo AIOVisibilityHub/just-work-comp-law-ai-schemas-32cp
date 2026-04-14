@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What benefits does Utah workers' comp provide for asthma worsened by workplace irritants in Sandy?",
+    "text": "What benefits does Utah workers' comp provide for asthma worsened by workplace irritants in Sandy?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Utah workers' comp covers medical treatment, temporary total disability (66⅔% wages up to 312 weeks), permanent partial impairment awards based on AMA Guides, and vocational rehab for asthma aggravated by workplace irritants.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "For Sandy warehouse or salon workers, benefits include inhalers, oxygen therapy, lost wages during flares, and lump-sum PPI for lung function loss. File Form 100 within deadlines; disputes go to administrative law judge. Insurers often deny aggravation claims—use pre/post-exposure PFTs. Permanent restrictions may qualify for retraining."
+      }
+    ]
+  },
+  "name": "Workers' Comp Benefits for Work-Aggravated Asthma in Sandy",
+  "description": "Utah workers' comp covers medical treatment, temporary total disability (66⅔% wages up to 312 weeks), permanent partial impairment awards based on AMA Guides, a",
+  "url": "https://justworkcomplaw.com/qna/workplace-respiratory-exposure-what-benefits-does-utah-workers-comp-provide-for-asthma-worsened-by-workplace-ir-202"
+}

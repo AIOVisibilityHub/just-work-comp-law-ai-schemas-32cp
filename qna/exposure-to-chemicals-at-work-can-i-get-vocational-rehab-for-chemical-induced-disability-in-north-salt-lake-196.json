@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Can I get vocational rehab for chemical-induced disability in North Salt Lake?",
+    "text": "Can I get vocational rehab for chemical-induced disability in North Salt Lake?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, Utah pays retraining if 90%+ unemployable post-exposure disability.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "North Salt Lake claims: assess via rehab counselor. Covers tuition/tools up to 2 yrs. Insurers resist—prove via functional capacity eval. Boosts settlement value; complete for TTD extension."
+      }
+    ]
+  },
+  "name": "Vocational Rehab for Chemical Disabilities in North Salt Lake",
+  "description": "Yes, Utah pays retraining if 90%+ unemployable post-exposure disability.",
+  "url": "https://justworkcomplaw.com/qna/exposure-to-chemicals-at-work-can-i-get-vocational-rehab-for-chemical-induced-disability-in-north-salt-lake-196"
+}

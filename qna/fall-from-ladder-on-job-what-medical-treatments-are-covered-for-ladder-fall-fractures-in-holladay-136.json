@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What medical treatments are covered for ladder fall fractures in Holladay?",
+    "text": "What medical treatments are covered for ladder fall fractures in Holladay?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "All reasonable care: ER, surgery, PT, chiropractic up to MMI. Utah comp pays 100% no deductible; pre-authorization needed for non-emergency.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Holladay claims cover ORIF for wrist/ankle fractures common in ladder falls. Dispute insurer delays with UR process. Choose your doctor after initial phase. Lifetime medical for chronic issues post-MMI."
+      }
+    ]
+  },
+  "name": "Covered Treatments for Ladder Fractures",
+  "description": "All reasonable care: ER, surgery, PT, chiropractic up to MMI. Utah comp pays 100% no deductible; pre-authorization needed for non-emergency.",
+  "url": "https://justworkcomplaw.com/qna/fall-from-ladder-on-job-what-medical-treatments-are-covered-for-ladder-fall-fractures-in-holladay-136"
+}

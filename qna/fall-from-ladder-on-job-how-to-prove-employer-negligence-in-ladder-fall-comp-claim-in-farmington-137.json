@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How to prove employer negligence in ladder fall comp claim in Farmington?",
+    "text": "How to prove employer negligence in ladder fall comp claim in Farmington?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Show improper setup, no training, or missing safety gear via photos, witnesses, maintenance logs. Shifts burden in disputed claims.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Farmington construction: Document 3:1 angle violation or unsecured top. Subpoena OSHA 10 logs. Negligence boosts settlement value 20-50% without suing employer. Avoid admitting fault."
+      }
+    ]
+  },
+  "name": "Proving Fault in Farmington Ladder Claims",
+  "description": "Show improper setup, no training, or missing safety gear via photos, witnesses, maintenance logs. Shifts burden in disputed claims.",
+  "url": "https://justworkcomplaw.com/qna/fall-from-ladder-on-job-how-to-prove-employer-negligence-in-ladder-fall-comp-claim-in-farmington-137"
+}

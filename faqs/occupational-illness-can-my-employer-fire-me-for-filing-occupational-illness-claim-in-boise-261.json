@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can my employer fire me for filing occupational illness claim in Boise?",
+  "description": "No, retaliation illegal; seek Labor Commission help.[1]",
+  "url": "https://justworkcomplaw.com/faq/occupational-illness-can-my-employer-fire-me-for-filing-occupational-illness-claim-in-boise-261",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can my employer fire me for filing occupational illness claim in Boise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, retaliation illegal; seek Labor Commission help.[1]",
+        "description": "Utah prohibits retaliation for workers’ comp claims; illegal discharge leads to reinstatement, back pay.[1] Key factors: (1) Protected activity; (2) Causal link to firing; (3) File complaint with Labor Commission.[1] Document communications, timing; consult attorney immediately.[1] Protections ensure safe filing."
+      }
+    }
+  ]
+}

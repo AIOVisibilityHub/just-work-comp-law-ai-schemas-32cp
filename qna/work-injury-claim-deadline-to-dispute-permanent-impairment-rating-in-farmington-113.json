@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Deadline to dispute permanent impairment rating in Farmington?",
+    "text": "Deadline to dispute permanent impairment rating in Farmington?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "20 days to object rating; request re-exam within 180 days of MMI[4].",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Farmington/Davis County: ALJ reviews disputes. Independent medical exam key. Ratings determine lifelong payments—fight lowballs[3][4]."
+      }
+    ]
+  },
+  "name": "Dispute Impairment Rating Farmington UT",
+  "description": "20 days to object rating; request re-exam within 180 days of MMI[4].",
+  "url": "https://justworkcomplaw.com/qna/work-injury-claim-deadline-to-dispute-permanent-impairment-rating-in-farmington-113"
+}

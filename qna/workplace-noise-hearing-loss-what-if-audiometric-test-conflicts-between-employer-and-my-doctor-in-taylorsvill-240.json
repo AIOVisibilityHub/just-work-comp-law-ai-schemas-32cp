@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What if audiometric test conflicts between employer and my doctor in Taylorsville?",
+    "text": "What if audiometric test conflicts between employer and my doctor in Taylorsville?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Submit both to Utah Labor Commission; independent medical exam (IME) often ordered to resolve discrepancies in hearing threshold determinations.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Employer tests may understate loss; private audiograms provide counter-evidence. Taylorsville disputes common in unions; ALJs weigh credentials, timing. Retain originals, chain-of-custody. Legal reps force fair IMEs, preventing lowball ratings.[2][4]"
+      }
+    ]
+  },
+  "name": "Resolving Conflicting Hearing Tests",
+  "description": "Submit both to Utah Labor Commission; independent medical exam (IME) often ordered to resolve discrepancies in hearing threshold determinations.",
+  "url": "https://justworkcomplaw.com/qna/workplace-noise-hearing-loss-what-if-audiometric-test-conflicts-between-employer-and-my-doctor-in-taylorsvill-240"
+}

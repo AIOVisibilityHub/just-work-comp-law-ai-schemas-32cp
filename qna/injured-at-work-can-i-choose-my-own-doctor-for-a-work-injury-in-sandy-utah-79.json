@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Can I choose my own doctor for a work injury in Sandy Utah?",
+    "text": "Can I choose my own doctor for a work injury in Sandy Utah?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "No, most Utah employers use managed care networks; you must use approved providers like Intermountain InstaCare or IHC Work Med or face claim denial and personal payment responsibility.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Utah's workers comp system mandates network care for full coverage. Exceptions rare and require approval. Insurers deny off-network claims routinely—check your employer's list (e.g., Jordan District providers) and get legal help to challenge denials or seek variance."
+      }
+    ]
+  },
+  "name": "Choosing Doctors for Sandy Work Injuries",
+  "description": "No, most Utah employers use managed care networks; you must use approved providers like Intermountain InstaCare or IHC Work Med or face claim denial and persona",
+  "url": "https://justworkcomplaw.com/qna/injured-at-work-can-i-choose-my-own-doctor-for-a-work-injury-in-sandy-utah-79"
+}

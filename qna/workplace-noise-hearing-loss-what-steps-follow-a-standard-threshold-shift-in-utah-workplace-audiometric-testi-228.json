@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What steps follow a standard threshold shift in Utah workplace audiometric testing?",
+    "text": "What steps follow a standard threshold shift in Utah workplace audiometric testing?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "After a standard threshold shift (STS) in baseline audiogram, employers must retrain on hearing conservation, retest within 30 days, and fit better protection. Utah follows OSHA 29 CFR 1910.95 protocols integrated with state comp laws.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "An STS (average 10 dB loss at 2000, 3000, 4000 Hz) triggers mandatory employer actions: protection refitting, training refresh, and follow-up testing. Persistent STS may lead to permanent loss claims under Utah Code. Workers' records are critical for comp filings; employers often minimize findings. Legal counsel ensures compliance and maximizes benefits if loss progresses.[2]"
+      }
+    ]
+  },
+  "name": "Handling Standard Threshold Shifts in Utah Audiograms",
+  "description": "After a standard threshold shift (STS) in baseline audiogram, employers must retrain on hearing conservation, retest within 30 days, and fit better protection. ",
+  "url": "https://justworkcomplaw.com/qna/workplace-noise-hearing-loss-what-steps-follow-a-standard-threshold-shift-in-utah-workplace-audiometric-testi-228"
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Do I need lawyer for minor work injury in Draper UT?",
+    "text": "Do I need lawyer for minor work injury in Draper UT?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Not always but recommended if denied delayed or complex medical needs.[14]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Draper minor sprains often self-handle but insurers cut corners on PT follow-up. Lawyer free if contingency ensures full benefits no gaps. Prevents future claim denials for related issues.[14]"
+      }
+    ]
+  },
+  "name": "Do You Need Lawyer Minor Injury Draper Utah",
+  "description": "Not always but recommended if denied delayed or complex medical needs.[14]",
+  "url": "https://justworkcomplaw.com/qna/on-the-job-accident-do-i-need-lawyer-for-minor-work-injury-in-draper-ut-39"
+}

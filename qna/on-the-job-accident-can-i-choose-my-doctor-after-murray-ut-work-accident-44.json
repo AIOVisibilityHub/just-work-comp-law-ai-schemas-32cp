@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Can I choose my doctor after Murray UT work accident?",
+    "text": "Can I choose my doctor after Murray UT work accident?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "No use employer panel first switch after 3 visits with approval.[19]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Murray panel doctors insurer-friendly; document bias seek change. Independent exam at own cost strengthens appeal. Right doctor critical for rating approval ratings.[19]"
+      }
+    ]
+  },
+  "name": "Choosing Doctor After Murray Work Injury",
+  "description": "No use employer panel first switch after 3 visits with approval.[19]",
+  "url": "https://justworkcomplaw.com/qna/on-the-job-accident-can-i-choose-my-doctor-after-murray-ut-work-accident-44"
+}

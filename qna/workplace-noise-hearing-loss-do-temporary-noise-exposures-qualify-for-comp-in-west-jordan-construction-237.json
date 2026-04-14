@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Do temporary noise exposures qualify for comp in West Jordan construction?",
+    "text": "Do temporary noise exposures qualify for comp in West Jordan construction?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, if professionally tested exposure to harmful levels caused loss during that employment; Utah Code doesn't require chronic exposure, per 34A-2-503.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Short-term high-noise projects (e.g., jackhammers) compensable if tests show hazard and loss follows. West Jordan sites often lack monitoring; workers file via symptoms + history. Stronger with co-worker affidavits. Avoid carrier 'de minimis' defenses legally.[4]"
+      }
+    ]
+  },
+  "name": "Comp for Short-Term Noise Exposure",
+  "description": "Yes, if professionally tested exposure to harmful levels caused loss during that employment; Utah Code doesn't require chronic exposure, per 34A-2-503.",
+  "url": "https://justworkcomplaw.com/qna/workplace-noise-hearing-loss-do-temporary-noise-exposures-qualify-for-comp-in-west-jordan-construction-237"
+}

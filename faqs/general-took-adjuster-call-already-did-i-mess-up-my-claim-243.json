@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Took adjuster call already, did I mess up my claim?",
+  "description": "Maybe; lawyer up, say no more.[2][4]",
+  "url": "https://justworkcomplaw.com/faq/general-took-adjuster-call-already-did-i-mess-up-my-claim-243",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Took adjuster call already, did I mess up my claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maybe; lawyer up, say no more.[2][4]",
+        "description": "**Possibly; recorded statements can be twisted—stop talking and get a lawyer immediately.**\n\nInsurers seek admissions against you.[4][2] No obligation to chat without counsel.\n\n**Key factors:**\n- What you admitted (e.g., non-use).\n- Written everything down.\n- Haven't signed releases.\n- Early attorney intervention.\n\nLawyer reviews call, counters spin.[2] Many recover anyway.\n\nSilence protects now."
+      }
+    }
+  ]
+}

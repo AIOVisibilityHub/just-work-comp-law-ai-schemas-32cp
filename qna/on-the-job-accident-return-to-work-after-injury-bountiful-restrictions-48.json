@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Return to work after injury Bountiful restrictions?",
+    "text": "Return to work after injury Bountiful restrictions?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Light duty if available at same wages or TTD continues.[23]",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Bountiful employers offer modified work test restrictions; refuse unsafe duties. If wages drop partial benefits bridge gap. FMLA runs concurrent protects job 12 weeks.[23]"
+      }
+    ]
+  },
+  "name": "Returning to Work After Bountiful Injury",
+  "description": "Light duty if available at same wages or TTD continues.[23]",
+  "url": "https://justworkcomplaw.com/qna/on-the-job-accident-return-to-work-after-injury-bountiful-restrictions-48"
+}

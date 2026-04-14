@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What if machine accident happens on day 179 of employment in Riverton?",
+    "text": "What if machine accident happens on day 179 of employment in Riverton?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "New hires covered immediately if employer has comp insurance; report within 180 days regardless of tenure.[2][4]",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Utah requires coverage for all employees post-first day. Probationary status irrelevant. Insurers scrutinize new workers—prove accident details. Riverton cases need quick reporting.[2]"
+      }
+    ]
+  },
+  "name": "Coverage for New Employees in Machine Accidents",
+  "description": "New hires covered immediately if employer has comp insurance; report within 180 days regardless of tenure.[2][4]",
+  "url": "https://justworkcomplaw.com/qna/machine-accident-work-injury-what-if-machine-accident-happens-on-day-179-of-employment-in-riverton-163"
+}

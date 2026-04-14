@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How to get a second opinion IME for disputed respiratory impairment in Draper?",
+    "text": "How to get a second opinion IME for disputed respiratory impairment in Draper?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Request via Labor Commission after denial; choose pulmonologist from approved list for objective AMA Guides rating.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Draper disputes average 3 IMEs. Costs employer-paid if panel-ordered. Ups rating 25% often. Prep with records."
+      }
+    ]
+  },
+  "name": "IME for Respiratory Impairment Disputes in Draper",
+  "description": "Request via Labor Commission after denial; choose pulmonologist from approved list for objective AMA Guides rating.",
+  "url": "https://justworkcomplaw.com/qna/workplace-respiratory-exposure-how-to-get-a-second-opinion-ime-for-disputed-respiratory-impairment-in-draper-222"
+}

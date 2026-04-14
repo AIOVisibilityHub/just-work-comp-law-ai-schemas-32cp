@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Can psychological trauma from machine near-miss qualify for comp in Midvale?",
+    "text": "Can psychological trauma from machine near-miss qualify for comp in Midvale?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, if work-related mental injury requires treatment, covered under Utah occupational disease provisions.[5]",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "PTSD from witnessing crush needs psych diagnosis tied to event. Rare approvals—strong evidence key. Midvale industrial attorneys build these claims.[5]"
+      }
+    ]
+  },
+  "name": "Mental Health Claims from Machine Accidents",
+  "description": "Yes, if work-related mental injury requires treatment, covered under Utah occupational disease provisions.[5]",
+  "url": "https://justworkcomplaw.com/qna/machine-accident-work-injury-can-psychological-trauma-from-machine-near-miss-qualify-for-comp-in-midvale-167"
+}

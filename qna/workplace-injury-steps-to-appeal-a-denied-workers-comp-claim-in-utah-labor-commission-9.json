@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Steps to appeal a denied workers' comp claim in Utah Labor Commission?",
+    "text": "Steps to appeal a denied workers' comp claim in Utah Labor Commission?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Request formal hearing within 20 days of denial; submit evidence; hearing before ALJ, then appeal to Commission.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Gather medical records, witness statements. Deadlines strict—missed appeals fatal. Insurers deny 20% claims; appeals win 60%. Essential for Bountiful/North Salt Lake denials."
+      }
+    ]
+  },
+  "name": "Appealing Denied Utah Workers' Comp Claims",
+  "description": "Request formal hearing within 20 days of denial; submit evidence; hearing before ALJ, then appeal to Commission.",
+  "url": "https://justworkcomplaw.com/qna/workplace-injury-steps-to-appeal-a-denied-workers-comp-claim-in-utah-labor-commission-9"
+}

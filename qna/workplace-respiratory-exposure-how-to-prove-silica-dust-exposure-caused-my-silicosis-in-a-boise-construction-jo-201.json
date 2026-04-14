@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How to prove silica dust exposure caused my silicosis in a Boise construction job?",
+    "text": "How to prove silica dust exposure caused my silicosis in a Boise construction job?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Prove silicosis causation with pulmonary function tests, chest X-rays (ILO classification), industrial hygiene reports showing silica levels above OSHA PEL (0.05 mg/m³), and specialist opinion linking to job duties.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "In Boise, Idaho workers' comp requires medical evidence like B-reads confirming silicosis plus exposure history from MSDS sheets, job site logs, or union records. Idaho Code §72-1001 covers occupational diseases. Challenge employer defenses like PPE provision. Claims yield medical care, temporary disability (68% wages), and PPI ratings for permanent lung impairment."
+      }
+    ]
+  },
+  "name": "Proving Silicosis from Construction Silica Dust in Boise",
+  "description": "Prove silicosis causation with pulmonary function tests, chest X-rays (ILO classification), industrial hygiene reports showing silica levels above OSHA PEL (0.0",
+  "url": "https://justworkcomplaw.com/qna/workplace-respiratory-exposure-how-to-prove-silica-dust-exposure-caused-my-silicosis-in-a-boise-construction-jo-201"
+}

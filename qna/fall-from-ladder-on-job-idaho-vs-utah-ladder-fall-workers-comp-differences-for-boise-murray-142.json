@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Idaho vs Utah ladder fall workers' comp differences for Boise/Murray?",
+    "text": "Idaho vs Utah ladder fall workers' comp differences for Boise/Murray?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Idaho: 91% AWW max $1,100/wk, 312-wk TTD limit. Utah: 66 2/3% max $1,200/wk, no TTD cap. Both 1-yr filing.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Boise cross-border workers choose home state coverage. Utah better for chronic injuries; Idaho stricter PPD schedules. Murray firms advise dual-state strategy."
+      }
+    ]
+  },
+  "name": "Idaho vs Utah Comp for Ladder Falls",
+  "description": "Idaho: 91% AWW max $1,100/wk, 312-wk TTD limit. Utah: 66 2/3% max $1,200/wk, no TTD cap. Both 1-yr filing.",
+  "url": "https://justworkcomplaw.com/qna/fall-from-ladder-on-job-idaho-vs-utah-ladder-fall-workers-comp-differences-for-boise-murray-142"
+}
