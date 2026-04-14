@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/injured-at-work-what-happens-if-my-employer-denies-my-work-injury-claim-in-west-valley-city-80",
+  "name": "Appealing Denied Claims West Valley City",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "What happens if my employer denies my work injury claim in West Valley City?",
     "text": "What happens if my employer denies my work injury claim in West Valley City?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Appeal through Utah Labor Commission within deadlines; gather medical evidence and witness statements. Hire a workers comp attorney for hearings—many denials overturned with proper representation.",
+      "@type": "Answer",
       "upvoteCount": 5
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Common denial reasons: missed reporting, pre-existing conditions, or network violations. West Valley City employers must prove non-work-related. Insurers delay tactics common; attorney files appeals, negotiates, protects against retaliation. Free consults available from local firms."
+        "text": "Common denial reasons: missed reporting, pre-existing conditions, or network violations. West Valley City employers must prove non-work-related. Insurers delay tactics common; attorney files appeals, negotiates, protects against retaliation. Free consults available from local firms.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Appealing Denied Claims West Valley City",
-  "description": "Appeal through Utah Labor Commission within deadlines; gather medical evidence and witness statements. Hire a workers comp attorney for hearings—many denials ov",
-  "url": "https://justworkcomplaw.com/qna/injured-at-work-what-happens-if-my-employer-denies-my-work-injury-claim-in-west-valley-city-80"
+  "description": "Appeal through Utah Labor Commission within deadlines; gather medical evidence and witness statements. Hire a workers comp attorney for hearings—many denials ov"
 }

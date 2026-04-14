@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/workplace-injury-difference-between-temporary-and-permanent-disability-in-utah-workplace-injury-c-5",
+  "name": "Temporary vs Permanent Disability in Utah Workers' Comp",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Difference between temporary and permanent disability in Utah workplace injury claims?",
     "text": "Difference between temporary and permanent disability in Utah workplace injury claims?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Temporary disability pays while healing (TTD/TPD); permanent pays after maximum medical improvement for lasting impairment (PPI).",
+      "@type": "Answer",
       "upvoteCount": 3
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Utah: TTD 2/3 wages 312 weeks max; PPI based on impairment schedule. Insurers push early MMI to minimize payouts. Doctor's opinion key; appeal Commission ratings. Relevant for Murray/Millcreek injuries where long recovery common."
+        "text": "Utah: TTD 2/3 wages 312 weeks max; PPI based on impairment schedule. Insurers push early MMI to minimize payouts. Doctor's opinion key; appeal Commission ratings. Relevant for Murray/Millcreek injuries where long recovery common.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Temporary vs Permanent Disability in Utah Workers' Comp",
-  "description": "Temporary disability pays while healing (TTD/TPD); permanent pays after maximum medical improvement for lasting impairment (PPI).",
-  "url": "https://justworkcomplaw.com/qna/workplace-injury-difference-between-temporary-and-permanent-disability-in-utah-workplace-injury-c-5"
+  "description": "Temporary disability pays while healing (TTD/TPD); permanent pays after maximum medical improvement for lasting impairment (PPI)."
 }

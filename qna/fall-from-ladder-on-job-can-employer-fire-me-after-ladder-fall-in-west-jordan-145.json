@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/fall-from-ladder-on-job-can-employer-fire-me-after-ladder-fall-in-west-jordan-145",
+  "name": "Job Protection After Falls",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Can employer fire me after ladder fall in West Jordan?",
     "text": "Can employer fire me after ladder fall in West Jordan?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "No retaliation protected under Utah law; file with Labor Commission if terminated post-injury.",
+      "@type": "Answer",
       "upvoteCount": 4
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "West Jordan: Prove causal link via timing/docs. Get unemployment + comp. 'Constructive discharge' if forced out. 15% cases face this."
+        "text": "West Jordan: Prove causal link via timing/docs. Get unemployment + comp. 'Constructive discharge' if forced out. 15% cases face this.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Job Protection After Falls",
-  "description": "No retaliation protected under Utah law; file with Labor Commission if terminated post-injury.",
-  "url": "https://justworkcomplaw.com/qna/fall-from-ladder-on-job-can-employer-fire-me-after-ladder-fall-in-west-jordan-145"
+  "description": "No retaliation protected under Utah law; file with Labor Commission if terminated post-injury."
 }

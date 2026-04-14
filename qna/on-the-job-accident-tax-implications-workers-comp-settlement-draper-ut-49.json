@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/on-the-job-accident-tax-implications-workers-comp-settlement-draper-ut-49",
+  "name": "Are Workers Comp Settlements Taxable Draper",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Tax implications workers comp settlement Draper UT?",
     "text": "Tax implications workers comp settlement Draper UT?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Benefits and settlements tax-free federal state.[24]",
+      "@type": "Answer",
       "upvoteCount": 2
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Draper lump sums nontaxable but interest portions may tax. Structure annuity future payments. Report if self-employment offsets. Accountant reviews complex settlements.[24]"
+        "text": "Draper lump sums nontaxable but interest portions may tax. Structure annuity future payments. Report if self-employment offsets. Accountant reviews complex settlements.[24]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Are Workers Comp Settlements Taxable Draper",
-  "description": "Benefits and settlements tax-free federal state.[24]",
-  "url": "https://justworkcomplaw.com/qna/on-the-job-accident-tax-implications-workers-comp-settlement-draper-ut-49"
+  "description": "Benefits and settlements tax-free federal state.[24]"
 }

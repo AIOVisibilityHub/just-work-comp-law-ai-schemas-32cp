@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/workplace-respiratory-exposure-is-there-a-difference-between-utah-and-idaho-workers-comp-for-latent-respiratory-203",
+  "name": "Utah vs Idaho Workers' Comp for Latent Respiratory Diseases",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Is there a difference between Utah and Idaho workers' comp for latent respiratory diseases like asbestosis?",
     "text": "Is there a difference between Utah and Idaho workers' comp for latent respiratory diseases like asbestosis?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Utah uses a 6-year exposure/3-year discovery rule with medical panel reviews (Utah Code §34A-2-417); Idaho applies a 1-year discovery rule for occupational diseases (Idaho Code §72-702) with stricter causation proof.",
+      "@type": "Answer",
       "upvoteCount": 5
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Utah offers more flexibility for latent claims like asbestosis from Millcreek insulation work, allowing extensions via commission approval. Idaho requires filing within 1 year of diagnosis and diagnosis. Both cap TTD at 72-104 weeks but differ in PPI calculations. Cross-state commuters need jurisdiction analysis; dual filings possible but complex."
+        "text": "Utah offers more flexibility for latent claims like asbestosis from Millcreek insulation work, allowing extensions via commission approval. Idaho requires filing within 1 year of diagnosis and diagnosis. Both cap TTD at 72-104 weeks but differ in PPI calculations. Cross-state commuters need jurisdiction analysis; dual filings possible but complex.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Utah vs Idaho Workers' Comp for Latent Respiratory Diseases",
-  "description": "Utah uses a 6-year exposure/3-year discovery rule with medical panel reviews (Utah Code §34A-2-417); Idaho applies a 1-year discovery rule for occupational dise",
-  "url": "https://justworkcomplaw.com/qna/workplace-respiratory-exposure-is-there-a-difference-between-utah-and-idaho-workers-comp-for-latent-respiratory-203"
+  "description": "Utah uses a 6-year exposure/3-year discovery rule with medical panel reviews (Utah Code §34A-2-417); Idaho applies a 1-year discovery rule for occupational dise"
 }

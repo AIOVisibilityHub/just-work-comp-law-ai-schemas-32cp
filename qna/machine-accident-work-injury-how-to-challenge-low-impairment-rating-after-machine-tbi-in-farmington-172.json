@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/machine-accident-work-injury-how-to-challenge-low-impairment-rating-after-machine-tbi-in-farmington-172",
+  "name": "Challenging Impairment Ratings",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "How to challenge low impairment rating after machine TBI in Farmington?",
     "text": "How to challenge low impairment rating after machine TBI in Farmington?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Request independent medical exam or Labor Commission hearing with second opinion physician.[4][2]",
+      "@type": "Answer",
       "upvoteCount": 3
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Insurers lowball ratings. AMA Guides standard—appeal with neuro tests. Farmington experts testify for higher awards.[4]"
+        "text": "Insurers lowball ratings. AMA Guides standard—appeal with neuro tests. Farmington experts testify for higher awards.[4]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Challenging Impairment Ratings",
-  "description": "Request independent medical exam or Labor Commission hearing with second opinion physician.[4][2]",
-  "url": "https://justworkcomplaw.com/qna/machine-accident-work-injury-how-to-challenge-low-impairment-rating-after-machine-tbi-in-farmington-172"
+  "description": "Request independent medical exam or Labor Commission hearing with second opinion physician.[4][2]"
 }

@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/slip-and-fall-at-work-can-i-get-fired-for-filing-slip-and-fall-workers-comp-in-farmington-utah-62",
+  "name": "Retaliation After Work Injury Claim in Farmington",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Can I get fired for filing slip and fall workers' comp in Farmington Utah?",
     "text": "Can I get fired for filing slip and fall workers' comp in Farmington Utah?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "No Utah law prohibits retaliation for comp claims. File complaint with Labor Commission if terminated post-filing.[7]",
+      "@type": "Answer",
       "upvoteCount": 4
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Protected activity but subtle retaliation occurs. Document performance pre-injury. Wrongful termination suits possible alongside comp. Unions stronger protections. Local attorneys handle retaliation claims frequently.[7]"
+        "text": "Protected activity but subtle retaliation occurs. Document performance pre-injury. Wrongful termination suits possible alongside comp. Unions stronger protections. Local attorneys handle retaliation claims frequently.[7]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Retaliation After Work Injury Claim in Farmington",
-  "description": "No Utah law prohibits retaliation for comp claims. File complaint with Labor Commission if terminated post-filing.[7]",
-  "url": "https://justworkcomplaw.com/qna/slip-and-fall-at-work-can-i-get-fired-for-filing-slip-and-fall-workers-comp-in-farmington-utah-62"
+  "description": "No Utah law prohibits retaliation for comp claims. File complaint with Labor Commission if terminated post-filing.[7]"
 }

@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/on-the-job-accident-workers-comp-vs-personal-injury-lawsuit-riverton-work-accident-40",
+  "name": "Workers Comp vs Lawsuit Riverton UT",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Workers comp vs personal injury lawsuit Riverton work accident?",
     "text": "Workers comp vs personal injury lawsuit Riverton work accident?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Comp no-fault limited benefits lawsuit fault-based unlimited but barred vs employer.[15]",
+      "@type": "Answer",
       "upvoteCount": 5
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Riverton on-the-job uses comp exclusive; personal injury only third parties. Comp faster certain lawsuit higher payouts risks. Dual claims require coordination preserve both.[15]"
+        "text": "Riverton on-the-job uses comp exclusive; personal injury only third parties. Comp faster certain lawsuit higher payouts risks. Dual claims require coordination preserve both.[15]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Workers Comp vs Lawsuit Riverton UT",
-  "description": "Comp no-fault limited benefits lawsuit fault-based unlimited but barred vs employer.[15]",
-  "url": "https://justworkcomplaw.com/qna/on-the-job-accident-workers-comp-vs-personal-injury-lawsuit-riverton-work-accident-40"
+  "description": "Comp no-fault limited benefits lawsuit fault-based unlimited but barred vs employer.[15]"
 }

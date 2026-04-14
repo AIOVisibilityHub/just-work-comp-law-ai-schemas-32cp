@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/workplace-injury-vocational-rehab-benefits-after-workplace-injury-in-farmington-25",
+  "name": "Vocational Rehabilitation in Utah Workers' Comp",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Vocational rehab benefits after workplace injury in Farmington?",
     "text": "Vocational rehab benefits after workplace injury in Farmington?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Utah provides retraining if can't return to old job, up to 401 weeks.",
+      "@type": "Answer",
       "upvoteCount": 4
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Labor Commission approves plan. Insurers resist; prove job market barriers. Key for older workers post-injury."
+        "text": "Labor Commission approves plan. Insurers resist; prove job market barriers. Key for older workers post-injury.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Vocational Rehabilitation in Utah Workers' Comp",
-  "description": "Utah provides retraining if can't return to old job, up to 401 weeks.",
-  "url": "https://justworkcomplaw.com/qna/workplace-injury-vocational-rehab-benefits-after-workplace-injury-in-farmington-25"
+  "description": "Utah provides retraining if can't return to old job, up to 401 weeks."
 }

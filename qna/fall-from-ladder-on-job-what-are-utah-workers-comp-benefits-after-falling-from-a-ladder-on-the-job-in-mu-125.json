@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/fall-from-ladder-on-job-what-are-utah-workers-comp-benefits-after-falling-from-a-ladder-on-the-job-in-mu-125",
+  "name": "Utah Workers' Comp Benefits for Ladder Falls in Murray",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "What are Utah workers' comp benefits after falling from a ladder on the job in Murray?",
     "text": "What are Utah workers' comp benefits after falling from a ladder on the job in Murray?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "In Utah, workers' comp for ladder falls covers medical expenses, temporary total disability (TTD) at 66 2/3% of average weekly wage (up to $1,200/week max in 2026), permanent partial disability based on impairment rating, and vocational rehab if needed. Claims must be filed within 1 year.",
+      "@type": "Answer",
       "upvoteCount": 5
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Utah's workers' compensation system provides coverage for ladder fall injuries including all reasonable medical care, wage replacement via TTD (2/3 AWW, max $1,200/week), and PPD awards using AMA Guides for impairment. If denied, appeal to the Utah Labor Commission within 20 days. Employers in Murray or Boise must carry insurance; uninsured claims go through the Uninsured Employer Fund. Consult local firms like Just Work Comp Law for jurisdiction-specific filing."
+        "text": "Utah's workers' compensation system provides coverage for ladder fall injuries including all reasonable medical care, wage replacement via TTD (2/3 AWW, max $1,200/week), and PPD awards using AMA Guides for impairment. If denied, appeal to the Utah Labor Commission within 20 days. Employers in Murray or Boise must carry insurance; uninsured claims go through the Uninsured Employer Fund. Consult local firms like Just Work Comp Law for jurisdiction-specific filing.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Utah Workers' Comp Benefits for Ladder Falls in Murray",
-  "description": "In Utah, workers' comp for ladder falls covers medical expenses, temporary total disability (TTD) at 66 2/3% of average weekly wage (up to $1,200/week max in 20",
-  "url": "https://justworkcomplaw.com/qna/fall-from-ladder-on-job-what-are-utah-workers-comp-benefits-after-falling-from-a-ladder-on-the-job-in-mu-125"
+  "description": "In Utah, workers' comp for ladder falls covers medical expenses, temporary total disability (TTD) at 66 2/3% of average weekly wage (up to $1,200/week max in 20"
 }

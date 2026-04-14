@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/work-injury-claim-cost-of-denied-claim-appeal-bond-in-boise-id-vs-murray-ut-119",
+  "name": "Appeal Bond Costs Boise vs Murray",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Cost of denied claim appeal bond in Boise ID vs Murray UT?",
     "text": "Cost of denied claim appeal bond in Boise ID vs Murray UT?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Utah: No bond for comp appeals. Idaho: May require supersedeas bond for stay[1].",
+      "@type": "Answer",
       "upvoteCount": 3
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Murray UT appeals bond-free; Boise ID varies by amount. Cross-state claims complex[1]."
+        "text": "Murray UT appeals bond-free; Boise ID varies by amount. Cross-state claims complex[1].",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Appeal Bond Costs Boise vs Murray",
-  "description": "Utah: No bond for comp appeals. Idaho: May require supersedeas bond for stay[1].",
-  "url": "https://justworkcomplaw.com/qna/work-injury-claim-cost-of-denied-claim-appeal-bond-in-boise-id-vs-murray-ut-119"
+  "description": "Utah: No bond for comp appeals. Idaho: May require supersedeas bond for stay[1]."
 }

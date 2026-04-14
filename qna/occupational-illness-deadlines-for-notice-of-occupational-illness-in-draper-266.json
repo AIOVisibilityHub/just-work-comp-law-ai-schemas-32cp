@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/occupational-illness-deadlines-for-notice-of-occupational-illness-in-draper-266",
+  "name": "Draper Occupational Illness Notice Deadlines",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Deadlines for notice of occupational illness in Draper?",
     "text": "Deadlines for notice of occupational illness in Draper?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Notify employer in writing within 180 days of knowledge in Draper; 3-year filing limit follows.[5]",
+      "@type": "Answer",
       "upvoteCount": 4
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Verbal notice suffices initially but document. Late notice excused if employer not prejudiced. Draper supervisors often ignore; preserve via certified mail.[5]"
+        "text": "Verbal notice suffices initially but document. Late notice excused if employer not prejudiced. Draper supervisors often ignore; preserve via certified mail.[5]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Draper Occupational Illness Notice Deadlines",
-  "description": "Notify employer in writing within 180 days of knowledge in Draper; 3-year filing limit follows.[5]",
-  "url": "https://justworkcomplaw.com/qna/occupational-illness-deadlines-for-notice-of-occupational-illness-in-draper-266"
+  "description": "Notify employer in writing within 180 days of knowledge in Draper; 3-year filing limit follows.[5]"
 }

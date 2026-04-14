@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "My lungs are messed up from years of chemical exposure at work in Murray. Can I still file a workers comp claim for occupational illness?",
-  "description": "Yes, if it arose from employment; Utah presumes work-related on premises and covers chemical lung disease with medical proof.[1]",
   "url": "https://justworkcomplaw.com/faq/occupational-illness-my-lungs-are-messed-up-from-years-of-chemical-exposure-at-work-in-murray-can-i-s-251",
+  "name": "My lungs are messed up from years of chemical exposure at work in Murray. Can I still file a workers comp claim for occupational illness?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "My lungs are messed up from years of chemical exposure at work in Murray. Can I still file a workers comp claim for occupational illness?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, if it arose from employment; Utah presumes work-related on premises and covers chemical lung disease with medical proof.[1]",
+        "@type": "Answer",
         "description": "Yes, Utah’s Workers’ Compensation Act covers occupational illnesses like chemical-exposure lung disease if they arise out of and in the course of employment (AOE/COE test).[1] The Utah Labor Commission presumes claims are work-related if they occur on the clock or premises, shifting proof burden to employer.[1] Key factors: (1) Show medical causation linking exposure to illness; (2) Multiple exposure dates require analyzing the last injurious one; (3) Broad coverage favors access to benefits; (4) Examples include asbestos lung disease or silicosis.[1] Report immediately to employer, get medical documentation, and file with Labor Commission; consult attorney if denied.[1] Deadlines are strict, so act fast."
       }
     }
-  ]
+  ],
+  "description": "Yes, if it arose from employment; Utah presumes work-related on premises and covers chemical lung disease with medical proof.[1]"
 }

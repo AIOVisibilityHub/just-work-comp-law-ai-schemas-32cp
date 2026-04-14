@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/workplace-injury-what-benefits-are-covered-under-idaho-workers-comp-for-back-injuries-in-construc-4",
+  "name": "Idaho Workers' Comp Benefits for Construction Back Injuries",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "What benefits are covered under Idaho workers' comp for back injuries in construction?",
     "text": "What benefits are covered under Idaho workers' comp for back injuries in construction?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Idaho workers' comp covers medical costs, temporary total disability (2/3 wage loss), permanent partial disability ratings, and vocational rehab for back injuries.",
+      "@type": "Answer",
       "upvoteCount": 4
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Idaho Code §72-228 sets TTD at 2/3 wages up to 72 weeks standard. Construction back strains common; get PPI rating post-MMI. Insurers undervalue; independent medical exams help. Boise firms like Just Work Comp can negotiate higher settlements for Nampa/Caldwell workers."
+        "text": "Idaho Code §72-228 sets TTD at 2/3 wages up to 72 weeks standard. Construction back strains common; get PPI rating post-MMI. Insurers undervalue; independent medical exams help. Boise firms like Just Work Comp can negotiate higher settlements for Nampa/Caldwell workers.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Idaho Workers' Comp Benefits for Construction Back Injuries",
-  "description": "Idaho workers' comp covers medical costs, temporary total disability (2/3 wage loss), permanent partial disability ratings, and vocational rehab for back injuri",
-  "url": "https://justworkcomplaw.com/qna/workplace-injury-what-benefits-are-covered-under-idaho-workers-comp-for-back-injuries-in-construc-4"
+  "description": "Idaho workers' comp covers medical costs, temporary total disability (2/3 wage loss), permanent partial disability ratings, and vocational rehab for back injuri"
 }

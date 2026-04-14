@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/on-the-job-accident-childcare-costs-covered-in-workers-comp-midvale-50",
+  "name": "Childcare in Workers Comp Claims Midvale UT",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Childcare costs covered in workers comp Midvale?",
     "text": "Childcare costs covered in workers comp Midvale?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "No standard benefits exclude dependent care unless total disability proven need.[25]",
+      "@type": "Answer",
       "upvoteCount": 2
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Midvale comp medical wage replacement only; extraordinary expenses like childcare rare via vocational rehab. Prove unemployable without aid for consideration. Sue third-party recovers more.[25]"
+        "text": "Midvale comp medical wage replacement only; extraordinary expenses like childcare rare via vocational rehab. Prove unemployable without aid for consideration. Sue third-party recovers more.[25]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Childcare in Workers Comp Claims Midvale UT",
-  "description": "No standard benefits exclude dependent care unless total disability proven need.[25]",
-  "url": "https://justworkcomplaw.com/qna/on-the-job-accident-childcare-costs-covered-in-workers-comp-midvale-50"
+  "description": "No standard benefits exclude dependent care unless total disability proven need.[25]"
 }

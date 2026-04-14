@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/exposure-to-chemicals-at-work-what-if-my-chemical-exposure-happened-at-multiple-utah-jobs-194",
+  "name": "Multi-Employer Chemical Exposure Claims in Utah",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "What if my chemical exposure happened at multiple Utah jobs?",
     "text": "What if my chemical exposure happened at multiple Utah jobs?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Apportion benefits by exposure contribution; file against last injurious employer in Utah.",
+      "@type": "Answer",
       "upvoteCount": 4
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Successive injury rule: primary employer liable, others contribute. Cottonwood Heights multi-jobbers need all records. Complex—attorneys coordinate. Insurers shift blame; unify evidence for full recovery."
+        "text": "Successive injury rule: primary employer liable, others contribute. Cottonwood Heights multi-jobbers need all records. Complex—attorneys coordinate. Insurers shift blame; unify evidence for full recovery.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Multi-Employer Chemical Exposure Claims in Utah",
-  "description": "Apportion benefits by exposure contribution; file against last injurious employer in Utah.",
-  "url": "https://justworkcomplaw.com/qna/exposure-to-chemicals-at-work-what-if-my-chemical-exposure-happened-at-multiple-utah-jobs-194"
+  "description": "Apportion benefits by exposure contribution; file against last injurious employer in Utah."
 }

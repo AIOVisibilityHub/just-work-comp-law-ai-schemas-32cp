@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/exposure-to-chemicals-at-work-what-defenses-do-employers-use-against-chemical-exposure-claims-in-draper-191",
+  "name": "Employer Defenses in Draper Chemical Exposure Cases",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "What defenses do employers use against chemical exposure claims in Draper?",
     "text": "What defenses do employers use against chemical exposure claims in Draper?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Common defenses: failure to use PPE, intervening causes, pre-existing conditions, and insufficient exposure levels.",
+      "@type": "Answer",
       "upvoteCount": 3
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Draper employers cite safety training logs. Rebut with violation proof, dosage calcs. Expert witnesses dismantle. 40% claims denied initially—appeal flips. Local knowledge of Draper sites aids."
+        "text": "Draper employers cite safety training logs. Rebut with violation proof, dosage calcs. Expert witnesses dismantle. 40% claims denied initially—appeal flips. Local knowledge of Draper sites aids.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Employer Defenses in Draper Chemical Exposure Cases",
-  "description": "Common defenses: failure to use PPE, intervening causes, pre-existing conditions, and insufficient exposure levels.",
-  "url": "https://justworkcomplaw.com/qna/exposure-to-chemicals-at-work-what-defenses-do-employers-use-against-chemical-exposure-claims-in-draper-191"
+  "description": "Common defenses: failure to use PPE, intervening causes, pre-existing conditions, and insufficient exposure levels."
 }

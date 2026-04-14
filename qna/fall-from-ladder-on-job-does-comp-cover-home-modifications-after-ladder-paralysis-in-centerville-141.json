@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/fall-from-ladder-on-job-does-comp-cover-home-modifications-after-ladder-paralysis-in-centerville-141",
+  "name": "Home Mods for Severe Ladder Injuries",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Does comp cover home modifications after ladder paralysis in Centerville?",
     "text": "Does comp cover home modifications after ladder paralysis in Centerville?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Yes, if medically necessary: ramps, grab bars up to reasonable cost. Prior approval via UR; appeals if denied.",
+      "@type": "Answer",
       "upvoteCount": 3
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Centerville rare paralysis cases qualify under Utah §34A-2-418. Get OT eval for needs. Insurers cap at $25K typically—litigate for full wheelchair accessibility."
+        "text": "Centerville rare paralysis cases qualify under Utah §34A-2-418. Get OT eval for needs. Insurers cap at $25K typically—litigate for full wheelchair accessibility.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Home Mods for Severe Ladder Injuries",
-  "description": "Yes, if medically necessary: ramps, grab bars up to reasonable cost. Prior approval via UR; appeals if denied.",
-  "url": "https://justworkcomplaw.com/qna/fall-from-ladder-on-job-does-comp-cover-home-modifications-after-ladder-paralysis-in-centerville-141"
+  "description": "Yes, if medically necessary: ramps, grab bars up to reasonable cost. Prior approval via UR; appeals if denied."
 }

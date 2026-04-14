@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/injured-at-work-steps-to-settle-workers-comp-case-in-midvale-utah-88",
+  "name": "Settling Claims Midvale UT",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Steps to settle workers comp case in Midvale Utah?",
     "text": "Steps to settle workers comp case in Midvale Utah?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Reach MMI, negotiate lump sum with insurer via attorney, approve through Labor Commission judge.",
+      "@type": "Answer",
       "upvoteCount": 4
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Midvale settlements: weigh future medicals vs cash. Insurers lowball; lawyers value permanent impairment, negotiate best terms. Avoid quick settles without full disability assessment."
+        "text": "Midvale settlements: weigh future medicals vs cash. Insurers lowball; lawyers value permanent impairment, negotiate best terms. Avoid quick settles without full disability assessment.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Settling Claims Midvale UT",
-  "description": "Reach MMI, negotiate lump sum with insurer via attorney, approve through Labor Commission judge.",
-  "url": "https://justworkcomplaw.com/qna/injured-at-work-steps-to-settle-workers-comp-case-in-midvale-utah-88"
+  "description": "Reach MMI, negotiate lump sum with insurer via attorney, approve through Labor Commission judge."
 }

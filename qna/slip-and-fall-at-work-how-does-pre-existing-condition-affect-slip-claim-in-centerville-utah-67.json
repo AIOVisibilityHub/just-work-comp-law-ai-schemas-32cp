@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/slip-and-fall-at-work-how-does-pre-existing-condition-affect-slip-claim-in-centerville-utah-67",
+  "name": "Pre-Existing Issues in Centerville Slip Claims",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "How does pre-existing condition affect slip claim in Centerville Utah?",
     "text": "How does pre-existing condition affect slip claim in Centerville Utah?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Pre-existing conditions don't bar Utah comp if work slip aggravates them. Must prove substantial contribution.[7]",
+      "@type": "Answer",
       "upvoteCount": 4
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "IME doctors apportion. Insurers blame prior issues. Strong medical nexus needed. Aggravation benefits full if proven. Common in older workers knees backs. Expert testimony helps.[7]"
+        "text": "IME doctors apportion. Insurers blame prior issues. Strong medical nexus needed. Aggravation benefits full if proven. Common in older workers knees backs. Expert testimony helps.[7]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Pre-Existing Issues in Centerville Slip Claims",
-  "description": "Pre-existing conditions don't bar Utah comp if work slip aggravates them. Must prove substantial contribution.[7]",
-  "url": "https://justworkcomplaw.com/qna/slip-and-fall-at-work-how-does-pre-existing-condition-affect-slip-claim-in-centerville-utah-67"
+  "description": "Pre-existing conditions don't bar Utah comp if work slip aggravates them. Must prove substantial contribution.[7]"
 }

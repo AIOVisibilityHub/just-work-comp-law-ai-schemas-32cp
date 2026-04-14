@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/injured-at-work-workers-comp-vs-personal-injury-claim-for-third-party-injury-in-draper-84",
+  "name": "Comp vs PI Claims Draper UT",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Workers comp vs personal injury claim for third-party injury in Draper?",
     "text": "Workers comp vs personal injury claim for third-party injury in Draper?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Workers comp: no-fault, covers medical/wages via employer insurer. Personal injury: sue at-fault party for pain/suffering, higher potential payout; both allowed in Utah.",
+      "@type": "Answer",
       "upvoteCount": 5
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Draper injuries from vendors/drivers: comp first, then third-party suit. Employers claim lien on settlements. Compare: comp faster but limited; PI slower, fuller comp. Attorney manages both to avoid pitfalls."
+        "text": "Draper injuries from vendors/drivers: comp first, then third-party suit. Employers claim lien on settlements. Compare: comp faster but limited; PI slower, fuller comp. Attorney manages both to avoid pitfalls.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Comp vs PI Claims Draper UT",
-  "description": "Workers comp: no-fault, covers medical/wages via employer insurer. Personal injury: sue at-fault party for pain/suffering, higher potential payout; both allowed",
-  "url": "https://justworkcomplaw.com/qna/injured-at-work-workers-comp-vs-personal-injury-claim-for-third-party-injury-in-draper-84"
+  "description": "Workers comp: no-fault, covers medical/wages via employer insurer. Personal injury: sue at-fault party for pain/suffering, higher potential payout; both allowed"
 }

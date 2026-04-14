@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/workplace-noise-hearing-loss-can-i-get-retroactive-benefits-for-undiagnosed-hearing-loss-in-riverton-242",
+  "name": "Retroactive Claims for Undiagnosed Loss",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Can I get retroactive benefits for undiagnosed hearing loss in Riverton?",
     "text": "Can I get retroactive benefits for undiagnosed hearing loss in Riverton?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Possibly, if within SOL from last exposure/awareness; Utah allows claims for discovered latent effects, but 180-day report crucial.",
+      "@type": "Answer",
       "upvoteCount": 3
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Latent NIHL claims viable if tied to past employment, but strict proof needed. Riverton long-term workers track baselines. Insurers invoke statutes; attorneys argue 'discovery rule' extensions. Critical for retirees seeking back pay.[4]"
+        "text": "Latent NIHL claims viable if tied to past employment, but strict proof needed. Riverton long-term workers track baselines. Insurers invoke statutes; attorneys argue 'discovery rule' extensions. Critical for retirees seeking back pay.[4]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Retroactive Claims for Undiagnosed Loss",
-  "description": "Possibly, if within SOL from last exposure/awareness; Utah allows claims for discovered latent effects, but 180-day report crucial.",
-  "url": "https://justworkcomplaw.com/qna/workplace-noise-hearing-loss-can-i-get-retroactive-benefits-for-undiagnosed-hearing-loss-in-riverton-242"
+  "description": "Possibly, if within SOL from last exposure/awareness; Utah allows claims for discovered latent effects, but 180-day report crucial."
 }

@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/workplace-respiratory-exposure-does-smoking-affect-my-silicosis-workers-comp-settlement-in-draper-208",
+  "name": "Impact of Smoking on Silicosis Settlements in Draper",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Does smoking affect my silicosis workers' comp settlement in Draper?",
     "text": "Does smoking affect my silicosis workers' comp settlement in Draper?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Smoking may reduce impairment rating but not bar Utah claim if work exposure is predominant cause per medical panel; expect 10-20% lower PPI awards.",
+      "@type": "Answer",
       "upvoteCount": 3
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Draper construction firms blame smoking; counter with dose-response studies showing silica synergy. AMA Guides factor comorbidities. Average silicosis settlements $150K-$400K adjusted down for tobacco history. Quit documentation aids causation."
+        "text": "Draper construction firms blame smoking; counter with dose-response studies showing silica synergy. AMA Guides factor comorbidities. Average silicosis settlements $150K-$400K adjusted down for tobacco history. Quit documentation aids causation.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Impact of Smoking on Silicosis Settlements in Draper",
-  "description": "Smoking may reduce impairment rating but not bar Utah claim if work exposure is predominant cause per medical panel; expect 10-20% lower PPI awards.",
-  "url": "https://justworkcomplaw.com/qna/workplace-respiratory-exposure-does-smoking-affect-my-silicosis-workers-comp-settlement-in-draper-208"
+  "description": "Smoking may reduce impairment rating but not bar Utah claim if work exposure is predominant cause per medical panel; expect 10-20% lower PPI awards."
 }

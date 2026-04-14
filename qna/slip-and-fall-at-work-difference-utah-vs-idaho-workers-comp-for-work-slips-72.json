@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/slip-and-fall-at-work-difference-utah-vs-idaho-workers-comp-for-work-slips-72",
+  "name": "Utah vs Idaho Comp for Workplace Slips",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Difference Utah vs Idaho workers comp for work slips?",
     "text": "Difference Utah vs Idaho workers comp for work slips?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Utah caps TTD at $824/wk 312 wks Idaho $1,086/wk 52 wks temp both no-fault but Utah easier reporting.[6][1]",
+      "@type": "Answer",
       "upvoteCount": 4
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Idaho stricter notice 60 days Utah 180. Both employer-funded. Attorneys note Idaho higher max but shorter duration. Jurisdiction matters for cross-border work. Consult local for specifics.[6][1]"
+        "text": "Idaho stricter notice 60 days Utah 180. Both employer-funded. Attorneys note Idaho higher max but shorter duration. Jurisdiction matters for cross-border work. Consult local for specifics.[6][1]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Utah vs Idaho Comp for Workplace Slips",
-  "description": "Utah caps TTD at $824/wk 312 wks Idaho $1,086/wk 52 wks temp both no-fault but Utah easier reporting.[6][1]",
-  "url": "https://justworkcomplaw.com/qna/slip-and-fall-at-work-difference-utah-vs-idaho-workers-comp-for-work-slips-72"
+  "description": "Utah caps TTD at $824/wk 312 wks Idaho $1,086/wk 52 wks temp both no-fault but Utah easier reporting.[6][1]"
 }

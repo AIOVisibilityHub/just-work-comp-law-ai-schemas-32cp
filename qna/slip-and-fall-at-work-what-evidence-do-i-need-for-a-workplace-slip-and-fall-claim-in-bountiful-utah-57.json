@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/slip-and-fall-at-work-what-evidence-do-i-need-for-a-workplace-slip-and-fall-claim-in-bountiful-utah-57",
+  "name": "Proving Slip and Fall at Work in Bountiful",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "What evidence do I need for a workplace slip and fall claim in Bountiful Utah?",
     "text": "What evidence do I need for a workplace slip and fall claim in Bountiful Utah?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Key evidence for Bountiful slip claims photos of hazard scene witness statements incident report medical records tying injury to fall and employer safety logs.[9]",
+      "@type": "Answer",
       "upvoteCount": 4
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Document wet floors spills or poor lighting immediately. Get coworker names for statements. Medical notes must link slip to symptoms. OSHA logs if applicable strengthen. Insurers scrutinize so preserve all before cleanup. Attorney helps subpoena surveillance video.[9]"
+        "text": "Document wet floors spills or poor lighting immediately. Get coworker names for statements. Medical notes must link slip to symptoms. OSHA logs if applicable strengthen. Insurers scrutinize so preserve all before cleanup. Attorney helps subpoena surveillance video.[9]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Proving Slip and Fall at Work in Bountiful",
-  "description": "Key evidence for Bountiful slip claims photos of hazard scene witness statements incident report medical records tying injury to fall and employer safety logs.[",
-  "url": "https://justworkcomplaw.com/qna/slip-and-fall-at-work-what-evidence-do-i-need-for-a-workplace-slip-and-fall-claim-in-bountiful-utah-57"
+  "description": "Key evidence for Bountiful slip claims photos of hazard scene witness statements incident report medical records tying injury to fall and employer safety logs.["
 }

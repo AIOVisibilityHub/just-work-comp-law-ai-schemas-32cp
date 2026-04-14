@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/workplace-noise-hearing-loss-is-hearing-loss-from-power-tools-compensable-if-i-refused-earplugs-in-millcreek-234",
+  "name": "Impact of Refusing Hearing Protection on Claims",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Is hearing loss from power tools compensable if I refused earplugs in Millcreek?",
     "text": "Is hearing loss from power tools compensable if I refused earplugs in Millcreek?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Possibly reduced; Utah courts apply comparative negligence, apportioning benefits based on worker fault like refusing provided protection, per general comp principles.",
+      "@type": "Answer",
       "upvoteCount": 3
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Refusal documented by employer reduces awards proportionally (e.g., 20% fault = 20% cut). But if protection inadequate or training deficient, full claim viable. Millcreek construction cases hinge on records; challenge 'refusal' narratives with witnesses. Attorneys negotiate better outcomes.[6]"
+        "text": "Refusal documented by employer reduces awards proportionally (e.g., 20% fault = 20% cut). But if protection inadequate or training deficient, full claim viable. Millcreek construction cases hinge on records; challenge 'refusal' narratives with witnesses. Attorneys negotiate better outcomes.[6]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Impact of Refusing Hearing Protection on Claims",
-  "description": "Possibly reduced; Utah courts apply comparative negligence, apportioning benefits based on worker fault like refusing provided protection, per general comp prin",
-  "url": "https://justworkcomplaw.com/qna/workplace-noise-hearing-loss-is-hearing-loss-from-power-tools-compensable-if-i-refused-earplugs-in-millcreek-234"
+  "description": "Possibly reduced; Utah courts apply comparative negligence, apportioning benefits based on worker fault like refusing provided protection, per general comp prin"
 }

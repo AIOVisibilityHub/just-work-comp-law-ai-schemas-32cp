@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/slip-and-fall-at-work-permanent-disability-rating-process-for-knee-slip-in-riverton-74",
+  "name": "Knee Disability Ratings in Riverton Claims",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Permanent disability rating process for knee slip in Riverton?",
     "text": "Permanent disability rating process for knee slip in Riverton?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Post-MMI doctor assigns AMA Guides rating percentage translates to weeks pay at state rate.[7]",
+      "@type": "Answer",
       "upvoteCount": 3
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Dispute ratings via appeals. Surgeons vs adjuster docs differ. 5-20% common knees. Vocational impact adds. Insurers minimize maximize surveillance.[7]"
+        "text": "Dispute ratings via appeals. Surgeons vs adjuster docs differ. 5-20% common knees. Vocational impact adds. Insurers minimize maximize surveillance.[7]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Knee Disability Ratings in Riverton Claims",
-  "description": "Post-MMI doctor assigns AMA Guides rating percentage translates to weeks pay at state rate.[7]",
-  "url": "https://justworkcomplaw.com/qna/slip-and-fall-at-work-permanent-disability-rating-process-for-knee-slip-in-riverton-74"
+  "description": "Post-MMI doctor assigns AMA Guides rating percentage translates to weeks pay at state rate.[7]"
 }

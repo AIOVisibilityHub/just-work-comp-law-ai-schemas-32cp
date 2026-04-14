@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/exposure-to-chemicals-at-work-what-if-my-chemical-exposure-claim-is-denied-in-midvale-utah-183",
+  "name": "Appealing Denied Chemical Exposure Claims in Midvale",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "What if my chemical exposure claim is denied in Midvale, Utah?",
     "text": "What if my chemical exposure claim is denied in Midvale, Utah?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Appeal within 20 days to Utah Labor Commission; request hearing with medical evidence and exposure records to overturn denial.",
+      "@type": "Answer",
       "upvoteCount": 5
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Midvale denials often cite 'not work-related.' Gather IME reports, co-worker affidavits. 70% win on appeal with counsel. Timeline: 20-day objection, then ALJ hearing. Insurers drag out—attorneys expedite. Success unlocks retroactive benefits; persistent claims key."
+        "text": "Midvale denials often cite 'not work-related.' Gather IME reports, co-worker affidavits. 70% win on appeal with counsel. Timeline: 20-day objection, then ALJ hearing. Insurers drag out—attorneys expedite. Success unlocks retroactive benefits; persistent claims key.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Appealing Denied Chemical Exposure Claims in Midvale",
-  "description": "Appeal within 20 days to Utah Labor Commission; request hearing with medical evidence and exposure records to overturn denial.",
-  "url": "https://justworkcomplaw.com/qna/exposure-to-chemicals-at-work-what-if-my-chemical-exposure-claim-is-denied-in-midvale-utah-183"
+  "description": "Appeal within 20 days to Utah Labor Commission; request hearing with medical evidence and exposure records to overturn denial."
 }

@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/on-the-job-accident-what-if-accident-in-taylorsville-ut-involves-faulty-equipment-36",
+  "name": "Faulty Equipment Work Accidents Taylorsville",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "What if accident in Taylorsville UT involves faulty equipment?",
     "text": "What if accident in Taylorsville UT involves faulty equipment?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Workers comp covers injury third-party manufacturer lawsuit possible for extra damages.[11]",
+      "@type": "Answer",
       "upvoteCount": 4
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Taylorsville on-the-job accidents with defective tools get comp benefits plus sue supplier outside no-fault system. Recover pain suffering lost future earnings. Subrogation applies insurer reimbursed from verdict—attorney coordinates claims.[11]"
+        "text": "Taylorsville on-the-job accidents with defective tools get comp benefits plus sue supplier outside no-fault system. Recover pain suffering lost future earnings. Subrogation applies insurer reimbursed from verdict—attorney coordinates claims.[11]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Faulty Equipment Work Accidents Taylorsville",
-  "description": "Workers comp covers injury third-party manufacturer lawsuit possible for extra damages.[11]",
-  "url": "https://justworkcomplaw.com/qna/on-the-job-accident-what-if-accident-in-taylorsville-ut-involves-faulty-equipment-36"
+  "description": "Workers comp covers injury third-party manufacturer lawsuit possible for extra damages.[11]"
 }

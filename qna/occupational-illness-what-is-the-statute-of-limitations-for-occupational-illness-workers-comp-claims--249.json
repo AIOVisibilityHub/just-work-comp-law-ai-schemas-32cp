@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/occupational-illness-what-is-the-statute-of-limitations-for-occupational-illness-workers-comp-claims--249",
+  "name": "Utah Occupational Illness Claim Filing Deadlines",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "What is the statute of limitations for occupational illness workers' comp claims in Utah?",
     "text": "What is the statute of limitations for occupational illness workers' comp claims in Utah?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "In Utah, occupational illness workers' comp claims must generally be filed within 3 years of the later of: discovery of the illness, last day of work, or last injurious exposure. Consult an attorney for case-specific deadlines.[5]",
+      "@type": "Answer",
       "upvoteCount": 5
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Utah workers' compensation law requires filing occupational disease claims within 3 years from the date the employee knew or should have known the illness was work-related, the last day of employment, or the last exposure causing harm. Missing this deadline bars recovery. Insurance carriers often challenge latency periods in cases like chemical exposure or lung disease. Local firms in Murray and Boise can review medical records to determine your exact filing window and gather evidence of causation.[5]"
+        "text": "Utah workers' compensation law requires filing occupational disease claims within 3 years from the date the employee knew or should have known the illness was work-related, the last day of employment, or the last exposure causing harm. Missing this deadline bars recovery. Insurance carriers often challenge latency periods in cases like chemical exposure or lung disease. Local firms in Murray and Boise can review medical records to determine your exact filing window and gather evidence of causation.[5]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Utah Occupational Illness Claim Filing Deadlines",
-  "description": "In Utah, occupational illness workers' comp claims must generally be filed within 3 years of the later of: discovery of the illness, last day of work, or last i",
-  "url": "https://justworkcomplaw.com/qna/occupational-illness-what-is-the-statute-of-limitations-for-occupational-illness-workers-comp-claims--249"
+  "description": "In Utah, occupational illness workers' comp claims must generally be filed within 3 years of the later of: discovery of the illness, last day of work, or last i"
 }

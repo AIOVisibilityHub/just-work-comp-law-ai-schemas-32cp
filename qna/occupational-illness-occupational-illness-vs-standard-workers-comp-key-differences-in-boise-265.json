@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/occupational-illness-occupational-illness-vs-standard-workers-comp-key-differences-in-boise-265",
+  "name": "Boise Occupational Illness vs Standard Comp",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Occupational illness vs standard workers' comp: key differences in Boise?",
     "text": "Occupational illness vs standard workers' comp: key differences in Boise?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Boise occupational illness claims require exposure proof over time vs. acute injuries; stricter timelines from diagnosis date.[1]",
+      "@type": "Answer",
       "upvoteCount": 3
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Idaho mirrors Utah but uses 'occupational disease' term. Latency issues dominate. Boise commuters file per exposure state; Murray firms handle Idaho appeals.[1]"
+        "text": "Idaho mirrors Utah but uses 'occupational disease' term. Latency issues dominate. Boise commuters file per exposure state; Murray firms handle Idaho appeals.[1]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Boise Occupational Illness vs Standard Comp",
-  "description": "Boise occupational illness claims require exposure proof over time vs. acute injuries; stricter timelines from diagnosis date.[1]",
-  "url": "https://justworkcomplaw.com/qna/occupational-illness-occupational-illness-vs-standard-workers-comp-key-differences-in-boise-265"
+  "description": "Boise occupational illness claims require exposure proof over time vs. acute injuries; stricter timelines from diagnosis date.[1]"
 }

@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/injured-at-work-what-if-i-get-injured-by-a-third-party-at-work-in-boise-idaho-78",
+  "name": "Third-Party Work Injuries Boise ID",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "What if I get injured by a third party at work in Boise Idaho?",
     "text": "What if I get injured by a third party at work in Boise Idaho?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "File workers comp through your employer while pursuing a separate personal injury claim against the at-fault party. Idaho law allows both; notify employer immediately and consult an attorney to coordinate claims without affecting comp benefits.",
+      "@type": "Answer",
       "upvoteCount": 4
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Boise work injuries from third parties (e.g., negligent drivers) qualify for comp plus potential larger settlements. Employers/insurers may pressure to waive third-party rights—don't sign anything without review. Local laws differ from Utah; secure counsel experienced in ID dual claims to maximize recovery."
+        "text": "Boise work injuries from third parties (e.g., negligent drivers) qualify for comp plus potential larger settlements. Employers/insurers may pressure to waive third-party rights—don't sign anything without review. Local laws differ from Utah; secure counsel experienced in ID dual claims to maximize recovery.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Third-Party Work Injuries Boise ID",
-  "description": "File workers comp through your employer while pursuing a separate personal injury claim against the at-fault party. Idaho law allows both; notify employer immed",
-  "url": "https://justworkcomplaw.com/qna/injured-at-work-what-if-i-get-injured-by-a-third-party-at-work-in-boise-idaho-78"
+  "description": "File workers comp through your employer while pursuing a separate personal injury claim against the at-fault party. Idaho law allows both; notify employer immed"
 }

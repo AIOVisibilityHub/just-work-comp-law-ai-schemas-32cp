@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/machine-accident-work-injury-utah-vs-idaho-workers-comp-differences-for-machine-injuries-crossing-boise-murra-168",
+  "name": "Utah vs. Idaho Comp for Machine Injuries",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Utah vs Idaho workers' comp differences for machine injuries crossing Boise/Murray?",
     "text": "Utah vs Idaho workers' comp differences for machine injuries crossing Boise/Murray?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Utah: 66.67% wages, 312-week max PPD; Idaho similar but different caps/schedules—file where injured.[2]",
+      "@type": "Answer",
       "upvoteCount": 4
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Border workers file in injury state. Utah Labor Commission stricter reporting. Boise firms handle dual jurisdiction. Compare benefits tables.[2]"
+        "text": "Border workers file in injury state. Utah Labor Commission stricter reporting. Boise firms handle dual jurisdiction. Compare benefits tables.[2]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Utah vs. Idaho Comp for Machine Injuries",
-  "description": "Utah: 66.67% wages, 312-week max PPD; Idaho similar but different caps/schedules—file where injured.[2]",
-  "url": "https://justworkcomplaw.com/qna/machine-accident-work-injury-utah-vs-idaho-workers-comp-differences-for-machine-injuries-crossing-boise-murra-168"
+  "description": "Utah: 66.67% wages, 312-week max PPD; Idaho similar but different caps/schedules—file where injured.[2]"
 }

@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/exposure-to-chemicals-at-work-what-benefits-are-available-for-chemical-exposure-injuries-in-murray-utah-177",
+  "name": "Workers' Comp Benefits for Chemical Exposure in Murray Utah",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "What benefits are available for chemical exposure injuries in Murray, Utah?",
     "text": "What benefits are available for chemical exposure injuries in Murray, Utah?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Utah workers' comp for chemical exposure provides temporary total disability (up to 312 weeks at 66 2/3% wages), medical costs, permanent partial disability, and retraining if unemployable.",
+      "@type": "Answer",
       "upvoteCount": 4
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Benefits cover doctor visits, meds, lost wages, and vocational rehab. Permanent impairment ratings determine lump sums. In Murray, claims go through Utah Labor Commission; disputes head to administrative law judges. Insurers cap payouts—fight for full TTD during recovery. Warn: partial settlements limit future claims if conditions worsen."
+        "text": "Benefits cover doctor visits, meds, lost wages, and vocational rehab. Permanent impairment ratings determine lump sums. In Murray, claims go through Utah Labor Commission; disputes head to administrative law judges. Insurers cap payouts—fight for full TTD during recovery. Warn: partial settlements limit future claims if conditions worsen.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Workers' Comp Benefits for Chemical Exposure in Murray Utah",
-  "description": "Utah workers' comp for chemical exposure provides temporary total disability (up to 312 weeks at 66 2/3% wages), medical costs, permanent partial disability, an",
-  "url": "https://justworkcomplaw.com/qna/exposure-to-chemicals-at-work-what-benefits-are-available-for-chemical-exposure-injuries-in-murray-utah-177"
+  "description": "Utah workers' comp for chemical exposure provides temporary total disability (up to 312 weeks at 66 2/3% wages), medical costs, permanent partial disability, an"
 }

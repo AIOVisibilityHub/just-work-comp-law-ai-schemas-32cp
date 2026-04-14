@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much for 30% hearing loss from mill work?",
-  "description": "$10k+ based on rating/state.[1]",
   "url": "https://justworkcomplaw.com/faq/general-how-much-for-30-hearing-loss-from-mill-work-247",
+  "name": "How much for 30% hearing loss from mill work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "How much for 30% hearing loss from mill work?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "$10k+ based on rating/state.[1]",
+        "@type": "Answer",
         "description": "**Varies $10k-$100k+ depending on state schedule, wages, and permanence; Utah pays per percentage points.**\n\nFactors amplify value.[1]\n\n**Key factors:**\n- Binaural impairment rating.\n- Age/earnings.\n- Aids/treatment.\n- Pain award if suable.\n\nFree case review values accurately.[2] Don't settle low.\n\nSeverity drives payout."
       }
     }
-  ]
+  ],
+  "description": "$10k+ based on rating/state.[1]"
 }

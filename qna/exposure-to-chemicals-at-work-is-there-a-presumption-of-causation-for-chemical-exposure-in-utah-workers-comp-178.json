@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/exposure-to-chemicals-at-work-is-there-a-presumption-of-causation-for-chemical-exposure-in-utah-workers-comp-178",
+  "name": "Causation Presumptions for Chemical Exposure in Utah Workers' Comp",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Is there a presumption of causation for chemical exposure in Utah workers' comp?",
     "text": "Is there a presumption of causation for chemical exposure in Utah workers' comp?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "No general presumption exists in Utah for chemical exposure; you must prove work-relatedness, unlike federal EEOICPA for DOE sites. Some irritant exposures may qualify under specific rules.",
+      "@type": "Answer",
       "upvoteCount": 3
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Utah requires affirmative proof via medical experts, unlike Hanford's federal presumptions. Common chemicals like benzene lack state presumptions, making claims harder. In West Valley City cases, use OSHA logs and biomonitoring. Attorneys counter insurer denials by building scientific causation chains. Delaying weakens evidence."
+        "text": "Utah requires affirmative proof via medical experts, unlike Hanford's federal presumptions. Common chemicals like benzene lack state presumptions, making claims harder. In West Valley City cases, use OSHA logs and biomonitoring. Attorneys counter insurer denials by building scientific causation chains. Delaying weakens evidence.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Causation Presumptions for Chemical Exposure in Utah Workers' Comp",
-  "description": "No general presumption exists in Utah for chemical exposure; you must prove work-relatedness, unlike federal EEOICPA for DOE sites. Some irritant exposures may ",
-  "url": "https://justworkcomplaw.com/qna/exposure-to-chemicals-at-work-is-there-a-presumption-of-causation-for-chemical-exposure-in-utah-workers-comp-178"
+  "description": "No general presumption exists in Utah for chemical exposure; you must prove work-relatedness, unlike federal EEOICPA for DOE sites. Some irritant exposures may "
 }

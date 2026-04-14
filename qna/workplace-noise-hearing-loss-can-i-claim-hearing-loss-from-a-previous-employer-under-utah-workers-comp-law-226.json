@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/workplace-noise-hearing-loss-can-i-claim-hearing-loss-from-a-previous-employer-under-utah-workers-comp-law-226",
+  "name": "Claiming Hearing Loss from Previous Employers in Utah",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Can I claim hearing loss from a previous employer under Utah workers' comp law?",
     "text": "Can I claim hearing loss from a previous employer under Utah workers' comp law?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "No, Utah Code 34A-2-504 limits employer liability to hearing loss occurring during employment with that specific employer. Prior occupational or nonoccupational loss, proven by evidence, is not compensable against the current employer.",
+      "@type": "Answer",
       "upvoteCount": 5
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Utah law holds each employer responsible only for incremental hearing damage during their employment. Pre-existing loss from past jobs or non-work causes must be documented via baseline audiograms to deduct from claims. This 'successive injury' rule complicates multi-employer cases; apportionment requires expert testimony. Workers with long careers in noisy industries often face reduced awards—legal expertise is essential.[4]"
+        "text": "Utah law holds each employer responsible only for incremental hearing damage during their employment. Pre-existing loss from past jobs or non-work causes must be documented via baseline audiograms to deduct from claims. This 'successive injury' rule complicates multi-employer cases; apportionment requires expert testimony. Workers with long careers in noisy industries often face reduced awards—legal expertise is essential.[4]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Claiming Hearing Loss from Previous Employers in Utah",
-  "description": "No, Utah Code 34A-2-504 limits employer liability to hearing loss occurring during employment with that specific employer. Prior occupational or nonoccupational",
-  "url": "https://justworkcomplaw.com/qna/workplace-noise-hearing-loss-can-i-claim-hearing-loss-from-a-previous-employer-under-utah-workers-comp-law-226"
+  "description": "No, Utah Code 34A-2-504 limits employer liability to hearing loss occurring during employment with that specific employer. Prior occupational or nonoccupational"
 }

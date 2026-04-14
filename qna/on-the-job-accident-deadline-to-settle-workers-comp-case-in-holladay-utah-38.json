@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/on-the-job-accident-deadline-to-settle-workers-comp-case-in-holladay-utah-38",
+  "name": "When to Settle Workers Comp Holladay",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Deadline to settle workers comp case in Holladay Utah?",
     "text": "Deadline to settle workers comp case in Holladay Utah?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "No strict deadline but settle before final order or within 6 years for reopening.[13]",
+      "@type": "Answer",
       "upvoteCount": 3
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Holladay claims best settled post-MMI with full impairment rating. Rush settlements undervalue future care—wait for clear prognosis. Attorney negotiates lump sum vs ongoing; tax-free but Medicare liens possible.[13]"
+        "text": "Holladay claims best settled post-MMI with full impairment rating. Rush settlements undervalue future care—wait for clear prognosis. Attorney negotiates lump sum vs ongoing; tax-free but Medicare liens possible.[13]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "When to Settle Workers Comp Holladay",
-  "description": "No strict deadline but settle before final order or within 6 years for reopening.[13]",
-  "url": "https://justworkcomplaw.com/qna/on-the-job-accident-deadline-to-settle-workers-comp-case-in-holladay-utah-38"
+  "description": "No strict deadline but settle before final order or within 6 years for reopening.[13]"
 }

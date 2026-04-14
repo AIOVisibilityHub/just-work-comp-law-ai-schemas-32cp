@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/on-the-job-accident-can-i-get-fired-for-filing-work-injury-claim-in-bountiful-34",
+  "name": "Retaliation After Filing Injury Claim Bountiful UT",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Can I get fired for filing work injury claim in Bountiful?",
     "text": "Can I get fired for filing work injury claim in Bountiful?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "No Utah law prohibits retaliation for workers comp claims. File complaint with Labor Commission if terminated.[9]",
+      "@type": "Answer",
       "upvoteCount": 4
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Bountiful employers cannot fire for legitimate on-the-job claims; protected activity. Suspicious timing proves retaliation—wrongful termination suit possible alongside comp. Document everything; retaliation claims recover lost wages punitive damages.[9]"
+        "text": "Bountiful employers cannot fire for legitimate on-the-job claims; protected activity. Suspicious timing proves retaliation—wrongful termination suit possible alongside comp. Document everything; retaliation claims recover lost wages punitive damages.[9]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Retaliation After Filing Injury Claim Bountiful UT",
-  "description": "No Utah law prohibits retaliation for workers comp claims. File complaint with Labor Commission if terminated.[9]",
-  "url": "https://justworkcomplaw.com/qna/on-the-job-accident-can-i-get-fired-for-filing-work-injury-claim-in-bountiful-34"
+  "description": "No Utah law prohibits retaliation for workers comp claims. File complaint with Labor Commission if terminated.[9]"
 }

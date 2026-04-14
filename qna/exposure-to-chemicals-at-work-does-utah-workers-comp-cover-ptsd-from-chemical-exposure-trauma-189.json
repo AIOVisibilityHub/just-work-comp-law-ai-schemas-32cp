@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/exposure-to-chemicals-at-work-does-utah-workers-comp-cover-ptsd-from-chemical-exposure-trauma-189",
+  "name": "PTSD Claims from Chemical Exposure in Utah Workers' Comp",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Does Utah workers' comp cover PTSD from chemical exposure trauma?",
     "text": "Does Utah workers' comp cover PTSD from chemical exposure trauma?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Yes, if PTSD is compensable mental condition directly from physical exposure injury, per Utah appellate cases.",
+      "@type": "Answer",
       "upvoteCount": 3
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Pure psych claims barred; needs physical link like spill panic. Farmington cases require psychiatrist IME. Insurers deny as pre-existing—prove aggravation. Benefits include therapy; appeals succeed with records."
+        "text": "Pure psych claims barred; needs physical link like spill panic. Farmington cases require psychiatrist IME. Insurers deny as pre-existing—prove aggravation. Benefits include therapy; appeals succeed with records.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "PTSD Claims from Chemical Exposure in Utah Workers' Comp",
-  "description": "Yes, if PTSD is compensable mental condition directly from physical exposure injury, per Utah appellate cases.",
-  "url": "https://justworkcomplaw.com/qna/exposure-to-chemicals-at-work-does-utah-workers-comp-cover-ptsd-from-chemical-exposure-trauma-189"
+  "description": "Yes, if PTSD is compensable mental condition directly from physical exposure injury, per Utah appellate cases."
 }

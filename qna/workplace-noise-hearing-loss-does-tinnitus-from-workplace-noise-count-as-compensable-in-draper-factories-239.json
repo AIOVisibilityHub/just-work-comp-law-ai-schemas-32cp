@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/workplace-noise-hearing-loss-does-tinnitus-from-workplace-noise-count-as-compensable-in-draper-factories-239",
+  "name": "Compensating Tinnitus from Job Noise",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Does tinnitus from workplace noise count as compensable in Draper factories?",
     "text": "Does tinnitus from workplace noise count as compensable in Draper factories?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Yes, if medically linked to NIHL; Utah comp treats tinnitus as scheduled impairment or PPD, often 5-15% rating added to hearing loss awards.",
+      "@type": "Answer",
       "upvoteCount": 3
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Tinnitus bolsters claims, rated separately via AMA guides. Draper manufacturing sees frequent pairings; subjective symptoms need objective tests. Insurers undervalue; specialist reports elevate settlements. Include in initial filings for comprehensive recovery.[1]"
+        "text": "Tinnitus bolsters claims, rated separately via AMA guides. Draper manufacturing sees frequent pairings; subjective symptoms need objective tests. Insurers undervalue; specialist reports elevate settlements. Include in initial filings for comprehensive recovery.[1]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Compensating Tinnitus from Job Noise",
-  "description": "Yes, if medically linked to NIHL; Utah comp treats tinnitus as scheduled impairment or PPD, often 5-15% rating added to hearing loss awards.",
-  "url": "https://justworkcomplaw.com/qna/workplace-noise-hearing-loss-does-tinnitus-from-workplace-noise-count-as-compensable-in-draper-factories-239"
+  "description": "Yes, if medically linked to NIHL; Utah comp treats tinnitus as scheduled impairment or PPD, often 5-15% rating added to hearing loss awards."
 }

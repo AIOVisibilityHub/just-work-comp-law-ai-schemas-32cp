@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/on-the-job-accident-how-calculate-lost-wages-on-the-job-injury-west-valley-city-43",
+  "name": "Calculating Lost Wages Work Injury West Valley",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "How calculate lost wages on-the-job injury West Valley City?",
     "text": "How calculate lost wages on-the-job injury West Valley City?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "66 2/3% average weekly wage up to state max $950/week 2026.[18]",
+      "@type": "Answer",
       "upvoteCount": 3
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "West Valley City AWW based highest 4 prior quarters cap adjusts yearly. Overtime included partial disability prorated. Disputes over calculation common—pay stubs prove accurate AWW.[18]"
+        "text": "West Valley City AWW based highest 4 prior quarters cap adjusts yearly. Overtime included partial disability prorated. Disputes over calculation common—pay stubs prove accurate AWW.[18]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Calculating Lost Wages Work Injury West Valley",
-  "description": "66 2/3% average weekly wage up to state max $950/week 2026.[18]",
-  "url": "https://justworkcomplaw.com/qna/on-the-job-accident-how-calculate-lost-wages-on-the-job-injury-west-valley-city-43"
+  "description": "66 2/3% average weekly wage up to state max $950/week 2026.[18]"
 }

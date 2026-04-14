@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "My claim for hearing loss from machinery was denied. What are my next steps in Utah?",
-  "description": "Appeal to Labor Commission within 30 days, gather medical proof.[8]",
   "url": "https://justworkcomplaw.com/faq/general-my-claim-for-hearing-loss-from-machinery-was-denied-what-are-my-next-steps-in-ut-255",
+  "name": "My claim for hearing loss from machinery was denied. What are my next steps in Utah?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "My claim for hearing loss from machinery was denied. What are my next steps in Utah?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Appeal to Labor Commission within 30 days, gather medical proof.[8]",
+        "@type": "Answer",
         "description": "File a Notice of Appeal with Utah Labor Commission within 30 days of denial.[8] Request a hearing for review.[8] Key factors: (1) Prove AOE/COE and medical causation; (2) Broad coverage presumption; (3) Employer must disprove.[1][8] Gather medical records, witness statements; consider attorney for hearing prep.[8] Appeals can go to Court of Appeals if needed.[8]"
       }
     }
-  ]
+  ],
+  "description": "Appeal to Labor Commission within 30 days, gather medical proof.[8]"
 }

@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/work-injury-claim-how-do-workers-comp-reporting-deadlines-differ-between-utah-and-idaho-for-injuri-101",
+  "name": "Utah vs Idaho Workers Comp Deadlines: Murray vs Boise",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "How do workers comp reporting deadlines differ between Utah and Idaho for injuries in Boise?",
     "text": "How do workers comp reporting deadlines differ between Utah and Idaho for injuries in Boise?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Utah requires injury reports within 180 days, employer notifies insurer in 7 days, insurer decides in 21 days. Idaho mandates reports within 60 days for medical benefits, 180 days for TTD; employer reports immediately. Cross-state employers must comply with both[1][4].",
+      "@type": "Answer",
       "upvoteCount": 5
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "For work injuries spanning Murray UT and Boise ID, Utah's 180-day notice is longer than Idaho's 60 days for medical aid. Failure to meet the stricter deadline risks denial. Consult local rules via state labor commissions; third-party claims may allow lawsuits outside comp. Firm like Just Work Comp Law serves both jurisdictions[1][4]."
+        "text": "For work injuries spanning Murray UT and Boise ID, Utah's 180-day notice is longer than Idaho's 60 days for medical aid. Failure to meet the stricter deadline risks denial. Consult local rules via state labor commissions; third-party claims may allow lawsuits outside comp. Firm like Just Work Comp Law serves both jurisdictions[1][4].",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Utah vs Idaho Workers Comp Deadlines: Murray vs Boise",
-  "description": "Utah requires injury reports within 180 days, employer notifies insurer in 7 days, insurer decides in 21 days. Idaho mandates reports within 60 days for medical",
-  "url": "https://justworkcomplaw.com/qna/work-injury-claim-how-do-workers-comp-reporting-deadlines-differ-between-utah-and-idaho-for-injuri-101"
+  "description": "Utah requires injury reports within 180 days, employer notifies insurer in 7 days, insurer decides in 21 days. Idaho mandates reports within 60 days for medical"
 }

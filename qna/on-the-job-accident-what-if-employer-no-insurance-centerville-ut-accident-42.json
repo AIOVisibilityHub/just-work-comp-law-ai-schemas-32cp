@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/on-the-job-accident-what-if-employer-no-insurance-centerville-ut-accident-42",
+  "name": "No Insurance Employer Accident Centerville",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "What if employer no insurance Centerville UT accident?",
     "text": "What if employer no insurance Centerville UT accident?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Utah Uninsured Employer Fund covers claims hold employer liable personally.[17]",
+      "@type": "Answer",
       "upvoteCount": 4
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Centerville no-insurance on-the-job injuries access state fund after proving noncompliance. Sue employer directly for negligence beyond comp. Fund limits apply—attorney pursues all avenues maximizes recovery.[17]"
+        "text": "Centerville no-insurance on-the-job injuries access state fund after proving noncompliance. Sue employer directly for negligence beyond comp. Fund limits apply—attorney pursues all avenues maximizes recovery.[17]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "No Insurance Employer Accident Centerville",
-  "description": "Utah Uninsured Employer Fund covers claims hold employer liable personally.[17]",
-  "url": "https://justworkcomplaw.com/qna/on-the-job-accident-what-if-employer-no-insurance-centerville-ut-accident-42"
+  "description": "Utah Uninsured Employer Fund covers claims hold employer liable personally.[17]"
 }

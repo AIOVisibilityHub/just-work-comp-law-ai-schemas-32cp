@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/workplace-injury-how-do-i-report-a-workplace-injury-to-my-employer-in-west-jordan-utah-3",
+  "name": "Step-by-Step: Reporting Injury to Employer in Utah",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "How do I report a workplace injury to my employer in West Jordan, Utah?",
     "text": "How do I report a workplace injury to my employer in West Jordan, Utah?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Notify your employer orally or in writing immediately, ideally within 24 hours. Provide injury details, date, time, and witnesses. Utah requires formal notice within 180 days.",
+      "@type": "Answer",
       "upvoteCount": 4
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Use a written incident report form if available. Verbal notice starts the process, but written protects you. Employers must report to Utah Labor Commission within 7 days for lost-time injuries. Failure to report promptly can jeopardize benefits; insurers scrutinize delays in Sandy/West Jordan claims."
+        "text": "Use a written incident report form if available. Verbal notice starts the process, but written protects you. Employers must report to Utah Labor Commission within 7 days for lost-time injuries. Failure to report promptly can jeopardize benefits; insurers scrutinize delays in Sandy/West Jordan claims.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Step-by-Step: Reporting Injury to Employer in Utah",
-  "description": "Notify your employer orally or in writing immediately, ideally within 24 hours. Provide injury details, date, time, and witnesses. Utah requires formal notice w",
-  "url": "https://justworkcomplaw.com/qna/workplace-injury-how-do-i-report-a-workplace-injury-to-my-employer-in-west-jordan-utah-3"
+  "description": "Notify your employer orally or in writing immediately, ideally within 24 hours. Provide injury details, date, time, and witnesses. Utah requires formal notice w"
 }

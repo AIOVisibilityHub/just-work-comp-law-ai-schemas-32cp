@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/workplace-injury-what-if-mental-health-injury-from-workplace-trauma-in-bountiful-17",
+  "name": "Mental Health Claims in Utah Workers' Comp",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "What if mental health injury from workplace trauma in Bountiful?",
     "text": "What if mental health injury from workplace trauma in Bountiful?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Utah covers psychological injuries if result of physical trauma or extraordinary stress.",
+      "@type": "Answer",
       "upvoteCount": 4
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Requires medical diagnosis, work causation. Harder to prove; psychiatrist reports key. Insurers deny as pre-existing; appeals succeed with evidence."
+        "text": "Requires medical diagnosis, work causation. Harder to prove; psychiatrist reports key. Insurers deny as pre-existing; appeals succeed with evidence.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Mental Health Claims in Utah Workers' Comp",
-  "description": "Utah covers psychological injuries if result of physical trauma or extraordinary stress.",
-  "url": "https://justworkcomplaw.com/qna/workplace-injury-what-if-mental-health-injury-from-workplace-trauma-in-bountiful-17"
+  "description": "Utah covers psychological injuries if result of physical trauma or extraordinary stress."
 }

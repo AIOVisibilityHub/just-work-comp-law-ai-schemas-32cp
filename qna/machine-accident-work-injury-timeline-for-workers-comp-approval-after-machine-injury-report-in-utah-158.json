@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/machine-accident-work-injury-timeline-for-workers-comp-approval-after-machine-injury-report-in-utah-158",
+  "name": "Workers' Comp Approval Timeline for Machine Injuries",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Timeline for workers' comp approval after machine injury report in Utah?",
     "text": "Timeline for workers' comp approval after machine injury report in Utah?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Employers report within days; insurers decide within 45 days, but disputes go to Labor Commission mediation/hearing in 3-6 months.[2][4]",
+      "@type": "Answer",
       "upvoteCount": 3
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Initial benefits start fast if undisputed, but machine claims often contested. File objections timely. Murray or South Salt Lake firms expedite via Division assistance. Track status online via Labor Commission portal.[2]"
+        "text": "Initial benefits start fast if undisputed, but machine claims often contested. File objections timely. Murray or South Salt Lake firms expedite via Division assistance. Track status online via Labor Commission portal.[2]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Workers' Comp Approval Timeline for Machine Injuries",
-  "description": "Employers report within days; insurers decide within 45 days, but disputes go to Labor Commission mediation/hearing in 3-6 months.[2][4]",
-  "url": "https://justworkcomplaw.com/qna/machine-accident-work-injury-timeline-for-workers-comp-approval-after-machine-injury-report-in-utah-158"
+  "description": "Employers report within days; insurers decide within 45 days, but disputes go to Labor Commission mediation/hearing in 3-6 months.[2][4]"
 }

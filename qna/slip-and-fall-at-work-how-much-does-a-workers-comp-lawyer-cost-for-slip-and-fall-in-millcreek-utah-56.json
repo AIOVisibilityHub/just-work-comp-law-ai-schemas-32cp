@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/slip-and-fall-at-work-how-much-does-a-workers-comp-lawyer-cost-for-slip-and-fall-in-millcreek-utah-56",
+  "name": "Lawyer Fees for Work Slip Cases in Millcreek",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "How much does a workers' comp lawyer cost for slip and fall in Millcreek Utah?",
     "text": "How much does a workers' comp lawyer cost for slip and fall in Millcreek Utah?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Millcreek Utah workers' comp lawyers work on contingency 15-20% of awarded benefits no upfront fees. Court approves fees only from past due benefits.[7]",
+      "@type": "Answer",
       "upvoteCount": 3
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "No win no fee structure common. Fees deducted from lump sums or back pay not future benefits. Free consults standard in Salt Lake area. Higher recovery often offsets fees as insurers settle faster with counsel. Beware general PI firms unfamiliar with comp nuances.[7]"
+        "text": "No win no fee structure common. Fees deducted from lump sums or back pay not future benefits. Free consults standard in Salt Lake area. Higher recovery often offsets fees as insurers settle faster with counsel. Beware general PI firms unfamiliar with comp nuances.[7]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Lawyer Fees for Work Slip Cases in Millcreek",
-  "description": "Millcreek Utah workers' comp lawyers work on contingency 15-20% of awarded benefits no upfront fees. Court approves fees only from past due benefits.[7]",
-  "url": "https://justworkcomplaw.com/qna/slip-and-fall-at-work-how-much-does-a-workers-comp-lawyer-cost-for-slip-and-fall-in-millcreek-utah-56"
+  "description": "Millcreek Utah workers' comp lawyers work on contingency 15-20% of awarded benefits no upfront fees. Court approves fees only from past due benefits.[7]"
 }

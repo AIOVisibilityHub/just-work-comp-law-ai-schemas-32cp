@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/on-the-job-accident-what-evidence-needed-prove-work-accident-sandy-utah-46",
+  "name": "Proving On-the-Job Accident Sandy UT",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "What evidence needed prove work accident Sandy Utah?",
     "text": "What evidence needed prove work accident Sandy Utah?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Incident report witnesses medical records surveillance video.[21]",
+      "@type": "Answer",
       "upvoteCount": 4
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Sandy claims fail without contemporaneous proof; photos timestamps bolster. Insurers investigate discredit—secure evidence fast. Vocational reports for long-term impact.[21]"
+        "text": "Sandy claims fail without contemporaneous proof; photos timestamps bolster. Insurers investigate discredit—secure evidence fast. Vocational reports for long-term impact.[21]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Proving On-the-Job Accident Sandy UT",
-  "description": "Incident report witnesses medical records surveillance video.[21]",
-  "url": "https://justworkcomplaw.com/qna/on-the-job-accident-what-evidence-needed-prove-work-accident-sandy-utah-46"
+  "description": "Incident report witnesses medical records surveillance video.[21]"
 }

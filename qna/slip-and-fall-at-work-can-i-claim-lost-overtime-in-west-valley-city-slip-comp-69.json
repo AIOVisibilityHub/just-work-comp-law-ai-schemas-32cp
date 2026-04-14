@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/slip-and-fall-at-work-can-i-claim-lost-overtime-in-west-valley-city-slip-comp-69",
+  "name": "Overtime in West Valley City Comp Calculations",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Can I claim lost overtime in West Valley City slip comp?",
     "text": "Can I claim lost overtime in West Valley City slip comp?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Yes if overtime regular pre-injury Utah comp calculates AWW including overtime up to 260 weeks.[7]",
+      "@type": "Answer",
       "upvoteCount": 3
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Prove pattern with paystubs. Insurers exclude arguing temporary. Appeals uphold if documented. Impacts settlement value significantly for hourly workers.[7]"
+        "text": "Prove pattern with paystubs. Insurers exclude arguing temporary. Appeals uphold if documented. Impacts settlement value significantly for hourly workers.[7]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Overtime in West Valley City Comp Calculations",
-  "description": "Yes if overtime regular pre-injury Utah comp calculates AWW including overtime up to 260 weeks.[7]",
-  "url": "https://justworkcomplaw.com/qna/slip-and-fall-at-work-can-i-claim-lost-overtime-in-west-valley-city-slip-comp-69"
+  "description": "Yes if overtime regular pre-injury Utah comp calculates AWW including overtime up to 260 weeks.[7]"
 }

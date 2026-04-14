@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/injured-at-work-how-to-prove-injury-work-related-in-sandy-utah-96",
+  "name": "Proving Work-Related Sandy",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "How to prove injury work-related in Sandy Utah?",
     "text": "How to prove injury work-related in Sandy Utah?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Incident report, witness statements, surveillance video, consistent medical records.",
+      "@type": "Answer",
       "upvoteCount": 4
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Sandy disputes common; gather employer logs, co-worker affidavits. Attorney subpoenas evidence, expert testimony."
+        "text": "Sandy disputes common; gather employer logs, co-worker affidavits. Attorney subpoenas evidence, expert testimony.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Proving Work-Related Sandy",
-  "description": "Incident report, witness statements, surveillance video, consistent medical records.",
-  "url": "https://justworkcomplaw.com/qna/injured-at-work-how-to-prove-injury-work-related-in-sandy-utah-96"
+  "description": "Incident report, witness statements, surveillance video, consistent medical records."
 }

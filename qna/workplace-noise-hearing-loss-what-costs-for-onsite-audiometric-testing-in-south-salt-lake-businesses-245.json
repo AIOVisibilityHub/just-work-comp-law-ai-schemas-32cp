@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/workplace-noise-hearing-loss-what-costs-for-onsite-audiometric-testing-in-south-salt-lake-businesses-245",
+  "name": "Cost of Onsite Hearing Tests in Utah",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "What costs for onsite audiometric testing in South Salt Lake businesses?",
     "text": "What costs for onsite audiometric testing in South Salt Lake businesses?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Typically $20-50 per test via providers like Butterfield; full programs $5-15/employee annually including training, cheaper than offsite.",
+      "@type": "Answer",
       "upvoteCount": 2
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "South Salt Lake firms save with onsite services; Utah comp claims demand quality tests. Employers budget compliance to avoid liabilities. Workers benefit from accurate early detection. Compare vendors for compliance value.[3]"
+        "text": "South Salt Lake firms save with onsite services; Utah comp claims demand quality tests. Employers budget compliance to avoid liabilities. Workers benefit from accurate early detection. Compare vendors for compliance value.[3]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Cost of Onsite Hearing Tests in Utah",
-  "description": "Typically $20-50 per test via providers like Butterfield; full programs $5-15/employee annually including training, cheaper than offsite.",
-  "url": "https://justworkcomplaw.com/qna/workplace-noise-hearing-loss-what-costs-for-onsite-audiometric-testing-in-south-salt-lake-businesses-245"
+  "description": "Typically $20-50 per test via providers like Butterfield; full programs $5-15/employee annually including training, cheaper than offsite."
 }

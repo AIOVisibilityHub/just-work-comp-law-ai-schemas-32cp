@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long do I have to file a workers comp claim for work-related breathing problems from dust in Boise?",
-  "description": "File promptly from last exposure/diagnosis; typically 1-3 years in Utah, notify employer now.[1]",
   "url": "https://justworkcomplaw.com/faq/general-how-long-do-i-have-to-file-a-workers-comp-claim-for-work-related-breathing-probl-252",
+  "name": "How long do I have to file a workers comp claim for work-related breathing problems from dust in Boise?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "How long do I have to file a workers comp claim for work-related breathing problems from dust in Boise?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "File promptly from last exposure/diagnosis; typically 1-3 years in Utah, notify employer now.[1]",
+        "@type": "Answer",
         "description": "Utah requires filing occupational disease claims promptly, with statutes analyzed based on last injurious exposure date.[1] Deadlines vary but generally 1-3 years from diagnosis or discovery, favoring broad coverage.[1] Key factors: (1) Presumption if on premises/clock; (2) Multiple exposures need careful timing; (3) Sue third parties within 4 years for negligence.[1] Notify employer immediately, document medically, file with Labor Commission; get legal review to avoid bars.[1] Missing deadlines forfeits benefits."
       }
     }
-  ]
+  ],
+  "description": "File promptly from last exposure/diagnosis; typically 1-3 years in Utah, notify employer now.[1]"
 }

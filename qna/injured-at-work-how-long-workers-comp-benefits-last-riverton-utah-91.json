@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/injured-at-work-how-long-workers-comp-benefits-last-riverton-utah-91",
+  "name": "Benefit Duration Riverton",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "How long workers comp benefits last Riverton Utah?",
     "text": "How long workers comp benefits last Riverton Utah?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "TTD until MMI (up to 312 weeks), then PPD/lifetime medical if approved.",
+      "@type": "Answer",
       "upvoteCount": 3
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Riverton caps: 78 weeks TTD post-2010, extensions possible. Insurers cut off prematurely; lawyer proves ongoing need for extended pay."
+        "text": "Riverton caps: 78 weeks TTD post-2010, extensions possible. Insurers cut off prematurely; lawyer proves ongoing need for extended pay.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Benefit Duration Riverton",
-  "description": "TTD until MMI (up to 312 weeks), then PPD/lifetime medical if approved.",
-  "url": "https://justworkcomplaw.com/qna/injured-at-work-how-long-workers-comp-benefits-last-riverton-utah-91"
+  "description": "TTD until MMI (up to 312 weeks), then PPD/lifetime medical if approved."
 }

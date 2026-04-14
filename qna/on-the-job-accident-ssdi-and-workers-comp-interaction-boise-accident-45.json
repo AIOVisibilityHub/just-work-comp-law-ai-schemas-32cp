@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/on-the-job-accident-ssdi-and-workers-comp-interaction-boise-accident-45",
+  "name": "SSDI vs Workers Comp Boise ID",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "SSDI and workers comp interaction Boise accident?",
     "text": "SSDI and workers comp interaction Boise accident?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Combined cannot exceed pre-injury average wages SSDI offset applies.[20]",
+      "@type": "Answer",
       "upvoteCount": 3
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Boise on-the-job with SSDI approval triggers offset reduce comp dollar-for-dollar over 80% AWW. Plan ahead coordinate applications avoid overpayment clawbacks. Attorney navigates offsets preserves income.[20]"
+        "text": "Boise on-the-job with SSDI approval triggers offset reduce comp dollar-for-dollar over 80% AWW. Plan ahead coordinate applications avoid overpayment clawbacks. Attorney navigates offsets preserves income.[20]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "SSDI vs Workers Comp Boise ID",
-  "description": "Combined cannot exceed pre-injury average wages SSDI offset applies.[20]",
-  "url": "https://justworkcomplaw.com/qna/on-the-job-accident-ssdi-and-workers-comp-interaction-boise-accident-45"
+  "description": "Combined cannot exceed pre-injury average wages SSDI offset applies.[20]"
 }

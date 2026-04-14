@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Noisy plant ignored safety tests—strong case?",
-  "description": "Yes, negligence clear.[1][3]",
   "url": "https://justworkcomplaw.com/faq/general-noisy-plant-ignored-safety-tests-strong-case-248",
+  "name": "Noisy plant ignored safety tests—strong case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Noisy plant ignored safety tests—strong case?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, negligence clear.[1][3]",
+        "@type": "Answer",
         "description": "**Very strong; missing noise assessments prove negligence under OSHA.**\n\nLack of records supports unprotected exposure.[1][3]\n\n**Key factors:**\n- No conservation program.\n- Decibel estimates.\n- Universal coworker risk.\n- Your audiogram.\n\nAttorney demands internal docs.[2] High win odds.\n\nViolations bolster claims."
       }
     }
-  ]
+  ],
+  "description": "Yes, negligence clear.[1][3]"
 }

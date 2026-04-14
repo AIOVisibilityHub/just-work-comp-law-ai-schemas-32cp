@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/occupational-illness-process-to-report-occupational-illness-to-utah-osha-in-murray-260",
+  "name": "Reporting Occupational Illness to Utah OSHA",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Process to report occupational illness to Utah OSHA in Murray?",
     "text": "Process to report occupational illness to Utah OSHA in Murray?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Report Murray occupational illness to Utah OSHA online or call 801-530-6901 within 8 hours for severe cases, 30 days otherwise. Employer must log if recordable.[3]",
+      "@type": "Answer",
       "upvoteCount": 4
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Utah Division handles complaints triggering inspections like Capital Trading case. Reports protect claims by documenting hazards. Coordinate with workers' comp filing; Millcreek lawyers use OSHA citations as leverage against negligent employers.[3]"
+        "text": "Utah Division handles complaints triggering inspections like Capital Trading case. Reports protect claims by documenting hazards. Coordinate with workers' comp filing; Millcreek lawyers use OSHA citations as leverage against negligent employers.[3]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Reporting Occupational Illness to Utah OSHA",
-  "description": "Report Murray occupational illness to Utah OSHA online or call 801-530-6901 within 8 hours for severe cases, 30 days otherwise. Employer must log if recordable.",
-  "url": "https://justworkcomplaw.com/qna/occupational-illness-process-to-report-occupational-illness-to-utah-osha-in-murray-260"
+  "description": "Report Murray occupational illness to Utah OSHA online or call 801-530-6901 within 8 hours for severe cases, 30 days otherwise. Employer must log if recordable."
 }

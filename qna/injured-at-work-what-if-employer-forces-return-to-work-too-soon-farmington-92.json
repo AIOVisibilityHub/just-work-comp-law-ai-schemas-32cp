@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/injured-at-work-what-if-employer-forces-return-to-work-too-soon-farmington-92",
+  "name": "Early Return to Work Farmington",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "What if employer forces return to work too soon Farmington?",
     "text": "What if employer forces return to work too soon Farmington?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Refuse unsafe duty; get doctor release. File modification request if unable to work.",
+      "@type": "Answer",
       "upvoteCount": 4
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Farmington: light duty ok if suitable. Pushback via attorney prevents re-injury, preserves benefits. Retaliation risk high—document refusals."
+        "text": "Farmington: light duty ok if suitable. Pushback via attorney prevents re-injury, preserves benefits. Retaliation risk high—document refusals.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Early Return to Work Farmington",
-  "description": "Refuse unsafe duty; get doctor release. File modification request if unable to work.",
-  "url": "https://justworkcomplaw.com/qna/injured-at-work-what-if-employer-forces-return-to-work-too-soon-farmington-92"
+  "description": "Refuse unsafe duty; get doctor release. File modification request if unable to work."
 }

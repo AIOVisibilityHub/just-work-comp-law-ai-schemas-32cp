@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/exposure-to-chemicals-at-work-does-idaho-cover-chemical-exposure-for-construction-workers-in-west-valley-city-195",
+  "name": "Idaho Comp for Construction Chemical Exposure",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Does Idaho cover chemical exposure for construction workers in West Valley City?",
     "text": "Does Idaho cover chemical exposure for construction workers in West Valley City?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Yes, Idaho covers construction toxics like silica/asphalt fumes if disabling and work-linked.",
+      "@type": "Answer",
       "upvoteCount": 3
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "West Valley cross-border: Idaho if employed there. Benefits match Utah but higher maxs. File Industrial Commission. Construction claims prove via union logs. Beware jurisdiction—local firms clarify."
+        "text": "West Valley cross-border: Idaho if employed there. Benefits match Utah but higher maxs. File Industrial Commission. Construction claims prove via union logs. Beware jurisdiction—local firms clarify.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Idaho Comp for Construction Chemical Exposure",
-  "description": "Yes, Idaho covers construction toxics like silica/asphalt fumes if disabling and work-linked.",
-  "url": "https://justworkcomplaw.com/qna/exposure-to-chemicals-at-work-does-idaho-cover-chemical-exposure-for-construction-workers-in-west-valley-city-195"
+  "description": "Yes, Idaho covers construction toxics like silica/asphalt fumes if disabling and work-linked."
 }

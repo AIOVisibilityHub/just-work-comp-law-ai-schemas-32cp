@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/work-injury-claim-can-i-settle-workers-comp-early-in-taylorsville-before-mmi-121",
+  "name": "Early Comp Settlements Taylorsville",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Can I settle workers comp early in Taylorsville before MMI?",
     "text": "Can I settle workers comp early in Taylorsville before MMI?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Yes, lump-sum settlement via stipulation, Labor Commission approval required[4].",
+      "@type": "Answer",
       "upvoteCount": 4
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Taylorsville: Early buyout risks future needs. Calculate lifetime value; attorney negotiates best terms[3][4]."
+        "text": "Taylorsville: Early buyout risks future needs. Calculate lifetime value; attorney negotiates best terms[3][4].",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Early Comp Settlements Taylorsville",
-  "description": "Yes, lump-sum settlement via stipulation, Labor Commission approval required[4].",
-  "url": "https://justworkcomplaw.com/qna/work-injury-claim-can-i-settle-workers-comp-early-in-taylorsville-before-mmi-121"
+  "description": "Yes, lump-sum settlement via stipulation, Labor Commission approval required[4]."
 }

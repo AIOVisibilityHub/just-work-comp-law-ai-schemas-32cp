@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/workplace-injury-average-settlement-for-knee-injury-warehouse-worker-in-west-jordan-23",
+  "name": "Knee Injury Settlements in Utah Warehouses",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Average settlement for knee injury warehouse worker in West Jordan?",
     "text": "Average settlement for knee injury warehouse worker in West Jordan?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Utah: $25K-$75K depending on surgery, PPI rating, wages lost.",
+      "@type": "Answer",
       "upvoteCount": 4
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Factors: age, job, surgery (meniscus/ACL). 10-20% whole person impairment. Comps from verdicts; negotiate pre-hearing. Insurers settle 80% cases."
+        "text": "Factors: age, job, surgery (meniscus/ACL). 10-20% whole person impairment. Comps from verdicts; negotiate pre-hearing. Insurers settle 80% cases.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Knee Injury Settlements in Utah Warehouses",
-  "description": "Utah: $25K-$75K depending on surgery, PPI rating, wages lost.",
-  "url": "https://justworkcomplaw.com/qna/workplace-injury-average-settlement-for-knee-injury-warehouse-worker-in-west-jordan-23"
+  "description": "Utah: $25K-$75K depending on surgery, PPI rating, wages lost."
 }

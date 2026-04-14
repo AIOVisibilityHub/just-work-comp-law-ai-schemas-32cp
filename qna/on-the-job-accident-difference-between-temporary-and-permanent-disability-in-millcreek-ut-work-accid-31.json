@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/on-the-job-accident-difference-between-temporary-and-permanent-disability-in-millcreek-ut-work-accid-31",
+  "name": "Temporary vs Permanent Disability Millcreek Work Injuries",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Difference between temporary and permanent disability in Millcreek UT work accidents?",
     "text": "Difference between temporary and permanent disability in Millcreek UT work accidents?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Temporary disability pays while healing 66 2/3% wages up to state max. Permanent for lasting impairment rated by doctor.[6]",
+      "@type": "Answer",
       "upvoteCount": 4
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Millcreek on-the-job accidents qualify for TTD until maximum medical improvement then PTD if impairment 0-100% scheduled body parts. Payments vary by injury type; disputes over ratings common—appeal with vocational expert. Permanent benefits lifelong for severe cases.[6]"
+        "text": "Millcreek on-the-job accidents qualify for TTD until maximum medical improvement then PTD if impairment 0-100% scheduled body parts. Payments vary by injury type; disputes over ratings common—appeal with vocational expert. Permanent benefits lifelong for severe cases.[6]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Temporary vs Permanent Disability Millcreek Work Injuries",
-  "description": "Temporary disability pays while healing 66 2/3% wages up to state max. Permanent for lasting impairment rated by doctor.[6]",
-  "url": "https://justworkcomplaw.com/qna/on-the-job-accident-difference-between-temporary-and-permanent-disability-in-millcreek-ut-work-accid-31"
+  "description": "Temporary disability pays while healing 66 2/3% wages up to state max. Permanent for lasting impairment rated by doctor.[6]"
 }

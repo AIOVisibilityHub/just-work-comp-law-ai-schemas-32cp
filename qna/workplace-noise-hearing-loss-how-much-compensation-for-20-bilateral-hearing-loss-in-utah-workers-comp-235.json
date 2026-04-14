@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/workplace-noise-hearing-loss-how-much-compensation-for-20-bilateral-hearing-loss-in-utah-workers-comp-235",
+  "name": "Utah Comp Payouts for Partial Hearing Loss",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "How much compensation for 20% bilateral hearing loss in Utah workers' comp?",
     "text": "How much compensation for 20% bilateral hearing loss in Utah workers' comp?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Utah schedules hearing loss as scheduled injury; 20% binaural impairment typically yields partial lump sum based on state impairment tables, often $5,000-$15,000 depending on wages/age.",
+      "@type": "Answer",
       "upvoteCount": 4
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Compensation uses Utah Impairment Guides for % loss x body part value. Binaural formula: % better ear x 5 + % worse = total %. Plus medical/temporary benefits. Carriers lowball; independent ratings increase payouts. Just Work Comp can maximize via appeals in Murray courts.[4]"
+        "text": "Compensation uses Utah Impairment Guides for % loss x body part value. Binaural formula: % better ear x 5 + % worse = total %. Plus medical/temporary benefits. Carriers lowball; independent ratings increase payouts. Just Work Comp can maximize via appeals in Murray courts.[4]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Utah Comp Payouts for Partial Hearing Loss",
-  "description": "Utah schedules hearing loss as scheduled injury; 20% binaural impairment typically yields partial lump sum based on state impairment tables, often $5,000-$15,00",
-  "url": "https://justworkcomplaw.com/qna/workplace-noise-hearing-loss-how-much-compensation-for-20-bilateral-hearing-loss-in-utah-workers-comp-235"
+  "description": "Utah schedules hearing loss as scheduled injury; 20% binaural impairment typically yields partial lump sum based on state impairment tables, often $5,000-$15,00"
 }

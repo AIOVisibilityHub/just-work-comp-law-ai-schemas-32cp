@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/workplace-injury-proving-cumulative-trauma-injury-like-hearing-loss-in-utah-manufacturing-21",
+  "name": "Cumulative Trauma Claims in Utah",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Proving cumulative trauma injury like hearing loss in Utah manufacturing?",
     "text": "Proving cumulative trauma injury like hearing loss in Utah manufacturing?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Medical expert links exposure duration/intensity to impairment; audiograms.",
+      "@type": "Answer",
       "upvoteCount": 4
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Date of injury = knowledge of disability. OSHA logs support. Insurers contest; longitudinal records strengthen Midvale claims."
+        "text": "Date of injury = knowledge of disability. OSHA logs support. Insurers contest; longitudinal records strengthen Midvale claims.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Cumulative Trauma Claims in Utah",
-  "description": "Medical expert links exposure duration/intensity to impairment; audiograms.",
-  "url": "https://justworkcomplaw.com/qna/workplace-injury-proving-cumulative-trauma-injury-like-hearing-loss-in-utah-manufacturing-21"
+  "description": "Medical expert links exposure duration/intensity to impairment; audiograms."
 }

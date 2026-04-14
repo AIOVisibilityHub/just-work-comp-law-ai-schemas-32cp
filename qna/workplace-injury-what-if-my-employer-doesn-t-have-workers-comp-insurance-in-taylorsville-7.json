@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/workplace-injury-what-if-my-employer-doesn-t-have-workers-comp-insurance-in-taylorsville-7",
+  "name": "Handling Uninsured Employers in Utah Work Injuries",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "What if my employer doesn't have workers' comp insurance in Taylorsville?",
     "text": "What if my employer doesn't have workers' comp insurance in Taylorsville?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Utah uninsured employer statute allows direct suit against employer for full damages, plus 10% penalty on benefits owed.",
+      "@type": "Answer",
       "upvoteCount": 4
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "File Uninsured Employer Division claim with Labor Commission. Recover medical, wages, PPI like insured claims, plus negligence lawsuit possible. Common in small construction firms; protects Riverton workers from non-compliant bosses."
+        "text": "File Uninsured Employer Division claim with Labor Commission. Recover medical, wages, PPI like insured claims, plus negligence lawsuit possible. Common in small construction firms; protects Riverton workers from non-compliant bosses.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Handling Uninsured Employers in Utah Work Injuries",
-  "description": "Utah uninsured employer statute allows direct suit against employer for full damages, plus 10% penalty on benefits owed.",
-  "url": "https://justworkcomplaw.com/qna/workplace-injury-what-if-my-employer-doesn-t-have-workers-comp-insurance-in-taylorsville-7"
+  "description": "Utah uninsured employer statute allows direct suit against employer for full damages, plus 10% penalty on benefits owed."
 }

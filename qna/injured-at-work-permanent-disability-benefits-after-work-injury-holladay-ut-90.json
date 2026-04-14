@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/injured-at-work-permanent-disability-benefits-after-work-injury-holladay-ut-90",
+  "name": "Permanent Disability Holladay",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Permanent disability benefits after work injury Holladay UT?",
     "text": "Permanent disability benefits after work injury Holladay UT?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Scheduled impairment rating x body part value, plus wage loss if unemployable. Paid as lump sum or monthly.",
+      "@type": "Answer",
       "upvoteCount": 4
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Holladay: MD rates impairment post-MMI. Utah schedule lists values (e.g., leg loss high). Insurers undervalue; attorney challenges ratings, maximizes PPD."
+        "text": "Holladay: MD rates impairment post-MMI. Utah schedule lists values (e.g., leg loss high). Insurers undervalue; attorney challenges ratings, maximizes PPD.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Permanent Disability Holladay",
-  "description": "Scheduled impairment rating x body part value, plus wage loss if unemployable. Paid as lump sum or monthly.",
-  "url": "https://justworkcomplaw.com/qna/injured-at-work-permanent-disability-benefits-after-work-injury-holladay-ut-90"
+  "description": "Scheduled impairment rating x body part value, plus wage loss if unemployable. Paid as lump sum or monthly."
 }

@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/injured-at-work-difference-between-ttd-and-tpd-in-centerville-utah-comp-93",
+  "name": "TTD vs TPD Centerville",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Difference between TTD and TPD in Centerville Utah comp?",
     "text": "Difference between TTD and TPD in Centerville Utah comp?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "TTD: 100% off work, full wage replacement. TPD: partial duty, reduced pay offset.",
+      "@type": "Answer",
       "upvoteCount": 3
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Centerville claims: TPD lower rate but encourages return. Insurers exaggerate ability; lawyer ensures accurate classification, fights improper reductions."
+        "text": "Centerville claims: TPD lower rate but encourages return. Insurers exaggerate ability; lawyer ensures accurate classification, fights improper reductions.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "TTD vs TPD Centerville",
-  "description": "TTD: 100% off work, full wage replacement. TPD: partial duty, reduced pay offset.",
-  "url": "https://justworkcomplaw.com/qna/injured-at-work-difference-between-ttd-and-tpd-in-centerville-utah-comp-93"
+  "description": "TTD: 100% off work, full wage replacement. TPD: partial duty, reduced pay offset."
 }

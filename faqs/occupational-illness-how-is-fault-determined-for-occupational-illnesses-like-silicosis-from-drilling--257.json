@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How is fault determined for occupational illnesses like silicosis from drilling in Utah?",
-  "description": "No-fault system; prove job causation via medical evidence.[1]",
   "url": "https://justworkcomplaw.com/faq/occupational-illness-how-is-fault-determined-for-occupational-illnesses-like-silicosis-from-drilling--257",
+  "name": "How is fault determined for occupational illnesses like silicosis from drilling in Utah?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "How is fault determined for occupational illnesses like silicosis from drilling in Utah?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "No-fault system; prove job causation via medical evidence.[1]",
+        "@type": "Answer",
         "description": "Workers’ comp is no-fault; benefits if illness arises from employment per AOE/COE.[1] Employer/insurer may challenge causation.[1] Key factors: (1) Presumption on premises; (2) Medical proof shifts burden; (3) Third-party negligence allows suits.[1] Focus on causation evidence, not fault; sue third parties separately for extras.[1] No need to prove employer fault."
       }
     }
-  ]
+  ],
+  "description": "No-fault system; prove job causation via medical evidence.[1]"
 }

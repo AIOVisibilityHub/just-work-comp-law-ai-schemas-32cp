@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/exposure-to-chemicals-at-work-can-my-employer-fire-me-for-filing-a-chemical-exposure-claim-in-sandy-utah-181",
+  "name": "Retaliation Protections for Chemical Exposure Claims in Sandy",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Can my employer fire me for filing a chemical exposure claim in Sandy, Utah?",
     "text": "Can my employer fire me for filing a chemical exposure claim in Sandy, Utah?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "No, Utah law prohibits retaliation for workers' comp filings, including chemical exposure claims; violations allow wrongful termination suits.",
+      "@type": "Answer",
       "upvoteCount": 4
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Utah Code § 34A-2-114 bans discharge or discrimination for claiming benefits. In Sandy, document harassment or demotion post-filing. File retaliation claim within 180 days. Insurers/employers pressure quits—retain rights to full benefits. Local attorneys pursue punitive damages if proven."
+        "text": "Utah Code § 34A-2-114 bans discharge or discrimination for claiming benefits. In Sandy, document harassment or demotion post-filing. File retaliation claim within 180 days. Insurers/employers pressure quits—retain rights to full benefits. Local attorneys pursue punitive damages if proven.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Retaliation Protections for Chemical Exposure Claims in Sandy",
-  "description": "No, Utah law prohibits retaliation for workers' comp filings, including chemical exposure claims; violations allow wrongful termination suits.",
-  "url": "https://justworkcomplaw.com/qna/exposure-to-chemicals-at-work-can-my-employer-fire-me-for-filing-a-chemical-exposure-claim-in-sandy-utah-181"
+  "description": "No, Utah law prohibits retaliation for workers' comp filings, including chemical exposure claims; violations allow wrongful termination suits."
 }

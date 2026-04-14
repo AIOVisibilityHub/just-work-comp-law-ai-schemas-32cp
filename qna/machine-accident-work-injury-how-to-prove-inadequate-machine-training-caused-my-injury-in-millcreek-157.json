@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/machine-accident-work-injury-how-to-prove-inadequate-machine-training-caused-my-injury-in-millcreek-157",
+  "name": "Proving Employer Training Failures",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "How to prove inadequate machine training caused my injury in Millcreek?",
     "text": "How to prove inadequate machine training caused my injury in Millcreek?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Gather witness statements, training records, OSHA logs, and expert testimony showing lack of safety protocols led to accident.[1][3]",
+      "@type": "Answer",
       "upvoteCount": 4
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Employers liable if no training on machine hazards like pinch points. Request personnel files, safety manuals via discovery. Utah OSHA violations strengthen case. In Millcreek cases, attorneys subpoena records to prove negligence beyond comp.[1][3]"
+        "text": "Employers liable if no training on machine hazards like pinch points. Request personnel files, safety manuals via discovery. Utah OSHA violations strengthen case. In Millcreek cases, attorneys subpoena records to prove negligence beyond comp.[1][3]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Proving Employer Training Failures",
-  "description": "Gather witness statements, training records, OSHA logs, and expert testimony showing lack of safety protocols led to accident.[1][3]",
-  "url": "https://justworkcomplaw.com/qna/machine-accident-work-injury-how-to-prove-inadequate-machine-training-caused-my-injury-in-millcreek-157"
+  "description": "Gather witness statements, training records, OSHA logs, and expert testimony showing lack of safety protocols led to accident.[1][3]"
 }

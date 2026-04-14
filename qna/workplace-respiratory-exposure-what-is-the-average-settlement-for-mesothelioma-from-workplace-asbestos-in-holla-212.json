@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/workplace-respiratory-exposure-what-is-the-average-settlement-for-mesothelioma-from-workplace-asbestos-in-holla-212",
+  "name": "Mesothelioma Settlement Values in Holladay",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "What is the average settlement for mesothelioma from workplace asbestos in Holladay?",
     "text": "What is the average settlement for mesothelioma from workplace asbestos in Holladay?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Utah mesothelioma settlements average $1.2M-$2.5M via workers' comp or third-party, covering medical, lost income, pain/suffering over lifetime.",
+      "@type": "Answer",
       "upvoteCount": 5
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Holladay pipefitters pursue comp PPI (up to 100%) plus latency extensions. Asbestos trusts add $100K+. Life care plans project $500K+ care. Attorney contingency 20-33%."
+        "text": "Holladay pipefitters pursue comp PPI (up to 100%) plus latency extensions. Asbestos trusts add $100K+. Life care plans project $500K+ care. Attorney contingency 20-33%.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Mesothelioma Settlement Values in Holladay",
-  "description": "Utah mesothelioma settlements average $1.2M-$2.5M via workers' comp or third-party, covering medical, lost income, pain/suffering over lifetime.",
-  "url": "https://justworkcomplaw.com/qna/workplace-respiratory-exposure-what-is-the-average-settlement-for-mesothelioma-from-workplace-asbestos-in-holla-212"
+  "description": "Utah mesothelioma settlements average $1.2M-$2.5M via workers' comp or third-party, covering medical, lost income, pain/suffering over lifetime."
 }

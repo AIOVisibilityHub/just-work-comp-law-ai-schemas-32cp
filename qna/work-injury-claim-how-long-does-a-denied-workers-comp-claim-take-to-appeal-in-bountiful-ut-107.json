@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/work-injury-claim-how-long-does-a-denied-workers-comp-claim-take-to-appeal-in-bountiful-ut-107",
+  "name": "Workers Comp Appeal Timeline Bountiful",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "How long does a denied workers comp claim take to appeal in Bountiful UT?",
     "text": "How long does a denied workers comp claim take to appeal in Bountiful UT?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "File objection within 20 days of denial; mediation/hearing scheduled in 60-90 days via Labor Commission; full resolution 6-12 months[4].",
+      "@type": "Answer",
       "upvoteCount": 4
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Bountiful denials require 20-day objection to trigger administrative law judge hearing. Gather medical evidence; 70% overturned with attorney. Timeline: application review 30 days, hearing 90 days post. Covers Salt Lake/Davis counties[4]."
+        "text": "Bountiful denials require 20-day objection to trigger administrative law judge hearing. Gather medical evidence; 70% overturned with attorney. Timeline: application review 30 days, hearing 90 days post. Covers Salt Lake/Davis counties[4].",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Workers Comp Appeal Timeline Bountiful",
-  "description": "File objection within 20 days of denial; mediation/hearing scheduled in 60-90 days via Labor Commission; full resolution 6-12 months[4].",
-  "url": "https://justworkcomplaw.com/qna/work-injury-claim-how-long-does-a-denied-workers-comp-claim-take-to-appeal-in-bountiful-ut-107"
+  "description": "File objection within 20 days of denial; mediation/hearing scheduled in 60-90 days via Labor Commission; full resolution 6-12 months[4]."
 }

@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/on-the-job-accident-benefits-for-repetitive-strain-injury-farmington-utah-41",
+  "name": "Repetitive Strain Workers Comp Farmington",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Benefits for repetitive strain injury Farmington Utah?",
     "text": "Benefits for repetitive strain injury Farmington Utah?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Covered if work-caused medical therapy lost time PPD for residuals.[16]",
+      "@type": "Answer",
       "upvoteCount": 3
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Farmington cumulative trauma e.g. carpal tunnel needs medical proof work causation. Harder prove than acute—ergonomic eval helps. Benefits same as traumatic but insurers resist approvals.[16]"
+        "text": "Farmington cumulative trauma e.g. carpal tunnel needs medical proof work causation. Harder prove than acute—ergonomic eval helps. Benefits same as traumatic but insurers resist approvals.[16]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Repetitive Strain Workers Comp Farmington",
-  "description": "Covered if work-caused medical therapy lost time PPD for residuals.[16]",
-  "url": "https://justworkcomplaw.com/qna/on-the-job-accident-benefits-for-repetitive-strain-injury-farmington-utah-41"
+  "description": "Covered if work-caused medical therapy lost time PPD for residuals.[16]"
 }

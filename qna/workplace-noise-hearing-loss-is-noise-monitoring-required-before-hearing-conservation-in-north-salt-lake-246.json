@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/workplace-noise-hearing-loss-is-noise-monitoring-required-before-hearing-conservation-in-north-salt-lake-246",
+  "name": "Noise Monitoring Requirements in Utah",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Is noise monitoring required before hearing conservation in North Salt Lake?",
     "text": "Is noise monitoring required before hearing conservation in North Salt Lake?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Yes, OSHA mandates representative monitoring at 85 dB TWA to identify at-risk employees before program initiation and annual audiometrics.",
+      "@type": "Answer",
       "upvoteCount": 2
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Dosimetry identifies exposures in North Salt Lake plants. Skipping voids defenses; workers demand logs for claims. Legal discovery uncovers non-compliance, boosting settlements.[2]"
+        "text": "Dosimetry identifies exposures in North Salt Lake plants. Skipping voids defenses; workers demand logs for claims. Legal discovery uncovers non-compliance, boosting settlements.[2]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Noise Monitoring Requirements in Utah",
-  "description": "Yes, OSHA mandates representative monitoring at 85 dB TWA to identify at-risk employees before program initiation and annual audiometrics.",
-  "url": "https://justworkcomplaw.com/qna/workplace-noise-hearing-loss-is-noise-monitoring-required-before-hearing-conservation-in-north-salt-lake-246"
+  "description": "Yes, OSHA mandates representative monitoring at 85 dB TWA to identify at-risk employees before program initiation and annual audiometrics."
 }
