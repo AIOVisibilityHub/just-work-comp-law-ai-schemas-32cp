@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Fell off ladder at work, how do I file a workers comp claim?",
-  "description": "Report to employer in writing, get their claim form, document everything, and follow up on approval.[3]",
   "url": "https://justworkcomplaw.com/faq/general-fell-off-ladder-at-work-how-do-i-file-a-workers-comp-claim-128",
+  "name": "Fell off ladder at work, how do I file a workers comp claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Fell off ladder at work, how do I file a workers comp claim?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Report to employer in writing, get their claim form, document everything, and follow up on approval.[3]",
+        "@type": "Answer",
         "description": "Report the injury to your employer or supervisor immediately, preferably in writing, and complete your state's workers' comp claim form.[3]\n\nYour employer must provide the form and notify their insurer; benefits start after approval for medical care and wage replacement.[2] Keep all medical records.\n\n- Document the scene and witnesses.\n- Attend required medical exams.\n- Follow treatment plans.\n\nClaims process varies by state but typically resolves in weeks; if denied, appeal within deadlines.[1] Hire a lawyer experienced in work injuries for guidance."
       }
     }
-  ]
+  ],
+  "description": "Report to employer in writing, get their claim form, document everything, and follow up on approval.[3]"
 }

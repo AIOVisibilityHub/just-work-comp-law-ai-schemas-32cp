@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Claim denied because no doctor day of fall, options?",
-  "description": "Appeal within 20 days (UT); prove prompt care intent.",
   "url": "https://justworkcomplaw.com/faq/general-claim-denied-because-no-doctor-day-of-fall-options-71",
+  "name": "Claim denied because no doctor day of fall, options?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Claim denied because no doctor day of fall, options?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Appeal within 20 days (UT); prove prompt care intent.",
+        "@type": "Answer",
         "description": "Appeal showing treatment sought promptly; UT accepts ER visits later. Medical records retroactively link[2]. Key factors: 20-day objection window. Doctor affidavit helps. 70% appeals win."
       }
     }
-  ]
+  ],
+  "description": "Appeal within 20 days (UT); prove prompt care intent."
 }

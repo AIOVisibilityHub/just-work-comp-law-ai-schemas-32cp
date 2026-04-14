@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if my boss fires me for complaining about bad air quality?",
-  "description": "Illegal retaliation—file OSHA complaint in 30 days for protection and damages[6].",
   "url": "https://justworkcomplaw.com/faq/general-what-if-my-boss-fires-me-for-complaining-about-bad-air-quality-207",
+  "name": "What if my boss fires me for complaining about bad air quality?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "What if my boss fires me for complaining about bad air quality?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Illegal retaliation—file OSHA complaint in 30 days for protection and damages[6].",
+        "@type": "Answer",
         "description": "Retaliation is illegal under OSHA and state laws; you can file a complaint with OSHA within 30 days and pursue wrongful termination damages. Employers can't punish safety reports, and workers' comp protects job injury claims[2][6]. - Document complaints, performance, and firing details. - Seek unemployment and reinstatement. Report immediately to OSHA, file retaliation charge, and contact an attorney for backpay and job protection."
       }
     }
-  ]
+  ],
+  "description": "Illegal retaliation—file OSHA complaint in 30 days for protection and damages[6]."
 }

@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What proof do I need that chemicals at work caused my lung issues?",
-  "description": "Doctor's causation letter, exposure records, witnesses.[9]",
   "url": "https://justworkcomplaw.com/faq/general-what-proof-do-i-need-that-chemicals-at-work-caused-my-lung-issues-181",
+  "name": "What proof do I need that chemicals at work caused my lung issues?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "What proof do I need that chemicals at work caused my lung issues?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Doctor's causation letter, exposure records, witnesses.[9]",
+        "@type": "Answer",
         "description": "**Medical records, expert opinions, exposure logs, and coworker testimony linking symptoms to workplace toxins.** Causation requires doctors confirming job exposure as primary cause.[9][6] Key evidence: safety data sheets, air tests, incident reports. Preserve samples, track symptoms timeline. Hire a toxicologist if long-term."
       }
     }
-  ]
+  ],
+  "description": "Doctor's causation letter, exposure records, witnesses.[9]"
 }

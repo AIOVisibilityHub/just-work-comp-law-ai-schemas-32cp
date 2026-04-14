@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of money can I get for workplace hearing damage?",
-  "description": "Medical, wages, disability; value by severity and proof.[1]",
   "url": "https://justworkcomplaw.com/faq/general-what-kind-of-money-can-i-get-for-workplace-hearing-damage-230",
+  "name": "What kind of money can I get for workplace hearing damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "What kind of money can I get for workplace hearing damage?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Medical, wages, disability; value by severity and proof.[1]",
+        "@type": "Answer",
         "description": "**Compensation includes medical bills, lost wages, disability benefits, and sometimes pain and suffering, varying by loss severity.**\n\nAmounts depend on audiogram results, exposure proof, and work impact; hearing aids often covered.[1][3] Severe cases yield higher settlements.\n\n**Key factors:**\n- Degree of permanent threshold shift.[6]\n- Reduced earning capacity.\n- Future treatment costs.\n- Jurisdiction (e.g., Utah caps non-economic damages).\n\nGet an attorney evaluation for accurate valuation.[1] Insurers lowball without representation.\n\nFair awards restore financial stability."
       }
     }
-  ]
+  ],
+  "description": "Medical, wages, disability; value by severity and proof.[1]"
 }

@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Boss threatened to fire me after I fell at work, is that legal?",
-  "description": "No, illegal retaliation; report to Labor Commission for protection.",
   "url": "https://justworkcomplaw.com/faq/general-boss-threatened-to-fire-me-after-i-fell-at-work-is-that-legal-61",
+  "name": "Boss threatened to fire me after I fell at work, is that legal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Boss threatened to fire me after I fell at work, is that legal?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "No, illegal retaliation; report to Labor Commission for protection.",
+        "@type": "Answer",
         "description": "Utah/Idaho law prohibits retaliation for filing legitimate workers' comp claims; file complaint with Labor Commission if fired/threatened. Damages include back pay, reinstatement[3]. Key factors: Prove temporal link (claim then adverse action). Document threats. Anti-retaliation strong."
       }
     }
-  ]
+  ],
+  "description": "No, illegal retaliation; report to Labor Commission for protection."
 }

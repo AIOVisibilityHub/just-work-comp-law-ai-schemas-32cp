@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Talked to insurance already after injury in Boise, messed up?",
-  "description": "Limit contact; get lawyer.[1]",
   "url": "https://justworkcomplaw.com/faq/general-talked-to-insurance-already-after-injury-in-boise-messed-up-48",
+  "name": "Talked to insurance already after injury in Boise, messed up?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Talked to insurance already after injury in Boise, messed up?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Limit contact; get lawyer.[1]",
+        "@type": "Answer",
         "description": "**Possibly; recorded statements used against you—stop communicating.**[1]\n\nAdjusters minimize claims; avoid admitting fault or downplaying.\n\n- Request all in writing.\n- Lawyer handles talks.\n- Preserve rights.\n\nSwitch to attorney rep now."
       }
     }
-  ]
+  ],
+  "description": "Limit contact; get lawyer.[1]"
 }

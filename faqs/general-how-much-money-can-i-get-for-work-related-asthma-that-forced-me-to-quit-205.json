@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much money can I get for work-related asthma that forced me to quit?",
-  "description": "Medical, 2/3 wages, permanent disability pay—varies by case severity, often $50K+[2].",
   "url": "https://justworkcomplaw.com/faq/general-how-much-money-can-i-get-for-work-related-asthma-that-forced-me-to-quit-205",
+  "name": "How much money can I get for work-related asthma that forced me to quit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "How much money can I get for work-related asthma that forced me to quit?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Medical, 2/3 wages, permanent disability pay—varies by case severity, often $50K+[2].",
+        "@type": "Answer",
         "description": "Compensation includes medical bills, lost wages (often 2/3 of average weekly pay), and permanent disability ratings—potentially $50K+ depending on severity and state caps. Workers' comp for respiratory claims values long-term care and impairment, unlike lawsuits barring pain/suffering[2][4]. Utah has no daily max but overall limits. - Factors: exposure proof, doctor impairment rating, missed work. - Settlements average higher with strong evidence. Get a rating exam, negotiate settlement, and use a lawyer to maximize value without lowball offers."
       }
     }
-  ]
+  ],
+  "description": "Medical, 2/3 wages, permanent disability pay—varies by case severity, often $50K+[2]."
 }

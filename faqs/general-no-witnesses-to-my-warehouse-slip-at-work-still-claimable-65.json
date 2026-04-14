@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "No witnesses to my warehouse slip at work, still claimable?",
-  "description": "Yes, photos/video/records prove without witnesses.",
   "url": "https://justworkcomplaw.com/faq/general-no-witnesses-to-my-warehouse-slip-at-work-still-claimable-65",
+  "name": "No witnesses to my warehouse slip at work, still claimable?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "No witnesses to my warehouse slip at work, still claimable?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, photos/video/records prove without witnesses.",
+        "@type": "Answer",
         "description": "Yes, your testimony plus photos, video, maintenance records, and medicals suffice; circumstantial evidence shows hazard[7]. Key factors: Request incident video promptly. Expert reconstructs. Many solo claims succeed."
       }
     }
-  ]
+  ],
+  "description": "Yes, photos/video/records prove without witnesses."
 }

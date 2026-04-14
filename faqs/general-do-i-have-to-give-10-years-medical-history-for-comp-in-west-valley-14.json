@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I have to give 10 years medical history for comp in West Valley?",
-  "description": "Yes, 10 years pre-litigation; refusal = denial risk.[1]",
   "url": "https://justworkcomplaw.com/faq/general-do-i-have-to-give-10-years-medical-history-for-comp-in-west-valley-14",
+  "name": "Do I have to give 10 years medical history for comp in West Valley?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Do I have to give 10 years medical history for comp in West Valley?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, 10 years pre-litigation; refusal = denial risk.[1]",
+        "@type": "Answer",
         "description": "Yes, sign releases for 10-year history pre-litigation (15 post); refusal risks denial.[1] Includes priors, family docs.[1] Key factors: (1) List all providers; (2) Honesty prevents credibility loss; (3) Insurer uses for pre-existing defense; (4) Limit scope if advised.[1] Review before signing, disclose accurately. Cooperation essential early."
       }
     }
-  ]
+  ],
+  "description": "Yes, 10 years pre-litigation; refusal = denial risk.[1]"
 }

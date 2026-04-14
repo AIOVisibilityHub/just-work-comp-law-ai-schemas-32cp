@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What proof do I need for my warehouse accident claim in Millcreek?",
-  "description": "Incident report, medical records, witnesses, photos, pay stubs.[6]",
   "url": "https://justworkcomplaw.com/faq/general-what-proof-do-i-need-for-my-warehouse-accident-claim-in-millcreek-30",
+  "name": "What proof do I need for my warehouse accident claim in Millcreek?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "What proof do I need for my warehouse accident claim in Millcreek?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Incident report, medical records, witnesses, photos, pay stubs.[6]",
+        "@type": "Answer",
         "description": "**Gather incident reports, medical records, witness statements, photos, and wage statements.**[6]\n\nWorkers' comp requires showing the injury arose out of and in the course of employment. Insurers scrutinize causation.\n\n- Employer incident form is key first document.\n- Doctor notes linking injury to work.\n- Payroll records for wage loss.\n- Videos/surveillance if available.\n\nPreserve evidence before it disappears. An attorney obtains records and counters denials effectively."
       }
     }
-  ]
+  ],
+  "description": "Incident report, medical records, witnesses, photos, pay stubs.[6]"
 }

@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I think my hearing went bad from machines at work, what happens if I win?",
-  "description": "Medical, wages, aids, disability pay.[1][3]",
   "url": "https://justworkcomplaw.com/faq/general-i-think-my-hearing-went-bad-from-machines-at-work-what-happens-if-i-win-233",
+  "name": "I think my hearing went bad from machines at work, what happens if I win?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "I think my hearing went bad from machines at work, what happens if I win?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Medical, wages, aids, disability pay.[1][3]",
+        "@type": "Answer",
         "description": "**You'll receive benefits like medical treatment, wage replacement, hearing aids, and possible permanent disability payments.**\n\nSuccessful claims cover ongoing costs and work limitations from NIHL.[1][3] No-fault workers' comp applies.\n\n**Key factors:**\n- Audiogram quantifying loss.[6]\n- Approved treatments and accommodations.\n- Vocational rehab if unemployable.\n- Settlement for future needs.\n\nAttorney negotiates full value; appeals denials.[2] Employer may provide aids directly.\n\nOutcomes improve quality of life."
       }
     }
-  ]
+  ],
+  "description": "Medical, wages, aids, disability pay.[1][3]"
 }

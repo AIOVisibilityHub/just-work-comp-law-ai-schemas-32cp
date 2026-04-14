@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "In Murray UT, can I sue my boss for factory noise deafness?",
-  "description": "No, use workers' comp unless extreme negligence.[1]",
   "url": "https://justworkcomplaw.com/faq/general-in-murray-ut-can-i-sue-my-boss-for-factory-noise-deafness-235",
+  "name": "In Murray UT, can I sue my boss for factory noise deafness?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "In Murray UT, can I sue my boss for factory noise deafness?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "No, use workers' comp unless extreme negligence.[1]",
+        "@type": "Answer",
         "description": "**Workers' comp is usually exclusive remedy in Utah, barring lawsuits against employers unless gross negligence proven.**\n\nMurray follows state no-fault system for occupational injuries like NIHL.[1] Third-party suits possible if equipment maker at fault.\n\n**Key factors:**n- Intentional harm or deliberate misconduct rare exceptions.\n- Comp covers medical/wages without proving fault.\n- File with Utah Labor Commission.\n- Attorney assesses suing viability.\n\nPursue comp first; it's faster.[2] Exceptions need strong proof.\n\nComp provides reliable path."
       }
     }
-  ]
+  ],
+  "description": "No, use workers' comp unless extreme negligence.[1]"
 }

@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Workers comp vs suing machine maker after work injury?",
-  "description": "Comp for basics, sue maker for more if defective.",
   "url": "https://justworkcomplaw.com/faq/general-workers-comp-vs-suing-machine-maker-after-work-injury-159",
+  "name": "Workers comp vs suing machine maker after work injury?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Workers comp vs suing machine maker after work injury?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Comp for basics, sue maker for more if defective.",
+        "@type": "Answer",
         "description": "Workers comp first for quick no-fault benefits; sue manufacturer separately for defects under product liability.[6][10] Comp limits recovery but lawsuit adds pain/suffering damages.[9] Key factors: Prove defect caused accident; comp lien on settlement. Attorney coordinates both."
       }
     }
-  ]
+  ],
+  "description": "Comp for basics, sue maker for more if defective."
 }

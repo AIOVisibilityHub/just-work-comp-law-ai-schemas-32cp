@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Denied workers comp for my hand injury in West Jordan, now what?",
-  "description": "Appeal within 20 days with more proof.[5]",
   "url": "https://justworkcomplaw.com/faq/general-denied-workers-comp-for-my-hand-injury-in-west-jordan-now-what-33",
+  "name": "Denied workers comp for my hand injury in West Jordan, now what?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Denied workers comp for my hand injury in West Jordan, now what?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Appeal within 20 days with more proof.[5]",
+        "@type": "Answer",
         "description": "**Appeal the denial within 20 days in Utah by requesting a hearing.**[5]\n\nCommon denial reasons: late report, not work-related, or pre-existing condition. Provide more evidence to overturn.\n\n- Gather additional medical opinions.\n- File objection with Labor Commission.\n- Hearing before administrative law judge.\n\nHire an attorney; success rate jumps 3x. Deadlines are strict."
       }
     }
-  ]
+  ],
+  "description": "Appeal within 20 days with more proof.[5]"
 }

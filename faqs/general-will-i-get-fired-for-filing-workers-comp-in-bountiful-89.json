@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will I get fired for filing workers comp in Bountiful?",
-  "description": "No, retaliation illegal; document everything.[2]",
   "url": "https://justworkcomplaw.com/faq/general-will-i-get-fired-for-filing-workers-comp-in-bountiful-89",
+  "name": "Will I get fired for filing workers comp in Bountiful?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Will I get fired for filing workers comp in Bountiful?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "No, retaliation illegal; document everything.[2]",
+        "@type": "Answer",
         "description": "Utah prohibits retaliation; it's illegal to fire for valid claims.[2] But prove retaliation if occurs.[1] Key factors: document interactions; light duty refusal risks benefits not job. Report to Labor Commission.[2] Attorney protects rights."
       }
     }
-  ]
+  ],
+  "description": "No, retaliation illegal; document everything.[2]"
 }

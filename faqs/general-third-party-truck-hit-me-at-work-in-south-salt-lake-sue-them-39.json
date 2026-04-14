@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Third party truck hit me at work in South Salt Lake, sue them?",
-  "description": "Yes, comp + PI lawsuit.[3]",
   "url": "https://justworkcomplaw.com/faq/general-third-party-truck-hit-me-at-work-in-south-salt-lake-sue-them-39",
+  "name": "Third party truck hit me at work in South Salt Lake, sue them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Third party truck hit me at work in South Salt Lake, sue them?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, comp + PI lawsuit.[3]",
+        "@type": "Answer",
         "description": "**Yes, pursue workers' comp plus separate negligence suit against third party.**[3]\n\nComp covers basics; sue at-fault outsider for full damages including pain/suffering.\n\n- 4-year statute for PI.[2]\n- Comparative fault applies (under 50%).[2]\n- Credit comp benefits received.\n\nFile both tracks. Attorney coordinates."
       }
     }
-  ]
+  ],
+  "description": "Yes, comp + PI lawsuit.[3]"
 }

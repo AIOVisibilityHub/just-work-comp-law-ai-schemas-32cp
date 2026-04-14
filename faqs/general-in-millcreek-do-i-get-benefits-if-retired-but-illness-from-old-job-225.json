@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "In Millcreek, do I get benefits if retired but illness from old job?",
-  "description": "Yes, if timely and proven[5].",
   "url": "https://justworkcomplaw.com/faq/general-in-millcreek-do-i-get-benefits-if-retired-but-illness-from-old-job-225",
+  "name": "In Millcreek, do I get benefits if retired but illness from old job?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "In Millcreek, do I get benefits if retired but illness from old job?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, if timely and proven[5].",
+        "@type": "Answer",
         "description": "Possibly, if filed timely from diagnosis and prove prior work causation—latent diseases covered. Utah discovery rule[5]. - Last injurious exposure rule may apply. Check with specialist."
       }
     }
-  ]
+  ],
+  "description": "Yes, if timely and proven[5]."
 }

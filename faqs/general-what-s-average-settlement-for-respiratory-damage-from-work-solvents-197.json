@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's average settlement for respiratory damage from work solvents?",
-  "description": "$100K-$500K typically.[4]",
   "url": "https://justworkcomplaw.com/faq/general-what-s-average-settlement-for-respiratory-damage-from-work-solvents-197",
+  "name": "What's average settlement for respiratory damage from work solvents?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "What's average settlement for respiratory damage from work solvents?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "$100K-$500K typically.[4]",
+        "@type": "Answer",
         "description": "**$100K-$500K, higher for cancer/permanent issues.** Varies by proof.[4] Factors: age, job, costs. Negotiate up."
       }
     }
-  ]
+  ],
+  "description": "$100K-$500K typically.[4]"
 }

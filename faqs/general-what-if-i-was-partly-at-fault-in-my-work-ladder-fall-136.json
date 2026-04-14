@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if I was partly at fault in my work ladder fall?",
-  "description": "Comp pays anyway; suits reduced by your % fault.[2]",
   "url": "https://justworkcomplaw.com/faq/general-what-if-i-was-partly-at-fault-in-my-work-ladder-fall-136",
+  "name": "What if I was partly at fault in my work ladder fall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "What if I was partly at fault in my work ladder fall?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Comp pays anyway; suits reduced by your % fault.[2]",
+        "@type": "Answer",
         "description": "Workers' comp pays regardless of your fault; third-party claims may reduce by your percentage under comparative negligence.[2]\n\nMost states allow recovery if under 50-51% at fault; safety violations by others still liable.[1]\n\n- Document employer lapses.\n- Prove shared causes.\n- No penalty in comp.\n\nA lawyer argues minimal fault to preserve full value.[3] Don't admit blame early."
       }
     }
-  ]
+  ],
+  "description": "Comp pays anyway; suits reduced by your % fault.[2]"
 }

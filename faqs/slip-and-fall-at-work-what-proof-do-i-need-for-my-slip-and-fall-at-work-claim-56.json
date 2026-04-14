@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What proof do I need for my slip and fall at work claim?",
-  "description": "Photos, medical records, witnesses, reports proving hazard and injury link.",
   "url": "https://justworkcomplaw.com/faq/slip-and-fall-at-work-what-proof-do-i-need-for-my-slip-and-fall-at-work-claim-56",
+  "name": "What proof do I need for my slip and fall at work claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "What proof do I need for my slip and fall at work claim?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Photos, medical records, witnesses, reports proving hazard and injury link.",
+        "@type": "Answer",
         "description": "Gather incident report, medical records linking injury to fall, witness statements, photos of hazard, and employer maintenance logs showing notice. Proves work-relatedness and extent[1][7]. Key factors: Timestamped photos, video if available, pre/post-injury wage docs. Request OSHA logs if applicable. Avoid erasing security footage—demand preservation. Attorney subpoenas records."
       }
     }
-  ]
+  ],
+  "description": "Photos, medical records, witnesses, reports proving hazard and injury link."
 }

@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long do I have to file for hearing loss from my factory job?",
-  "description": "Usually 1-3 years from diagnosis; check state rules now.[1]",
   "url": "https://justworkcomplaw.com/faq/general-how-long-do-i-have-to-file-for-hearing-loss-from-my-factory-job-229",
+  "name": "How long do I have to file for hearing loss from my factory job?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "How long do I have to file for hearing loss from my factory job?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Usually 1-3 years from diagnosis; check state rules now.[1]",
+        "@type": "Answer",
         "description": "**Most states require filing a workers' comp claim within 1-3 years from diagnosis or awareness of work-related hearing loss.**\n\nDeadlines vary; delayed symptoms common in gradual NIHL make timing critical.[1][2] Utah and Idaho follow similar rules, often 1 year from injury knowledge.[1]\n\n**Key factors:**\n- Date symptoms noticed or doctor linked to work.\n- State-specific statutes (e.g., Utah: 1 year for occupational disease).\n- Continuous exposure may extend limits.\n- Prompt reporting preserves evidence.\n\nCheck your state's board immediately and consult an attorney to avoid bars.[2]\n\nEarly action secures benefits like medical costs."
       }
     }
-  ]
+  ],
+  "description": "Usually 1-3 years from diagnosis; check state rules now.[1]"
 }

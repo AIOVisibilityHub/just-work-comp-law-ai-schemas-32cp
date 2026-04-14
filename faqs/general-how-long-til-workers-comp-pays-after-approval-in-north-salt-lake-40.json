@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long til workers comp pays after approval in North Salt Lake?",
-  "description": "15-30 days for wage benefits.[5]",
   "url": "https://justworkcomplaw.com/faq/general-how-long-til-workers-comp-pays-after-approval-in-north-salt-lake-40",
+  "name": "How long til workers comp pays after approval in North Salt Lake?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "How long til workers comp pays after approval in North Salt Lake?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "15-30 days for wage benefits.[5]",
+        "@type": "Answer",
         "description": "**Temporary disability payments start within 15-30 days; medical immediate.**[5]\n\nUtah requires prompt payment post-approval; delays trigger penalties.\n\n- Weekly wage loss checks.\n- Provider pays direct.\n- Permanent later post-MMI.\n\nFollow up aggressively. Lawyer speeds process."
       }
     }
-  ]
+  ],
+  "description": "15-30 days for wage benefits.[5]"
 }

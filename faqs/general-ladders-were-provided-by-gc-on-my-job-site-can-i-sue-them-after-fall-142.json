@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Ladders were provided by GC on my job site, can I sue them after fall?",
-  "description": "Yes, for safety failures; third-party suit.[1][2]",
   "url": "https://justworkcomplaw.com/faq/general-ladders-were-provided-by-gc-on-my-job-site-can-i-sue-them-after-fall-142",
+  "name": "Ladders were provided by GC on my job site, can I sue them after fall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Ladders were provided by GC on my job site, can I sue them after fall?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, for safety failures; third-party suit.[1][2]",
+        "@type": "Answer",
         "description": "Yes, general contractors can be liable under scaffold laws for inadequate safety devices like unstable ladders.[1][2]\n\nSeparate from comp, sue for full damages if they failed duties.[3]\n\n- Prove improper equipment.\n- Owner/GC absolute liability in some states.\n- Beyond employer comp.\n\nConsult attorney for third-party claim viability.[2]"
       }
     }
-  ]
+  ],
+  "description": "Yes, for safety failures; third-party suit.[1][2]"
 }

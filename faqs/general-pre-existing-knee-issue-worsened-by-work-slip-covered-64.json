@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Pre-existing knee issue worsened by work slip, covered?",
-  "description": "Yes, covers aggravation; get doctor to link worsening to fall.",
   "url": "https://justworkcomplaw.com/faq/general-pre-existing-knee-issue-worsened-by-work-slip-covered-64",
+  "name": "Pre-existing knee issue worsened by work slip, covered?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Pre-existing knee issue worsened by work slip, covered?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, covers aggravation; get doctor to link worsening to fall.",
+        "@type": "Answer",
         "description": "Workers' comp covers aggravation of pre-existing conditions if work incident caused worsening; prove via medical opinion[2]. Key factors: No need 'but for' test—substantial contribution suffices. Full treatment for flare-up. Avoid 'prior injury' denial traps."
       }
     }
-  ]
+  ],
+  "description": "Yes, covers aggravation; get doctor to link worsening to fall."
 }

@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Employer retaliated with cut hours after claim in Draper, help?",
-  "description": "Illegal; file retaliation with ULC, document everything.[1]",
   "url": "https://justworkcomplaw.com/faq/general-employer-retaliated-with-cut-hours-after-claim-in-draper-help-25",
+  "name": "Employer retaliated with cut hours after claim in Draper, help?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Employer retaliated with cut hours after claim in Draper, help?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Illegal; file retaliation with ULC, document everything.[1]",
+        "@type": "Answer",
         "description": "Illegal in Utah; file retaliation complaint with Labor Commission alongside comp.[1] Prove link via timing/docs.[1] Key factors: (1) Document reductions; (2) Light duty separate; (3) Unemployment bridge; (4) Hearing addresses.[1][3] Record all, report formally. Remedies restore and compensate."
       }
     }
-  ]
+  ],
+  "description": "Illegal; file retaliation with ULC, document everything.[1]"
 }

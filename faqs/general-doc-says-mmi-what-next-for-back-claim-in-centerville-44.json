@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Doc says MMI, what next for back claim in Centerville?",
-  "description": "Impairment rating for PPD pay.[3]",
   "url": "https://justworkcomplaw.com/faq/general-doc-says-mmi-what-next-for-back-claim-in-centerville-44",
+  "name": "Doc says MMI, what next for back claim in Centerville?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Doc says MMI, what next for back claim in Centerville?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Impairment rating for PPD pay.[3]",
+        "@type": "Answer",
         "description": "**Get impairment rating for permanent partial disability benefits.**[3]\n\nMaximum Medical Improvement ends temp benefits; rating % determines lump sum or ongoing pay.\n\n- AMA Guides used.\n- 10-20% common for backs.\n- Negotiate settlement.\n\nAttorney maximizes rating value."
       }
     }
-  ]
+  ],
+  "description": "Impairment rating for PPD pay.[3]"
 }

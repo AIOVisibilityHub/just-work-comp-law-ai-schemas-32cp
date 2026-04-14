@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need a lawyer for noise hearing loss at work?",
-  "description": "Yes, for evidence and max benefits.[1][2]",
   "url": "https://justworkcomplaw.com/faq/general-do-i-need-a-lawyer-for-noise-hearing-loss-at-work-237",
+  "name": "Do I need a lawyer for noise hearing loss at work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Do I need a lawyer for noise hearing loss at work?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, for evidence and max benefits.[1][2]",
+        "@type": "Answer",
         "description": "**Yes, recommended; attorneys boost success against insurer denials and value claims properly.**\n\nThey investigate exposure, counter pre-existing condition arguments.[1][4] Free consults common.\n\n**Key factors:**\n- Complex causation proof.\n- Negotiating fair settlements.\n- Handling appeals.\n- No upfront fees in comp cases.\n\nContact experienced counsel early.[2] Self-filing risks lowballs.\n\nExpert help essential."
       }
     }
-  ]
+  ],
+  "description": "Yes, for evidence and max benefits.[1][2]"
 }

@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Boss says my hearing loss is age, not work—how to fight?",
-  "description": "Audiologist report + exposure proof.[6][1]",
   "url": "https://justworkcomplaw.com/faq/general-boss-says-my-hearing-loss-is-age-not-work-how-to-fight-238",
+  "name": "Boss says my hearing loss is age, not work—how to fight?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Boss says my hearing loss is age, not work—how to fight?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Audiologist report + exposure proof.[6][1]",
+        "@type": "Answer",
         "description": "**Get independent audiologist report isolating work noise via pre-exposure baselines and exposure history.**\n\nOSHA factors consider age but prioritize occupational proof.[6][1] Noise patterns differ from presbycusis.\n\n**Key factors:**\n- High-frequency loss typical of NIHL.\n- Job duration/logs.\n- Coworker similar issues.\n- Age-correction in audiograms.\n\nAttorney subpoenas employer tests.[4] Medical experts refute denials.\n\nEvidence wins disputes."
       }
     }
-  ]
+  ],
+  "description": "Audiologist report + exposure proof.[6][1]"
 }

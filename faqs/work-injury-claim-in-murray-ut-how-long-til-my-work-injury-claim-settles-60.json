@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "In Murray UT, how long til my work injury claim settles?",
-  "description": "3-12 months typical in Utah; faster without disputes.",
   "url": "https://justworkcomplaw.com/faq/work-injury-claim-in-murray-ut-how-long-til-my-work-injury-claim-settles-60",
+  "name": "In Murray UT, how long til my work injury claim settles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "In Murray UT, how long til my work injury claim settles?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "3-12 months typical in Utah; faster without disputes.",
+        "@type": "Answer",
         "description": "Utah workers' comp claims resolve in 3-12 months if straightforward, longer (1-2 years) with disputes or surgery; 80% settle pre-hearing. Factors like MMI delay[12]. Key factors: Quick reporting speeds process. Track approvals. Attorney negotiates faster."
       }
     }
-  ]
+  ],
+  "description": "3-12 months typical in Utah; faster without disputes."
 }

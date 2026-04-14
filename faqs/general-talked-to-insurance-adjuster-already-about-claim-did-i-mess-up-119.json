@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Talked to insurance adjuster already about claim—did I mess up?",
-  "description": "Maybe—lawyer takes over communications now.",
   "url": "https://justworkcomplaw.com/faq/general-talked-to-insurance-adjuster-already-about-claim-did-i-mess-up-119",
+  "name": "Talked to insurance adjuster already about claim—did I mess up?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Talked to insurance adjuster already about claim—did I mess up?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Maybe—lawyer takes over communications now.",
+        "@type": "Answer",
         "description": "Possibly, they probe for denials; don't give details alone. Key factors: Statements used against you. Attorney controls future talks. Review what said."
       }
     }
-  ]
+  ],
+  "description": "Maybe—lawyer takes over communications now."
 }

@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Missed a week of work after slipping on wet floor at job, what benefits?",
-  "description": "66% wages after 3 days + full medical in UT comp.",
   "url": "https://justworkcomplaw.com/faq/general-missed-a-week-of-work-after-slipping-on-wet-floor-at-job-what-benefits-67",
+  "name": "Missed a week of work after slipping on wet floor at job, what benefits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Missed a week of work after slipping on wet floor at job, what benefits?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "66% wages after 3 days + full medical in UT comp.",
+        "@type": "Answer",
         "description": "Utah TTD pays 66 2/3% average weekly wage after 3-day wait, up to 52 weeks initially; medical 100% covered[10]. Key factors: Wage basis last 12 weeks. Doctor excuses needed. File promptly."
       }
     }
-  ]
+  ],
+  "description": "66% wages after 3 days + full medical in UT comp."
 }

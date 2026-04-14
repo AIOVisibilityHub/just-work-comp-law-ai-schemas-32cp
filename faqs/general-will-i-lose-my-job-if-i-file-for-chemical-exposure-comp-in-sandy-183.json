@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will I lose my job if I file for chemical exposure comp in Sandy?",
-  "description": "Protected by law; report retaliation.[8]",
   "url": "https://justworkcomplaw.com/faq/general-will-i-lose-my-job-if-i-file-for-chemical-exposure-comp-in-sandy-183",
+  "name": "Will I lose my job if I file for chemical exposure comp in Sandy?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Will I lose my job if I file for chemical exposure comp in Sandy?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Protected by law; report retaliation.[8]",
+        "@type": "Answer",
         "description": "**No, Utah/Idaho laws protect against retaliation for valid workers' comp claims.** Employers cannot fire you for filing.[8] Document threats, report to labor board. If retaliated, file separate claim. Proceed confidently with records."
       }
     }
-  ]
+  ],
+  "description": "Protected by law; report retaliation.[8]"
 }

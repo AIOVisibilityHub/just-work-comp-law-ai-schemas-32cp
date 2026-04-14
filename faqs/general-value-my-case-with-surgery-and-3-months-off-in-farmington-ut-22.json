@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Value my case with surgery and 3 months off in Farmington UT?",
-  "description": "Medicals + 66% wages + disability rating; case review needed.[1]",
   "url": "https://justworkcomplaw.com/faq/general-value-my-case-with-surgery-and-3-months-off-in-farmington-ut-22",
+  "name": "Value my case with surgery and 3 months off in Farmington UT?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Value my case with surgery and 3 months off in Farmington UT?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Medicals + 66% wages + disability rating; case review needed.[1]",
+        "@type": "Answer",
         "description": "Includes full medicals/surgery, wage loss, potential impairment; third-party adds more.[1][4] Exact via rating.[1] Key factors: (1) 66% wages during off; (2) Permanent partial schedule; (3) Light duty reduces; (4) Aggravation if prior.[1] Track bills/wages, get rating. Often $10k-$100k+ depending."
       }
     }
-  ]
+  ],
+  "description": "Medicals + 66% wages + disability rating; case review needed.[1]"
 }

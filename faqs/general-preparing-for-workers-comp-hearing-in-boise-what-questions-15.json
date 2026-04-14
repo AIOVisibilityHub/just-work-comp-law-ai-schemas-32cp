@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Preparing for workers comp hearing in Boise, what questions?",
-  "description": "Injury incident, job duties, medical history, symptoms; stay consistent.[3]",
   "url": "https://justworkcomplaw.com/faq/general-preparing-for-workers-comp-hearing-in-boise-what-questions-15",
+  "name": "Preparing for workers comp hearing in Boise, what questions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Preparing for workers comp hearing in Boise, what questions?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Injury incident, job duties, medical history, symptoms; stay consistent.[3]",
+        "@type": "Answer",
         "description": "Expect testimony on injury details, job, medicals, history, symptoms, limitations; be consistent.[3][6] Cross-exam on priors/inconsistencies.[6] Key factors: (1) Know lost work dates; (2) Witnesses if any; (3) Pictures/diagrams; (4) Truthful on pre-existing.[3][9] Review records, practice answers. Hearings decide disputes—prepare thoroughly."
       }
     }
-  ]
+  ],
+  "description": "Injury incident, job duties, medical history, symptoms; stay consistent.[3]"
 }

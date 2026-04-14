@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Partially my fault for ignoring safety in Millcreek, get comp?",
-  "description": "Yes, no-fault system covers even if partially at fault.[1]",
   "url": "https://justworkcomplaw.com/faq/general-partially-my-fault-for-ignoring-safety-in-millcreek-get-comp-17",
+  "name": "Partially my fault for ignoring safety in Millcreek, get comp?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Partially my fault for ignoring safety in Millcreek, get comp?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, no-fault system covers even if partially at fault.[1]",
+        "@type": "Answer",
         "description": "Yes, workers' comp is no-fault; covers regardless of your contribution unless intoxication.[1] Focus on work nexus.[2] Key factors: (1) No negligence bar like third-party; (2) Report fully; (3) Insurer may probe; (4) Honesty key.[1] Admit facts but emphasize injury. Benefits not reduced by fault."
       }
     }
-  ]
+  ],
+  "description": "Yes, no-fault system covers even if partially at fault.[1]"
 }

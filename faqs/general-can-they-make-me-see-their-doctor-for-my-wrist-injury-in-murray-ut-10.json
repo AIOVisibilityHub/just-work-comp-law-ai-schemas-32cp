@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can they make me see their doctor for my wrist injury in Murray UT?",
-  "description": "Yes, attend IME or face denial; usually one with notice.[1]",
   "url": "https://justworkcomplaw.com/faq/general-can-they-make-me-see-their-doctor-for-my-wrist-injury-in-murray-ut-10",
+  "name": "Can they make me see their doctor for my wrist injury in Murray UT?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Can they make me see their doctor for my wrist injury in Murray UT?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, attend IME or face denial; usually one with notice.[1]",
+        "@type": "Answer",
         "description": "Yes, Utah allows insurer-requested independent medical exams (IME) with notice; refusal is non-cooperation denial grounds.[1] Limited to usually one per claim.[1] Key factors: (1) Adequate notice required; (2) Attend or risk benefits cut; (3) Prepare with your records; (4) Discuss concerns with adjuster.[1] Go prepared, be honest, follow up on findings. IMEs common—treat as routine."
       }
     }
-  ]
+  ],
+  "description": "Yes, attend IME or face denial; usually one with notice.[1]"
 }

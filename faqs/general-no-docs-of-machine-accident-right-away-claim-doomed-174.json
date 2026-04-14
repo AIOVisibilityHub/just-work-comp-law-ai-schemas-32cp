@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "No docs of machine accident right away, claim doomed?",
-  "description": "No, build evidence retroactively.",
   "url": "https://justworkcomplaw.com/faq/general-no-docs-of-machine-accident-right-away-claim-doomed-174",
+  "name": "No docs of machine accident right away, claim doomed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "No docs of machine accident right away, claim doomed?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "No, build evidence retroactively.",
+        "@type": "Answer",
         "description": "No, reconstruct with med records, later statements.[7][1] Key factors: Affidavits from colleagues; hospital notes. Deadlines flexible with cause."
       }
     }
-  ]
+  ],
+  "description": "No, build evidence retroactively."
 }

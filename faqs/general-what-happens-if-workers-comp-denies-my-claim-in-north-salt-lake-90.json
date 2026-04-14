@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What happens if workers comp denies my claim in North Salt Lake?",
-  "description": "Appeal within 30 days to hearing; get lawyer.[1][4]",
   "url": "https://justworkcomplaw.com/faq/general-what-happens-if-workers-comp-denies-my-claim-in-north-salt-lake-90",
+  "name": "What happens if workers comp denies my claim in North Salt Lake?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "What happens if workers comp denies my claim in North Salt Lake?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Appeal within 30 days to hearing; get lawyer.[1][4]",
+        "@type": "Answer",
         "description": "Request hearing within 30 days before administrative judge.[1][4] Prepare testimony on incident, symptoms, duties.[4] Key factors: witnesses, cross-exam; attorney files motions. Appeal quickly.[1] Many denials overturned with evidence."
       }
     }
-  ]
+  ],
+  "description": "Appeal within 30 days to hearing; get lawyer.[1][4]"
 }

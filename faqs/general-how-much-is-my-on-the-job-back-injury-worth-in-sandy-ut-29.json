@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much is my on-the-job back injury worth in Sandy UT?",
-  "description": "Based on meds, wages lost, and impairment; consult for $20K-$100K+ estimate.[3]",
   "url": "https://justworkcomplaw.com/faq/general-how-much-is-my-on-the-job-back-injury-worth-in-sandy-ut-29",
+  "name": "How much is my on-the-job back injury worth in Sandy UT?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "How much is my on-the-job back injury worth in Sandy UT?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Based on meds, wages lost, and impairment; consult for $20K-$100K+ estimate.[3]",
+        "@type": "Answer",
         "description": "**Value depends on medical costs, lost wages, disability rating, and pain; average settlements vary widely from $20K-$100K+.**[3]\n\nUtah workers' comp pays actual medical bills, 66 2/3% of average weekly wage (up to state max ~$1,200/week), and permanent partial disability based on impairment.\n\n- Severe cases with surgery/permanent limits yield higher awards.\n- No pain/suffering damages in pure workers' comp.\n- Third-party negligence adds economic/non-economic damages.[3]\n\nGet an impairment rating post-healing. Attorney negotiations often double insurer offers."
       }
     }
-  ]
+  ],
+  "description": "Based on meds, wages lost, and impairment; consult for $20K-$100K+ estimate.[3]"
 }

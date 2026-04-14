@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is workers comp different from suing my boss for injury?",
-  "description": "Comp is no-fault insurance, not lawsuit—faster, guaranteed if eligible.",
   "url": "https://justworkcomplaw.com/faq/general-is-workers-comp-different-from-suing-my-boss-for-injury-109",
+  "name": "Is workers comp different from suing my boss for injury?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Is workers comp different from suing my boss for injury?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Comp is no-fault insurance, not lawsuit—faster, guaranteed if eligible.",
+        "@type": "Answer",
         "description": "Workers comp is no-fault insurance replacing lawsuit rights; you can't sue employer for negligence but get faster benefits. Key factors: Covers medical/wages without proving fault; third-party suits possible if others involved. Exclusive remedy limits employer liability. Use comp first, explore extras with attorney."
       }
     }
-  ]
+  ],
+  "description": "Comp is no-fault insurance, not lawsuit—faster, guaranteed if eligible."
 }

@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the time limit to file after chemical exposure at work?",
-  "description": "1 year in Utah/Idaho for workers' comp from knowledge of injury.[4]",
   "url": "https://justworkcomplaw.com/faq/general-what-s-the-time-limit-to-file-after-chemical-exposure-at-work-179",
+  "name": "What's the time limit to file after chemical exposure at work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "What's the time limit to file after chemical exposure at work?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "1 year in Utah/Idaho for workers' comp from knowledge of injury.[4]",
+        "@type": "Answer",
         "description": "**Typically 1-3 years from injury awareness or diagnosis, varying by state—e.g., 1 year in Utah for workers' comp.** Statutes of limitations start from discovery of harm, crucial for latent illnesses like cancer.[4][7] Factors: exposure date vs. symptom onset, state laws (Idaho: 1 year). Check records immediately, as delays bar claims. Consult a specialist to confirm your deadline."
       }
     }
-  ]
+  ],
+  "description": "1 year in Utah/Idaho for workers' comp from knowledge of injury.[4]"
 }

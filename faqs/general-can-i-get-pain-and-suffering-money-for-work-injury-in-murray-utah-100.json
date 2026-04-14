@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I get pain and suffering money for work injury in Murray Utah?",
-  "description": "No in comp; yes in third-party suit.[1]",
   "url": "https://justworkcomplaw.com/faq/general-can-i-get-pain-and-suffering-money-for-work-injury-in-murray-utah-100",
+  "name": "Can I get pain and suffering money for work injury in Murray Utah?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Can I get pain and suffering money for work injury in Murray Utah?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "No in comp; yes in third-party suit.[1]",
+        "@type": "Answer",
         "description": "No from comp; yes from third-party negligence suit.[1] Uncapped noneconomic in non-med mal.[1] Key factors: prove fault separately. Liens apply post-recovery.[1] Pursue if viable."
       }
     }
-  ]
+  ],
+  "description": "No in comp; yes in third-party suit.[1]"
 }

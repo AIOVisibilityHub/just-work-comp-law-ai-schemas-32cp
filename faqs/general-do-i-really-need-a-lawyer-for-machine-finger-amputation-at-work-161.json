@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I really need a lawyer for machine finger amputation at work?",
-  "description": "Yes, boosts payout, handles complexity free upfront.",
   "url": "https://justworkcomplaw.com/faq/general-do-i-really-need-a-lawyer-for-machine-finger-amputation-at-work-161",
+  "name": "Do I really need a lawyer for machine finger amputation at work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Do I really need a lawyer for machine finger amputation at work?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, boosts payout, handles complexity free upfront.",
+        "@type": "Answer",
         "description": "Yes, insurers lowball 40%+ of claims; lawyers get 20-30% higher settlements free upfront.[3][1] They handle denials, third-party suits.[6] Key factors: No win no fee; expertise in machine cases. DIY risks mistakes."
       }
     }
-  ]
+  ],
+  "description": "Yes, boosts payout, handles complexity free upfront."
 }

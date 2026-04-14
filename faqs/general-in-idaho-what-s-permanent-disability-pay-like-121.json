@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "In Idaho, what's permanent disability pay like?",
-  "description": "Impairment % x wages, duration varies.",
   "url": "https://justworkcomplaw.com/faq/general-in-idaho-what-s-permanent-disability-pay-like-121",
+  "name": "In Idaho, what's permanent disability pay like?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "In Idaho, what's permanent disability pay like?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Impairment % x wages, duration varies.",
+        "@type": "Answer",
         "description": "Scheduled or whole person impairment % of wages for life or set period. Key factors: AMA rating post-healing; occupation/age factor. Higher for severe."
       }
     }
-  ]
+  ],
+  "description": "Impairment % x wages, duration varies."
 }

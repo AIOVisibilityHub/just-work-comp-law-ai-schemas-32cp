@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I get workers comp if my hearing loss is from noisy construction work?",
-  "description": "Yes, if proven job-related via audiogram and exposure records.[1][3]",
   "url": "https://justworkcomplaw.com/faq/general-can-i-get-workers-comp-if-my-hearing-loss-is-from-noisy-construction-work-227",
+  "name": "Can I get workers comp if my hearing loss is from noisy construction work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Can I get workers comp if my hearing loss is from noisy construction work?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, if proven job-related via audiogram and exposure records.[1][3]",
+        "@type": "Answer",
         "description": "**Yes, workers' compensation typically covers hearing loss from occupational noise like construction if linked to job exposure.**\n\nU.S. laws recognize noise-induced hearing loss (NIHL) as compensable when over 85 dB for extended periods without protection.[3][1] OSHA standards require employers to mitigate hazards above this level.[3]\n\n**Key factors:**\n- Prove exposure via employment records and noise measurements.\n- Audiogram confirming loss tied to work, not age or other causes.[6]\n- Employer negligence, like no hearing protection.[1]\n\nFile a claim promptly with medical proof; an attorney can counter denials.[2] Benefits may include hearing aids and lost wages.\n\nThis protects workers from hazardous environments."
       }
     }
-  ]
+  ],
+  "description": "Yes, if proven job-related via audiogram and exposure records.[1][3]"
 }

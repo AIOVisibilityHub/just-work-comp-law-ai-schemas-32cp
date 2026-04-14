@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Multiple injuries from one work slip, all covered?",
-  "description": "Yes, all linked injuries compensated.",
   "url": "https://justworkcomplaw.com/faq/general-multiple-injuries-from-one-work-slip-all-covered-74",
+  "name": "Multiple injuries from one work slip, all covered?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Multiple injuries from one work slip, all covered?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, all linked injuries compensated.",
+        "@type": "Answer",
         "description": "Yes, comp covers all causally-related injuries from single incident; list all in claim[1]. Key factors: Comprehensive eval at MMI. No splitting claims."
       }
     }
-  ]
+  ],
+  "description": "Yes, all linked injuries compensated."
 }

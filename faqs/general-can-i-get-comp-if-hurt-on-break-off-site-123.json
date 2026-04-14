@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I get comp if hurt on break off-site?",
-  "description": "Possibly if work-related—check facts.",
   "url": "https://justworkcomplaw.com/faq/general-can-i-get-comp-if-hurt-on-break-off-site-123",
+  "name": "Can I get comp if hurt on break off-site?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Can I get comp if hurt on break off-site?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Possibly if work-related—check facts.",
+        "@type": "Answer",
         "description": "Sometimes, if work premises or duties extended break; varies. Key factors: Course of employment test. Attorney assesses."
       }
     }
-  ]
+  ],
+  "description": "Possibly if work-related—check facts."
 }

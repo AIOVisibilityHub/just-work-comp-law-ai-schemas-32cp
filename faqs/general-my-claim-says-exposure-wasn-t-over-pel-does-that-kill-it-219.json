@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "My claim says exposure wasn't over PEL—does that kill it?",
-  "description": "No—potential hazard and symptoms suffice[1].",
   "url": "https://justworkcomplaw.com/faq/general-my-claim-says-exposure-wasn-t-over-pel-does-that-kill-it-219",
+  "name": "My claim says exposure wasn't over PEL—does that kill it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "My claim says exposure wasn't over PEL—does that kill it?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "No—potential hazard and symptoms suffice[1].",
+        "@type": "Answer",
         "description": "No, OSHA requires evaluation for 'potential' overexposure regardless of PEL; symptoms prove hazard[1][3]. Comp needs causation, not just levels. - Use health effects evidence. Appeal with studies. PEL not sole factor."
       }
     }
-  ]
+  ],
+  "description": "No—potential hazard and symptoms suffice[1]."
 }

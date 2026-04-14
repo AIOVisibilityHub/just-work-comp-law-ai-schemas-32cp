@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I'm a temp worker in Boise hurt on job—who pays comp?",
-  "description": "Both employers responsible—joint liability.",
   "url": "https://justworkcomplaw.com/faq/general-i-m-a-temp-worker-in-boise-hurt-on-job-who-pays-comp-114",
+  "name": "I'm a temp worker in Boise hurt on job—who pays comp?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "I'm a temp worker in Boise hurt on job—who pays comp?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Both employers responsible—joint liability.",
+        "@type": "Answer",
         "description": "Both temp agency and client employer jointly liable; file against both. Key factors: Agencies carry insurance; prove control at injury time. No gap in coverage. Claim through agency first."
       }
     }
-  ]
+  ],
+  "description": "Both employers responsible—joint liability."
 }

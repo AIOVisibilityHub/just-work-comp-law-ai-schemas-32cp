@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Multiple injuries from one machine malfunction at work, all covered?",
-  "description": "Yes, full coverage for all.",
   "url": "https://justworkcomplaw.com/faq/general-multiple-injuries-from-one-machine-malfunction-at-work-all-covered-170",
+  "name": "Multiple injuries from one machine malfunction at work, all covered?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Multiple injuries from one machine malfunction at work, all covered?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, full coverage for all.",
+        "@type": "Answer",
         "description": "Yes, comp covers all related medical/wage loss.[7][4] Key factors: List everything in claim; future surgeries too. No limit per incident."
       }
     }
-  ]
+  ],
+  "description": "Yes, full coverage for all."
 }

@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Kids depend on me, machine injury cost my job, future secure?",
-  "description": "Disability benefits + retraining available.",
   "url": "https://justworkcomplaw.com/faq/general-kids-depend-on-me-machine-injury-cost-my-job-future-secure-175",
+  "name": "Kids depend on me, machine injury cost my job, future secure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Kids depend on me, machine injury cost my job, future secure?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Disability benefits + retraining available.",
+        "@type": "Answer",
         "description": "Comp provides retraining, permanent disability pay.[4][3] Key factors: Vocational rehab; SSDI if total. Plan with attorney for long-term."
       }
     }
-  ]
+  ],
+  "description": "Disability benefits + retraining available."
 }

@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the time limit to claim comp for slow-developing lung damage from my job?",
-  "description": "Usually 1-2 years from diagnosis or disability awareness. Don't delay[5].",
   "url": "https://justworkcomplaw.com/faq/general-what-s-the-time-limit-to-claim-comp-for-slow-developing-lung-damage-from-my-job-204",
+  "name": "What's the time limit to claim comp for slow-developing lung damage from my job?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "What's the time limit to claim comp for slow-developing lung damage from my job?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Usually 1-2 years from diagnosis or disability awareness. Don't delay[5].",
+        "@type": "Answer",
         "description": "File within 1-2 years from when you knew or should have known the illness was work-related, such as diagnosis date—deadlines are strict in most states including Utah. Occupational respiratory diseases like COPD from cumulative exposure have 'discovery' rules, but delays risk denial[5]. Ohio example: 1 year from disability or 6 months from diagnosis. - Track symptoms and doctor visits from onset. - Cumulative trauma claims start clock at substantial disability. Act fast upon diagnosis, document timeline, and consult an attorney to avoid missing cutoffs."
       }
     }
-  ]
+  ],
+  "description": "Usually 1-2 years from diagnosis or disability awareness. Don't delay[5]."
 }

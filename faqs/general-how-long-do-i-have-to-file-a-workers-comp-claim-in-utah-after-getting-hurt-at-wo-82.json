@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long do I have to file a workers comp claim in Utah after getting hurt at work?",
-  "description": "180 days max to report in Utah; do it ASAP.[1]",
   "url": "https://justworkcomplaw.com/faq/general-how-long-do-i-have-to-file-a-workers-comp-claim-in-utah-after-getting-hurt-at-wo-82",
+  "name": "How long do I have to file a workers comp claim in Utah after getting hurt at work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "How long do I have to file a workers comp claim in Utah after getting hurt at work?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "180 days max to report in Utah; do it ASAP.[1]",
+        "@type": "Answer",
         "description": "Report within 180 days or benefits may be barred; file Form 122 promptly after notice.[1] Utah requires 'as soon as practicable,' with strict 180-day cutoff.[1] Key factors: timestamp via email/report; occupational diseases need causation proof. File even if late with explanation.[1][2] Attorney can help meet deadlines."
       }
     }
-  ]
+  ],
+  "description": "180 days max to report in Utah; do it ASAP.[1]"
 }

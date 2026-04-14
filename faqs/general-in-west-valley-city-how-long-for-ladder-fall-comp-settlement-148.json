@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "In West Valley City, how long for ladder fall comp settlement?",
-  "description": "6-18 months typically in Utah.[1]",
   "url": "https://justworkcomplaw.com/faq/general-in-west-valley-city-how-long-for-ladder-fall-comp-settlement-148",
+  "name": "In West Valley City, how long for ladder fall comp settlement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "In West Valley City, how long for ladder fall comp settlement?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "6-18 months typically in Utah.[1]",
+        "@type": "Answer",
         "description": "Utah settlements average 6-18 months; faster for clear cases, longer with disputes.[1]\n\nLocal factors like state fund speed process.[2]\n\n- Simple: 3-6 months.\n- Litigated: 1-2 years.\n- Appeal adds time.\n\nHire experienced counsel for efficiency.[3]"
       }
     }
-  ]
+  ],
+  "description": "6-18 months typically in Utah.[1]"
 }

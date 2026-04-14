@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need a lawyer for chemical exposure workers comp in Boise?",
-  "description": "Yes, especially if disputed.[10]",
   "url": "https://justworkcomplaw.com/faq/general-do-i-need-a-lawyer-for-chemical-exposure-workers-comp-in-boise-190",
+  "name": "Do I need a lawyer for chemical exposure workers comp in Boise?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Do I need a lawyer for chemical exposure workers comp in Boise?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, especially if disputed.[10]",
+        "@type": "Answer",
         "description": "**Yes for denied/complex cases; free consults common, they boost settlements 2-3x.** Handle paperwork, fight insurers.[10] DIY simple claims only. Essential for toxics."
       }
     }
-  ]
+  ],
+  "description": "Yes, especially if disputed.[10]"
 }

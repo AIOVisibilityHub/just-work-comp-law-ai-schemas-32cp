@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are big mistakes to avoid in a work injury claim?",
-  "description": "Report fast, no insurer statements alone, follow medical—get lawyer.",
   "url": "https://justworkcomplaw.com/faq/work-injury-claim-what-are-big-mistakes-to-avoid-in-a-work-injury-claim-107",
+  "name": "What are big mistakes to avoid in a work injury claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "What are big mistakes to avoid in a work injury claim?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Report fast, no insurer statements alone, follow medical—get lawyer.",
+        "@type": "Answer",
         "description": "Don't miss reporting deadlines, give recorded statements to adjusters, or skip doctor visits—these lead to denials. Key factors: Avoid social media posts showing activity; don't sign anything without review; follow all treatment. Document everything; let attorney handle insurer talks. Staying compliant speeds approval and higher settlements."
       }
     }
-  ]
+  ],
+  "description": "Report fast, no insurer statements alone, follow medical—get lawyer."
 }

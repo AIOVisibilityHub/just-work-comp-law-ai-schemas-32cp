@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "In Utah like West Valley City, do I need a lawyer for work injury?",
-  "description": "No, but yes for better payout—free until you win.",
   "url": "https://justworkcomplaw.com/faq/general-in-utah-like-west-valley-city-do-i-need-a-lawyer-for-work-injury-110",
+  "name": "In Utah like West Valley City, do I need a lawyer for work injury?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "In Utah like West Valley City, do I need a lawyer for work injury?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "No, but yes for better payout—free until you win.",
+        "@type": "Answer",
         "description": "Not required but highly recommended; attorneys boost settlements 2-3x, handle denials free upfront (contingency). Key factors: Insurers lowball without rep; complex rules in Utah Labor Commission. Free consults common. Contact local specialist to review your case."
       }
     }
-  ]
+  ],
+  "description": "No, but yes for better payout—free until you win."
 }

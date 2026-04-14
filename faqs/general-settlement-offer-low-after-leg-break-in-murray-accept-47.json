@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Settlement offer low after leg break in Murray, accept?",
-  "description": "Negotiate; lawyers triple offers.[1]",
   "url": "https://justworkcomplaw.com/faq/general-settlement-offer-low-after-leg-break-in-murray-accept-47",
+  "name": "Settlement offer low after leg break in Murray, accept?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Settlement offer low after leg break in Murray, accept?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Negotiate; lawyers triple offers.[1]",
+        "@type": "Answer",
         "description": "**No, most first offers undervalue; negotiate higher.**[1]\n\nIncludes future costs; reject without review.\n\n- Factor lifetime impacts.\n- Attorney gets 2-3x more.\n- No signing under pressure.\n\nFree case review advised."
       }
     }
-  ]
+  ],
+  "description": "Negotiate; lawyers triple offers.[1]"
 }

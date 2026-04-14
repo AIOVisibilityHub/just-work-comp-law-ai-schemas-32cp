@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "In Utah, how is fault decided for work injuries?",
-  "description": "No fault for comp; negligence for third-party.[1]",
   "url": "https://justworkcomplaw.com/faq/general-in-utah-how-is-fault-decided-for-work-injuries-94",
+  "name": "In Utah, how is fault decided for work injuries?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "In Utah, how is fault decided for work injuries?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "No fault for comp; negligence for third-party.[1]",
+        "@type": "Answer",
         "description": "Comp: no fault needed, just work-related; third-party: negligence (duty, breach, causation).[1] Presumption for on-job.[1] Key factors: medical proof for aggravations. Fault irrelevant for employer comp.[1] Focus on causation."
       }
     }
-  ]
+  ],
+  "description": "No fault for comp; negligence for third-party.[1]"
 }

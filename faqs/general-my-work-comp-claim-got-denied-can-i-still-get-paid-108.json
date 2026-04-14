@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "My work comp claim got denied, can I still get paid?",
-  "description": "Yes, appeal/hearing within deadlines—most win with good evidence.",
   "url": "https://justworkcomplaw.com/faq/general-my-work-comp-claim-got-denied-can-i-still-get-paid-108",
+  "name": "My work comp claim got denied, can I still get paid?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "My work comp claim got denied, can I still get paid?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, appeal/hearing within deadlines—most win with good evidence.",
+        "@type": "Answer",
         "description": "Yes, appeal by requesting a hearing (Form 33 in some states, similar in UT/ID within 1-2 years); many denials overturn with evidence. Key factors: Common denials for late report or pre-existing issues; gather witnesses/medicals. No upfront fees; win gets backpay. File promptly and get attorney experienced in hearings."
       }
     }
-  ]
+  ],
+  "description": "Yes, appeal/hearing within deadlines—most win with good evidence."
 }

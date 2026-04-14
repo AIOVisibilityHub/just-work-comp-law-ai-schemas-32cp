@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much money can I get for a broken leg from work in Murray?",
-  "description": "Covers meds, 66% wages, disability; amount varies by severity and time off.[1]",
   "url": "https://justworkcomplaw.com/faq/general-how-much-money-can-i-get-for-a-broken-leg-from-work-in-murray-5",
+  "name": "How much money can I get for a broken leg from work in Murray?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "How much money can I get for a broken leg from work in Murray?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Covers meds, 66% wages, disability; amount varies by severity and time off.[1]",
+        "@type": "Answer",
         "description": "Utah workers' comp covers medical bills, lost wages (typically 66-2/3% of average weekly wage), and disability benefits based on injury severity.[1] Value depends on time off, permanency, and light duty refusal impacts.[1] Key factors: (1) Wage replacement caps apply; (2) Permanent impairment rated by doctor; (3) Third-party fault may add damages; (4) Pre-existing reduces if not aggravated.[1][4] Calculate lost wages precisely, get impairment rating, explore third-party claims. Valuation needs case-specific assessment."
       }
     }
-  ]
+  ],
+  "description": "Covers meds, 66% wages, disability; amount varies by severity and time off.[1]"
 }

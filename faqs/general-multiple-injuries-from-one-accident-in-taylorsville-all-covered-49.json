@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Multiple injuries from one accident in Taylorsville, all covered?",
-  "description": "Yes, all work-related parts.[3]",
   "url": "https://justworkcomplaw.com/faq/general-multiple-injuries-from-one-accident-in-taylorsville-all-covered-49",
+  "name": "Multiple injuries from one accident in Taylorsville, all covered?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Multiple injuries from one accident in Taylorsville, all covered?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, all work-related parts.[3]",
+        "@type": "Answer",
         "description": "**Yes, workers' comp covers all arising from the incident.**[3]\n\nMedical for each; combined impairment rating.\n\n- Document separately.\n- No limit on body parts.\n- Wage loss holistic.\n\nFull eval ensures nothing missed."
       }
     }
-  ]
+  ],
+  "description": "Yes, all work-related parts.[3]"
 }

@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I start a workers comp claim after hurting my back at work in Boise?",
-  "description": "Report to employer immediately, get medical care, file claim form with state commission.",
   "url": "https://justworkcomplaw.com/faq/general-how-do-i-start-a-workers-comp-claim-after-hurting-my-back-at-work-in-boise-103",
+  "name": "How do I start a workers comp claim after hurting my back at work in Boise?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "How do I start a workers comp claim after hurting my back at work in Boise?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Report to employer immediately, get medical care, file claim form with state commission.",
+        "@type": "Answer",
         "description": "Notify your employer in writing within 30 days (Idaho) or 180 days (Utah), seek medical treatment, and file a claim form with the state commission. Employer must provide a claim form or you file directly. Key factors: Get evaluated by approved providers; keep records of lost wages; no lawsuit needed—it's administrative. Follow up on approval; if denied, request a hearing. Hire an attorney early for best results, especially in Boise area."
       }
     }
-  ]
+  ],
+  "description": "Report to employer immediately, get medical care, file claim form with state commission."
 }

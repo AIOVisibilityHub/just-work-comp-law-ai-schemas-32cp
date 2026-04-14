@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Uninsured employer after my ladder fall in Holladay, what to do?",
-  "description": "Labor Commission accesses Uninsured Fund for benefits.[1]",
   "url": "https://justworkcomplaw.com/faq/general-uninsured-employer-after-my-ladder-fall-in-holladay-what-to-do-20",
+  "name": "Uninsured employer after my ladder fall in Holladay, what to do?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Uninsured employer after my ladder fall in Holladay, what to do?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Labor Commission accesses Uninsured Fund for benefits.[1]",
+        "@type": "Answer",
         "description": "Utah Labor Commission helps find coverage or pursue Uninsured Employer Fund; report immediately.[1] State backs valid claims.[1] Key factors: (1) Prove employer negligence in insuring; (2) Same benefits process; (3) Commission enforces; (4) No delay.[1] Contact Commission now, document employer details. Fund protects workers."
       }
     }
-  ]
+  ],
+  "description": "Labor Commission accesses Uninsured Fund for benefits.[1]"
 }

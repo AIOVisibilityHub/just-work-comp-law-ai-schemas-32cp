@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much is my broken arm from work worth in West Jordan?",
-  "description": "Medical + partial wages; third-party adds pain/suffering uncapped.[1]",
   "url": "https://justworkcomplaw.com/faq/general-how-much-is-my-broken-arm-from-work-worth-in-west-jordan-84",
+  "name": "How much is my broken arm from work worth in West Jordan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "How much is my broken arm from work worth in West Jordan?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Medical + partial wages; third-party adds pain/suffering uncapped.[1]",
+        "@type": "Answer",
         "description": "Value includes medical bills, 66-75% wages (capped), future care; no pain/suffering in comp, but third-party adds it.[1] Utah has no general noneconomic cap for third-party; liens reduce net.[1] Key factors: total wages/OT lost; diminished capacity. Use settlement calculators cautiously; get attorney evaluation.[1]"
       }
     }
-  ]
+  ],
+  "description": "Medical + partial wages; third-party adds pain/suffering uncapped.[1]"
 }

@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Multiple injured in shop accident Midvale, how claims work?",
-  "description": "Separate claims, use mutual witnesses/evidence.[3]",
   "url": "https://justworkcomplaw.com/faq/general-multiple-injured-in-shop-accident-midvale-how-claims-work-21",
+  "name": "Multiple injured in shop accident Midvale, how claims work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Multiple injured in shop accident Midvale, how claims work?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Separate claims, use mutual witnesses/evidence.[3]",
+        "@type": "Answer",
         "description": "Each files separate comp claim; witnesses strengthen all; third-party possible.[3][4] Co-employee not suable.[4] Key factors: (1) Individual proofs; (2) Shared evidence; (3) Hearings separate; (4) Consistency across.[3] Coordinate statements carefully. Independent but interconnected cases."
       }
     }
-  ]
+  ],
+  "description": "Separate claims, use mutual witnesses/evidence.[3]"
 }

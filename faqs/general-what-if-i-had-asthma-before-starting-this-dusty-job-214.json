@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if I had asthma before starting this dusty job?",
-  "description": "Yes, for aggravation of pre-existing[4].",
   "url": "https://justworkcomplaw.com/faq/general-what-if-i-had-asthma-before-starting-this-dusty-job-214",
+  "name": "What if I had asthma before starting this dusty job?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "What if I had asthma before starting this dusty job?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, for aggravation of pre-existing[4].",
+        "@type": "Answer",
         "description": "You can still claim if work aggravated it substantially—'apportionment' reduces but doesn't eliminate benefits. Prove worsening via medical opinion[4]. - Compare pre/post lung tests. Aggravation qualifies. Get specialist eval showing job role."
       }
     }
-  ]
+  ],
+  "description": "Yes, for aggravation of pre-existing[4]."
 }

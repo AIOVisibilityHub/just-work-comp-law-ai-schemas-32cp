@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if my workers comp for chemical exposure gets denied?",
-  "description": "Appeal quickly with stronger evidence and lawyer help.[9]",
   "url": "https://justworkcomplaw.com/faq/general-what-if-my-workers-comp-for-chemical-exposure-gets-denied-182",
+  "name": "What if my workers comp for chemical exposure gets denied?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "What if my workers comp for chemical exposure gets denied?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Appeal quickly with stronger evidence and lawyer help.[9]",
+        "@type": "Answer",
         "description": "**Appeal within 20-30 days via state board hearing, gathering more medical proof.** Denials often cite lack of causation or pre-existing conditions.[9][2] Factors: insurer bias, incomplete docs. Request claim file, add experts, consider attorney. Persistence overturns many denials."
       }
     }
-  ]
+  ],
+  "description": "Appeal quickly with stronger evidence and lawyer help.[9]"
 }

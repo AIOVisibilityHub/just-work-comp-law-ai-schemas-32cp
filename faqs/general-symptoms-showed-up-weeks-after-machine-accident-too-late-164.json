@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Symptoms showed up weeks after machine accident, too late?",
-  "description": "File now; med link proves it.",
   "url": "https://justworkcomplaw.com/faq/general-symptoms-showed-up-weeks-after-machine-accident-too-late-164",
+  "name": "Symptoms showed up weeks after machine accident, too late?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Symptoms showed up weeks after machine accident, too late?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "File now; med link proves it.",
+        "@type": "Answer",
         "description": "No, if linked medically; delayed injuries common in crushes.[4][5] Report anyway.[8] Key factors: Doctor opinion connects to incident; file within deadlines. Utah allows if employer notified."
       }
     }
-  ]
+  ],
+  "description": "File now; med link proves it."
 }

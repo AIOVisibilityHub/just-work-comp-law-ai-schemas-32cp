@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Third party truck hit me at work in Draper, sue them too?",
-  "description": "Yes, sue third-party for negligence after notifying comp insurer.[4]",
   "url": "https://justworkcomplaw.com/faq/general-third-party-truck-hit-me-at-work-in-draper-sue-them-too-12",
+  "name": "Third party truck hit me at work in Draper, sue them too?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Third party truck hit me at work in Draper, sue them too?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, sue third-party for negligence after notifying comp insurer.[4]",
+        "@type": "Answer",
         "description": "Yes, pursue third-party negligence claim alongside workers' comp for extras like pain/suffering; notify comp insurer first.[4] Comp covers basics, third-party adds uncapped damages.[4] Key factors: (1) Prove negligence caused injury; (2) Insurer gets lien on recovery; (3) No suit against employer; (4) Evidence of breach/damages.[4] Identify at-fault party/insurer, inform comp carrier immediately. Dual claims maximize recovery."
       }
     }
-  ]
+  ],
+  "description": "Yes, sue third-party for negligence after notifying comp insurer.[4]"
 }

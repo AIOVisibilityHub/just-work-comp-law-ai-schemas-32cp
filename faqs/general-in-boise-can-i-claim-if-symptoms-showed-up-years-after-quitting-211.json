@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "In Boise, can I claim if symptoms showed up years after quitting?",
-  "description": "Yes, via discovery rule if proven work-related[5].",
   "url": "https://justworkcomplaw.com/faq/general-in-boise-can-i-claim-if-symptoms-showed-up-years-after-quitting-211",
+  "name": "In Boise, can I claim if symptoms showed up years after quitting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "In Boise, can I claim if symptoms showed up years after quitting?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, via discovery rule if proven work-related[5].",
+        "@type": "Answer",
         "description": "Yes, if you file within the statute from diagnosis and prove cumulative exposure caused it—Idaho workers' comp allows for latent occupational diseases. Discovery rule applies[5]. - Medical causation key for delayed onset. - No recent work doesn't bar if linked. Get retroactive eval, file promptly in Boise."
       }
     }
-  ]
+  ],
+  "description": "Yes, via discovery rule if proven work-related[5]."
 }

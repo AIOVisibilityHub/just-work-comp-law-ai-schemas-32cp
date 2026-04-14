@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the deadline to file after slipping at work in Sandy UT?",
-  "description": "Notify employer in 180 days, file claim in 1 year in Utah.",
   "url": "https://justworkcomplaw.com/faq/general-what-s-the-deadline-to-file-after-slipping-at-work-in-sandy-ut-54",
+  "name": "What's the deadline to file after slipping at work in Sandy UT?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "What's the deadline to file after slipping at work in Sandy UT?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Notify employer in 180 days, file claim in 1 year in Utah.",
+        "@type": "Answer",
         "description": "In Utah, notify your employer within 180 days and file a formal claim (Form 12) with the Labor Commission within 1 year of the injury date. Missing these triggers denial risks, though late filings may be accepted with good cause[6]. Key factors: Date of injury or discovery starts clock; minors get extensions. Document notification immediately via email or certified mail. If symptoms delayed, consult attorney to argue timely discovery. Act fast to preserve evidence."
       }
     }
-  ]
+  ],
+  "description": "Notify employer in 180 days, file claim in 1 year in Utah."
 }

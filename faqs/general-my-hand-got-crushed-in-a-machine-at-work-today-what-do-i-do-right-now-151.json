@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "My hand got crushed in a machine at work today, what do I do right now?",
-  "description": "Go to ER now, tell employer, take photos, don't talk to insurance alone. Call a workers' comp lawyer today.",
   "url": "https://justworkcomplaw.com/faq/general-my-hand-got-crushed-in-a-machine-at-work-today-what-do-i-do-right-now-151",
+  "name": "My hand got crushed in a machine at work today, what do I do right now?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "My hand got crushed in a machine at work today, what do I do right now?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Go to ER now, tell employer, take photos, don't talk to insurance alone. Call a workers' comp lawyer today.",
+        "@type": "Answer",
         "description": "Seek immediate medical attention at the ER, even if it hurts a little, and report the injury to your employer before leaving.[1][4] Workers' comp covers machine accidents as workplace injuries, providing medical bills and wage replacement without proving fault.[2][7] Key factors: Document everything including photos of the machine and scene; don't sign anything from insurance yet; Utah requires reporting within 180 days but act fast.[8] Get a workers' comp attorney consult free to protect benefits. Preserve evidence like clothing and witness contacts. Consult a specialist soon to avoid claim denials."
       }
     }
-  ]
+  ],
+  "description": "Go to ER now, tell employer, take photos, don't talk to insurance alone. Call a workers' comp lawyer today."
 }

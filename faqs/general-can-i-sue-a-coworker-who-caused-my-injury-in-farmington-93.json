@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I sue a coworker who caused my injury in Farmington?",
-  "description": "No for coworkers; yes for third-parties.[1]",
   "url": "https://justworkcomplaw.com/faq/general-can-i-sue-a-coworker-who-caused-my-injury-in-farmington-93",
+  "name": "Can I sue a coworker who caused my injury in Farmington?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Can I sue a coworker who caused my injury in Farmington?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "No for coworkers; yes for third-parties.[1]",
+        "@type": "Answer",
         "description": "Generally no, co-employee immunity under comp; sue third-parties like contractors.[1] Prove duty/breach/causation for third-party.[1] Key factors: defective equipment claims. Comp first, then extra suit.[1] Consult for viability."
       }
     }
-  ]
+  ],
+  "description": "No for coworkers; yes for third-parties.[1]"
 }

@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Deposition coming for comp in West Jordan, watch prior injuries?",
-  "description": "Yes, full honest disclosure of all priors prevents traps.[6]",
   "url": "https://justworkcomplaw.com/faq/general-deposition-coming-for-comp-in-west-jordan-watch-prior-injuries-24",
+  "name": "Deposition coming for comp in West Jordan, watch prior injuries?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Deposition coming for comp in West Jordan, watch prior injuries?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, full honest disclosure of all priors prevents traps.[6]",
+        "@type": "Answer",
         "description": "Yes, disclose all prior injuries/pains fully and consistently; inconsistencies kill credibility.[6][7] Every detail questioned.[7] Key factors: (1) Work or not, all relevant; (2) Be upfront; (3) Match records; (4) Small or big.[6] Review history with counsel, practice. Honesty wins cases."
       }
     }
-  ]
+  ],
+  "description": "Yes, full honest disclosure of all priors prevents traps.[6]"
 }

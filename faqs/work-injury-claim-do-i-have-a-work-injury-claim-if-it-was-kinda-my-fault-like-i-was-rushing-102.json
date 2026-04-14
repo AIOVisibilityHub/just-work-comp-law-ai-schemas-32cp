@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I have a work injury claim if it was kinda my fault, like I was rushing?",
-  "description": "Yes, workers' comp is no-fault—you get benefits if injured on the job, even if partly your fault.",
   "url": "https://justworkcomplaw.com/faq/work-injury-claim-do-i-have-a-work-injury-claim-if-it-was-kinda-my-fault-like-i-was-rushing-102",
+  "name": "Do I have a work injury claim if it was kinda my fault, like I was rushing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Do I have a work injury claim if it was kinda my fault, like I was rushing?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, workers' comp is no-fault—you get benefits if injured on the job, even if partly your fault.",
+        "@type": "Answer",
         "description": "Yes, workers' compensation claims are generally no-fault, meaning you can still get benefits even if partially at fault, as long as the injury arose out of employment. This applies in most states including Utah and Idaho. Key factors: Injury must occur during work duties; prove job-related risk caused it; defenses like intoxication rarely apply without evidence. Avoid discussing fault with insurers; document everything and get an attorney to handle communications. Most claims succeed regardless of minor fault."
       }
     }
-  ]
+  ],
+  "description": "Yes, workers' comp is no-fault—you get benefits if injured on the job, even if partly your fault."
 }

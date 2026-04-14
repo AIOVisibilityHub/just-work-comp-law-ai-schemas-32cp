@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if the machine accident was kinda my fault at work?",
-  "description": "Still get full workers comp; no-fault system.",
   "url": "https://justworkcomplaw.com/faq/general-what-if-the-machine-accident-was-kinda-my-fault-at-work-157",
+  "name": "What if the machine accident was kinda my fault at work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "What if the machine accident was kinda my fault at work?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Still get full workers comp; no-fault system.",
+        "@type": "Answer",
         "description": "Workers' comp is no-fault; you still get benefits even if partially responsible.[3][9] Only total intentional misconduct bars claim.[1] Key factors: Comparative fault doesn't reduce comp but affects third-party suits. Document training received. Idaho/Utah follow no-fault rule strictly."
       }
     }
-  ]
+  ],
+  "description": "Still get full workers comp; no-fault system."
 }

@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "In West Valley City, how's fault decided in machine work accidents?",
-  "description": "Comp no-fault; suits need proof of negligence/defect.",
   "url": "https://justworkcomplaw.com/faq/general-in-west-valley-city-how-s-fault-decided-in-machine-work-accidents-160",
+  "name": "In West Valley City, how's fault decided in machine work accidents?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "In West Valley City, how's fault decided in machine work accidents?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Comp no-fault; suits need proof of negligence/defect.",
+        "@type": "Answer",
         "description": "Workers comp ignores fault; benefits automatic if work-related.[1][4] For third-party suits, investigate maintenance, training, defects.[7] Key factors: Expert analysis of machine; witness accounts; OSHA logs. Utah courts use negligence standards for suits."
       }
     }
-  ]
+  ],
+  "description": "Comp no-fault; suits need proof of negligence/defect."
 }

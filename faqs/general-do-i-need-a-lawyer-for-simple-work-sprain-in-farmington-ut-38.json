@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need a lawyer for simple work sprain in Farmington UT?",
-  "description": "Recommended to avoid lowballs/denials.[1]",
   "url": "https://justworkcomplaw.com/faq/general-do-i-need-a-lawyer-for-simple-work-sprain-in-farmington-ut-38",
+  "name": "Do I need a lawyer for simple work sprain in Farmington UT?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Do I need a lawyer for simple work sprain in Farmington UT?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Recommended to avoid lowballs/denials.[1]",
+        "@type": "Answer",
         "description": "**Not always for minor cases, but yes if denied, complex, or permanent impact.**[1]\n\nFree consults available; contingency fee (10-20%) only if you win.\n\n- Insurers lowball without rep.\n- Handles paperwork/appeals.\n- Maximizes benefits.\n\nEven simple claims benefit from review. Call for free eval."
       }
     }
-  ]
+  ],
+  "description": "Recommended to avoid lowballs/denials.[1]"
 }

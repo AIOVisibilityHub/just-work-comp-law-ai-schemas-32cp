@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Missed work but no doctor note yet—benefits?",
-  "description": "Get doc visit for paid leave.",
   "url": "https://justworkcomplaw.com/faq/general-missed-work-but-no-doctor-note-yet-benefits-124",
+  "name": "Missed work but no doctor note yet—benefits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Missed work but no doctor note yet—benefits?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Get doc visit for paid leave.",
+        "@type": "Answer",
         "description": "Limited; need medical proof for TTD. Key factors: See doc first. Retroactive ok if linked."
       }
     }
-  ]
+  ],
+  "description": "Get doc visit for paid leave."
 }

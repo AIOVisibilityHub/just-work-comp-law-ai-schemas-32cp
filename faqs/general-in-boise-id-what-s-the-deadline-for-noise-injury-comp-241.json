@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "In Boise ID, what's the deadline for noise injury comp?",
-  "description": "1 year from diagnosis in Idaho.[1]",
   "url": "https://justworkcomplaw.com/faq/general-in-boise-id-what-s-the-deadline-for-noise-injury-comp-241",
+  "name": "In Boise ID, what's the deadline for noise injury comp?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "In Boise ID, what's the deadline for noise injury comp?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "1 year from diagnosis in Idaho.[1]",
+        "@type": "Answer",
         "description": "**Idaho requires filing within 1 year from accident or diagnosis for occupational diseases like hearing loss.**\n\nBoise claims follow state rules; continuous exposure may toll.[1][2]\n\n**Key factors:**\n- Knowledge date of work link.\n- Prompt employer notice.\n- Idaho Industrial Commission filing.\n- Exceptions rare.\n\nConfirm with local attorney now.[2] Time-sensitive.\n\nMeet deadlines strictly."
       }
     }
-  ]
+  ],
+  "description": "1 year from diagnosis in Idaho.[1]"
 }

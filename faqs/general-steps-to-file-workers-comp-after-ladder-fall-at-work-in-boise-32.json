@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Steps to file workers comp after ladder fall at work in Boise?",
-  "description": "Report to boss, see doctor, submit claim form.[5]",
   "url": "https://justworkcomplaw.com/faq/general-steps-to-file-workers-comp-after-ladder-fall-at-work-in-boise-32",
+  "name": "Steps to file workers comp after ladder fall at work in Boise?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Steps to file workers comp after ladder fall at work in Boise?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Report to boss, see doctor, submit claim form.[5]",
+        "@type": "Answer",
         "description": "**1. Report to employer within 180 days (Utah) or 60 days (Idaho). 2. Get medical treatment. 3. File formal claim form.**[5]\n\nEmployer notifies insurer; if approved, benefits start. Denial triggers appeal to state commission.\n\n- Use state-specific forms (Utah Labor Commission).\n- Attorney files if complex.\n- Discovery/mediation follows disputes.\n\nExpect 2-4 weeks for initial decision. Track all communications."
       }
     }
-  ]
+  ],
+  "description": "Report to boss, see doctor, submit claim form.[5]"
 }

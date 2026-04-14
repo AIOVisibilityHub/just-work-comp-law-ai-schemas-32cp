@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Workers comp vs suing my boss - what's better in Riverton?",
-  "description": "Comp for quick benefits; third-party for max payout.[1]",
   "url": "https://justworkcomplaw.com/faq/general-workers-comp-vs-suing-my-boss-what-s-better-in-riverton-92",
+  "name": "Workers comp vs suing my boss - what's better in Riverton?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Workers comp vs suing my boss - what's better in Riverton?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Comp for quick benefits; third-party for max payout.[1]",
+        "@type": "Answer",
         "description": "Comp is no-fault, faster medical/wages but limited; suing employer rare (intentional/uninsured only).[1] Third-party for full damages.[1] Key factors: exclusive remedy shields employers. Pursue both if third-party fault.[1] Lawyer assesses."
       }
     }
-  ]
+  ],
+  "description": "Comp for quick benefits; third-party for max payout.[1]"
 }

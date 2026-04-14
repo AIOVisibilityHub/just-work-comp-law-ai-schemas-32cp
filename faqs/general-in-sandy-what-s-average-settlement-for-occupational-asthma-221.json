@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "In Sandy, what's average settlement for occupational asthma?",
-  "description": "$40K-$150K typical, per severity[2].",
   "url": "https://justworkcomplaw.com/faq/general-in-sandy-what-s-average-settlement-for-occupational-asthma-221",
+  "name": "In Sandy, what's average settlement for occupational asthma?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "In Sandy, what's average settlement for occupational asthma?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "$40K-$150K typical, per severity[2].",
+        "@type": "Answer",
         "description": "$40K-$150K+ based on impairment rating, lost wages, care needs—Utah cases vary by proof. Respiratory settlements reward strong med links[2]. - No averages published. Factors drive value. Lawyer evaluates yours."
       }
     }
-  ]
+  ],
+  "description": "$40K-$150K typical, per severity[2]."
 }

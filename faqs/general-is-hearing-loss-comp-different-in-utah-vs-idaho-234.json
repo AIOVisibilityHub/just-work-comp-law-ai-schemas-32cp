@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is hearing loss comp different in Utah vs Idaho?",
-  "description": "Similar coverage; Utah scheduled, Idaho impairment-based.[1]",
   "url": "https://justworkcomplaw.com/faq/general-is-hearing-loss-comp-different-in-utah-vs-idaho-234",
+  "name": "Is hearing loss comp different in Utah vs Idaho?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Is hearing loss comp different in Utah vs Idaho?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Similar coverage; Utah scheduled, Idaho impairment-based.[1]",
+        "@type": "Answer",
         "description": "**Both states cover occupational hearing loss via workers' comp, but Utah uses a scheduled loss approach while Idaho emphasizes actual impairment.**\n\nUtah assigns fixed benefits for hearing percentages; Idaho calculates based on medical evidence and disability.[1] Deadlines similar: 1 year from knowledge.\n\n**Key factors:**\n- Utah: binaural loss formula for awards.\n- Idaho: case-by-case with audiometric proof.\n- Both require exposure causation.[6]\n- Local boards handle filings.\n\nVerify with state-specific attorney for nuances.[2] Rules evolve.\n\nUnderstanding differences optimizes claims."
       }
     }
-  ]
+  ],
+  "description": "Similar coverage; Utah scheduled, Idaho impairment-based.[1]"
 }

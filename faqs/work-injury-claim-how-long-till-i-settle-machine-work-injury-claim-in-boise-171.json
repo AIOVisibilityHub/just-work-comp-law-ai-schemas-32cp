@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long till I settle machine work injury claim in Boise?",
-  "description": "6-18 months; heal first.",
   "url": "https://justworkcomplaw.com/faq/work-injury-claim-how-long-till-i-settle-machine-work-injury-claim-in-boise-171",
+  "name": "How long till I settle machine work injury claim in Boise?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "How long till I settle machine work injury claim in Boise?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "6-18 months; heal first.",
+        "@type": "Answer",
         "description": "6-18 months typically; faster if no dispute.[3] Key factors: Medical recovery time; negotiations. Attorney speeds it. Avoid early low offers."
       }
     }
-  ]
+  ],
+  "description": "6-18 months; heal first."
 }

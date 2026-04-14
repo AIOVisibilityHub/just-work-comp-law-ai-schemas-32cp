@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Talked to insurance adjuster after machine accident, did I mess up?",
-  "description": "Maybe; stop talking, get lawyer now.",
   "url": "https://justworkcomplaw.com/faq/general-talked-to-insurance-adjuster-after-machine-accident-did-i-mess-up-166",
+  "name": "Talked to insurance adjuster after machine accident, did I mess up?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Talked to insurance adjuster after machine accident, did I mess up?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Maybe; stop talking, get lawyer now.",
+        "@type": "Answer",
         "description": "Possibly; recorded statements used against you.[8][3] Key factors: Don't give more without lawyer; request claim status in writing. They minimize payouts. Revoke prior statements."
       }
     }
-  ]
+  ],
+  "description": "Maybe; stop talking, get lawyer now."
 }

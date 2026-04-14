@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Claim denied for no witnesses to noise—can I still win?",
-  "description": "Yes, via records and experts.[1]",
   "url": "https://justworkcomplaw.com/faq/general-claim-denied-for-no-witnesses-to-noise-can-i-still-win-239",
+  "name": "Claim denied for no witnesses to noise—can I still win?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Claim denied for no witnesses to noise—can I still win?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, via records and experts.[1]",
+        "@type": "Answer",
         "description": "**Yes, personal records, employment history, and expert reconstruction suffice without direct witnesses.**\n\nCumulative exposure proven via indirect evidence like machine types and shifts.[1][2]\n\n**Key factors:**\n- Job descriptions/timecards.\n- OSHA noise standards for roles.\n- Medical causation opinion.\n- No contradictory records.\n\nAppeal with attorney; many succeed.[4] Build case methodically.\n\nCircumstantial proof works."
       }
     }
-  ]
+  ],
+  "description": "Yes, via records and experts.[1]"
 }

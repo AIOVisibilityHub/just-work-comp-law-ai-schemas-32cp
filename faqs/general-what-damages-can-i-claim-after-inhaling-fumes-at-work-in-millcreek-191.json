@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What damages can I claim after inhaling fumes at work in Millcreek?",
-  "description": "Medicals, wages, disability.[4]",
   "url": "https://justworkcomplaw.com/faq/general-what-damages-can-i-claim-after-inhaling-fumes-at-work-in-millcreek-191",
+  "name": "What damages can I claim after inhaling fumes at work in Millcreek?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "What damages can I claim after inhaling fumes at work in Millcreek?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Medicals, wages, disability.[4]",
+        "@type": "Answer",
         "description": "**Medical bills, lost wages, permanent disability, pain/suffering in third-party suits.** Comp excludes pain usually.[4] Calculate via experts. Maximize all losses."
       }
     }
-  ]
+  ],
+  "description": "Medicals, wages, disability.[4]"
 }

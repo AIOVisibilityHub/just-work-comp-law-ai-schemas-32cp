@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is there a statute of limitations for suing over a work injury in Boise?",
-  "description": "Comp: 180 days report; third-party: up to 4 years.[1]",
   "url": "https://justworkcomplaw.com/faq/general-is-there-a-statute-of-limitations-for-suing-over-a-work-injury-in-boise-83",
+  "name": "Is there a statute of limitations for suing over a work injury in Boise?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Is there a statute of limitations for suing over a work injury in Boise?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Comp: 180 days report; third-party: up to 4 years.[1]",
+        "@type": "Answer",
         "description": "Workers comp claims: 180 days report, then quick filing; third-party suits have 4-year personal injury limit.[1] Exclusive remedy bars employer suits unless intentional or uninsured.[1] Key factors: government claims shorter under Immunity Act. Track dates carefully.[1] Consult lawyer for third-party options."
       }
     }
-  ]
+  ],
+  "description": "Comp: 180 days report; third-party: up to 4 years.[1]"
 }

@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What proof do I need for my repetitive strain injury claim in Murray?",
-  "description": "Doctor causation proof, work logs, medical records.[1][2]",
   "url": "https://justworkcomplaw.com/faq/general-what-proof-do-i-need-for-my-repetitive-strain-injury-claim-in-murray-86",
+  "name": "What proof do I need for my repetitive strain injury claim in Murray?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "What proof do I need for my repetitive strain injury claim in Murray?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Doctor causation proof, work logs, medical records.[1][2]",
+        "@type": "Answer",
         "description": "Medical causation linking work to condition, doctor reports, prior records, incident logs.[1][2] Utah covers carpal tunnel etc. if AOE/COE.[1] Key factors: on-premises presumption; refuse nothing. Gather emails, witness statements.[2] Authorized treatment records strengthen.[1]"
       }
     }
-  ]
+  ],
+  "description": "Doctor causation proof, work logs, medical records.[1][2]"
 }

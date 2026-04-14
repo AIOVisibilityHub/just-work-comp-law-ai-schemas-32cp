@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Pre-existing knee issue hurt worse at work in Draper, covered?",
-  "description": "Yes, aggravations qualify.[4]",
   "url": "https://justworkcomplaw.com/faq/general-pre-existing-knee-issue-hurt-worse-at-work-in-draper-covered-36",
+  "name": "Pre-existing knee issue hurt worse at work in Draper, covered?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Pre-existing knee issue hurt worse at work in Draper, covered?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, aggravations qualify.[4]",
+        "@type": "Answer",
         "description": "**Yes, workers' comp covers aggravation of pre-existing conditions from job duties.**[4]\n\nBenefits for worsened symptoms or acceleration, not just new injuries.\n\n- Medical evidence shows job caused flare-up.\n- No deduction for prior wear.\n- Common in repetitive strain cases.\n\nIndependent medical exam may confirm. Consult attorney."
       }
     }
-  ]
+  ],
+  "description": "Yes, aggravations qualify.[4]"
 }

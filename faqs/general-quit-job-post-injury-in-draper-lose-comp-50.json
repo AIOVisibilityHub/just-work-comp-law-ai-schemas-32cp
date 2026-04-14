@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Quit job post-injury in Draper, lose comp?",
-  "description": "No, benefits persist.[5]",
   "url": "https://justworkcomplaw.com/faq/general-quit-job-post-injury-in-draper-lose-comp-50",
+  "name": "Quit job post-injury in Draper, lose comp?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Quit job post-injury in Draper, lose comp?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "No, benefits persist.[5]",
+        "@type": "Answer",
         "description": "**No, quitting doesn't end eligibility if injury-related.**[5]\n\nBenefits continue during recovery; reemployment assistance available.\n\n- Prove quit due to disability.\n- Temp total disability pays.\n- Retaliation if forced out.\n\nDocument reasons; seek vocational help."
       }
     }
-  ]
+  ],
+  "description": "No, benefits persist.[5]"
 }

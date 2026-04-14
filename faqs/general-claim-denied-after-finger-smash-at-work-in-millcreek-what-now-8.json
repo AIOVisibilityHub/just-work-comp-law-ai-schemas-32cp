@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Claim denied after finger smash at work in Millcreek, what now?",
-  "description": "File for ULC hearing, prepare evidence and testimony on injury details.[3]",
   "url": "https://justworkcomplaw.com/faq/general-claim-denied-after-finger-smash-at-work-in-millcreek-what-now-8",
+  "name": "Claim denied after finger smash at work in Millcreek, what now?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Claim denied after finger smash at work in Millcreek, what now?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "File for ULC hearing, prepare evidence and testimony on injury details.[3]",
+        "@type": "Answer",
         "description": "Request a hearing with Utah Labor Commission if denied; prepare testimony on incident, symptoms, job duties.[3] Common denials: late report, pre-existing, no work link.[2][3] Key factors: (1) File dispute promptly; (2) Gather medicals, witnesses; (3) Expect cross-exam on history; (4) Be consistent truthful.[3][6] Organize records, practice responses, notify of third-party pursuits. Hearings resolve most disputes effectively."
       }
     }
-  ]
+  ],
+  "description": "File for ULC hearing, prepare evidence and testimony on injury details.[3]"
 }

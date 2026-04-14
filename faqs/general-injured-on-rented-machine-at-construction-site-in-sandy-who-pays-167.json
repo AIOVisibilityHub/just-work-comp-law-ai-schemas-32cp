@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Injured on rented machine at construction site in Sandy, who pays?",
-  "description": "Employer comp + sue third parties.",
   "url": "https://justworkcomplaw.com/faq/general-injured-on-rented-machine-at-construction-site-in-sandy-who-pays-167",
+  "name": "Injured on rented machine at construction site in Sandy, who pays?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Injured on rented machine at construction site in Sandy, who pays?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Employer comp + sue third parties.",
+        "@type": "Answer",
         "description": "Workers comp from employer; sue rental company/manufacturer if defective.[6][10] Key factors: Contract reviews liability; prove unsafe delivery. Multi-party potential."
       }
     }
-  ]
+  ],
+  "description": "Employer comp + sue third parties."
 }
