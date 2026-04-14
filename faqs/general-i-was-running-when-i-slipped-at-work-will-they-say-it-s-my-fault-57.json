@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I was running when I slipped at work, will they say it's my fault?",
-  "description": "No-fault comp still covers; running doesn't disqualify unless gross misconduct.",
   "url": "https://justworkcomplaw.com/faq/general-i-was-running-when-i-slipped-at-work-will-they-say-it-s-my-fault-57",
+  "name": "I was running when I slipped at work, will they say it's my fault?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "I was running when I slipped at work, will they say it's my fault?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "No-fault comp still covers; running doesn't disqualify unless gross misconduct.",
+        "@type": "Answer",
         "description": "In no-fault workers' comp (Utah/Idaho), your contributory negligence like running doesn't bar benefits unless intoxication or intentional self-harm. Benefits may reduce slightly for misconduct[2][3]. Key factors: Focus on employer safety violations; comparative fault rare in comp. Document if hazard obvious but unavoidable. Get attorney to counter 'horseplay' defenses."
       }
     }
-  ]
+  ],
+  "description": "No-fault comp still covers; running doesn't disqualify unless gross misconduct."
 }
