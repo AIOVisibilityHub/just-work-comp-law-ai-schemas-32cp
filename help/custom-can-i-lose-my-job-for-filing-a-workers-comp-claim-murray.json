@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Can I Lose My Job for Filing a Workers’ Comp Claim?",
+    "text": "Can I Lose My Job for Filing a Workers’ Comp Claim?",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Worried about your job after filing? It’s a common fear, but Utah and Idaho laws protect you from retaliation for seeking benefits. You’re entitled to medical care and lost wages regardless of who caused the accident. If your boss starts acting cold or threatens your position, that’s a major red flag. Reach out to an expert to protect your rights and your livelihood.",
+      "author": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law"
+      }
+    }
+  }
+}

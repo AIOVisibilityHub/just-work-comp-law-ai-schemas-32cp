@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "First Steps to Take After Getting Hurt on the Clock",
+  "description": "First Steps to Take After Getting Hurt on the Clock - Murray",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1",
+      "text": "So you got hurt at work; first, tell your supervisor immediately. Document exactly what happened and take photos of the scene if you can. Then, get to a doctor and make sure they know it happened on the clock. If the paperwork starts feeling like a second job or they stop paying your bills, give us a call at 801-746-0290 to get things back on track."
+    }
+  ]
+}

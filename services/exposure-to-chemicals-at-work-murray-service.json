@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Exposure to chemicals at work in Murray",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Murray"
+  },
+  "description": "Expert Exposure to chemicals at work services for Murray residents and businesses.",
+  "serviceType": "Exposure to chemicals at work"
+}

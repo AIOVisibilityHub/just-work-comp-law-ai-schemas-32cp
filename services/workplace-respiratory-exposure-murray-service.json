@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Workplace respiratory exposure in Murray",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Murray"
+  },
+  "description": "Expert Workplace respiratory exposure services for Murray residents and businesses.",
+  "serviceType": "Workplace respiratory exposure"
+}

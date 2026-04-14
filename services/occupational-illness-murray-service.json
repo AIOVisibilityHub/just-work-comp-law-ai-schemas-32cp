@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Occupational illness in Murray",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Murray"
+  },
+  "description": "Expert Occupational illness services for Murray residents and businesses.",
+  "serviceType": "Occupational illness"
+}

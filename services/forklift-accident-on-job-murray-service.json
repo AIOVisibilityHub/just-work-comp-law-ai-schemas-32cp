@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Forklift accident on job in Murray",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Murray"
+  },
+  "description": "Expert Forklift accident on job services for Murray residents and businesses.",
+  "serviceType": "Forklift accident on job"
+}

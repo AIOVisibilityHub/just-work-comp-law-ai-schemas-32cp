@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "What to Do When the Insurance Adjuster Starts Calling",
+  "author": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com"
+  },
+  "articleBody": "When you’re hurt in a company vehicle or on a job site, the insurance company will call you fast. Be careful: they're looking for reasons to pay you less. Give them the basics, but don't sign anything or give a recorded statement until you've talked to someone on your side. Need a hand navigating the fine print? Just Work Comp Law focuses solely on these messy situations.",
+  "datePublished": "2026-04-14"
+}
