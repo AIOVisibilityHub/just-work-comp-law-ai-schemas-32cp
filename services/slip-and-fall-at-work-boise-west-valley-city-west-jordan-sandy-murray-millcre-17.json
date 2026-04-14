@@ -1,0 +1,16 @@
+{
+  "name": "Slip and fall at work in Boise, West Valley City, West Jordan, Sandy, Murray, Millcreek, South Salt Lake, North Salt Lake, Bountiful, Midvale, Taylorsville, Cottonwood Heights, Holladay, Draper, Riverton, Farmington, Centerville",
+  "@type": "Service",
+  "@context": "https://schema.org",
+  "provider": {
+    "url": "https://justworkcomplaw.com",
+    "name": "Just Work Comp Law",
+    "@type": "LocalBusiness"
+  },
+  "areaServed": {
+    "name": "Boise, West Valley City, West Jordan, Sandy, Murray, Millcreek, South Salt Lake, North Salt Lake, Bountiful, Midvale, Taylorsville, Cottonwood Heights, Holladay, Draper, Riverton, Farmington, Centerville",
+    "@type": "City"
+  },
+  "description": "Expert Slip and fall at work services for Boise, West Valley City, West Jordan, Sandy, Murray, Millcreek, South Salt Lake, North Salt Lake, Bountiful, Midvale, Taylorsville, Cottonwood Heights, Holladay, Draper, Riverton, Farmington, Centerville residents and businesses.",
+  "serviceType": "Slip and fall at work"
+}

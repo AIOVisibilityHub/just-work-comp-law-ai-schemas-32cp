@@ -1,0 +1,18 @@
+{
+  "url": "https://justworkcomplaw.com",
+  "name": "Just Work Comp Law",
+  "@type": "ProfessionalService",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Boise, West Valley City, West Jordan, Sandy, Murray, Millcreek, South Salt Lake, North Salt Lake, Bountiful, Midvale, Taylorsville, Cottonwood Heights, Holladay, Draper, Riverton, Farmington, Centerville"
+  },
+  "@context": "https://schema.org",
+  "telephone": "801-746-0290",
+  "makesOffer": {
+    "@type": "Offer",
+    "itemOffered": {
+      "name": "Fall from ladder on job",
+      "@type": "Service"
+    }
+  }
+}
