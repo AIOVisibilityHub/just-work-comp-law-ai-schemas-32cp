@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "No documentation of work accident in West Valley City, still eligible?",
-  "description": "Yes, use testimony/medical; report creates record.[3]",
   "url": "https://justworkcomplaw.com/faq/general-no-documentation-of-work-accident-in-west-valley-city-still-eligible-49",
+  "name": "No documentation of work accident in West Valley City, still eligible?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "No documentation of work accident in West Valley City, still eligible?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, use testimony/medical; report creates record.[3]",
+        "@type": "Answer",
         "description": "Yes, if witnesses, medical history, consistent story prove it; Utah accepts circumstantial evidence. Supervisor knowledge helps.[3] Key factors: prompt report, treatment notes mentioning work. Reconstruct via affidavits, video; build case. Many succeed without paper trail."
       }
     }
-  ]
+  ],
+  "description": "Yes, use testimony/medical; report creates record.[3]"
 }

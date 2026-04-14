@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Fired after workers comp slip claim in Sandy UT, options?",
-  "description": "Retaliation illegal—file labor claim.",
   "url": "https://justworkcomplaw.com/faq/general-fired-after-workers-comp-slip-claim-in-sandy-ut-options-70",
+  "name": "Fired after workers comp slip claim in Sandy UT, options?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Fired after workers comp slip claim in Sandy UT, options?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Retaliation illegal—file labor claim.",
+        "@type": "Answer",
         "description": "**File retaliation claim for reinstatement/back pay; workers' comp protects job filing.** Illegal discharge in Utah.[1] Key factors: (1) Prove causal timing; (2) Labor commission complaint; (3) Damages include lost benefits. Document all. Sue separately."
       }
     }
-  ]
+  ],
+  "description": "Retaliation illegal—file labor claim."
 }

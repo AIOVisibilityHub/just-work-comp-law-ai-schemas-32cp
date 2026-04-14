@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I handle medical care after work injury in Taylorsville?",
-  "description": "Use authorized docs; follow treatment; get switch approval.[1]",
   "url": "https://justworkcomplaw.com/faq/general-how-do-i-handle-medical-care-after-work-injury-in-taylorsville-92",
+  "name": "How do I handle medical care after work injury in Taylorsville?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "How do I handle medical care after work injury in Taylorsville?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Use authorized docs; follow treatment; get switch approval.[1]",
+        "@type": "Answer",
         "description": "Use employer-authorized providers initially; get written approval to switch or risk denied bills.[1][5] Follow all instructions to avoid suspension.[1] Key factors: Explain injury details to doctor for Form 123; keep records/copies.[2] Practical guidance: Attend every appointment, request reports, and communicate via employer insurer. Lawyer ensures proper care coverage."
       }
     }
-  ]
+  ],
+  "description": "Use authorized docs; follow treatment; get switch approval.[1]"
 }

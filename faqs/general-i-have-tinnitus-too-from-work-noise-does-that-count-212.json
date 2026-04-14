@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I have tinnitus too from work noise, does that count?",
-  "description": "Yes, with NIHL proof.[4]",
   "url": "https://justworkcomplaw.com/faq/general-i-have-tinnitus-too-from-work-noise-does-that-count-212",
+  "name": "I have tinnitus too from work noise, does that count?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "I have tinnitus too from work noise, does that count?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, with NIHL proof.[4]",
+        "@type": "Answer",
         "description": "Yes, tinnitus from noise exposure qualifies alongside hearing loss for comp benefits.[4] Context: Often paired in NIHL claims; medical evidence links both.[4] Key factors: Consistent symptoms with noise pattern, expert diagnosis.[1][4] Practical guidance: Include in claim filing, get full eval; attorney maximizes award.[7] Covered for treatment."
       }
     }
-  ]
+  ],
+  "description": "Yes, with NIHL proof.[4]"
 }

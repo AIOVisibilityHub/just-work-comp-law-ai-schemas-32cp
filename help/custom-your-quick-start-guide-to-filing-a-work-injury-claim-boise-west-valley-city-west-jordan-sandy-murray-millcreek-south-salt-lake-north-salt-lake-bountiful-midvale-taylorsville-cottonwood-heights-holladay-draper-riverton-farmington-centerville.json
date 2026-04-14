@@ -1,14 +1,14 @@
 {
-  "@context": "https://schema.org",
-  "@type": "HowTo",
   "name": "Your Quick-Start Guide to Filing a Work Injury Claim",
-  "description": "Your Quick-Start Guide to Filing a Work Injury Claim - Boise, West Valley City, West Jordan, Sandy, Murray, Millcreek, South Salt Lake, North Salt Lake, Bountiful, Midvale, Taylorsville, Cottonwood Heights, Holladay, Draper, Riverton, Farmington, Centerville",
   "step": [
     {
-      "@type": "HowToStep",
-      "position": 1,
       "name": "Step 1",
-      "text": "Getting hurt at work is stressful, but the clock is ticking. First, notify your supervisor immediately—written is always better than verbal. Next, visit an approved clinic to document the injury officially. Finally, keep track of every mile you drive to appointments. If the paperwork starts feeling like a second job, let us handle the heavy lifting for you."
+      "text": "Getting hurt at work is stressful, but the clock is ticking. First, notify your supervisor immediately—written is always better than verbal. Next, visit an approved clinic to document the injury officially. Finally, keep track of every mile you drive to appointments. If the paperwork starts feeling like a second job, let us handle the heavy lifting for you.",
+      "@type": "HowToStep",
+      "position": 1
     }
-  ]
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "description": "Your Quick-Start Guide to Filing a Work Injury Claim - Boise, West Valley City, West Jordan, Sandy, Murray, Millcreek, South Salt Lake, North Salt Lake, Bountiful, Midvale, Taylorsville, Cottonwood Heights, Holladay, Draper, Riverton, Farmington, Centerville"
 }

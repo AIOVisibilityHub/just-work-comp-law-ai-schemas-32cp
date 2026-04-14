@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I sue my boss if chemicals at work made me sick in Boise Idaho?",
-  "description": "File Idaho workers' comp claim; no direct suit against employer, but possible vs. chemical manufacturers[2].",
   "url": "https://justworkcomplaw.com/faq/general-can-i-sue-my-boss-if-chemicals-at-work-made-me-sick-in-boise-idaho-152",
+  "name": "Can I sue my boss if chemicals at work made me sick in Boise Idaho?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Can I sue my boss if chemicals at work made me sick in Boise Idaho?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "File Idaho workers' comp claim; no direct suit against employer, but possible vs. chemical manufacturers[2].",
+        "@type": "Answer",
         "description": "**No, in Idaho you can't sue your employer directly; file a workers' compensation claim instead.** Workers' comp is the exclusive remedy for on-the-job injuries like chemical exposure, covering medical costs and lost wages without proving fault[2][6]. Employers must follow OSHA for safety gear and training, but violations lead to comp claims, not lawsuits[1][5]. **Key factors:** Third-party suits possible against chemical makers if their product failed warnings[2]; retaliation for reporting is illegal[1]. **Practical guidance:** Report exposure immediately, get medical records linking to work, and file claim within Idaho's timelines. Hire a local attorney to check for third-party liability. **Comp benefits protect you but may limit suing employer.**"
       }
     }
-  ]
+  ],
+  "description": "File Idaho workers' comp claim; no direct suit against employer, but possible vs. chemical manufacturers[2]."
 }

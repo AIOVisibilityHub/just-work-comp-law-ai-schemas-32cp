@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's average settlement slip and fall work injury Utah?",
-  "description": "$20k-$50k typical; depends on severity.",
   "url": "https://justworkcomplaw.com/faq/general-what-s-average-settlement-slip-and-fall-work-injury-utah-69",
+  "name": "What's average settlement slip and fall work injury Utah?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "What's average settlement slip and fall work injury Utah?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "$20k-$50k typical; depends on severity.",
+        "@type": "Answer",
         "description": "**Averages $20k-$50k for moderate injuries, higher for surgery/permanent disability via compromise.** Varies widely by facts.[1] Key factors: (1) Wage loss multiplies; (2) Impairment rating key; (3) No caps on comp. Get personalized eval. Attorney negotiates max."
       }
     }
-  ]
+  ],
+  "description": "$20k-$50k typical; depends on severity."
 }

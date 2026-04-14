@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I have back problems before, can I still claim ladder fall at work?",
-  "description": "Yes, for aggravation—doctor links it.",
   "url": "https://justworkcomplaw.com/faq/general-i-have-back-problems-before-can-i-still-claim-ladder-fall-at-work-136",
+  "name": "I have back problems before, can I still claim ladder fall at work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "I have back problems before, can I still claim ladder fall at work?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, for aggravation—doctor links it.",
+        "@type": "Answer",
         "description": "**Yes, claim aggravation of pre-existing condition** via workers' comp.[4]\n\nMedical records must link fall to worsening; doctors opine causation.[1]\n\n- Get imaging comparing pre/post.\n- Note symptom changes.\n- Avoid gaps in treatment.\n\nCommon issue; evidence key."
       }
     }
-  ]
+  ],
+  "description": "Yes, for aggravation—doctor links it."
 }

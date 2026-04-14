@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if my chemical exposure claim at work gets denied?",
-  "description": "Appeal quickly with added evidence; get lawyer for hearing[2].",
   "url": "https://justworkcomplaw.com/faq/general-what-if-my-chemical-exposure-claim-at-work-gets-denied-157",
+  "name": "What if my chemical exposure claim at work gets denied?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "What if my chemical exposure claim at work gets denied?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Appeal quickly with added evidence; get lawyer for hearing[2].",
+        "@type": "Answer",
         "description": "**Appeal within state deadlines (e.g., 20 days in Utah) with more evidence or attorney.** Denials often cite lack of causation or timely filing[2]. **Key factors:** New medical opinions, exposure proof via air filters[2]; OSHA complaints strengthen. **Practical guidance:** Gather overlooked docs, file administrative appeal, consider third-party claim. Don't accept denial quietly. **Appeals succeed with better proof.**"
       }
     }
-  ]
+  ],
+  "description": "Appeal quickly with added evidence; get lawyer for hearing[2]."
 }

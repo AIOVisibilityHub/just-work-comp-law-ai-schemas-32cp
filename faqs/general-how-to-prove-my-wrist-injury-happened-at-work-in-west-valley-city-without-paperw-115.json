@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to prove my wrist injury happened at work in West Valley City without paperwork?",
-  "description": "Medical notes, witness statements, job records prove it.[2][5]",
   "url": "https://justworkcomplaw.com/faq/general-how-to-prove-my-wrist-injury-happened-at-work-in-west-valley-city-without-paperw-115",
+  "name": "How to prove my wrist injury happened at work in West Valley City without paperwork?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "How to prove my wrist injury happened at work in West Valley City without paperwork?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Medical notes, witness statements, job records prove it.[2][5]",
+        "@type": "Answer",
         "description": "Use medical records noting work cause, coworker statements, job logs, photos.[2][5] Your consistent account matters.[2] Key factors: doctor links to duties; timely report; avoid gaps in treatment.[2] Collect any evidence now, see specialist, lawyer subpoenas employer records.[3] Builds strong case despite missing initial paper."
       }
     }
-  ]
+  ],
+  "description": "Medical notes, witness statements, job records prove it.[2][5]"
 }

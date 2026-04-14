@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "My ears are ringing after years at the factory, can I file a workers comp claim for hearing loss?",
-  "description": "Yes, file workers' comp for work-related hearing loss with audiogram proof and exposure records; Utah/Idaho recognize it as occupational disease.[1][3]",
   "url": "https://justworkcomplaw.com/faq/general-my-ears-are-ringing-after-years-at-the-factory-can-i-file-a-workers-comp-claim-f-201",
+  "name": "My ears are ringing after years at the factory, can I file a workers comp claim for hearing loss?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "My ears are ringing after years at the factory, can I file a workers comp claim for hearing loss?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, file workers' comp for work-related hearing loss with audiogram proof and exposure records; Utah/Idaho recognize it as occupational disease.[1][3]",
+        "@type": "Answer",
         "description": "Yes, you can file a workers' compensation claim for hearing loss caused by prolonged workplace noise exposure if you can prove it was work-related. In Utah and Idaho, noise-induced hearing loss is recognized as an occupational disease eligible for benefits like medical costs and disability payments.[1][3][5] Context: Employers must follow OSHA standards for noise above 85 decibels, providing protection and testing; failure to do so supports your claim.[6] Key factors: Medical evidence from audiograms linking loss to job noise, documentation of exposure levels, and employer negligence like no ear protection.[1][2] Practical guidance: Get an immediate audiogram, notify your employer in writing, and file within 1 year of last exposure in Utah or per Idaho rules; consult a workers' comp attorney to build evidence.[3][7] Many succeed with proper proof despite delays."
       }
     }
-  ]
+  ],
+  "description": "Yes, file workers' comp for work-related hearing loss with audiogram proof and exposure records; Utah/Idaho recognize it as occupational disease.[1][3]"
 }

@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What evidence do coworkers provide for my toxic dust claim?",
-  "description": "Confirm hazards, your symptoms, no PPE.",
   "url": "https://justworkcomplaw.com/faq/general-what-evidence-do-coworkers-provide-for-my-toxic-dust-claim-188",
+  "name": "What evidence do coworkers provide for my toxic dust claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "What evidence do coworkers provide for my toxic dust claim?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Confirm hazards, your symptoms, no PPE.",
+        "@type": "Answer",
         "description": "**Statements confirming exposure conditions, lack of safety measures, your symptoms.**\n\nAffidavits detail shared hazards, PPE issues[1][3]. Strengthens causation.\n\n- Dates, tasks, chemicals seen.\n- No protection provided.\n- Your health complaints.\n\nGet written statements early; attorney notarizes. Corroborates records[1]."
       }
     }
-  ]
+  ],
+  "description": "Confirm hazards, your symptoms, no PPE."
 }

@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need lawyer for simple work sprain in Riverton Utah?",
-  "description": "For simple, maybe not; for disputes, yes—contingency fee[4].",
   "url": "https://justworkcomplaw.com/faq/general-do-i-need-lawyer-for-simple-work-sprain-in-riverton-utah-13",
+  "name": "Do I need lawyer for simple work sprain in Riverton Utah?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Do I need lawyer for simple work sprain in Riverton Utah?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "For simple, maybe not; for disputes, yes—contingency fee[4].",
+        "@type": "Answer",
         "description": "**Not always for minor, but yes if denied, complex, or third-party.** Lawyers work contingency, no upfront cost[4]. **Key factors:** Insurers lowball; experience handles appeals. **Practical guidance:** Try self-file first, hire if issues arise. Free consults common. **Expert help boosts settlements 2-3x.**"
       }
     }
-  ]
+  ],
+  "description": "For simple, maybe not; for disputes, yes—contingency fee[4]."
 }

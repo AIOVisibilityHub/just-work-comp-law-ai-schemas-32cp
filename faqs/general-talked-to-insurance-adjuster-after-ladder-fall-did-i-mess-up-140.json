@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Talked to insurance adjuster after ladder fall, did I mess up?",
-  "description": "Maybe; lawyer takes over communications.",
   "url": "https://justworkcomplaw.com/faq/general-talked-to-insurance-adjuster-after-ladder-fall-did-i-mess-up-140",
+  "name": "Talked to insurance adjuster after ladder fall, did I mess up?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Talked to insurance adjuster after ladder fall, did I mess up?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Maybe; lawyer takes over communications.",
+        "@type": "Answer",
         "description": "**Possibly—avoid recorded statements** without lawyer; they twist words.[3]\n\nRequest all in writing; don't admit fault.\n\n- Note what you said.\n- Get lawyer to handle.\n- Correct misquotes.\n\nDamage control: attorney reviews."
       }
     }
-  ]
+  ],
+  "description": "Maybe; lawyer takes over communications."
 }

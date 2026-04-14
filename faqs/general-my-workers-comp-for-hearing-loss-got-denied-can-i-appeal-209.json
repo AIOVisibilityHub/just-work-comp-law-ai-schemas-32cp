@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "My workers comp for hearing loss got denied, can I appeal?",
-  "description": "Yes, appeal with better medical proof and lawyer.[5]",
   "url": "https://justworkcomplaw.com/faq/general-my-workers-comp-for-hearing-loss-got-denied-can-i-appeal-209",
+  "name": "My workers comp for hearing loss got denied, can I appeal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "My workers comp for hearing loss got denied, can I appeal?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, appeal with better medical proof and lawyer.[5]",
+        "@type": "Answer",
         "description": "Yes, appeal denied claims with more evidence; most states allow hearings and further reviews.[5] Context: Denials often cite causation or age; new medical opinions reverse them.[4][5] Key factors: Stronger audiograms, exposure docs, negligence proof.[1] Practical guidance: File appeal within deadlines (e.g., Utah 20 days), get lawyer for representation; request OSHA records.[2][5] Persistence pays."
       }
     }
-  ]
+  ],
+  "description": "Yes, appeal with better medical proof and lawyer.[5]"
 }

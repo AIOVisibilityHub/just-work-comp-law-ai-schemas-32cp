@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I'm part at fault for my work accident, still get benefits?",
-  "description": "Yes, no-fault ignores your partial fault.[1]",
   "url": "https://justworkcomplaw.com/faq/general-i-m-part-at-fault-for-my-work-accident-still-get-benefits-91",
+  "name": "I'm part at fault for my work accident, still get benefits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "I'm part at fault for my work accident, still get benefits?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, no-fault ignores your partial fault.[1]",
+        "@type": "Answer",
         "description": "Yes, workers' comp ignores your fault—benefits for covered injuries regardless.[1][6] No-fault covers employee negligence.[1] Key factors: Must be work-related (AOE/COE); third-party suits may reduce by your % fault.[1] Practical guidance: Report honestly, don't fear denial for fault, focus on treatment. System designed for this protection."
       }
     }
-  ]
+  ],
+  "description": "Yes, no-fault ignores your partial fault.[1]"
 }

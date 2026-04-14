@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Symptoms showed up weeks after work accident in Holladay, too late?",
-  "description": "Report now with doctor link—delays ok if proven[1].",
   "url": "https://justworkcomplaw.com/faq/general-symptoms-showed-up-weeks-after-work-accident-in-holladay-too-late-16",
+  "name": "Symptoms showed up weeks after work accident in Holladay, too late?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Symptoms showed up weeks after work accident in Holladay, too late?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Report now with doctor link—delays ok if proven[1].",
+        "@type": "Answer",
         "description": "**No, if linked to incident—report ASAP with medical proof.** Utah allows for delayed onset[1]. **Key factors:** Doctor causation opinion critical. **Practical guidance:** Report retroactively explaining delay, get eval soon. Don't ignore. **Delayed claims viable with evidence.**"
       }
     }
-  ]
+  ],
+  "description": "Report now with doctor link—delays ok if proven[1]."
 }

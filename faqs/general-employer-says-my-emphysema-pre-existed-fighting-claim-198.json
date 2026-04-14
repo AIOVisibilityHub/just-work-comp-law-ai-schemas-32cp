@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Employer says my emphysema pre-existed, fighting claim?",
-  "description": "Prove work aggravated it medically.",
   "url": "https://justworkcomplaw.com/faq/general-employer-says-my-emphysema-pre-existed-fighting-claim-198",
+  "name": "Employer says my emphysema pre-existed, fighting claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Employer says my emphysema pre-existed, fighting claim?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Prove work aggravated it medically.",
+        "@type": "Answer",
         "description": "**Prove aggravation or acceleration via pulmonologist.**\n\nComp pays for work-worsened conditions[8]. Baseline tests compare.\n\n- Progression evidence.\n- Exposure history.\n- No full causation needed.\n\nExpert opinion counters; common win[8]."
       }
     }
-  ]
+  ],
+  "description": "Prove work aggravated it medically."
 }

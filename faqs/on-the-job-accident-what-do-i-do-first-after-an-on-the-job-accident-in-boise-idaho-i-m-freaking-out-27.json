@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What do I do first after an on-the-job accident in Boise Idaho? I'm freaking out.",
-  "description": "Get medical help now, report to employer within 60 days, file workers' comp claim promptly.[2]",
   "url": "https://justworkcomplaw.com/faq/on-the-job-accident-what-do-i-do-first-after-an-on-the-job-accident-in-boise-idaho-i-m-freaking-out-27",
+  "name": "What do I do first after an on-the-job accident in Boise Idaho? I'm freaking out.",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "What do I do first after an on-the-job accident in Boise Idaho? I'm freaking out.",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Get medical help now, report to employer within 60 days, file workers' comp claim promptly.[2]",
+        "@type": "Answer",
         "description": "Seek medical attention immediately, even if injuries seem minor, then report the injury to your employer within 60 days under Idaho law. This creates a record tying your injuries to the work accident and starts the workers' comp process for benefits like medical care and wage replacement.[2] Key factors: Idaho's workers' comp is no-fault, covering most job injuries; employer must provide forms; delays risk denial. Notify supervisor in writing, follow up with doctor visits, avoid giving statements to insurance without advice; a lawyer can ensure full benefits. Acting fast preserves your rights."
       }
     }
-  ]
+  ],
+  "description": "Get medical help now, report to employer within 60 days, file workers' comp claim promptly.[2]"
 }

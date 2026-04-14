@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Faulty machine from subcontractor hurt me at job in Draper, sue them?",
-  "description": "Comp + sue negligent subcontractor.[1][3]",
   "url": "https://justworkcomplaw.com/faq/general-faulty-machine-from-subcontractor-hurt-me-at-job-in-draper-sue-them-123",
+  "name": "Faulty machine from subcontractor hurt me at job in Draper, sue them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Faulty machine from subcontractor hurt me at job in Draper, sue them?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Comp + sue negligent subcontractor.[1][3]",
+        "@type": "Answer",
         "description": "Yes, third-party claim against subcontractor alongside comp for full damages.[1][3] Comp limits employer suit.[1] Key factors: prove negligence; no comp offset issues; pain/suffering included.[3] Preserve evidence, notify promptly, attorney files personal injury suit.[1] Bigger recovery potential."
       }
     }
-  ]
+  ],
+  "description": "Comp + sue negligent subcontractor.[1][3]"
 }

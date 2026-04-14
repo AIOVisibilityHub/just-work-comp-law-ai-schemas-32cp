@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Partially my fault chemical spill at work - still eligible?",
-  "description": "Yes, no-fault covers all[6].",
   "url": "https://justworkcomplaw.com/faq/general-partially-my-fault-chemical-spill-at-work-still-eligible-175",
+  "name": "Partially my fault chemical spill at work - still eligible?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Partially my fault chemical spill at work - still eligible?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, no-fault covers all[6].",
+        "@type": "Answer",
         "description": "**Yes, workers' comp no-fault; benefits even if contributorily negligent.** Fault irrelevant[6]. **Key factors:** Safety training proof. **Practical guidance:** Report honestly, focus on injury. No defense reduction. **Full benefits regardless.**"
       }
     }
-  ]
+  ],
+  "description": "Yes, no-fault covers all[6]."
 }

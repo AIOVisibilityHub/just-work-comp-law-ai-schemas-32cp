@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much is my broken arm from work worth in Idaho Boise?",
-  "description": "Medical + lost wages + impairment; get doctor rating for accurate value[6].",
   "url": "https://justworkcomplaw.com/faq/general-how-much-is-my-broken-arm-from-work-worth-in-idaho-boise-5",
+  "name": "How much is my broken arm from work worth in Idaho Boise?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "How much is my broken arm from work worth in Idaho Boise?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Medical + lost wages + impairment; get doctor rating for accurate value[6].",
+        "@type": "Answer",
         "description": "**Value depends on medical costs, lost wages, and permanent impairment rated by doctor.** Idaho comp covers temporary benefits plus permanency; no pain/suffering from employer[6]. Settlements average based on facts. **Key factors:** Total wages lost, future capacity loss, surgery needs; third-party suits add noneconomic damages. **Practical guidance:** Gather bills/pay stubs, get impairment rating post-healing, negotiate via lawyer. Avoid early lowball offers. **Cases often settle for 6-12 months wages equivalent.**"
       }
     }
-  ]
+  ],
+  "description": "Medical + lost wages + impairment; get doctor rating for accurate value[6]."
 }

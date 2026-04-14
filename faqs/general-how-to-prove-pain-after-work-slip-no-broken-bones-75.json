@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to prove pain after work slip no broken bones?",
-  "description": "Doctor reports + life impact evidence.",
   "url": "https://justworkcomplaw.com/faq/general-how-to-prove-pain-after-work-slip-no-broken-bones-75",
+  "name": "How to prove pain after work slip no broken bones?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "How to prove pain after work slip no broken bones?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Doctor reports + life impact evidence.",
+        "@type": "Answer",
         "description": "**Medical testimony, functional tests, and daily logs show soft tissue damage impacts.** Subjective pain compensable.[1] Key factors: (1) Consistent complaints; (2) Therapy records; (3) Impairment rating. Avoid overstatement. Attorney maximizes non-economic."
       }
     }
-  ]
+  ],
+  "description": "Doctor reports + life impact evidence."
 }

@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Part time job slip, lower benefits?",
-  "description": "Pro-rated to your earnings—no penalty.",
   "url": "https://justworkcomplaw.com/faq/general-part-time-job-slip-lower-benefits-74",
+  "name": "Part time job slip, lower benefits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Part time job slip, lower benefits?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Pro-rated to your earnings—no penalty.",
+        "@type": "Answer",
         "description": "**No, based on actual average weekly wage including part-time hours.** Full proportionate coverage in UT/ID.[1] Key factors: (1) Last 12 weeks calculated; (2) No discrimination; (3) Overtime factored. Verify payroll. Lawyer ensures fair calc."
       }
     }
-  ]
+  ],
+  "description": "Pro-rated to your earnings—no penalty."
 }

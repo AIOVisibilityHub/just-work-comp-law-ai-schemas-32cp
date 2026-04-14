@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I have back problems already, slipped at work—will they pay?",
-  "description": "Yes—covers aggravation of old injuries.",
   "url": "https://justworkcomplaw.com/faq/general-i-have-back-problems-already-slipped-at-work-will-they-pay-61",
+  "name": "I have back problems already, slipped at work—will they pay?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "I have back problems already, slipped at work—will they pay?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes—covers aggravation of old injuries.",
+        "@type": "Answer",
         "description": "**Yes, if the fall aggravated your pre-existing condition, workers' comp covers the worsening in Utah/Idaho.** Not denied for prior issues.[1] Key factors: (1) Doctor opinion on aggravation; (2) Objective tests show change; (3) No baseline records hurt less. Get specialist eval. Attorney fights 'pre-existing' denials."
       }
     }
-  ]
+  ],
+  "description": "Yes—covers aggravation of old injuries."
 }

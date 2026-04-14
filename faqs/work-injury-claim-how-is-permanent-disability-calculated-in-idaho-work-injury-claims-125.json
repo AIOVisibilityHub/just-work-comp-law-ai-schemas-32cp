@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How is permanent disability calculated in Idaho work injury claims?",
-  "description": "AMA rating + age/job/future loss factors.[4]",
   "url": "https://justworkcomplaw.com/faq/work-injury-claim-how-is-permanent-disability-calculated-in-idaho-work-injury-claims-125",
+  "name": "How is permanent disability calculated in Idaho work injury claims?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "How is permanent disability calculated in Idaho work injury claims?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "AMA rating + age/job/future loss factors.[4]",
+        "@type": "Answer",
         "description": "Based on AMA impairment rating, age, occupation, future earnings impact.[4] Scheduled or whole person.[4] Key factors: doctor rating post-healing; state max weekly; lump sum possible.[2] Wait for MMI, dispute low ratings, attorney appeals for fair comp.[3] Ensures lifelong support."
       }
     }
-  ]
+  ],
+  "description": "AMA rating + age/job/future loss factors.[4]"
 }

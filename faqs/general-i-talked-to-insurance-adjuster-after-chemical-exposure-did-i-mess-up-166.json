@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I talked to insurance adjuster after chemical exposure - did I mess up?",
-  "description": "Get lawyer ASAP; don't give more info[6].",
   "url": "https://justworkcomplaw.com/faq/general-i-talked-to-insurance-adjuster-after-chemical-exposure-did-i-mess-up-166",
+  "name": "I talked to insurance adjuster after chemical exposure - did I mess up?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "I talked to insurance adjuster after chemical exposure - did I mess up?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Get lawyer ASAP; don't give more info[6].",
+        "@type": "Answer",
         "description": "**Possibly; statements can be used against you without lawyer.** Recorded calls common[6]. **Key factors:** Avoid details pre-attorney. **Practical guidance:** Say little, get lawyer now to correct record. Don't sign releases. **Adjusters minimize claims.**"
       }
     }
-  ]
+  ],
+  "description": "Get lawyer ASAP; don't give more info[6]."
 }

@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Isocyanate spray foam exposure at work - what are my rights in Idaho?",
-  "description": "Comp claim + OSHA report[1][8].",
   "url": "https://justworkcomplaw.com/faq/general-isocyanate-spray-foam-exposure-at-work-what-are-my-rights-in-idaho-168",
+  "name": "Isocyanate spray foam exposure at work - what are my rights in Idaho?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Isocyanate spray foam exposure at work - what are my rights in Idaho?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Comp claim + OSHA report[1][8].",
+        "@type": "Answer",
         "description": "**File comp for respiratory/cancer risks; OSHA mandates warnings/PPE.** Report hazard[1][8]. **Key factors:** Prove levels exceeded safe[2]. **Practical guidance:** Get lung tests, safety sheets. Attorney for long-term monitoring. **Known toxic; claim viable.**"
       }
     }
-  ]
+  ],
+  "description": "Comp claim + OSHA report[1][8]."
 }

@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need a lawyer for workers comp after job accident in Millcreek?",
-  "description": "No, but yes for max benefits—contingency fee.[2]",
   "url": "https://justworkcomplaw.com/faq/general-do-i-need-a-lawyer-for-workers-comp-after-job-accident-in-millcreek-35",
+  "name": "Do I need a lawyer for workers comp after job accident in Millcreek?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Do I need a lawyer for workers comp after job accident in Millcreek?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "No, but yes for max benefits—contingency fee.[2]",
+        "@type": "Answer",
         "description": "Not required, but highly recommended as insurers deny 20%+ claims initially and undervalue settlements; lawyers get 20-30% higher benefits at no upfront cost (contingency + fee cap). They handle paperwork, appeals.[2] Key factors: complex disputes, retaliation risks, third-party suits. Free consult assesses case; hire local expert. Self-rep risks less money."
       }
     }
-  ]
+  ],
+  "description": "No, but yes for max benefits—contingency fee.[2]"
 }

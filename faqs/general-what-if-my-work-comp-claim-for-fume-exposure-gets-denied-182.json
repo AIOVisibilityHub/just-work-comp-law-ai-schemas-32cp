@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if my work comp claim for fume exposure gets denied?",
-  "description": "Appeal fast with better medical evidence; get a lawyer.",
   "url": "https://justworkcomplaw.com/faq/general-what-if-my-work-comp-claim-for-fume-exposure-gets-denied-182",
+  "name": "What if my work comp claim for fume exposure gets denied?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "What if my work comp claim for fume exposure gets denied?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Appeal fast with better medical evidence; get a lawyer.",
+        "@type": "Answer",
         "description": "**Appeal within the strict deadline, usually 20-60 days.**\n\nCommon denials: lack of work link, pre-existing issues[2]. Gather more evidence like specialist reports[8]. Utah/Idaho have hearings/referees[1].\n\n- Request denial reasons in writing.\n- Submit new medical proof.\n- Consider OSHA complaint.\n\nHire a lawyer experienced in appeals; many win on reconsideration. Don't miss deadlines[2]."
       }
     }
-  ]
+  ],
+  "description": "Appeal fast with better medical evidence; get a lawyer."
 }

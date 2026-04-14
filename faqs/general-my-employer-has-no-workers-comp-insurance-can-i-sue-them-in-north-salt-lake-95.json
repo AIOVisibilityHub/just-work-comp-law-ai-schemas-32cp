@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "My employer has no workers comp insurance, can I sue them in North Salt Lake?",
-  "description": "Yes, sue for full damages if uninsured.[1]",
   "url": "https://justworkcomplaw.com/faq/general-my-employer-has-no-workers-comp-insurance-can-i-sue-them-in-north-salt-lake-95",
+  "name": "My employer has no workers comp insurance, can I sue them in North Salt Lake?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "My employer has no workers comp insurance, can I sue them in North Salt Lake?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, sue for full damages if uninsured.[1]",
+        "@type": "Answer",
         "description": "Yes, uninsured employers lose exclusive remedy shield and face full personal injury lawsuits.[1] Utah mandates coverage; violators liable in tort.[1] Key factors: Prove lack of insurance; claim intentional if applicable.[1] Practical guidance: Report to Labor Commission, pursue comp fund if available, then sue directly. Higher damages possible including punitives."
       }
     }
-  ]
+  ],
+  "description": "Yes, sue for full damages if uninsured.[1]"
 }

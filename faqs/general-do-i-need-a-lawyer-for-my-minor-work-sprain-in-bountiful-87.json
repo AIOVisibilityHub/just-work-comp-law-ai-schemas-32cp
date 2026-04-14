@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need a lawyer for my minor work sprain in Bountiful?",
-  "description": "Optional for minor; yes if denied or complex.[5]",
   "url": "https://justworkcomplaw.com/faq/general-do-i-need-a-lawyer-for-my-minor-work-sprain-in-bountiful-87",
+  "name": "Do I need a lawyer for my minor work sprain in Bountiful?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Do I need a lawyer for my minor work sprain in Bountiful?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Optional for minor; yes if denied or complex.[5]",
+        "@type": "Answer",
         "description": "Not always for simple cases, but recommended if denied, complicated, or valuable benefits at stake.[5] Many work contingency—no upfront fees.[5] Key factors: Insurer delays/tactics; retaliation risks; third-party potential.[5] Practical guidance: Handle reporting yourself initially, but call if issues arise to maximize benefits without cost risk. Free consults assess need."
       }
     }
-  ]
+  ],
+  "description": "Optional for minor; yes if denied or complex.[5]"
 }

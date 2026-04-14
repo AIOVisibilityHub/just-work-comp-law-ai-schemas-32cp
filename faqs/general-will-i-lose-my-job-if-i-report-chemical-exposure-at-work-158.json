@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will I lose my job if I report chemical exposure at work?",
-  "description": "Retaliation illegal; document and report to OSHA[1].",
   "url": "https://justworkcomplaw.com/faq/general-will-i-lose-my-job-if-i-report-chemical-exposure-at-work-158",
+  "name": "Will I lose my job if I report chemical exposure at work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Will I lose my job if I report chemical exposure at work?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Retaliation illegal; document and report to OSHA[1].",
+        "@type": "Answer",
         "description": "**No, retaliation for safety reports or claims is illegal under OSHA and state law.** Employers can't fire or punish you[1][3]. **Key factors:** Document threats, file OSHA complaint if occurs. **Practical guidance:** Report in writing, keep records. Consult attorney if pressured. **Protection exists but prove retaliation.**"
       }
     }
-  ]
+  ],
+  "description": "Retaliation illegal; document and report to OSHA[1]."
 }

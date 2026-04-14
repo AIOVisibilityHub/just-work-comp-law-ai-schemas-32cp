@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I get paid while off work for shoulder injury from job in Taylorsville?",
-  "description": "Yes, ~67% wages for time off per doctor orders.[2]",
   "url": "https://justworkcomplaw.com/faq/general-do-i-get-paid-while-off-work-for-shoulder-injury-from-job-in-taylorsville-110",
+  "name": "Do I get paid while off work for shoulder injury from job in Taylorsville?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Do I get paid while off work for shoulder injury from job in Taylorsville?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, ~67% wages for time off per doctor orders.[2]",
+        "@type": "Answer",
         "description": "Yes, Utah workers' comp pays about 66 2/3% of average weekly wage for temporary total disability.[2] Up to state max.[2] Key factors: must be off due to doctor restrictions; employer verifies; permanent pays longer.[2] Submit wage stubs, follow treatment, lawyer ensures full payments without gaps.[3] Covers essentials during recovery."
       }
     }
-  ]
+  ],
+  "description": "Yes, ~67% wages for time off per doctor orders.[2]"
 }

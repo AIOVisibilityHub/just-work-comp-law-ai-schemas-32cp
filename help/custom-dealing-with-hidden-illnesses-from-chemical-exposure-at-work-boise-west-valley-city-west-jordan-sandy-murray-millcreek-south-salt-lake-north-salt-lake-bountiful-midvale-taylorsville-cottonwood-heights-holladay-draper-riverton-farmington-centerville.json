@@ -1,14 +1,14 @@
 {
-  "@context": "https://schema.org",
-  "@type": "HowTo",
   "name": "Dealing with Hidden Illnesses from Chemical Exposure at Work",
-  "description": "Dealing with Hidden Illnesses from Chemical Exposure at Work - Boise, West Valley City, West Jordan, Sandy, Murray, Millcreek, South Salt Lake, North Salt Lake, Bountiful, Midvale, Taylorsville, Cottonwood Heights, Holladay, Draper, Riverton, Farmington, Centerville",
   "step": [
     {
-      "@type": "HowToStep",
-      "position": 1,
       "name": "Step 1",
-      "text": "Chemical exposure is tricky because symptoms often show up late. Start a \"symptom diary\" today detailing your cough, rashes, or dizziness. Ask your employer for the Safety Data Sheets (SDS) for every chemical you handle. Then, see a specialist who understands toxic strikes. If your boss tries to downplay the risk, call Just Work Comp Law to make sure you're protected."
+      "text": "Chemical exposure is tricky because symptoms often show up late. Start a \"symptom diary\" today detailing your cough, rashes, or dizziness. Ask your employer for the Safety Data Sheets (SDS) for every chemical you handle. Then, see a specialist who understands toxic strikes. If your boss tries to downplay the risk, call Just Work Comp Law to make sure you're protected.",
+      "@type": "HowToStep",
+      "position": 1
     }
-  ]
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "description": "Dealing with Hidden Illnesses from Chemical Exposure at Work - Boise, West Valley City, West Jordan, Sandy, Murray, Millcreek, South Salt Lake, North Salt Lake, Bountiful, Midvale, Taylorsville, Cottonwood Heights, Holladay, Draper, Riverton, Farmington, Centerville"
 }

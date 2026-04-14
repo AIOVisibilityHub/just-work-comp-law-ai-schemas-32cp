@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can boss fire me for claiming hearing loss comp?",
-  "description": "No, illegal retaliation.[2]",
   "url": "https://justworkcomplaw.com/faq/general-can-boss-fire-me-for-claiming-hearing-loss-comp-214",
+  "name": "Can boss fire me for claiming hearing loss comp?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Can boss fire me for claiming hearing loss comp?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "No, illegal retaliation.[2]",
+        "@type": "Answer",
         "description": "No, retaliation is illegal; protected under OSHA and comp laws.[2] Context: Employers can't punish for safety complaints or claims.[2] Key factors: Timing of firing post-claim signals violation.[2] Practical guidance: Document interactions, file OSHA complaint if threatened, consult lawyer immediately.[2][7] Protections strong."
       }
     }
-  ]
+  ],
+  "description": "No, illegal retaliation.[2]"
 }

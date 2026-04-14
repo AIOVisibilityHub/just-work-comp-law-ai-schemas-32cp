@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I slipped on ice at work in Murray Utah and hurt my back bad, what do I do right now?",
-  "description": "Report to employer immediately, seek medical care, document everything, and file workers' comp claim fast.",
   "url": "https://justworkcomplaw.com/faq/slip-and-fall-at-work-i-slipped-on-ice-at-work-in-murray-utah-and-hurt-my-back-bad-what-do-i-do-right--51",
+  "name": "I slipped on ice at work in Murray Utah and hurt my back bad, what do I do right now?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "I slipped on ice at work in Murray Utah and hurt my back bad, what do I do right now?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Report to employer immediately, seek medical care, document everything, and file workers' comp claim fast.",
+        "@type": "Answer",
         "description": "**Report the incident to your employer and seek medical attention immediately.** Slip and fall at work in Utah typically falls under workers' compensation, not a lawsuit against your employer.[1] Key factors: (1) Notify your supervisor in writing within days; (2) Get all medical treatment documented; (3) File a workers' comp claim promptly to avoid denial. Take photos of the hazard, get witness names, and avoid giving statements to insurance without advice. Consult a workers' comp attorney to ensure your claim proceeds correctly.[1]"
       }
     }
-  ]
+  ],
+  "description": "Report to employer immediately, seek medical care, document everything, and file workers' comp claim fast."
 }

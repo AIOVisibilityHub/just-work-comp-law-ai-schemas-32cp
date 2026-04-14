@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Denied comp for chemicals because no immediate symptoms - appeal?",
-  "description": "Appeal with causation proof[2].",
   "url": "https://justworkcomplaw.com/faq/general-denied-comp-for-chemicals-because-no-immediate-symptoms-appeal-170",
+  "name": "Denied comp for chemicals because no immediate symptoms - appeal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Denied comp for chemicals because no immediate symptoms - appeal?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Appeal with causation proof[2].",
+        "@type": "Answer",
         "description": "**Yes, latent effects like cancer qualify as occupational; appeal with expert links.** Many denials overturned[2][6]. **Key factors:** Diagnosis timing. **Practical guidance:** New docs, hygienist report. Lawyer essential. **Latency doesn't deny.**"
       }
     }
-  ]
+  ],
+  "description": "Appeal with causation proof[2]."
 }

@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Uninsured employer hurt me in North Salt Lake, what now?",
-  "description": "Sue employer directly for full damages[1].",
   "url": "https://justworkcomplaw.com/faq/general-uninsured-employer-hurt-me-in-north-salt-lake-what-now-18",
+  "name": "Uninsured employer hurt me in North Salt Lake, what now?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Uninsured employer hurt me in North Salt Lake, what now?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Sue employer directly for full damages[1].",
+        "@type": "Answer",
         "description": "**Sue directly—Utah exception pierces exclusive remedy.** No comp shield[1]. **Key factors:** Prove no coverage, full damages available. **Practical guidance:** Verify insurance status, file tort suit timely. Lawyer essential. **Unlocks pain/suffering awards.**"
       }
     }
-  ]
+  ],
+  "description": "Sue employer directly for full damages[1]."
 }

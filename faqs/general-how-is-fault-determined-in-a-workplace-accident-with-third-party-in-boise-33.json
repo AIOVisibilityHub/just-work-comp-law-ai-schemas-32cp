@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How is fault determined in a workplace accident with third party in Boise?",
-  "description": "Comp no-fault; third-party comparative (50% bar).[2]",
   "url": "https://justworkcomplaw.com/faq/general-how-is-fault-determined-in-a-workplace-accident-with-third-party-in-boise-33",
+  "name": "How is fault determined in a workplace accident with third party in Boise?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "How is fault determined in a workplace accident with third party in Boise?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Comp no-fault; third-party comparative (50% bar).[2]",
+        "@type": "Answer",
         "description": "Workers' comp ignores fault for employer benefits, but third-party negligence uses comparative fault: Idaho bars recovery if you're 50%+ at fault, reduces otherwise. Prove duty breach, causation, damages.[2] Key factors: witness accounts, expert reconstruction, scene evidence; jury assigns percentages. Identify equipment makers/contractors early, file separate PI suit; coordinate with comp lien. Fault splits affect net payout."
       }
     }
-  ]
+  ],
+  "description": "Comp no-fault; third-party comparative (50% bar).[2]"
 }

@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Construction toxic exposure in Salt Lake - worth suing?",
-  "description": "Comp + third-party possible[7][2].",
   "url": "https://justworkcomplaw.com/faq/general-construction-toxic-exposure-in-salt-lake-worth-suing-169",
+  "name": "Construction toxic exposure in Salt Lake - worth suing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Construction toxic exposure in Salt Lake - worth suing?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Comp + third-party possible[7][2].",
+        "@type": "Answer",
         "description": "**Comp first, then third-party if equipment/chemicals faulty.** High value for cancers[7]. **Key factors:** Site logs, experts[2]. **Practical guidance:** Document daily exposures. Local attorney knows Utah rules. **Often multimillion if proven.**"
       }
     }
-  ]
+  ],
+  "description": "Comp + third-party possible[7][2]."
 }

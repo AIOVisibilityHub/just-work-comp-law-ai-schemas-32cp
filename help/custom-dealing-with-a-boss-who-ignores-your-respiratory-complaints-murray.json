@@ -1,15 +1,15 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Dealing With a Boss Who ignores Your Respiratory Complaints",
   "author": {
-    "@type": "Organization",
-    "name": "Just Work Comp Law"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Just Work Comp Law",
-    "url": "https://justworkcomplaw.com"
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Dealing With a Boss Who ignores Your Respiratory Complaints",
+  "publisher": {
+    "url": "https://justworkcomplaw.com",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
   },
   "articleBody": "Chemical exposure isn't always a one-time splash; it’s often the slow buildup of fumes that does the real damage. You shouldn't have to choose between your health and a paycheck. If your employer isn't providing the right masks or ventilation, you have rights. Professional legal help is key when companies ignore safety standards. Call us at 801-746-0290 to see how we can help you recover.",
   "datePublished": "2026-04-14"

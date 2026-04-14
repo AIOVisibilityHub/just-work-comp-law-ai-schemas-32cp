@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Multiple injuries from one work accident in Riverton, how to claim all?",
-  "description": "Detail all on initial form, full medical eval.[1]",
   "url": "https://justworkcomplaw.com/faq/general-multiple-injuries-from-one-work-accident-in-riverton-how-to-claim-all-45",
+  "name": "Multiple injuries from one work accident in Riverton, how to claim all?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Multiple injuries from one work accident in Riverton, how to claim all?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Detail all on initial form, full medical eval.[1]",
+        "@type": "Answer",
         "description": "List all body parts/injuries on FROI form, get comprehensive eval; Utah comp covers cumulative effects if work-related. No limit on claims.[1] Key factors: detailed IME, related symptoms proof. Treat fully, rate each impairment; maximize PPD. Thorough filing prevents denials."
       }
     }
-  ]
+  ],
+  "description": "Detail all on initial form, full medical eval.[1]"
 }

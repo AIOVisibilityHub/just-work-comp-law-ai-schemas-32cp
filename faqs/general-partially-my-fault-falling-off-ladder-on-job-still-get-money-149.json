@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Partially my fault falling off ladder on job, still get money?",
-  "description": "Yes, comp ignores your fault.",
   "url": "https://justworkcomplaw.com/faq/general-partially-my-fault-falling-off-ladder-on-job-still-get-money-149",
+  "name": "Partially my fault falling off ladder on job, still get money?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Partially my fault falling off ladder on job, still get money?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, comp ignores your fault.",
+        "@type": "Answer",
         "description": "**Yes for workers' comp**—no-fault system.[1] Suits reduce by your % fault.\n\nUtah comparative negligence.\n\n- Admit nothing early.\n- Evidence shows setup issues.\n- Comp unaffected.\n\nFocus on employer duty."
       }
     }
-  ]
+  ],
+  "description": "Yes, comp ignores your fault."
 }

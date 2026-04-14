@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will my boss fire me for complaining about bad air at work?",
-  "description": "Illegal; file OSHA complaint for protection and remedies.",
   "url": "https://justworkcomplaw.com/faq/general-will-my-boss-fire-me-for-complaining-about-bad-air-at-work-183",
+  "name": "Will my boss fire me for complaining about bad air at work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Will my boss fire me for complaining about bad air at work?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Illegal; file OSHA complaint for protection and remedies.",
+        "@type": "Answer",
         "description": "**No, retaliation for safety complaints or claims is illegal under OSHA and state law.**\n\nProtected activity includes reporting hazards, filing comp[1][5]. Utah/Idaho ban reprisals; remedies include backpay, reinstatement[1].\n\n- Document all communications.\n- File OSHA charge if retaliated.\n- Comp filing also protected.\n\nKeep records; report to OSHA immediately if issues arise. Courts side with employees[1][5]."
       }
     }
-  ]
+  ],
+  "description": "Illegal; file OSHA complaint for protection and remedies."
 }

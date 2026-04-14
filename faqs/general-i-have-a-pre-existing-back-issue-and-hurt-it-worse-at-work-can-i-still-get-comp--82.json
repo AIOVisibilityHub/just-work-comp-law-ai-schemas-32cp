@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I have a pre-existing back issue and hurt it worse at work, can I still get comp in Sandy Utah?",
-  "description": "Yes, aggravations of pre-existing conditions qualify with medical proof.[1]",
   "url": "https://justworkcomplaw.com/faq/general-i-have-a-pre-existing-back-issue-and-hurt-it-worse-at-work-can-i-still-get-comp--82",
+  "name": "I have a pre-existing back issue and hurt it worse at work, can I still get comp in Sandy Utah?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "I have a pre-existing back issue and hurt it worse at work, can I still get comp in Sandy Utah?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, aggravations of pre-existing conditions qualify with medical proof.[1]",
+        "@type": "Answer",
         "description": "Yes, if work aggravated it, Utah covers occupational aggravations with medical causation proof.[1] Workers' comp includes conditions worsened by job duties.[1] Key factors: Doctor links aggravation to work via AOE/COE test; report timely; no need to prove full causation.[1][2] Practical guidance: Tell your doctor exactly how work worsened it, document prior records, and avoid insurer traps questioning pre-existing issues. An attorney helps prove compensability."
       }
     }
-  ]
+  ],
+  "description": "Yes, aggravations of pre-existing conditions qualify with medical proof.[1]"
 }

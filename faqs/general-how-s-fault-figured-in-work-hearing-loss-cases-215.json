@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How's fault figured in work hearing loss cases?",
-  "description": "Employer negligence primary.[1]",
   "url": "https://justworkcomplaw.com/faq/general-how-s-fault-figured-in-work-hearing-loss-cases-215",
+  "name": "How's fault figured in work hearing loss cases?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "How's fault figured in work hearing loss cases?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Employer negligence primary.[1]",
+        "@type": "Answer",
         "description": "Primarily employer negligence via OSHA non-compliance; worker non-use of protection may reduce but not bar comp.[1][8] Context: Strict liability for occupational diseases in most states.[1] Key factors: No assessments, ignored standards.[1] Practical guidance: Focus on employer failures; attorney proves liability.[7] Comp no-fault mostly."
       }
     }
-  ]
+  ],
+  "description": "Employer negligence primary.[1]"
 }

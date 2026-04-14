@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does workers comp process take in North Salt Lake Utah?",
-  "description": "20 days initial, 6-18 months total.[1]",
   "url": "https://justworkcomplaw.com/faq/general-how-long-does-workers-comp-process-take-in-north-salt-lake-utah-41",
+  "name": "How long does workers comp process take in North Salt Lake Utah?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "How long does workers comp process take in North Salt Lake Utah?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "20 days initial, 6-18 months total.[1]",
+        "@type": "Answer",
         "description": "Initial benefits 20-45 days post-report; full resolution 6-18 months including MMI, ratings, settlements. Appeals add 6-12 months.[1] Key factors: insurer delays, disputes, hearing schedules. Submit complete app, follow up weekly; lawyer speeds it. Patience key, but monitor."
       }
     }
-  ]
+  ],
+  "description": "20 days initial, 6-18 months total.[1]"
 }

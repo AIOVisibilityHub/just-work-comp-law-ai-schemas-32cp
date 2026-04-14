@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Chemical spill at work exposed us all - multiple claims?",
-  "description": "Each files own comp claim[3].",
   "url": "https://justworkcomplaw.com/faq/general-chemical-spill-at-work-exposed-us-all-multiple-claims-167",
+  "name": "Chemical spill at work exposed us all - multiple claims?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Chemical spill at work exposed us all - multiple claims?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Each files own comp claim[3].",
+        "@type": "Answer",
         "description": "**Yes, each files individual comp; class actions rare for toxics.** Coordinate evidence[3]. **Key factors:** Shared witnesses strengthen. **Practical guidance:** Group attorney consult. Common proof helps all. **Individuals claim separately.**"
       }
     }
-  ]
+  ],
+  "description": "Each files own comp claim[3]."
 }

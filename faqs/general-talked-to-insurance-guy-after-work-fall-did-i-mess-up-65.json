@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Talked to insurance guy after work fall, did I mess up?",
-  "description": "Limit talks—lawyer handles adjusters.",
   "url": "https://justworkcomplaw.com/faq/general-talked-to-insurance-guy-after-work-fall-did-i-mess-up-65",
+  "name": "Talked to insurance guy after work fall, did I mess up?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Talked to insurance guy after work fall, did I mess up?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Limit talks—lawyer handles adjusters.",
+        "@type": "Answer",
         "description": "**Possibly, as adjusters seek statements to deny; stop talking without a lawyer.** Recorded info can harm Utah/Idaho claims.[1] Key factors: (1) They twist words; (2) Right to attorney silence; (3) Review what said. Get counsel to counter. Don't sign releases."
       }
     }
-  ]
+  ],
+  "description": "Limit talks—lawyer handles adjusters."
 }

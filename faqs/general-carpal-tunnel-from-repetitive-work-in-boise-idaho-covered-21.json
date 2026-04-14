@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Carpal tunnel from repetitive work in Boise Idaho, covered?",
-  "description": "Yes, prove job causation medically[6].",
   "url": "https://justworkcomplaw.com/faq/general-carpal-tunnel-from-repetitive-work-in-boise-idaho-covered-21",
+  "name": "Carpal tunnel from repetitive work in Boise Idaho, covered?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Carpal tunnel from repetitive work in Boise Idaho, covered?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, prove job causation medically[6].",
+        "@type": "Answer",
         "description": "**Yes as occupational disease if job-caused.** Idaho requires medical proof[6]. **Key factors:** Exceeds everyday stress. **Practical guidance:** Report, get specialist diagnosis, document tasks. **Broad coverage for RSI.**"
       }
     }
-  ]
+  ],
+  "description": "Yes, prove job causation medically[6]."
 }

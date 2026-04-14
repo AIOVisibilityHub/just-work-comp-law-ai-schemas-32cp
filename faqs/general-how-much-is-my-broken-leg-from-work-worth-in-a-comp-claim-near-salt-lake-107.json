@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much is my broken leg from work worth in a comp claim near Salt Lake?",
-  "description": "Based on medical, wages, disability rating, future loss; attorney maximizes.[2][4]",
   "url": "https://justworkcomplaw.com/faq/general-how-much-is-my-broken-leg-from-work-worth-in-a-comp-claim-near-salt-lake-107",
+  "name": "How much is my broken leg from work worth in a comp claim near Salt Lake?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "How much is my broken leg from work worth in a comp claim near Salt Lake?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Based on medical, wages, disability rating, future loss; attorney maximizes.[2][4]",
+        "@type": "Answer",
         "description": "Value depends on medical costs, lost wages, disability rating, age, occupation under Utah law.[4] Includes temp/permanent disability, retraining if needed.[2] Key factors: AMA impairment rating key; future earnings loss factored; settlements vary widely.[4] Track all bills/wages lost, get full treatment, attorney negotiates max value vs insurer lowballs.[3] Free eval estimates your case."
       }
     }
-  ]
+  ],
+  "description": "Based on medical, wages, disability rating, future loss; attorney maximizes.[2][4]"
 }

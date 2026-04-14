@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Value of my case: chronic bronchitis from work mold?",
-  "description": "$50K+; depends on disability rating.",
   "url": "https://justworkcomplaw.com/faq/general-value-of-my-case-chronic-bronchitis-from-work-mold-194",
+  "name": "Value of my case: chronic bronchitis from work mold?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Value of my case: chronic bronchitis from work mold?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "$50K+; depends on disability rating.",
+        "@type": "Answer",
         "description": "**$50K-$200K+ via comp/settlement, based on impairment, lost work.**\n\nFactors: permanency rating, future care[1]. Third-party boosts.\n\n- Medical + wage loss.\n- Disability percentage.\n- Age, job impact.\n\nAttorney calculates via experts. Varies by proof[1]."
       }
     }
-  ]
+  ],
+  "description": "$50K+; depends on disability rating."
 }

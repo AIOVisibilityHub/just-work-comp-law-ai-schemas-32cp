@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "No video of my work slip, case dead?",
-  "description": "No—other evidence works fine.",
   "url": "https://justworkcomplaw.com/faq/general-no-video-of-my-work-slip-case-dead-71",
+  "name": "No video of my work slip, case dead?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "No video of my work slip, case dead?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "No—other evidence works fine.",
+        "@type": "Answer",
         "description": "**No, photos, witnesses, logs, and med records prove it in Idaho/Utah comp.** Video not required.[1] Key factors: (1) Your credible account; (2) Hazard existence; (3) Consistent story. Attorney subpoenas surveillance. Preserve scene."
       }
     }
-  ]
+  ],
+  "description": "No—other evidence works fine."
 }

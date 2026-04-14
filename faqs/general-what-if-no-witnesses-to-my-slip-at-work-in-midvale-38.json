@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if no witnesses to my slip at work in Midvale?",
-  "description": "Use records, photos, reports—circumstantial OK.[3]",
   "url": "https://justworkcomplaw.com/faq/general-what-if-no-witnesses-to-my-slip-at-work-in-midvale-38",
+  "name": "What if no witnesses to my slip at work in Midvale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "What if no witnesses to my slip at work in Midvale?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Use records, photos, reports—circumstantial OK.[3]",
+        "@type": "Answer",
         "description": "Claims proceed on medical records, photos, maintenance logs, your testimony, safety violations proving hazardous condition caused fall. Circumstantial evidence suffices.[3] Key factors: incident report, video footage request, expert on foreseeability. Report immediately, diagram scene; lawyer investigates. No witnesses common, still winnable."
       }
     }
-  ]
+  ],
+  "description": "Use records, photos, reports—circumstantial OK.[3]"
 }

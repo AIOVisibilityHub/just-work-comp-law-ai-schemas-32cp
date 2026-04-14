@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Missed work after comp injury in South Salt Lake, how get paid?",
-  "description": "66-75% wages via TTD benefits[1][6].",
   "url": "https://justworkcomplaw.com/faq/general-missed-work-after-comp-injury-in-south-salt-lake-how-get-paid-19",
+  "name": "Missed work after comp injury in South Salt Lake, how get paid?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Missed work after comp injury in South Salt Lake, how get paid?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "66-75% wages via TTD benefits[1][6].",
+        "@type": "Answer",
         "description": "**Temporary total disability pays 66-75% wages during recovery.** Utah/Idaho standard[1][6]. **Key factors:** Doctor restrictions trigger; max benefits vary. **Practical guidance:** Submit wage stubs, attend therapy. Track days off. **Payments start after 3-7 day wait.**"
       }
     }
-  ]
+  ],
+  "description": "66-75% wages via TTD benefits[1][6]."
 }

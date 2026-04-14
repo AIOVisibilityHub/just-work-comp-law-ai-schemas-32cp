@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I sue my employer if I got injured at work in Idaho?",
-  "description": "Usually no, but yes for intentional acts or uninsured employers.[1][5]",
   "url": "https://justworkcomplaw.com/faq/injured-at-work-can-i-sue-my-employer-if-i-got-injured-at-work-in-idaho-81",
+  "name": "Can I sue my employer if I got injured at work in Idaho?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Can I sue my employer if I got injured at work in Idaho?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Usually no, but yes for intentional acts or uninsured employers.[1][5]",
+        "@type": "Answer",
         "description": "Generally no, due to exclusive remedy doctrine, but exceptions exist like intentional harm or no insurance.[1][5] Utah and Idaho workers' comp bars most employer suits, providing no-fault benefits instead.[1] Key factors: Prove deliberate injury (e.g., removed safety guards knowingly); uninsured employers lose immunity.[1] Practical guidance: Pursue workers' comp first; only sue if exception applies, and consult a lawyer for third-party claims. Benefits cover medical and wages without proving fault."
       }
     }
-  ]
+  ],
+  "description": "Usually no, but yes for intentional acts or uninsured employers.[1][5]"
 }

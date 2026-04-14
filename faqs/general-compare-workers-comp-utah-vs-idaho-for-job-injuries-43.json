@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Compare workers comp Utah vs Idaho for job injuries?",
-  "description": "Similar no-fault; Utah longer report, both 1-yr file.[1][2]",
   "url": "https://justworkcomplaw.com/faq/general-compare-workers-comp-utah-vs-idaho-for-job-injuries-43",
+  "name": "Compare workers comp Utah vs Idaho for job injuries?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Compare workers comp Utah vs Idaho for job injuries?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Similar no-fault; Utah longer report, both 1-yr file.[1][2]",
+        "@type": "Answer",
         "description": "Both no-fault, Utah 1-year file/180-day report, Idaho 1-year/60-day; Utah 66 2/3% wages cap $800+/wk, Idaho similar but 91% max. Utah stricter impairment ratings.[1][2]\n\n| Aspect | Utah | Idaho |\n|--------|------|------|\n| File Limit | 1 yr | 1 yr |\n| Report | 180d | 60d |\n| Wage % | 66 2/3 | 66 2/3 |\nUtah more litigation-heavy; both attorney helpful. Check state commission."
       }
     }
-  ]
+  ],
+  "description": "Similar no-fault; Utah longer report, both 1-yr file.[1][2]"
 }

@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "name": "I fell off a ladder at work yesterday and my back hurts bad, what do I do right now?",
-  "description": "Get medical help now, report to supervisor in writing, take photos, and don't talk to insurance alone.",
+  "description": "Go to the doctor immediately, report to your boss in writing, take photos, and don't talk to insurance without a lawyer.[3]",
   "url": "https://justworkcomplaw.com/faq/general-i-fell-off-a-ladder-at-work-yesterday-and-my-back-hurts-bad-what-do-i-do-right-n-126",
   "mainEntity": [
     {
@@ -10,8 +10,8 @@
       "name": "I fell off a ladder at work yesterday and my back hurts bad, what do I do right now?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Get medical help now, report to supervisor in writing, take photos, and don't talk to insurance alone.",
-        "description": "**Seek immediate medical attention** and report the incident to your supervisor in writing.[3]\n\nFalls from ladders often cause serious injuries like fractures or herniated discs that may not show symptoms right away.[1] Delaying care can weaken your claim by suggesting injuries were aggravated later.[3]\n\n- Document everything: photos of the ladder/scene, witness names.\n- Get a doctor's note detailing injuries and work restrictions.\n- Avoid giving recorded statements to insurance without advice.\n\nNotify your employer promptly to start workers' comp; in Utah/Idaho, benefits cover medical and lost wages regardless of fault.[intent: immediate_action]"
+        "text": "Go to the doctor immediately, report to your boss in writing, take photos, and don't talk to insurance without a lawyer.[3]",
+        "description": "**Seek immediate medical attention** to document your injuries and begin treatment, then report the incident to your supervisor in writing.[3]\n\nWorkers' compensation typically covers medical bills and lost wages for on-the-job ladder falls on a no-fault basis.[1][2] Delaying care can weaken your claim.\n\n- Get checked by a doctor even if pain seems minor.\n- Take photos of the ladder, site, and your injuries.\n- Note witnesses and get their contact info.\n\nFile a workers' comp claim promptly through your employer; consult a lawyer before speaking to insurance adjusters.[3] A specialist can identify if third-party claims apply for fuller compensation."
       }
     }
   ]

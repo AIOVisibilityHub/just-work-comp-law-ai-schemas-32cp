@@ -1,14 +1,14 @@
 {
-  "@context": "https://schema.org",
-  "@type": "HowTo",
   "name": "What Evidence Do I Need After a Fall From a Height?",
-  "description": "What Evidence Do I Need After a Fall From a Height? - Murray",
   "step": [
     {
-      "@type": "HowToStep",
-      "position": 1,
       "name": "Step 1",
-      "text": "A fall from a ladder is serious business. First, take photos of the ladder and the area where you fell before anything is moved. Get contact info for any coworkers who saw it happen. Most importantly, keep the shoes and clothes you were wearing in a bag—they might be evidence later. If the insurance company starts asking tricky questions, call us at 801-746-0290 before you answer."
+      "text": "A fall from a ladder is serious business. First, take photos of the ladder and the area where you fell before anything is moved. Get contact info for any coworkers who saw it happen. Most importantly, keep the shoes and clothes you were wearing in a bag—they might be evidence later. If the insurance company starts asking tricky questions, call us at 801-746-0290 before you answer.",
+      "@type": "HowToStep",
+      "position": 1
     }
-  ]
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "description": "What Evidence Do I Need After a Fall From a Height? - Murray"
 }

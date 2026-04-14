@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I had health issues before chemical exposure at work - does that hurt my case?",
-  "description": "No, claims cover aggravation of pre-existing issues[2].",
   "url": "https://justworkcomplaw.com/faq/general-i-had-health-issues-before-chemical-exposure-at-work-does-that-hurt-my-case-160",
+  "name": "I had health issues before chemical exposure at work - does that hurt my case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "I had health issues before chemical exposure at work - does that hurt my case?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "No, claims cover aggravation of pre-existing issues[2].",
+        "@type": "Answer",
         "description": "**Pre-existing conditions don't bar claims if exposure aggravated them; comp covers worsening.** Prove work caused new/exacerbated harm[2]. **Key factors:** Medical differentiation via experts[2]. **Practical guidance:** Detailed records show progression post-exposure. Attorney argues aggravation. **Aggravation is compensable.**"
       }
     }
-  ]
+  ],
+  "description": "No, claims cover aggravation of pre-existing issues[2]."
 }

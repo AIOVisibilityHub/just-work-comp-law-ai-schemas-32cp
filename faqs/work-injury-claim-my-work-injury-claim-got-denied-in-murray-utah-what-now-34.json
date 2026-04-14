@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "My work injury claim got denied in Murray Utah, what now?",
-  "description": "Appeal within 20 days to Labor Commission with more evidence.[1]",
   "url": "https://justworkcomplaw.com/faq/work-injury-claim-my-work-injury-claim-got-denied-in-murray-utah-what-now-34",
+  "name": "My work injury claim got denied in Murray Utah, what now?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "My work injury claim got denied in Murray Utah, what now?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Appeal within 20 days to Labor Commission with more evidence.[1]",
+        "@type": "Answer",
         "description": "Appeal the denial to Utah Labor Commission within 20 days of notice, providing new evidence like medical opinions linking injury to job. Many denials overturn on appeal.[1] Key factors: common reasons (late report, not work-related); hearing before ALJ; insurer burden shifts. Gather stronger proof, request mediation; attorney boosts success rate. Deadlines strict—act fast."
       }
     }
-  ]
+  ],
+  "description": "Appeal within 20 days to Labor Commission with more evidence.[1]"
 }

@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Employer uninsured for workers comp in Draper Utah, options?",
-  "description": "Use Uninsured Fund; employer liable.[1]",
   "url": "https://justworkcomplaw.com/faq/general-employer-uninsured-for-workers-comp-in-draper-utah-options-44",
+  "name": "Employer uninsured for workers comp in Draper Utah, options?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Employer uninsured for workers comp in Draper Utah, options?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Use Uninsured Fund; employer liable.[1]",
+        "@type": "Answer",
         "description": "Utah Uninsured Employers Fund covers you; file against employer who pays penalties. Benefits same as insured.[1] Key factors: prove non-coverage, employer liability. Labor Commission enforces, possible personal assets. Report promptly; lawyer accesses fund. Protection exists."
       }
     }
-  ]
+  ],
+  "description": "Use Uninsured Fund; employer liable.[1]"
 }

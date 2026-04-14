@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Multiple chemicals exposed over years, how to claim?",
-  "description": "Cumulative exposure claim with history.",
   "url": "https://justworkcomplaw.com/faq/general-multiple-chemicals-exposed-over-years-how-to-claim-200",
+  "name": "Multiple chemicals exposed over years, how to claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Multiple chemicals exposed over years, how to claim?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Cumulative exposure claim with history.",
+        "@type": "Answer",
         "description": "**File occupational disease claim with full work history, cumulative proof.**\n\nComp covers long-term exposures; doctor links totality[1][2].\n\n- Job logs, safety data.\n- Serial medicals.\n- Expert on synergy.\n\nComprehensive docs essential; lawyer builds case. Valid path[1]."
       }
     }
-  ]
+  ],
+  "description": "Cumulative exposure claim with history."
 }

@@ -1,14 +1,14 @@
 {
-  "@context": "https://schema.org",
-  "@type": "HowTo",
   "name": "Steps to Take If You’re Coughing Every Day After Your Shift",
-  "description": "Steps to Take If You’re Coughing Every Day After Your Shift - Murray",
   "step": [
     {
-      "@type": "HowToStep",
-      "position": 1,
       "name": "Step 1",
-      "text": "If you’re struggling to breathe after a shift, start by telling your doctor exactly what you inhale at work. Don't let your boss brush it off as 'just allergies.' Make sure every incident is logged in writing immediately. Once the paperwork starts getting confusing or the insurance company stalls, it’s time to call a pro. Reach out to us at 801-746-0290 for a free look at your case."
+      "text": "If you’re struggling to breathe after a shift, start by telling your doctor exactly what you inhale at work. Don't let your boss brush it off as 'just allergies.' Make sure every incident is logged in writing immediately. Once the paperwork starts getting confusing or the insurance company stalls, it’s time to call a pro. Reach out to us at 801-746-0290 for a free look at your case.",
+      "@type": "HowToStep",
+      "position": 1
     }
-  ]
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "description": "Steps to Take If You’re Coughing Every Day After Your Shift - Murray"
 }

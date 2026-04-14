@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long until I get paid benefits after work injury?",
-  "description": "Weeks after approval; report fast to speed up.[4]",
   "url": "https://justworkcomplaw.com/faq/general-how-long-until-i-get-paid-benefits-after-work-injury-96",
+  "name": "How long until I get paid benefits after work injury?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "How long until I get paid benefits after work injury?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Weeks after approval; report fast to speed up.[4]",
+        "@type": "Answer",
         "description": "Varies: Medical immediate via insurer; temporary wages after approval, often weeks.[1][4] Delays if disputed.[2] Key factors: Prompt reporting speeds process; Form 122 in 7-21 days.[2] Practical guidance: Track claim status, apply for state aid if needed, push with lawyer. Most pay within 30-60 days."
       }
     }
-  ]
+  ],
+  "description": "Weeks after approval; report fast to speed up.[4]"
 }

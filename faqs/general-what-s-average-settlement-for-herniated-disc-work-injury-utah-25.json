@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's average settlement for herniated disc work injury Utah?",
-  "description": "$40k-$100k typical; based on impairment/wages[1].",
   "url": "https://justworkcomplaw.com/faq/general-what-s-average-settlement-for-herniated-disc-work-injury-utah-25",
+  "name": "What's average settlement for herniated disc work injury Utah?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "What's average settlement for herniated disc work injury Utah?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "$40k-$100k typical; based on impairment/wages[1].",
+        "@type": "Answer",
         "description": "**$40k-$100k+ depending on surgery, permanency, wages.** Varies by case facts[1]. **Key factors:** Impairment rating, lost income. **Practical guidance:** Wait for max medical, negotiate post-MMI. Lawyer maximizes. **Factors drive higher values.**"
       }
     }
-  ]
+  ],
+  "description": "$40k-$100k typical; based on impairment/wages[1]."
 }

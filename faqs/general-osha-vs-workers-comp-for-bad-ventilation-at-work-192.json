@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "OSHA vs workers comp for bad ventilation at work?",
-  "description": "OSHA enforces safety, comp pays benefits.",
   "url": "https://justworkcomplaw.com/faq/general-osha-vs-workers-comp-for-bad-ventilation-at-work-192",
+  "name": "OSHA vs workers comp for bad ventilation at work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "OSHA vs workers comp for bad ventilation at work?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "OSHA enforces safety, comp pays benefits.",
+        "@type": "Answer",
         "description": "**OSHA for citations/fines on hazards; comp for your personal benefits.**\n\nOSHA enforces safety, no payout; comp compensates injury[1][4][5]. File both.\n\n- OSHA complaint anonymous.\n- Comp needs injury proof.\n- OSHA aids comp evidence.\n\nReport OSHA for fixes; pursue comp for losses. Complementary[1]."
       }
     }
-  ]
+  ],
+  "description": "OSHA enforces safety, comp pays benefits."
 }

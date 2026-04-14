@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Can I Afford a Lawyer if I’m Not Receiving My Paychecks?",
     "text": "Can I Afford a Lawyer if I’m Not Receiving My Paychecks?",
+    "@type": "Question",
     "answerCount": 1,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "A: Generally, no! We work on a contingency basis, meaning we only get paid if we win you a settlement. You shouldn't have to worry about hourly bills while you’re trying to recover. We focus on getting you a larger settlement and better medical care without any upfront stress. If you're in Utah or Idaho and feeling overwhelmed, just reach out for a free chat.",
+      "@type": "Answer",
       "author": {
-        "@type": "Organization",
-        "name": "Just Work Comp Law"
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
       }
     }
   }

@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if no witnesses to my work injury in Holladay?",
-  "description": "Medical proof and your report often enough.[1]",
   "url": "https://justworkcomplaw.com/faq/general-what-if-no-witnesses-to-my-work-injury-in-holladay-99",
+  "name": "What if no witnesses to my work injury in Holladay?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "What if no witnesses to my work injury in Holladay?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Medical proof and your report often enough.[1]",
+        "@type": "Answer",
         "description": "Still viable; your testimony, medical records, and circumstances suffice if AOE/COE met.[1][4] Presumed on-premises/on-clock.[1] Key factors: Consistent story to doctor/insurer; photos/logs; timely report.[2] Practical guidance: Note details immediately, get exam showing injury, use coworker indirect knowledge. Lawyers build cases without witnesses."
       }
     }
-  ]
+  ],
+  "description": "Medical proof and your report often enough.[1]"
 }

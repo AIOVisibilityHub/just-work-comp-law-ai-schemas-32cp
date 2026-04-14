@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if ladder was defective in my work fall in Idaho?",
-  "description": "Sue maker for defect—extra compensation.",
   "url": "https://justworkcomplaw.com/faq/general-what-if-ladder-was-defective-in-my-work-fall-in-idaho-143",
+  "name": "What if ladder was defective in my work fall in Idaho?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "What if ladder was defective in my work fall in Idaho?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Sue maker for defect—extra compensation.",
+        "@type": "Answer",
         "description": "**Sue manufacturer/third-party** beyond workers' comp for full damages.[6]\n\nProduct liability no fault needed if defect proven.[1]\n\n- Preserve ladder.\n- Expert inspection.\n- Recall checks.\n\nBigger payout potential."
       }
     }
-  ]
+  ],
+  "description": "Sue maker for defect—extra compensation."
 }

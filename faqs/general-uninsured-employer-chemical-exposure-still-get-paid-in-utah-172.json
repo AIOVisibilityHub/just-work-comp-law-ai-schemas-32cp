@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Uninsured employer chemical exposure - still get paid in Utah?",
-  "description": "Utah fund pays if uninsured[4].",
   "url": "https://justworkcomplaw.com/faq/general-uninsured-employer-chemical-exposure-still-get-paid-in-utah-172",
+  "name": "Uninsured employer chemical exposure - still get paid in Utah?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Uninsured employer chemical exposure - still get paid in Utah?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Utah fund pays if uninsured[4].",
+        "@type": "Answer",
         "description": "**Yes, Utah Uninsured Employers Fund covers if employer lacks insurance.** Same benefits[4]. **Key factors:** Prove noncompliance. **Practical guidance:** File normally; state fund steps in. Attorney verifies coverage. **Protection exists.**"
       }
     }
-  ]
+  ],
+  "description": "Utah fund pays if uninsured[4]."
 }

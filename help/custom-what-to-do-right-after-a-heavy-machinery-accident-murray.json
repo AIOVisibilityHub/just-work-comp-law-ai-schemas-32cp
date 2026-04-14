@@ -1,14 +1,14 @@
 {
-  "@context": "https://schema.org",
-  "@type": "HowTo",
   "name": "What to Do Right After a Heavy Machinery Accident",
-  "description": "What to Do Right After a Heavy Machinery Accident - Murray",
   "step": [
     {
-      "@type": "HowToStep",
-      "position": 1,
       "name": "Step 1",
-      "text": "If a machine malfunctions, stop everything. First, get medical help immediately even if it feels minor. Next, take photos of the machine and any missing safety guards before they’re fixed. Finally, report it to your supervisor in writing. If the insurance company starts acting \"off\" or blaming you, that’s your cue to call us at 801-746-0290 for a free chat."
+      "text": "If a machine malfunctions, stop everything. First, get medical help immediately even if it feels minor. Next, take photos of the machine and any missing safety guards before they’re fixed. Finally, report it to your supervisor in writing. If the insurance company starts acting \"off\" or blaming you, that’s your cue to call us at 801-746-0290 for a free chat.",
+      "@type": "HowToStep",
+      "position": 1
     }
-  ]
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "description": "What to Do Right After a Heavy Machinery Accident - Murray"
 }

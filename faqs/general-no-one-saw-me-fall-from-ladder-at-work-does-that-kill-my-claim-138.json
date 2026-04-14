@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "No one saw me fall from ladder at work, does that kill my claim?",
-  "description": "No, medical + your account works.",
   "url": "https://justworkcomplaw.com/faq/general-no-one-saw-me-fall-from-ladder-at-work-does-that-kill-my-claim-138",
+  "name": "No one saw me fall from ladder at work, does that kill my claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "No one saw me fall from ladder at work, does that kill my claim?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "No, medical + your account works.",
+        "@type": "Answer",
         "description": "**No, your testimony plus medical evidence suffices**.[4]\n\nCircumstantial proof like ladder position, injuries consistent with fall.[1]\n\n- Photos of scene.\n- Supervisor report.\n- Consistent doctor history.\n\nBuild case methodically."
       }
     }
-  ]
+  ],
+  "description": "No, medical + your account works."
 }

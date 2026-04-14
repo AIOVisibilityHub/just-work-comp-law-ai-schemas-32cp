@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long do I have to file a workers comp claim after injury in Utah?",
-  "description": "Report within 180 days in Utah; sooner preserves benefits.[1][2]",
   "url": "https://justworkcomplaw.com/faq/general-how-long-do-i-have-to-file-a-workers-comp-claim-after-injury-in-utah-79",
+  "name": "How long do I have to file a workers comp claim after injury in Utah?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "How long do I have to file a workers comp claim after injury in Utah?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Report within 180 days in Utah; sooner preserves benefits.[1][2]",
+        "@type": "Answer",
         "description": "In Utah, report within 180 days to avoid disqualification, though immediate notice is best; formal Form 122 follows employer reporting.[1][2] The statute emphasizes 'as soon as practicable' for verbal/written notice.[2] Key factors: Employer/insurer files Form 122 within 21 days total; doctor submits Form 123 in 7 days; late reports shift proof burden to you.[1][2] Practical guidance: Document everything now, request claim status, and don't miss medical appointments. Legal help ensures timely processing."
       }
     }
-  ]
+  ],
+  "description": "Report within 180 days in Utah; sooner preserves benefits.[1][2]"
 }

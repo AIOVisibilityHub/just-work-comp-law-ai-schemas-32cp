@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What proof do I need if I fell at work and no one saw?",
-  "description": "Med records, photos, your statement—attorney gets more evidence.",
   "url": "https://justworkcomplaw.com/faq/general-what-proof-do-i-need-if-i-fell-at-work-and-no-one-saw-56",
+  "name": "What proof do I need if I fell at work and no one saw?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "What proof do I need if I fell at work and no one saw?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Med records, photos, your statement—attorney gets more evidence.",
+        "@type": "Answer",
         "description": "**Your testimony, medical records, photos of hazard, and maintenance logs suffice even without witnesses.** Circumstantial evidence proves work-related slip and falls in Utah/Idaho workers' comp.[1] Key factors: (1) Doctor notes linking injury to fall; (2) Supervisor report; (3) Prior complaints about area. Preserve shoes/clothing. An attorney obtains employer records via discovery."
       }
     }
-  ]
+  ],
+  "description": "Med records, photos, your statement—attorney gets more evidence."
 }

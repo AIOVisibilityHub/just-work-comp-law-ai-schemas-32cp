@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Roughly how much is my broken leg from work worth in Utah?",
-  "description": "Covers medical/wages; value via bills, lost pay, disability.[1]",
   "url": "https://justworkcomplaw.com/faq/general-roughly-how-much-is-my-broken-leg-from-work-worth-in-utah-86",
+  "name": "Roughly how much is my broken leg from work worth in Utah?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Roughly how much is my broken leg from work worth in Utah?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Covers medical/wages; value via bills, lost pay, disability.[1]",
+        "@type": "Answer",
         "description": "Value depends on medical costs, lost wages (2/3 average weekly), disability duration, but no pain/suffering from employer.[1] Serious cases add future earnings loss.[1] Key factors: Total wages, treatment needs, impairment rating; third-party suits add noneconomic damages uncapped.[1] Practical guidance: Track all bills/expenses, avoid early low settlements, and use a lawyer for accurate valuation. Settlements vary widely by case facts."
       }
     }
-  ]
+  ],
+  "description": "Covers medical/wages; value via bills, lost pay, disability.[1]"
 }

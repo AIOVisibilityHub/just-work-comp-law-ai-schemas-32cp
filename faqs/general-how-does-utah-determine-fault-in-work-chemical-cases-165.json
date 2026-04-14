@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does Utah determine fault in work chemical cases?",
-  "description": "No-fault system; get benefits anyway[6].",
   "url": "https://justworkcomplaw.com/faq/general-how-does-utah-determine-fault-in-work-chemical-cases-165",
+  "name": "How does Utah determine fault in work chemical cases?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "How does Utah determine fault in work chemical cases?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "No-fault system; get benefits anyway[6].",
+        "@type": "Answer",
         "description": "**Workers' comp is no-fault; benefits regardless of employer negligence.** OSHA violations aid but not required[1][6]. **Key factors:** Third-parties fault-based. **Practical guidance:** Focus on exposure proof. No-fault simplifies. **Comp ignores fault.**"
       }
     }
-  ]
+  ],
+  "description": "No-fault system; get benefits anyway[6]."
 }

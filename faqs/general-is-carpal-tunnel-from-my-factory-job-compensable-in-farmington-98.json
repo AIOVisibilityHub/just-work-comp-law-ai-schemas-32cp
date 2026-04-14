@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is carpal tunnel from my factory job compensable in Farmington?",
-  "description": "Yes, repetitive injuries qualify.[1]",
   "url": "https://justworkcomplaw.com/faq/general-is-carpal-tunnel-from-my-factory-job-compensable-in-farmington-98",
+  "name": "Is carpal tunnel from my factory job compensable in Farmington?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Is carpal tunnel from my factory job compensable in Farmington?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, repetitive injuries qualify.[1]",
+        "@type": "Answer",
         "description": "Yes, as occupational disease if repetitive work caused it; broad Utah coverage with medical proof.[1] Includes cumulative traumas.[1] Key factors: Link to job duties; report within 180 days; causation evidence.[1] Practical guidance: See specialist for diagnosis, document hours/tasks, file promptly. Common approved claim."
       }
     }
-  ]
+  ],
+  "description": "Yes, repetitive injuries qualify.[1]"
 }

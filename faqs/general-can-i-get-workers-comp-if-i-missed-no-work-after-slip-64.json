@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I get workers comp if I missed no work after slip?",
-  "description": "Yes—medicals covered without lost wages.",
   "url": "https://justworkcomplaw.com/faq/general-can-i-get-workers-comp-if-i-missed-no-work-after-slip-64",
+  "name": "Can I get workers comp if I missed no work after slip?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Can I get workers comp if I missed no work after slip?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes—medicals covered without lost wages.",
+        "@type": "Answer",
         "description": "**Yes, for medical costs even without lost time; wage benefits start after 3 days off.** Utah/Idaho cover all documented treatment.[1] Key factors: (1) Bills paid regardless; (2) Permanent impairment later; (3) Future care included. Keep records. Consult for full evaluation."
       }
     }
-  ]
+  ],
+  "description": "Yes—medicals covered without lost wages."
 }

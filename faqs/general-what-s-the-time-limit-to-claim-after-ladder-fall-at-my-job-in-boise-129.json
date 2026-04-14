@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the time limit to claim after ladder fall at my job in Boise?",
-  "description": "Idaho: 60 days to file workers' comp after ladder fall.",
   "url": "https://justworkcomplaw.com/faq/general-what-s-the-time-limit-to-claim-after-ladder-fall-at-my-job-in-boise-129",
+  "name": "What's the time limit to claim after ladder fall at my job in Boise?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "What's the time limit to claim after ladder fall at my job in Boise?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Idaho: 60 days to file workers' comp after ladder fall.",
+        "@type": "Answer",
         "description": "**In Idaho, file workers' comp within 60 days of injury**; one year for hearing.[2]\n\nStatutes are strict—late claims often denied unless good cause shown.[2] Personal injury suits have 2 years.\n\n- Mark injury date exactly.\n- Report same day if possible.\n- No deadline for medical care once approved.\n\nAct fast; evidence fades. Consult attorney early."
       }
     }
-  ]
+  ],
+  "description": "Idaho: 60 days to file workers' comp after ladder fall."
 }

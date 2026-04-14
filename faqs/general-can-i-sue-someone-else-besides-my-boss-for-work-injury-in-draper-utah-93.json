@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I sue someone else besides my boss for work injury in Draper Utah?",
-  "description": "Yes, third parties like equipment makers.[1][5]",
   "url": "https://justworkcomplaw.com/faq/general-can-i-sue-someone-else-besides-my-boss-for-work-injury-in-draper-utah-93",
+  "name": "Can I sue someone else besides my boss for work injury in Draper Utah?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Can I sue someone else besides my boss for work injury in Draper Utah?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, third parties like equipment makers.[1][5]",
+        "@type": "Answer",
         "description": "Yes, third-party negligence allows tort suits for full damages including pain/suffering.[1][5] Common for defective equipment or subcontractors.[5] Key factors: Prove duty/breach/causation; government claims need special notice.[1] Practical guidance: Workers' comp first, then sue third party separately; no double recovery offset. Attorney coordinates both."
       }
     }
-  ]
+  ],
+  "description": "Yes, third parties like equipment makers.[1][5]"
 }

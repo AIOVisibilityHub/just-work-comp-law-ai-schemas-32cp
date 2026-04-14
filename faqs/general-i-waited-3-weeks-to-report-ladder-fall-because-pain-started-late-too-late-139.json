@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I waited 3 weeks to report ladder fall because pain started late, too late?",
-  "description": "Risky but possible with good cause.",
   "url": "https://justworkcomplaw.com/faq/general-i-waited-3-weeks-to-report-ladder-fall-because-pain-started-late-too-late-139",
+  "name": "I waited 3 weeks to report ladder fall because pain started late, too late?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "I waited 3 weeks to report ladder fall because pain started late, too late?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Risky but possible with good cause.",
+        "@type": "Answer",
         "description": "**Maybe not, but risky**—Utah allows 180 days, Idaho 60; show good cause.[2]\n\nDelayed symptoms common; doctor note explains.[3]\n\n- Explain in writing.\n- Strong medical proof.\n- Appeal if denied.\n\nReport now; don't delay more."
       }
     }
-  ]
+  ],
+  "description": "Risky but possible with good cause."
 }

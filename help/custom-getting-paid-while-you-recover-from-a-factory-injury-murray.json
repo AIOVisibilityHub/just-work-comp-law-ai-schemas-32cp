@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Getting Paid While You Recover from a Factory Injury",
     "text": "Getting Paid While You Recover from a Factory Injury",
+    "@type": "Question",
     "answerCount": 1,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Wondering how to pay bills while recovering from a crush injury? Workers' comp should cover your medical bills and a portion of your lost wages. If they’re dragging their feet or denying your diagnosis, it's time to get a pro involved. We handle the paperwork so you can focus on physical therapy. Give us a ring at 801-746-0290 to see how we can speed up your checks.",
+      "@type": "Answer",
       "author": {
-        "@type": "Organization",
-        "name": "Just Work Comp Law"
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
       }
     }
   }

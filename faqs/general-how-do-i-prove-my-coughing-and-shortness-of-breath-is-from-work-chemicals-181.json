@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I prove my coughing and shortness of breath is from work chemicals?",
-  "description": "Doctor's causal opinion + exposure records, MSDS, witnesses.",
   "url": "https://justworkcomplaw.com/faq/general-how-do-i-prove-my-coughing-and-shortness-of-breath-is-from-work-chemicals-181",
+  "name": "How do I prove my coughing and shortness of breath is from work chemicals?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "How do I prove my coughing and shortness of breath is from work chemicals?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Doctor's causal opinion + exposure records, MSDS, witnesses.",
+        "@type": "Answer",
         "description": "**Secure a doctor's medical opinion linking your condition to workplace exposure.**\n\nEvidence includes medical records, exposure logs, MSDS sheets, coworker affidavits, OSHA tests[1][3][8]. Prove substance, exposure level, causation[3].\n\n- Track symptoms onset, treatments.\n- Request workplace air tests.\n- Expert testimony often needed.\n\nDocument meticulously from day one; attorney gathers strengthens proof. Causation toughest part[3][8]."
       }
     }
-  ]
+  ],
+  "description": "Doctor's causal opinion + exposure records, MSDS, witnesses."
 }

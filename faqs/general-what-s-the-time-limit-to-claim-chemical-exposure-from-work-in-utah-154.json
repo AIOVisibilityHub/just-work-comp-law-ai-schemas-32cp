@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the time limit to claim chemical exposure from work in Utah?",
-  "description": "1 year from injury knowledge in Utah; up to 6 years for occupational diseases[4].",
   "url": "https://justworkcomplaw.com/faq/general-what-s-the-time-limit-to-claim-chemical-exposure-from-work-in-utah-154",
+  "name": "What's the time limit to claim chemical exposure from work in Utah?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "What's the time limit to claim chemical exposure from work in Utah?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "1 year from injury knowledge in Utah; up to 6 years for occupational diseases[4].",
+        "@type": "Answer",
         "description": "**Utah requires workers' comp claims within 1 year of injury knowledge or 3 years of accident; 6 years for occupational diseases like cancer.** Chemical exposures often qualify as occupational if linked to work[4]. Deadlines start from symptom awareness[2]. **Key factors:** Prompt reporting preserves evidence like air samples[2]; delayed symptoms extend but don't ignore limits. **Practical guidance:** File even if unsure; consult attorney to calculate your deadline. Document everything now. **Missing deadlines bars claims permanently.**"
       }
     }
-  ]
+  ],
+  "description": "1 year from injury knowledge in Utah; up to 6 years for occupational diseases[4]."
 }

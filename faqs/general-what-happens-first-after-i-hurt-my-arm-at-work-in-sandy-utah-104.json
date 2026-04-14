@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What happens first after I hurt my arm at work in Sandy Utah?",
-  "description": "Report in writing to employer ASAP, get medical care, notify doctor it's work-related.[2][3]",
   "url": "https://justworkcomplaw.com/faq/general-what-happens-first-after-i-hurt-my-arm-at-work-in-sandy-utah-104",
+  "name": "What happens first after I hurt my arm at work in Sandy Utah?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "What happens first after I hurt my arm at work in Sandy Utah?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Report in writing to employer ASAP, get medical care, notify doctor it's work-related.[2][3]",
+        "@type": "Answer",
         "description": "Report the injury to your employer immediately in writing, then seek medical care and tell the doctor it's work-related.[1][2][3] This starts your Utah workers' comp claim process.[3] Key factors: prompt reporting preserves eligibility; medical records prove work connection; employer sends claim to insurer.[3] Keep records of everything, follow doctor orders, avoid work until cleared to prevent claim harm.[2] Early attorney consult ensures proper filing.[3]"
       }
     }
-  ]
+  ],
+  "description": "Report in writing to employer ASAP, get medical care, notify doctor it's work-related.[2][3]"
 }

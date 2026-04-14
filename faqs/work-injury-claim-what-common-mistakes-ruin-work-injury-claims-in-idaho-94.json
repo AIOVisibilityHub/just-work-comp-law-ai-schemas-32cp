@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What common mistakes ruin work injury claims in Idaho?",
-  "description": "Delay reporting, bad adjuster talks, skipping docs.[3][7]",
   "url": "https://justworkcomplaw.com/faq/work-injury-claim-what-common-mistakes-ruin-work-injury-claims-in-idaho-94",
+  "name": "What common mistakes ruin work injury claims in Idaho?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "What common mistakes ruin work injury claims in Idaho?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Delay reporting, bad adjuster talks, skipping docs.[3][7]",
+        "@type": "Answer",
         "description": "Top errors: Delaying report beyond 60 days, skipping medical care, talking too much to adjusters, ignoring treatment.[3][7] These enable denials.[7] Key factors: No documentation; signing bad releases; missing deadlines.[3] Practical guidance: Report day-of, document all, get lawyer before settling. Avoid pitfalls for full benefits."
       }
     }
-  ]
+  ],
+  "description": "Delay reporting, bad adjuster talks, skipping docs.[3][7]"
 }

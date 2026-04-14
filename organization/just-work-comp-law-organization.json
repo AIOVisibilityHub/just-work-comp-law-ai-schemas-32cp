@@ -1,106 +1,106 @@
 {
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "Just Work Comp Law",
   "url": "https://justworkcomplaw.com",
-  "description": "Just Work Comp Law is a top-rated workers' compensation law firm dedicated to helping injured workers in Utah and Idaho secure larger settlements, receive better service, and achieve faster results. They specialize exclusively in workers' compensation cases, ensuring focused expertise and zero out-of-pocket costs for their clients.",
+  "name": "Just Work Comp Law",
+  "@type": "Organization",
+  "@context": "https://schema.org",
   "telephone": "801-746-0290",
   "areaServed": [
     {
-      "@type": "City",
-      "name": "Murray"
+      "name": "Murray",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Boise, West Valley City, West Jordan, Sandy, Murray, Millcreek, South Salt Lake, North Salt Lake, Bountiful, Midvale, Taylorsville, Cottonwood Heights, Holladay, Draper, Riverton, Farmington, Centerville"
+      "name": "Boise, West Valley City, West Jordan, Sandy, Murray, Millcreek, South Salt Lake, North Salt Lake, Bountiful, Midvale, Taylorsville, Cottonwood Heights, Holladay, Draper, Riverton, Farmington, Centerville",
+      "@type": "City"
     }
   ],
+  "description": "Just Work Comp Law is a top-rated workers' compensation law firm dedicated to helping injured workers in Utah and Idaho secure larger settlements, receive better service, and achieve faster results. They specialize exclusively in workers' compensation cases, ensuring focused expertise and zero out-of-pocket costs for their clients.",
   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
     "name": "Just Work Comp Law Services",
+    "@type": "OfferCatalog",
     "itemListElement": [
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Workplace injury"
+          "name": "Workplace injury",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "On-the-job accident"
+          "name": "On-the-job accident",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Slip and fall at work"
+          "name": "Slip and fall at work",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Injured at work"
+          "name": "Injured at work",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Work injury claim"
+          "name": "Work injury claim",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Fall from ladder on job"
+          "name": "Fall from ladder on job",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Machine accident work injury"
+          "name": "Machine accident work injury",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Exposure to chemicals at work"
+          "name": "Exposure to chemicals at work",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Workplace respiratory exposure"
+          "name": "Workplace respiratory exposure",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Workplace Noise Hearing Loss"
+          "name": "Workplace Noise Hearing Loss",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Occupational illness"
+          "name": "Occupational illness",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Forklift accident on job"
+          "name": "Forklift accident on job",
+          "@type": "Service"
         }
       }
     ]

@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need a lawyer for my workplace chemical inhalation claim?",
-  "description": "Yes, they increase success; no upfront fees.",
   "url": "https://justworkcomplaw.com/faq/general-do-i-need-a-lawyer-for-my-workplace-chemical-inhalation-claim-185",
+  "name": "Do I need a lawyer for my workplace chemical inhalation claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Do I need a lawyer for my workplace chemical inhalation claim?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, they increase success; no upfront fees.",
+        "@type": "Answer",
         "description": "**Yes, highly recommended for proper filing, evidence, and maximizing benefits.**\n\nClaims often disputed on causation; lawyers boost approval/settlement rates[2][3]. Free consults common, paid from award.\n\n- Handle appeals, negotiations.\n- Spot third-party claims.\n- No upfront cost in comp.\n\nComplex proof makes representation essential; self-filing risks denial. Experienced counsel key[1][2]."
       }
     }
-  ]
+  ],
+  "description": "Yes, they increase success; no upfront fees."
 }

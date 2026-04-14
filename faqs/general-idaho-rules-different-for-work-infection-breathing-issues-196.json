@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Idaho rules different for work infection breathing issues?",
-  "description": "1-yr limit; prove work link.",
   "url": "https://justworkcomplaw.com/faq/general-idaho-rules-different-for-work-infection-breathing-issues-196",
+  "name": "Idaho rules different for work infection breathing issues?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Idaho rules different for work infection breathing issues?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "1-yr limit; prove work link.",
+        "@type": "Answer",
         "description": "**Similar workers' comp, but file with Industrial Commission; 1-year notice.**\n\nCovers exposures like infections; prove nexus[10][2].\n\n- 60 days employer notice.\n- Medical causation.\n- No-fault benefits.\n\nCheck state specifics; lawyer knows variances. Standard process[10]."
       }
     }
-  ]
+  ],
+  "description": "1-yr limit; prove work link."
 }

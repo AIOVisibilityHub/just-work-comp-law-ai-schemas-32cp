@@ -1,14 +1,14 @@
 {
-  "@context": "https://schema.org",
-  "@type": "HowTo",
   "name": "How to Get Your Employer to Pay for Hearing Aids",
-  "description": "How to Get Your Employer to Pay for Hearing Aids - Boise, West Valley City, West Jordan, Sandy, Murray, Millcreek, South Salt Lake, North Salt Lake, Bountiful, Midvale, Taylorsville, Cottonwood Heights, Holladay, Draper, Riverton, Farmington, Centerville",
   "step": [
     {
-      "@type": "HowToStep",
-      "position": 1,
       "name": "Step 1",
-      "text": "Getting hearing aids through workers' comp starts with an official audiogram from a specialist. Don't rely on the quick screening your job provides; get an independent evaluation. You must show the loss happened due to cumulative noise at work. If the insurance adjuster keeps 'forgetting' to authorize your devices, give us a call at 801-746-0290. We’ll help you cut through the red tape."
+      "text": "Getting hearing aids through workers' comp starts with an official audiogram from a specialist. Don't rely on the quick screening your job provides; get an independent evaluation. You must show the loss happened due to cumulative noise at work. If the insurance adjuster keeps 'forgetting' to authorize your devices, give us a call at 801-746-0290. We’ll help you cut through the red tape.",
+      "@type": "HowToStep",
+      "position": 1
     }
-  ]
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "description": "How to Get Your Employer to Pay for Hearing Aids - Boise, West Valley City, West Jordan, Sandy, Murray, Millcreek, South Salt Lake, North Salt Lake, Bountiful, Midvale, Taylorsville, Cottonwood Heights, Holladay, Draper, Riverton, Farmington, Centerville"
 }

@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Slip at work in Millcreek, government building—different rules?",
-  "description": "Comp primary + 1-year gov notice.",
   "url": "https://justworkcomplaw.com/faq/general-slip-at-work-in-millcreek-government-building-different-rules-73",
+  "name": "Slip at work in Millcreek, government building—different rules?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Slip at work in Millcreek, government building—different rules?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Comp primary + 1-year gov notice.",
+        "@type": "Answer",
         "description": "**Yes, file notice within 1 year for public employer claims alongside comp.** Strict deadlines in Utah.[1] Key factors: (1) Governmental Immunity Act; (2) Comp still primary; (3) Waiver for negligence. Comply exactly. Attorney handles dual filing."
       }
     }
-  ]
+  ],
+  "description": "Comp primary + 1-year gov notice."
 }

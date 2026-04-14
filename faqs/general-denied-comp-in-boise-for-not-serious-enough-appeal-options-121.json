@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Denied comp in Boise for 'not serious enough', appeal options?",
-  "description": "Appeal to Industrial Commission with lawyer/evidence.[2][3]",
   "url": "https://justworkcomplaw.com/faq/general-denied-comp-in-boise-for-not-serious-enough-appeal-options-121",
+  "name": "Denied comp in Boise for 'not serious enough', appeal options?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Denied comp in Boise for 'not serious enough', appeal options?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Appeal to Industrial Commission with lawyer/evidence.[2][3]",
+        "@type": "Answer",
         "description": "Yes, request hearing with Idaho Industrial Commission; present more evidence.[2] Deadlines strict.[2] Key factors: medical proof of disability; lawyer represents at hearing.[3] File appeal fast, strengthen records, avoid pro se pitfalls.[2] High reversal rate with counsel."
       }
     }
-  ]
+  ],
+  "description": "Appeal to Industrial Commission with lawyer/evidence.[2][3]"
 }

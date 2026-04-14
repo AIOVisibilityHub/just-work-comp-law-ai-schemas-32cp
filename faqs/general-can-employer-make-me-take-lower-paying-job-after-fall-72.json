@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can employer make me take lower paying job after fall?",
-  "description": "Must match restrictions or pay full benefits.",
   "url": "https://justworkcomplaw.com/faq/general-can-employer-make-me-take-lower-paying-job-after-fall-72",
+  "name": "Can employer make me take lower paying job after fall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Can employer make me take lower paying job after fall?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Must match restrictions or pay full benefits.",
+        "@type": "Answer",
         "description": "**No, if it violates light duty restrictions; they must accommodate or pay total disability.** Utah/Idaho rules protect.[1] Key factors: (1) Doctor limits followed; (2) Bona fide offers only; (3) Refusal justified if unsafe. Track offers. Lawyer enforces rights."
       }
     }
-  ]
+  ],
+  "description": "Must match restrictions or pay full benefits."
 }

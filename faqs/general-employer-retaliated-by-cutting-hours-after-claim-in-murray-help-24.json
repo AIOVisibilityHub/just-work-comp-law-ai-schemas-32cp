@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Employer retaliated by cutting hours after claim in Murray, help?",
-  "description": "Report retaliation—protected activity[4].",
   "url": "https://justworkcomplaw.com/faq/general-employer-retaliated-by-cutting-hours-after-claim-in-murray-help-24",
+  "name": "Employer retaliated by cutting hours after claim in Murray, help?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Employer retaliated by cutting hours after claim in Murray, help?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Report retaliation—protected activity[4].",
+        "@type": "Answer",
         "description": "**File retaliation complaint with Labor Commission—illegal.** Document reductions[4]. **Key factors:** Timing proves link. **Practical guidance:** Gather pay records, report formally. Lawyer assists. **Restoration often ordered.**"
       }
     }
-  ]
+  ],
+  "description": "Report retaliation—protected activity[4]."
 }

@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "In Utah, how long do I have to file for work hearing damage?",
-  "description": "1 year from last exposure.[3]",
   "url": "https://justworkcomplaw.com/faq/general-in-utah-how-long-do-i-have-to-file-for-work-hearing-damage-207",
+  "name": "In Utah, how long do I have to file for work hearing damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "In Utah, how long do I have to file for work hearing damage?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "1 year from last exposure.[3]",
+        "@type": "Answer",
         "description": "You have 1 year from the last significant noise exposure for occupational hearing loss claims.[3] Context: Utah Workers’ Compensation Act treats NIHL as occupational disease with short SOL for employer protection.[3] Key factors: Date of final injurious exposure, not diagnosis; appeals may extend.[3] Practical guidance: Track exposure end date, file with Utah Labor Commission immediately after audiogram; consult attorney to avoid missing deadline.[3][7] Precision timing is critical."
       }
     }
-  ]
+  ],
+  "description": "1 year from last exposure.[3]"
 }

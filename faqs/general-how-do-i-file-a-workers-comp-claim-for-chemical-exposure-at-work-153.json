@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I file a workers comp claim for chemical exposure at work?",
-  "description": "Notify employer in writing, get medical eval, submit claim form; document exposure details[3][6].",
   "url": "https://justworkcomplaw.com/faq/general-how-do-i-file-a-workers-comp-claim-for-chemical-exposure-at-work-153",
+  "name": "How do I file a workers comp claim for chemical exposure at work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "How do I file a workers comp claim for chemical exposure at work?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Notify employer in writing, get medical eval, submit claim form; document exposure details[3][6].",
+        "@type": "Answer",
         "description": "**Report the exposure to your employer in writing within 30 days (varies by state), then file a formal claim form.** Detail the incident, chemicals, symptoms, and witnesses; employer sends to insurer[3][6]. OSHA requires safe handling, and failure supports your claim[1]. **Key factors:** Medical proof of exposure/dose via tests or hygienist inspection[2]; safety data sheets identify hazards[2]. **Practical guidance:** See a doctor ASAP, request workplace tests, keep all records. If denied, appeal with attorney help. **Claims process ensures benefits but needs strong documentation.**"
       }
     }
-  ]
+  ],
+  "description": "Notify employer in writing, get medical eval, submit claim form; document exposure details[3][6]."
 }

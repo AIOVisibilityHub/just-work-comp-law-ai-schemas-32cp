@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I get paid for missed work from injury in Riverton Utah?",
-  "description": "Yes, 2/3 wages while disabled.[1]",
   "url": "https://justworkcomplaw.com/faq/general-do-i-get-paid-for-missed-work-from-injury-in-riverton-utah-97",
+  "name": "Do I get paid for missed work from injury in Riverton Utah?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Do I get paid for missed work from injury in Riverton Utah?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, 2/3 wages while disabled.[1]",
+        "@type": "Answer",
         "description": "Yes, temporary total disability pays ~2/3 average weekly wage tax-free while off.[1] Covers until max medical improvement.[1] Key factors: Doctor restricts work; prove wage loss; max benefits vary by state caps.[5] Practical guidance: Submit wage stubs, attend therapy, log lost shifts. Settlements lump-sum later."
       }
     }
-  ]
+  ],
+  "description": "Yes, 2/3 wages while disabled.[1]"
 }

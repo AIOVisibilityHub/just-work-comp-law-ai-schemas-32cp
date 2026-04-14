@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "My cancer showed up years after work chemicals - can I still claim?",
-  "description": "Yes, file when diagnosed; prove work link[2].",
   "url": "https://justworkcomplaw.com/faq/general-my-cancer-showed-up-years-after-work-chemicals-can-i-still-claim-159",
+  "name": "My cancer showed up years after work chemicals - can I still claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "My cancer showed up years after work chemicals - can I still claim?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, file when diagnosed; prove work link[2].",
+        "@type": "Answer",
         "description": "**Yes, for occupational diseases, claims allowed when diagnosed if linked to past exposure.** Statutes extend for latency (e.g., 6 years Utah)[2][6]. **Key factors:** Prove dose via records, expert causation[2]. **Practical guidance:** Get oncology records tying to work chemicals, file promptly. Attorney handles latency issues. **Delayed onset common in toxics.**"
       }
     }
-  ]
+  ],
+  "description": "Yes, file when diagnosed; prove work link[2]."
 }
