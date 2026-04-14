@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/forklift-accident-on-job-can-i-sue-my-employer-for-a-forklift-accident-in-west-valley-city-ut-if-they-wer-276",
+  "name": "Can You Sue Employer for Forklift Accident in West Valley City?",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Can I sue my employer for a forklift accident in West Valley City UT if they were negligent?",
     "text": "Can I sue my employer for a forklift accident in West Valley City UT if they were negligent?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Generally no—Utah workers' comp is exclusive remedy barring intentional acts or employer fraud. Third-party suits possible against equipment makers or other drivers if negligence caused accident.",
+      "@type": "Answer",
       "upvoteCount": 4
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Workers' comp exclusivity protects employers from lawsuits for job injuries like forklift tip-overs. Exceptions rare (e.g., assault by employer). Pursue third-party claims separately for extra damages (pain/suffering). In West Valley City's industrial zones, faulty pallet jacks or untrained spotters often create manufacturer liability—dual representation maximizes recovery."
+        "text": "Workers' comp exclusivity protects employers from lawsuits for job injuries like forklift tip-overs. Exceptions rare (e.g., assault by employer). Pursue third-party claims separately for extra damages (pain/suffering). In West Valley City's industrial zones, faulty pallet jacks or untrained spotters often create manufacturer liability—dual representation maximizes recovery.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Can You Sue Employer for Forklift Accident in West Valley City?",
-  "description": "Generally no—Utah workers' comp is exclusive remedy barring intentional acts or employer fraud. Third-party suits possible against equipment makers or other dri",
-  "url": "https://justworkcomplaw.com/qna/forklift-accident-on-job-can-i-sue-my-employer-for-a-forklift-accident-in-west-valley-city-ut-if-they-wer-276"
+  "description": "Generally no—Utah workers' comp is exclusive remedy barring intentional acts or employer fraud. Third-party suits possible against equipment makers or other dri"
 }

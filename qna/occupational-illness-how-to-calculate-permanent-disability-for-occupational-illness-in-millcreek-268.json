@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/occupational-illness-how-to-calculate-permanent-disability-for-occupational-illness-in-millcreek-268",
+  "name": "Calculating Permanent Disability Ratings",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "How to calculate permanent disability for occupational illness in Millcreek?",
     "text": "How to calculate permanent disability for occupational illness in Millcreek?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Millcreek occupational disability uses AMA Guides ratings by approved physicians, converted to % whole person for indemnity.[5]",
+      "@type": "Answer",
       "upvoteCount": 3
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Lung capacity or range-of-motion yields ratings. Insurers undervalue; appeal to ALJ. Murray rating clinics specialize.[5]"
+        "text": "Lung capacity or range-of-motion yields ratings. Insurers undervalue; appeal to ALJ. Murray rating clinics specialize.[5]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Calculating Permanent Disability Ratings",
-  "description": "Millcreek occupational disability uses AMA Guides ratings by approved physicians, converted to % whole person for indemnity.[5]",
-  "url": "https://justworkcomplaw.com/qna/occupational-illness-how-to-calculate-permanent-disability-for-occupational-illness-in-millcreek-268"
+  "description": "Millcreek occupational disability uses AMA Guides ratings by approved physicians, converted to % whole person for indemnity.[5]"
 }

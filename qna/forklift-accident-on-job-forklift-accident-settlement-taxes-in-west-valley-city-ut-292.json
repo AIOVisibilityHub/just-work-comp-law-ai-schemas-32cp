@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/forklift-accident-on-job-forklift-accident-settlement-taxes-in-west-valley-city-ut-292",
+  "name": "Are Forklift Settlements Taxed West Valley City?",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Forklift accident settlement taxes in West Valley City UT?",
     "text": "Forklift accident settlement taxes in West Valley City UT?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Comp benefits tax-free; third-party pain/suffering taxable. Attorney fees deductible.",
+      "@type": "Answer",
       "upvoteCount": 3
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Structure West Valley settlements tax-efficient. IRS audits large PI; consult CPA post-attorney."
+        "text": "Structure West Valley settlements tax-efficient. IRS audits large PI; consult CPA post-attorney.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Are Forklift Settlements Taxed West Valley City?",
-  "description": "Comp benefits tax-free; third-party pain/suffering taxable. Attorney fees deductible.",
-  "url": "https://justworkcomplaw.com/qna/forklift-accident-on-job-forklift-accident-settlement-taxes-in-west-valley-city-ut-292"
+  "description": "Comp benefits tax-free; third-party pain/suffering taxable. Attorney fees deductible."
 }

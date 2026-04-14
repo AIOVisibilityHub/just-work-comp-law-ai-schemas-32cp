@@ -1,14 +1,14 @@
 {
-  "@context": "https://schema.org",
-  "@type": "HowTo",
   "name": "The First Step to Getting Your Hearing Aids Paid for by Work",
-  "description": "The First Step to Getting Your Hearing Aids Paid for by Work - Boise, West Valley City, West Jordan, Sandy, Murray, Millcreek, South Salt Lake, North Salt Lake, Bountiful, Midvale, Taylorsville, Cottonwood Heights, Holladay, Draper, Riverton, Farmington, Centerville",
   "step": [
     {
-      "@type": "HowToStep",
-      "position": 1,
       "name": "Step 1",
-      "text": "Getting hearing aids through workers' comp starts with three steps. First, file a formal notice of injury even if there wasn't one \"loud bang.\" Next, get an audiogram to baseline your loss. Finally, make sure the doctor notes that your work environment contributed to the damage. It can be a bureaucratic mess, so having an expert on your side helps speed things up significantly."
+      "text": "Getting hearing aids through workers' comp starts with three steps. First, file a formal notice of injury even if there wasn't one \"loud bang.\" Next, get an audiogram to baseline your loss. Finally, make sure the doctor notes that your work environment contributed to the damage. It can be a bureaucratic mess, so having an expert on your side helps speed things up significantly.",
+      "@type": "HowToStep",
+      "position": 1
     }
-  ]
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "description": "The First Step to Getting Your Hearing Aids Paid for by Work - Boise, West Valley City, West Jordan, Sandy, Murray, Millcreek, South Salt Lake, North Salt Lake, Bountiful, Midvale, Taylorsville, Cottonwood Heights, Holladay, Draper, Riverton, Farmington, Centerville"
 }

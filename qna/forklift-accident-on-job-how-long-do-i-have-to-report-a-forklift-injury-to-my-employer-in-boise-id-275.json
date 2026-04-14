@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/forklift-accident-on-job-how-long-do-i-have-to-report-a-forklift-injury-to-my-employer-in-boise-id-275",
+  "name": "Forklift Injury Reporting Deadlines in Boise ID",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "How long do I have to report a forklift injury to my employer in Boise ID?",
     "text": "How long do I have to report a forklift injury to my employer in Boise ID?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Idaho requires reporting workplace injuries like forklift accidents to your employer within 60 days; claims must be filed with Idaho Industrial Commission within 1 year. Late reports risk denial of benefits including medical and wage loss.",
+      "@type": "Answer",
       "upvoteCount": 5
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Prompt reporting preserves your right to medical care, temporary disability (2/3 wages), and impairment benefits. Boise employers in logistics often contest claims; document everything with photos, witnesses. Idaho surety bond system means carriers may minimize payouts—attorney ensures full TTD, PPD, and rehab benefits without gaps."
+        "text": "Prompt reporting preserves your right to medical care, temporary disability (2/3 wages), and impairment benefits. Boise employers in logistics often contest claims; document everything with photos, witnesses. Idaho surety bond system means carriers may minimize payouts—attorney ensures full TTD, PPD, and rehab benefits without gaps.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Forklift Injury Reporting Deadlines in Boise ID",
-  "description": "Idaho requires reporting workplace injuries like forklift accidents to your employer within 60 days; claims must be filed with Idaho Industrial Commission withi",
-  "url": "https://justworkcomplaw.com/qna/forklift-accident-on-job-how-long-do-i-have-to-report-a-forklift-injury-to-my-employer-in-boise-id-275"
+  "description": "Idaho requires reporting workplace injuries like forklift accidents to your employer within 60 days; claims must be filed with Idaho Industrial Commission withi"
 }

@@ -1,14 +1,14 @@
 {
-  "@context": "https://schema.org",
-  "@type": "HowTo",
   "name": "First Steps to Take After Your Workplace Injury",
-  "description": "First Steps to Take After Your Workplace Injury - Murray",
   "step": [
     {
-      "@type": "HowToStep",
-      "position": 1,
       "name": "Step 1",
-      "text": "Got hurt on the clock? First, tell your supervisor immediately—even if it seems minor. Next, head to a doctor and be crystal clear that this happened at work so it's documented right. Finally, keep track of every form you sign. If the paperwork starts feeling like a mountain, that's when you give us a shout at 801-746-0290 to handle the heavy lifting."
+      "text": "Got hurt on the clock? First, tell your supervisor immediately—even if it seems minor. Next, head to a doctor and be crystal clear that this happened at work so it's documented right. Finally, keep track of every form you sign. If the paperwork starts feeling like a mountain, that's when you give us a shout at 801-746-0290 to handle the heavy lifting.",
+      "@type": "HowToStep",
+      "position": 1
     }
-  ]
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "description": "First Steps to Take After Your Workplace Injury - Murray"
 }

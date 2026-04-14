@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/occupational-illness-attorney-contingency-fees-for-idaho-occupational-illness-claims-271",
+  "name": "Idaho Occupational Illness Lawyer Fees",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Attorney contingency fees for Idaho occupational illness claims?",
     "text": "Attorney contingency fees for Idaho occupational illness claims?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Idaho caps fees at 25% for disputed occupational claims, court-approved from benefits.[1]",
+      "@type": "Answer",
       "upvoteCount": 2
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Boise standards align Utah. No win, no fee. Cross-state Murray firms disclose splits.[1]"
+        "text": "Boise standards align Utah. No win, no fee. Cross-state Murray firms disclose splits.[1]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Idaho Occupational Illness Lawyer Fees",
-  "description": "Idaho caps fees at 25% for disputed occupational claims, court-approved from benefits.[1]",
-  "url": "https://justworkcomplaw.com/qna/occupational-illness-attorney-contingency-fees-for-idaho-occupational-illness-claims-271"
+  "description": "Idaho caps fees at 25% for disputed occupational claims, court-approved from benefits.[1]"
 }

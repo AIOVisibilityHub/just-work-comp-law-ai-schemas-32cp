@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "What If My Hearing Loss Happened Slowly Over Ten Years?",
     "text": "What If My Hearing Loss Happened Slowly Over Ten Years?",
+    "@type": "Question",
     "answerCount": 1,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Worried that your hearing loss took years to develop? You can still file. Most noise-induced hearing loss happens slowly, and Utah law accounts for this \"cumulative trauma.\" You don't need a single accident to qualify. As long as we can show the workplace was the cause, you have a case. Give us a ring at 801-746-0290 if you're in Boise or the SLC area and need help filing.",
+      "@type": "Answer",
       "author": {
-        "@type": "Organization",
-        "name": "Just Work Comp Law"
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
       }
     }
   }

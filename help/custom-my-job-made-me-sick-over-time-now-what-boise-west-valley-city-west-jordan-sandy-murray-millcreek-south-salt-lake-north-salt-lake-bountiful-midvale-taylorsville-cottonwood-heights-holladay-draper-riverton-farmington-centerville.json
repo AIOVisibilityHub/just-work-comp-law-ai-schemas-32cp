@@ -1,15 +1,15 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "My Job Made Me Sick Over Time, Now What?",
   "author": {
-    "@type": "Organization",
-    "name": "Just Work Comp Law"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Just Work Comp Law",
-    "url": "https://justworkcomplaw.com"
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Job Made Me Sick Over Time, Now What?",
+  "publisher": {
+    "url": "https://justworkcomplaw.com",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
   },
   "articleBody": "Getting sick from your job over years is just as valid as a sudden injury. First, track when your symptoms started compared to your work duties. Then, get a medical opinion linking the two. Since these claims are tricky with insurance, having a pro look at your file early helps avoid a quick denial. Need a hand? Give us a call at 801-746-0290.",
   "datePublished": "2026-04-14"

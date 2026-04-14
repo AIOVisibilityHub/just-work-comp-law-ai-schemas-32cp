@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/occupational-illness-steps-to-file-occupational-illness-claim-in-taylorsville-online-272",
+  "name": "Online Filing for Taylorsville Claims",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Steps to file occupational illness claim in Taylorsville online?",
     "text": "Steps to file occupational illness claim in Taylorsville online?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "File Taylorsville claims via Utah Labor Commission portal: submit Form 100, medicals, exposure history.[5]",
+      "@type": "Answer",
       "upvoteCount": 3
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Online system requires employer info, diagnosis. Fast-track undisputed. Holladay help available.[5]"
+        "text": "Online system requires employer info, diagnosis. Fast-track undisputed. Holladay help available.[5]",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Online Filing for Taylorsville Claims",
-  "description": "File Taylorsville claims via Utah Labor Commission portal: submit Form 100, medicals, exposure history.[5]",
-  "url": "https://justworkcomplaw.com/qna/occupational-illness-steps-to-file-occupational-illness-claim-in-taylorsville-online-272"
+  "description": "File Taylorsville claims via Utah Labor Commission portal: submit Form 100, medicals, exposure history.[5]"
 }

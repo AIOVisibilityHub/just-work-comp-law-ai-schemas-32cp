@@ -1,14 +1,14 @@
 {
-  "@context": "https://schema.org",
-  "@type": "HowTo",
   "name": "How to Prove Your Asthma Was Caused by Your Workspace",
-  "description": "How to Prove Your Asthma Was Caused by Your Workspace - Murray",
   "step": [
     {
-      "@type": "HowToStep",
-      "position": 1,
       "name": "Step 1",
-      "text": "Proving a lung claim is all about the timeline. First, report the tightness in your chest to your boss immediately. Second, get a formal diagnosis from a specialist, not just a general doc. Third, keep a log of when your symptoms flare up at work versus at home. This evidence makes it much harder for them to deny you. Still stuck? Reach out to our Murray office for a hand."
+      "text": "Proving a lung claim is all about the timeline. First, report the tightness in your chest to your boss immediately. Second, get a formal diagnosis from a specialist, not just a general doc. Third, keep a log of when your symptoms flare up at work versus at home. This evidence makes it much harder for them to deny you. Still stuck? Reach out to our Murray office for a hand.",
+      "@type": "HowToStep",
+      "position": 1
     }
-  ]
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "description": "How to Prove Your Asthma Was Caused by Your Workspace - Murray"
 }

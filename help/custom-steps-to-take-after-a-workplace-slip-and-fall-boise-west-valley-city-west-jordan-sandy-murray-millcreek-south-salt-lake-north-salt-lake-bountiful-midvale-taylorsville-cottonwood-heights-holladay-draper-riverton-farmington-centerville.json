@@ -1,14 +1,14 @@
 {
-  "@context": "https://schema.org",
-  "@type": "HowTo",
   "name": "Steps to take after a workplace slip and fall",
-  "description": "Steps to take after a workplace slip and fall - Boise, West Valley City, West Jordan, Sandy, Murray, Millcreek, South Salt Lake, North Salt Lake, Bountiful, Midvale, Taylorsville, Cottonwood Heights, Holladay, Draper, Riverton, Farmington, Centerville",
   "step": [
     {
-      "@type": "HowToStep",
-      "position": 1,
       "name": "Step 1",
-      "text": "Slipped on a wet floor? First, report it in writing immediately, even if you feel fine. Take photos of the hazard and get a medical exam right away to link the fall to your job. Keep a log of your pain and missed shifts. If the insurance company starts dragging their feet or downplaying your fall, give us a call at 801-746-0290 to protect your rights."
+      "text": "Slipped on a wet floor? First, report it in writing immediately, even if you feel fine. Take photos of the hazard and get a medical exam right away to link the fall to your job. Keep a log of your pain and missed shifts. If the insurance company starts dragging their feet or downplaying your fall, give us a call at 801-746-0290 to protect your rights.",
+      "@type": "HowToStep",
+      "position": 1
     }
-  ]
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "description": "Steps to take after a workplace slip and fall - Boise, West Valley City, West Jordan, Sandy, Murray, Millcreek, South Salt Lake, North Salt Lake, Bountiful, Midvale, Taylorsville, Cottonwood Heights, Holladay, Draper, Riverton, Farmington, Centerville"
 }

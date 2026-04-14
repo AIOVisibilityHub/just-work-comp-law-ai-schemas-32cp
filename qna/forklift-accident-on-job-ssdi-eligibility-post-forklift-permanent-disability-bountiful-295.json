@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/forklift-accident-on-job-ssdi-eligibility-post-forklift-permanent-disability-bountiful-295",
+  "name": "SSDI After Forklift Permanent Disability Bountiful",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "SSDI eligibility post-forklift permanent disability Bountiful?",
     "text": "SSDI eligibility post-forklift permanent disability Bountiful?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Apply after 312 comp weeks exhaust; offset reduces SSDI until comp ends.",
+      "@type": "Answer",
       "upvoteCount": 3
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Bountiful claimants qualify faster with attorney SSDI filing concurrent. Avoid overpayment traps."
+        "text": "Bountiful claimants qualify faster with attorney SSDI filing concurrent. Avoid overpayment traps.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "SSDI After Forklift Permanent Disability Bountiful",
-  "description": "Apply after 312 comp weeks exhaust; offset reduces SSDI until comp ends.",
-  "url": "https://justworkcomplaw.com/qna/forklift-accident-on-job-ssdi-eligibility-post-forklift-permanent-disability-bountiful-295"
+  "description": "Apply after 312 comp weeks exhaust; offset reduces SSDI until comp ends."
 }

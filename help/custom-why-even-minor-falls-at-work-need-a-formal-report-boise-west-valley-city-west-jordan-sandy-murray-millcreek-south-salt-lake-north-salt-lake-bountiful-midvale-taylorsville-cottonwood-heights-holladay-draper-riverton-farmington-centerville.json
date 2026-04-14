@@ -1,15 +1,15 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Why even minor falls at work need a formal report",
   "author": {
-    "@type": "Organization",
-    "name": "Just Work Comp Law"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Just Work Comp Law",
-    "url": "https://justworkcomplaw.com"
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why even minor falls at work need a formal report",
+  "publisher": {
+    "url": "https://justworkcomplaw.com",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
   },
   "articleBody": "A 'simple' trip at work can cause long-term back or knee issues that don't show up immediately. Don't let your boss talk you out of filing a report just because you walked away. Insurance adjusters love it when you wait to seek help because they can claim it happened elsewhere. Getting an expert on your side early ensures your future medical needs are covered.",
   "datePublished": "2026-04-14"

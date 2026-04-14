@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/forklift-accident-on-job-can-i-get-comp-if-forklift-accident-during-break-in-sandy-ut-293",
+  "name": "Comp During Break Forklift Injury Sandy UT",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Can I get comp if forklift accident during break in Sandy UT?",
     "text": "Can I get comp if forklift accident during break in Sandy UT?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Yes if on premises and injury arises from/employment. 'Premises rule' covers breaks.",
+      "@type": "Answer",
       "upvoteCount": 4
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Sandy warehouses broad lots qualify. Prove via time clock, CCTV. Insurers argue deviation—witnesses key."
+        "text": "Sandy warehouses broad lots qualify. Prove via time clock, CCTV. Insurers argue deviation—witnesses key.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Comp During Break Forklift Injury Sandy UT",
-  "description": "Yes if on premises and injury arises from/employment. 'Premises rule' covers breaks.",
-  "url": "https://justworkcomplaw.com/qna/forklift-accident-on-job-can-i-get-comp-if-forklift-accident-during-break-in-sandy-ut-293"
+  "description": "Yes if on premises and injury arises from/employment. 'Premises rule' covers breaks."
 }

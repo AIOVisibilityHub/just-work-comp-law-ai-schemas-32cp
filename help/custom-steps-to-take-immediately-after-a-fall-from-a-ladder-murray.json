@@ -1,14 +1,14 @@
 {
-  "@context": "https://schema.org",
-  "@type": "HowTo",
   "name": "Steps to Take Immediately After a Fall from a Ladder",
-  "description": "Steps to Take Immediately After a Fall from a Ladder - Murray",
   "step": [
     {
-      "@type": "HowToStep",
-      "position": 1,
       "name": "Step 1",
-      "text": "Falling from a height is serious business. First, get medical attention even if you think you’re \"fine\"—internal injuries show up later. Second, take photos of the ladder and the area where you fell before anything is moved. Third, identify any coworkers who saw what happened. These steps build a solid foundation for your claim. If the insurer starts acting tough, we can take over."
+      "text": "Falling from a height is serious business. First, get medical attention even if you think you’re \"fine\"—internal injuries show up later. Second, take photos of the ladder and the area where you fell before anything is moved. Third, identify any coworkers who saw what happened. These steps build a solid foundation for your claim. If the insurer starts acting tough, we can take over.",
+      "@type": "HowToStep",
+      "position": 1
     }
-  ]
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "description": "Steps to Take Immediately After a Fall from a Ladder - Murray"
 }

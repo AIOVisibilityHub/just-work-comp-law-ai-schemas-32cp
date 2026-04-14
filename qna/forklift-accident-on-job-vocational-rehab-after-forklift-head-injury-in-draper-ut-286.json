@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/forklift-accident-on-job-vocational-rehab-after-forklift-head-injury-in-draper-ut-286",
+  "name": "Voc Rehab for Forklift Head Injuries Draper",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Vocational rehab after forklift head injury in Draper UT?",
     "text": "Vocational rehab after forklift head injury in Draper UT?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Utah comp funds retraining if injury prevents forklift/warehouse return; up to 312 weeks total disability during program.",
+      "@type": "Answer",
       "upvoteCount": 4
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "TBI from Draper pallet strikes qualifies for counselor assessment, tuition. Insurers resist; prove via functional capacity eval. Retrain for desk roles boosts settlement."
+        "text": "TBI from Draper pallet strikes qualifies for counselor assessment, tuition. Insurers resist; prove via functional capacity eval. Retrain for desk roles boosts settlement.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Voc Rehab for Forklift Head Injuries Draper",
-  "description": "Utah comp funds retraining if injury prevents forklift/warehouse return; up to 312 weeks total disability during program.",
-  "url": "https://justworkcomplaw.com/qna/forklift-accident-on-job-vocational-rehab-after-forklift-head-injury-in-draper-ut-286"
+  "description": "Utah comp funds retraining if injury prevents forklift/warehouse return; up to 312 weeks total disability during program."
 }

@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/forklift-accident-on-job-child-support-impact-from-lost-wages-after-forklift-injury-murray-ut-294",
+  "name": "Child Support After Forklift Wage Loss Murray",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Child support impact from lost wages after forklift injury Murray UT?",
     "text": "Child support impact from lost wages after forklift injury Murray UT?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Comp TTD counts as income; arrears pause during total disability. Notify CSE.",
+      "@type": "Answer",
       "upvoteCount": 3
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Murray courts impute pre-injury wages sometimes. Affidavit of disability protects license."
+        "text": "Murray courts impute pre-injury wages sometimes. Affidavit of disability protects license.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Child Support After Forklift Wage Loss Murray",
-  "description": "Comp TTD counts as income; arrears pause during total disability. Notify CSE.",
-  "url": "https://justworkcomplaw.com/qna/forklift-accident-on-job-child-support-impact-from-lost-wages-after-forklift-injury-murray-ut-294"
+  "description": "Comp TTD counts as income; arrears pause during total disability. Notify CSE."
 }

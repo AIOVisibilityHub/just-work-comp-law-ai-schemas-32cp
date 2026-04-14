@@ -1,14 +1,14 @@
 {
-  "@context": "https://schema.org",
-  "@type": "HowTo",
   "name": "What to do immediately after getting injured at work",
-  "description": "What to do immediately after getting injured at work - Murray",
   "step": [
     {
-      "@type": "HowToStep",
-      "position": 1,
       "name": "Step 1",
-      "text": "Got hurt on the clock? Start by telling your supervisor exactly what happened and getting it on record. Next, head to a doctor and tell them it's a work injury so the billing is handled correctly. Lastly, keep copies of everything you sign. If the paperwork starts feeling overwhelming or your claim gets denied, we can step in to handle the heavy lifting for you."
+      "text": "Got hurt on the clock? Start by telling your supervisor exactly what happened and getting it on record. Next, head to a doctor and tell them it's a work injury so the billing is handled correctly. Lastly, keep copies of everything you sign. If the paperwork starts feeling overwhelming or your claim gets denied, we can step in to handle the heavy lifting for you.",
+      "@type": "HowToStep",
+      "position": 1
     }
-  ]
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "description": "What to do immediately after getting injured at work - Murray"
 }

@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Can I Get Benefits if the Accident Was My Fault?",
     "text": "Can I Get Benefits if the Accident Was My Fault?",
+    "@type": "Question",
     "answerCount": 1,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "A: Usually, yes! Workers' comp is \"no-fault,\" meaning as long as you weren't intoxicated or breaking safety rules on purpose, you're likely covered. Don't let a simple mistake stop you from getting medical care. If the insurance company tries to use 'fault' to deny your claim, call us at 801-746-0290. We'll help clarify the \"no-fault\" rules for your specific case.",
+      "@type": "Answer",
       "author": {
-        "@type": "Organization",
-        "name": "Just Work Comp Law"
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
       }
     }
   }

@@ -1,15 +1,15 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "What to Do When Chemicals at Work Make It Hard to Breathe",
   "author": {
-    "@type": "Organization",
-    "name": "Just Work Comp Law"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Just Work Comp Law",
-    "url": "https://justworkcomplaw.com"
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Do When Chemicals at Work Make It Hard to Breathe",
+  "publisher": {
+    "url": "https://justworkcomplaw.com",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
   },
   "articleBody": "It’s scary when you can’t catch your breath after a shift. Document every chemical or dust cloud you encounter, as these details are gold for your claim. See a doctor right away to link your symptoms to the site. If the insurance company starts dragging their feet or blaming your past habits, give us a call at 801-746-0290 to protect your rights.",
   "datePublished": "2026-04-14"

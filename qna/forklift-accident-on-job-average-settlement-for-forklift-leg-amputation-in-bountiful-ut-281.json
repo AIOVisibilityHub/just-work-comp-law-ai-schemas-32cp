@@ -1,24 +1,24 @@
 {
-  "@context": "https://schema.org",
+  "url": "https://justworkcomplaw.com/qna/forklift-accident-on-job-average-settlement-for-forklift-leg-amputation-in-bountiful-ut-281",
+  "name": "Forklift Leg Amputation Settlements Bountiful UT",
   "@type": "QAPage",
+  "@context": "https://schema.org",
   "mainEntity": {
-    "@type": "Question",
     "name": "Average settlement for forklift leg amputation in Bountiful UT?",
     "text": "Average settlement for forklift leg amputation in Bountiful UT?",
+    "@type": "Question",
     "answerCount": 2,
     "acceptedAnswer": {
-      "@type": "Answer",
       "text": "Utah scheduled loss: full leg below knee ~200 weeks x $800+ weekly rate = $160K+ base, plus medical/lost wages. Actual averages $250K-$500K with attorney.",
+      "@type": "Answer",
       "upvoteCount": 4
     },
     "suggestedAnswer": [
       {
-        "@type": "Answer",
-        "text": "Amputations from runaway forklifts trigger high PPD awards but insurers lowball life impacts. Bountiful cases add prosthetics/retraining costs. Expert testimony boosts value; settlements rise 2-3x without lawyer per Utah stats."
+        "text": "Amputations from runaway forklifts trigger high PPD awards but insurers lowball life impacts. Bountiful cases add prosthetics/retraining costs. Expert testimony boosts value; settlements rise 2-3x without lawyer per Utah stats.",
+        "@type": "Answer"
       }
     ]
   },
-  "name": "Forklift Leg Amputation Settlements Bountiful UT",
-  "description": "Utah scheduled loss: full leg below knee ~200 weeks x $800+ weekly rate = $160K+ base, plus medical/lost wages. Actual averages $250K-$500K with attorney.",
-  "url": "https://justworkcomplaw.com/qna/forklift-accident-on-job-average-settlement-for-forklift-leg-amputation-in-bountiful-ut-281"
+  "description": "Utah scheduled loss: full leg below knee ~200 weeks x $800+ weekly rate = $160K+ base, plus medical/lost wages. Actual averages $250K-$500K with attorney."
 }

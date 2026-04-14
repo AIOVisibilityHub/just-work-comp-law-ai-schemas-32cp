@@ -1,15 +1,15 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Getting a Better Doctor After a Job Site Accident",
   "author": {
-    "@type": "Organization",
-    "name": "Just Work Comp Law"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Just Work Comp Law",
-    "url": "https://justworkcomplaw.com"
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Getting a Better Doctor After a Job Site Accident",
+  "publisher": {
+    "url": "https://justworkcomplaw.com",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
   },
   "articleBody": "When you're hurt on site, the insurance company often picks the doctor. But what if they don't take your pain seriously? You deserve a second opinion. In many cases, you have the right to request a change, but the rules are tricky in Utah and Idaho. If you feel stuck with a doctor who’s rushing you back to work, we can help you navigate the system for better care.",
   "datePublished": "2026-04-14"
