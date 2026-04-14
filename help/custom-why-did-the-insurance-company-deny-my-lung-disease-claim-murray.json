@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Why Did the Insurance Company Deny My Lung Disease Claim?",
+    "text": "Why Did the Insurance Company Deny My Lung Disease Claim?",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "If your claim for respiratory issues was denied, don't panic. Insurance companies often claim it's a \"pre-existing condition\" like allergies. You have the right to appeal and present expert medical testimony showing how your job made things worse. This is where professional legal help really levels the playing field. We handle these specific fights every day for workers across Utah.",
+      "author": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law"
+      }
+    }
+  }
+}

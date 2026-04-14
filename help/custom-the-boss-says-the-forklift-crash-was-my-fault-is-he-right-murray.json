@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "The Boss Says the Forklift Crash Was My Fault. Is He Right?",
+    "text": "The Boss Says the Forklift Crash Was My Fault. Is He Right?",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Can I get fired for a forklift accident? It’s a huge fear, but workers' comp is a no-fault system in Utah and Idaho. Even if you made a mistake, you are likely still covered for medical bills and lost wages. Don't let a \"safety violation\" talk scare you out of your rights. If you're feeling pressured to stay quiet, call a lawyer to protect your job.",
+      "author": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law"
+      }
+    }
+  }
+}

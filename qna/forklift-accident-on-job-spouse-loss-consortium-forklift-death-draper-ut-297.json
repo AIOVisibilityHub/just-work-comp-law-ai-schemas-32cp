@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Spouse loss consortium forklift death Draper UT?",
+    "text": "Spouse loss consortium forklift death Draper UT?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Comp death benefits: 66.67% wages to dependents max 8 years. No consortium in comp; wrongful death separate.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Draper fatalities allow dependency proofs for kids/spouse. Attorney files both tracks."
+      }
+    ]
+  },
+  "name": "Family Claims Forklift Death Draper UT",
+  "description": "Comp death benefits: 66.67% wages to dependents max 8 years. No consortium in comp; wrongful death separate.",
+  "url": "https://justworkcomplaw.com/qna/forklift-accident-on-job-spouse-loss-consortium-forklift-death-draper-ut-297"
+}

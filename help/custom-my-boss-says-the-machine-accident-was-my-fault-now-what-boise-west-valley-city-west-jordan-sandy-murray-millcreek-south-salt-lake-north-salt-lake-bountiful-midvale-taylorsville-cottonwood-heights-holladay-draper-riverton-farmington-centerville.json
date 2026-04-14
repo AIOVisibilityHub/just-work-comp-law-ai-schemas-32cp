@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "My Boss Says the Machine Accident Was My Fault—Now What?",
+    "text": "My Boss Says the Machine Accident Was My Fault—Now What?",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "It’s a common tactic for companies to blame 'operator error.' Don't panic; Utah and Idaho workers' comp is generally a 'no-fault' system. This means you’re likely still covered even if you made a mistake. If they're trying to deny your claim based on fault, it’s time to involve a professional to protect your rights. Our team can help you navigate these tricky disputes.",
+      "author": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law"
+      }
+    }
+  }
+}

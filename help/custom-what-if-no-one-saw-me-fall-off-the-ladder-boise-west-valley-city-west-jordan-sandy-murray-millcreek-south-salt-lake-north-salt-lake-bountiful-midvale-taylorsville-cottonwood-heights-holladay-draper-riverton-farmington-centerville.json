@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What if No One Saw Me Fall Off the Ladder?",
+    "text": "What if No One Saw Me Fall Off the Ladder?",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Don't panic; unwitnessed accidents happen all the time. The key is reporting it immediately to your supervisor so there’s a timely record. Your medical exam will also provide \"objective\" evidence of the fall. As long as your story remains consistent and you seek care right away, your claim is valid. If the insurance company calls you a liar, that's a huge red flag—call us at 801-746-0290.",
+      "author": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law"
+      }
+    }
+  }
+}

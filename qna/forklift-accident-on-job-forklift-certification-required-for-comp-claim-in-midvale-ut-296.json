@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Forklift certification required for comp claim in Midvale UT?",
+    "text": "Forklift certification required for comp claim in Midvale UT?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "No—OSHA training helps prove employer fault but not claim eligibility.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Uncertified ops common Midvale; use to leverage third-party safety suit."
+      }
+    ]
+  },
+  "name": "Does Forklift Cert Affect Comp Claim Midvale?",
+  "description": "No—OSHA training helps prove employer fault but not claim eligibility.",
+  "url": "https://justworkcomplaw.com/qna/forklift-accident-on-job-forklift-certification-required-for-comp-claim-in-midvale-ut-296"
+}

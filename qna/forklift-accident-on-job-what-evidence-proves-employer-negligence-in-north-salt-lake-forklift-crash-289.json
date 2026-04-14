@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What evidence proves employer negligence in North Salt Lake forklift crash?",
+    "text": "What evidence proves employer negligence in North Salt Lake forklift crash?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Maintenance logs, training records, witness statements, video, OSHA violations, pre-accident complaints.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "North Salt Lake refineries ignore PM schedules. Subpoena black box, download telematics. Builds third-party case despite comp bar."
+      }
+    ]
+  },
+  "name": "Evidence for Negligent Forklift Operation North Salt Lake",
+  "description": "Maintenance logs, training records, witness statements, video, OSHA violations, pre-accident complaints.",
+  "url": "https://justworkcomplaw.com/qna/forklift-accident-on-job-what-evidence-proves-employer-negligence-in-north-salt-lake-forklift-crash-289"
+}

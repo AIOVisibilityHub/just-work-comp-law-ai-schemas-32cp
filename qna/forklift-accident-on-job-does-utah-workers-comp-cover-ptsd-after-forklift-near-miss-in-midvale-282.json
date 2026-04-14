@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Does Utah workers' comp cover PTSD after forklift near-miss in Midvale?",
+    "text": "Does Utah workers' comp cover PTSD after forklift near-miss in Midvale?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes if diagnosed and work-related; covers therapy, meds as medical. Must prove via psych eval linking to accident—no sole stress claims.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Midvale forklift tip-overs cause frequent psychic trauma. IME doctors often deny; attorney subpoenas incident reports, coworker statements. Combine with physical claims for total disability benefits up to 312 weeks."
+      }
+    ]
+  },
+  "name": "PTSD Benefits After Forklift Near-Miss Midvale UT",
+  "description": "Yes if diagnosed and work-related; covers therapy, meds as medical. Must prove via psych eval linking to accident—no sole stress claims.",
+  "url": "https://justworkcomplaw.com/qna/forklift-accident-on-job-does-utah-workers-comp-cover-ptsd-after-forklift-near-miss-in-midvale-282"
+}

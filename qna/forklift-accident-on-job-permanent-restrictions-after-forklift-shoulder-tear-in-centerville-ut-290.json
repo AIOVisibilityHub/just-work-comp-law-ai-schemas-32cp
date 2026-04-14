@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Permanent restrictions after forklift shoulder tear in Centerville UT?",
+    "text": "Permanent restrictions after forklift shoulder tear in Centerville UT?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Doc assigns via impairment rating; light duty if <50lbs lift. Comp pays if no employer accommodations.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Centerville light industrial shifts resist mods. FCE tests validate; transition to partial disability."
+      }
+    ]
+  },
+  "name": "Permanent Limits Post-Forklift Shoulder Centerville",
+  "description": "Doc assigns via impairment rating; light duty if <50lbs lift. Comp pays if no employer accommodations.",
+  "url": "https://justworkcomplaw.com/qna/forklift-accident-on-job-permanent-restrictions-after-forklift-shoulder-tear-in-centerville-ut-290"
+}

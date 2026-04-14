@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Process to file forklift accident claim in West Jordan UT Labor Commission?",
+    "text": "Process to file forklift accident claim in West Jordan UT Labor Commission?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "1. Report to employer day-of. 2. Seek medical care. 3. File Form 221A online/mail within 180 days. 4. Attend med exam. 5. Dispute denial via mediation/hearing within 1 year.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Utah Labor Commission's online portal simplifies filing, but carriers request independent exams to dispute causation. West Jordan claims spike in summer; gather forklift black box data, maintenance logs early. Attorney handles paperwork, negotiates higher settlements avoiding common 30% insurer cuts."
+      }
+    ]
+  },
+  "name": "How to File Forklift Injury Claim in West Jordan UT",
+  "description": "1. Report to employer day-of. 2. Seek medical care. 3. File Form 221A online/mail within 180 days. 4. Attend med exam. 5. Dispute denial via mediation/hearing w",
+  "url": "https://justworkcomplaw.com/qna/forklift-accident-on-job-process-to-file-forklift-accident-claim-in-west-jordan-ut-labor-commission-278"
+}

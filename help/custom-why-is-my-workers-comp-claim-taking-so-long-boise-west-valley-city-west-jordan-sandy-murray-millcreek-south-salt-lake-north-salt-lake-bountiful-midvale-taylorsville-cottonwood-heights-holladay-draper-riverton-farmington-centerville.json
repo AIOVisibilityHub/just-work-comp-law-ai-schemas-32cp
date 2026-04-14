@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Why Is My Workers' Comp Claim Taking So Long?",
+    "text": "Why Is My Workers' Comp Claim Taking So Long?",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "If your claim is stuck, it’s usually because the insurance company is \"investigating.\" This is often just a way to delay paying you. You should check your claim status online, stay consistent with your medical treatments, and keep copies of every single receipt. If the silence lasts more than a few weeks, it's time to have a lawyer put some pressure on them to get you paid.",
+      "author": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "The Steps to Take When You Breathe in Harmful Vapors on the Job",
+  "description": "The Steps to Take When You Breathe in Harmful Vapors on the Job - Murray",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1",
+      "text": "Breathed in something nasty? Start by getting to fresh air and seeing a specialist immediately. Tell your employer exactly which chemicals were involved so they can provide the Safety Data Sheets. These documents are gold for your claim. If you're struggling to breathe or get answers from your boss, we can help you fight for the treatment you need to recover."
+    }
+  ]
+}

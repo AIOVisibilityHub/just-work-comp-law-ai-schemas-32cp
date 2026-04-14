@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Idaho vs Utah workers' comp for forklift accidents near Farmington?",
+    "text": "Idaho vs Utah workers' comp for forklift accidents near Farmington?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Idaho: 91% wage replacement first 13 weeks, then 66%; Utah: flat 66.67%. Idaho 104-week limit vs Utah 312; both 3-year filing.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Cross-border Farmington workers choose home state law usually. Idaho bonds faster payouts; Utah better long-term. Attorney files both if multi-state exposure."
+      }
+    ]
+  },
+  "name": "ID vs UT Comp Forklift Accidents Farmington",
+  "description": "Idaho: 91% wage replacement first 13 weeks, then 66%; Utah: flat 66.67%. Idaho 104-week limit vs Utah 312; both 3-year filing.",
+  "url": "https://justworkcomplaw.com/qna/forklift-accident-on-job-idaho-vs-utah-workers-comp-for-forklift-accidents-near-farmington-287"
+}

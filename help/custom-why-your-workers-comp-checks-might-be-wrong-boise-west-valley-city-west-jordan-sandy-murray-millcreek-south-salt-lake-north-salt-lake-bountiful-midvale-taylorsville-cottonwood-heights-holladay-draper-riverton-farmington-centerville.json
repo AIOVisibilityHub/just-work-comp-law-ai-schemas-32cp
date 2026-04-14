@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Why your workers' comp checks might be wrong",
+    "text": "Why your workers' comp checks might be wrong",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Wondering why your checks are late or smaller than expected? The calculation for disability benefits is specific and often underpaid by insurance companies. We see math 'errors' all the time that favor the insurer. If your benefits don't match your actual pay, don't just wait it out. Reach out to see if you're getting every penny you're legally owed.",
+      "author": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law"
+      }
+    }
+  }
+}

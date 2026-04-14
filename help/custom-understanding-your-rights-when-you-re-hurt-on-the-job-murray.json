@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Understanding your rights when you're hurt on the job",
+  "author": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com"
+  },
+  "articleBody": "Many workers fear they’ll lose their job if they file a claim, but retaliation is illegal. Workers' comp is a system designed to protect you, not punish you. It covers your bills and a portion of lost wages while you heal. If your employer is making you feel guilty or threatened for being hurt, you need a legal advocate to stand between you and them.",
+  "datePublished": "2026-04-14"
+}

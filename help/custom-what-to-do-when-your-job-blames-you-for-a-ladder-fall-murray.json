@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "What to Do When Your Job Blames You for a Ladder Fall",
+  "author": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com"
+  },
+  "articleBody": "Gravity doesn't care whose fault it was, and neither does workers' comp. Even if you just missed a step, you're likely still covered for your medical bills and lost wages. Insurance companies often try to blame \"safety violations\" to avoid paying, so don't sign any statements without thinking it through. If they start pointing fingers at you, give us a shout to protect your rights.",
+  "datePublished": "2026-04-14"
+}

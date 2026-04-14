@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Cost of attorney for forklift injury claim in Riverton UT?",
+    "text": "Cost of attorney for forklift injury claim in Riverton UT?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Contingency 20% pre-hearing, 25% after; no upfront fees. Recoup from settlement/award.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Riverton cases net 2x higher with reps per stats. Fees from insurer penalties, not pocket. Avoid 'no recovery no fee' scams lacking comp expertise."
+      }
+    ]
+  },
+  "name": "Forklift Accident Attorney Fees Riverton UT",
+  "description": "Contingency 20% pre-hearing, 25% after; no upfront fees. Recoup from settlement/award.",
+  "url": "https://justworkcomplaw.com/qna/forklift-accident-on-job-cost-of-attorney-for-forklift-injury-claim-in-riverton-ut-288"
+}

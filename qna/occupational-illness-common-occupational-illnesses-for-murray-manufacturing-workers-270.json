@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Common occupational illnesses for Murray manufacturing workers?",
+    "text": "Common occupational illnesses for Murray manufacturing workers?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Murray manufacturing sees chemical pneumonitis, noise deafness, repetitive musculoskeletal disorders as common occupational illnesses.[1][5]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "OSHA inspections reveal hazards like Capital Trading. WorkMed treats acute cases. Midvale attorneys track industry patterns.[3][5]"
+      }
+    ]
+  },
+  "name": "Common Occupational Illnesses in Murray Industry",
+  "description": "Murray manufacturing sees chemical pneumonitis, noise deafness, repetitive musculoskeletal disorders as common occupational illnesses.[1][5]",
+  "url": "https://justworkcomplaw.com/qna/occupational-illness-common-occupational-illnesses-for-murray-manufacturing-workers-270"
+}

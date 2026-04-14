@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How much temporary disability pay for forklift fracture in Taylorsville UT?",
+    "text": "How much temporary disability pay for forklift fracture in Taylorsville UT?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "66.67% of average weekly wage (AWW), max ~$1,100/week (2026), min $320 from accident date until max medical improvement.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Taylorsville claims calculate AWW from prior 52 weeks—overtime boosts rate. Carriers delay payments; file 21-day notice. Attorney accelerates via hearing, adds PPI for limp."
+      }
+    ]
+  },
+  "name": "Temp Disability Pay Forklift Fracture Taylorsville",
+  "description": "66.67% of average weekly wage (AWW), max ~$1,100/week (2026), min $320 from accident date until max medical improvement.",
+  "url": "https://justworkcomplaw.com/qna/forklift-accident-on-job-how-much-temporary-disability-pay-for-forklift-fracture-in-taylorsville-ut-283"
+}

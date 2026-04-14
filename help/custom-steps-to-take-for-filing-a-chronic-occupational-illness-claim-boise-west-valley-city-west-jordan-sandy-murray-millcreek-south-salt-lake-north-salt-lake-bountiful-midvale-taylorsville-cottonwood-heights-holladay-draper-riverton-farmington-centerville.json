@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "Steps to Take for Filing a Chronic Occupational Illness Claim",
+  "description": "Steps to Take for Filing a Chronic Occupational Illness Claim - Boise, West Valley City, West Jordan, Sandy, Murray, Millcreek, South Salt Lake, North Salt Lake, Bountiful, Midvale, Taylorsville, Cottonwood Heights, Holladay, Draper, Riverton, Farmington, Centerville",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1",
+      "text": "Proving an illness came from work takes a specific path. 1. Report your symptoms to your boss immediately. 2. See a specialist who understands industrial exposure. 3. Document every chemicals or stressor you faced daily. These cases often stall without clear medical evidence, so don't wait to start your paper trail. We can help you organize everything."
+    }
+  ]
+}

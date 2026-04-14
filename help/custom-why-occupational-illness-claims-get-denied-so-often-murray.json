@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Why Occupational Illness Claims Get Denied So Often",
+    "text": "Why Occupational Illness Claims Get Denied So Often",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Why do insurance companies fight occupational illness claims? Usually, they argue your sickness is just part of getting older or happened outside of work. To win, you need a rock-solid link between your environment and your diagnosis. If they're playing games with your benefits, it's time to let an expert step in and push back for you.",
+      "author": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law"
+      }
+    }
+  }
+}

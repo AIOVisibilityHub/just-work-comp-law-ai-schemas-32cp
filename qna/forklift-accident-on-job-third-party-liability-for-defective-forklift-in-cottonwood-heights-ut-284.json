@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Third-party liability for defective forklift in Cottonwood Heights UT?",
+    "text": "Third-party liability for defective forklift in Cottonwood Heights UT?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Sue manufacturer (e.g., Raymond, Yale) or maintenance co. for design defects, faulty brakes causing accident—beyond comp limits.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Cottonwood Heights distributions use leased lifts; product liability ignores workers' comp exclusivity. Recover pain/suffering via strict liability. Coordinate with comp carrier for subrogation—net higher total."
+      }
+    ]
+  },
+  "name": "Sue Forklift Manufacturer Cottonwood Heights UT",
+  "description": "Sue manufacturer (e.g., Raymond, Yale) or maintenance co. for design defects, faulty brakes causing accident—beyond comp limits.",
+  "url": "https://justworkcomplaw.com/qna/forklift-accident-on-job-third-party-liability-for-defective-forklift-in-cottonwood-heights-ut-284"
+}
