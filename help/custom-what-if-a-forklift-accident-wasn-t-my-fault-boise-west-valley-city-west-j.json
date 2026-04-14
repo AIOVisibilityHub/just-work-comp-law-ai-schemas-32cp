@@ -1,0 +1,16 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What if a Forklift Accident Wasn't My Fault?",
+  "publisher": {
+    "url": "https://justworkcomplaw.com",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "articleBody": "Forklift accidents happen fast and the injuries are usually serious. Even if you feel okay now, internal damage or joint issues often show up later. Report the crash right away and don't sign any statements until you've cleared your head. If the insurance company blames you, remember that Utah laws still protect your right to benefits. Reach out if you're stuck.",
+  "datePublished": "2026-04-14"
+}

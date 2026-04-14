@@ -1,0 +1,14 @@
+{
+  "name": "How to Handle a Denied Accident Claim",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "If your claim gets a 'no' from the insurance company, take a breath. First, check the denial letter for the specific reason—sometimes it’s just a missing form. Next, gather any extra witness statements or medical records that prove your case. Finally, don't wait to appeal. These deadlines are strict, so a quick call to an expert can ensure you don't miss your window.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "description": "How to Handle a Denied Accident Claim - Boise, West Valley City, West Jordan, Sandy, Murray, Millcreek, South Salt Lake, North Salt Lake, Bountiful, Midvale, Taylorsville, Cottonwood Heights, Holladay, Draper, Riverton, Farmington, Centerville"
+}

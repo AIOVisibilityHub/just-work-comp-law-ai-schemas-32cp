@@ -1,0 +1,24 @@
+{
+  "url": "https://justworkcomplaw.com/qna/occupational-illness-does-utah-workers-comp-cover-cancer-from-workplace-exposure-in-riverton-273",
+  "name": "Workplace Cancer as Occupational Illness",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Does Utah workers' comp cover cancer from workplace exposure in Riverton?",
+    "text": "Does Utah workers' comp cover cancer from workplace exposure in Riverton?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Yes, if medical evidence shows greater than 50% contribution from Riverton work carcinogens.[5]",
+      "@type": "Answer",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Firefighters get presumption; others need epidemiology. Insurers apportion; prove dose-response.[5]",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, if medical evidence shows greater than 50% contribution from Riverton work carcinogens.[5]"
+}

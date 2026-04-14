@@ -1,0 +1,18 @@
+{
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What if My Employer Didn't Provide Safety Gear for Hazardous Chemicals?",
+    "text": "What if My Employer Didn't Provide Safety Gear for Hazardous Chemicals?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "If your job didn't give you gloves or masks, they've put you at risk. Lack of safety gear is a major red flag that helps prove your employer's liability for your condition. Whether it's a sudden burn or a slow-acting rash, you shouldn't pay for their negligence. Contact Just Work Comp Law today to ensure the insurance company doesn't ignore your chemical exposure claim.",
+      "@type": "Answer",
+      "author": {
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      }
+    }
+  }
+}

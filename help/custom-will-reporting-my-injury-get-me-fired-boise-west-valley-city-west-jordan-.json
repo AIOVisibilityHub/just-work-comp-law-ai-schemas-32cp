@@ -1,0 +1,16 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Will Reporting My Injury Get Me Fired?",
+  "publisher": {
+    "url": "https://justworkcomplaw.com",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "articleBody": "It’s a common fear, but in Utah and Idaho, you're generally protected from retaliation for filing a claim. Workers’ comp is a no-fault system designed to cover you, not punish you. If you feel like you’re being treated unfairly or pressured to quit after your injury, it’s time to get a professional advocate in your corner to protect your rights.",
+  "datePublished": "2026-04-14"
+}

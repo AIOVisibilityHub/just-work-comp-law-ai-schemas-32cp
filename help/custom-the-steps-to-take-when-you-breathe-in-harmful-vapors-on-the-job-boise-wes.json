@@ -1,0 +1,14 @@
+{
+  "name": "The Steps to Take When You Breathe in Harmful Vapors on the Job",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Breathed in something nasty? Start by getting to fresh air and seeing a specialist immediately. Tell your employer exactly which chemicals were involved so they can provide the Safety Data Sheets. These documents are gold for your claim. If you're struggling to breathe or get answers from your boss, we can help you fight for the treatment you need to recover.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "description": "The Steps to Take When You Breathe in Harmful Vapors on the Job - Boise, West Valley City, West Jordan, Sandy, Murray, Millcreek, South Salt Lake, North Salt Lake, Bountiful, Midvale, Taylorsville, Cottonwood Heights, Holladay, Draper, Riverton, Farmington, Centerville"
+}

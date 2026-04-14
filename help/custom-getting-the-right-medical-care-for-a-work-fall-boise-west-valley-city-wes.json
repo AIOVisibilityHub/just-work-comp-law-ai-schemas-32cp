@@ -1,0 +1,18 @@
+{
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Getting the right medical care for a work fall",
+    "text": "Getting the right medical care for a work fall",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Can you choose your own doctor after a fall? Usually, your boss picks the first one, but you have rights to a second opinion if you aren't getting better. It’s tricky navigating these rules in Utah and Idaho, so don’t settle for 'good enough' care. If you're feeling rushed back to work while still in pain, it's time to talk to a pro who understands the system.",
+      "@type": "Answer",
+      "author": {
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      }
+    }
+  }
+}

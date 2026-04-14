@@ -1,0 +1,18 @@
+{
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why is My Weekly Benefit Check So Small?",
+    "text": "Why is My Weekly Benefit Check So Small?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "A: This usually happens because of how 'Average Weekly Wage' is calculated. The insurance company might leave out overtime or bonuses you earned before the accident. Double-check their math! If your payments don't cover your actual losses, let’s talk. We specialize in making sure workers in the Salt Lake and Boise areas get every penny they actually deserve.",
+      "@type": "Answer",
+      "author": {
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      }
+    }
+  }
+}

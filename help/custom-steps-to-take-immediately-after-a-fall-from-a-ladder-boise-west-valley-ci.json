@@ -1,0 +1,14 @@
+{
+  "name": "Steps to Take Immediately After a Fall from a Ladder",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Falling from a height is serious business. First, get medical attention even if you think you’re \"fine\"—internal injuries show up later. Second, take photos of the ladder and the area where you fell before anything is moved. Third, identify any coworkers who saw what happened. These steps build a solid foundation for your claim. If the insurer starts acting tough, we can take over.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "description": "Steps to Take Immediately After a Fall from a Ladder - Boise, West Valley City, West Jordan, Sandy, Murray, Millcreek, South Salt Lake, North Salt Lake, Bountiful, Midvale, Taylorsville, Cottonwood Heights, Holladay, Draper, Riverton, Farmington, Centerville"
+}

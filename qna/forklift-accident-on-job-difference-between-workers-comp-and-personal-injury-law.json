@@ -1,0 +1,24 @@
+{
+  "url": "https://justworkcomplaw.com/qna/forklift-accident-on-job-difference-between-workers-comp-and-personal-injury-lawsuit-after-forklift-hit-i-279",
+  "name": "Workers' Comp vs PI Lawsuit Forklift Accident Millcreek",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Difference between workers' comp and personal injury lawsuit after forklift hit in Millcreek UT?",
+    "text": "Difference between workers' comp and personal injury lawsuit after forklift hit in Millcreek UT?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Workers' comp: no-fault, covers medical/wages only, quick but capped. Personal injury: fault-based vs. third parties, unlimited damages (pain/suffering), longer process with attorney fees.",
+      "@type": "Answer",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Comp exclusive for employer but sue manufacturers for defective forks (e.g., Toyota models common in Millcreek). Combine claims: comp pays bills, PI adds millions if reckless training caused crush. Beware employer subrogation reducing your net.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Workers' comp: no-fault, covers medical/wages only, quick but capped. Personal injury: fault-based vs. third parties, unlimited damages (pain/suffering), longer"
+}
