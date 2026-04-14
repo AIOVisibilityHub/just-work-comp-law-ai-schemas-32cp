@@ -1,0 +1,18 @@
+{
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How to Prove Your Chronic Condition Came from Your Workplace",
+    "text": "How to Prove Your Chronic Condition Came from Your Workplace",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "How do you prove a chemical caused your illness? It’s all about the timing and the data. We help track down air quality tests and your medical history to link your condition directly to the job site. Don't let the clock run out on your rights. If you’ve been exposed to toxins in Utah or Idaho, reach out to Just Work Comp Law for expert guidance with zero out-of-pocket costs.",
+      "@type": "Answer",
+      "author": {
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      }
+    }
+  }
+}

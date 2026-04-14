@@ -1,0 +1,14 @@
+{
+  "name": "Reporting Your Accident Without the Usual Headaches",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Reporting an accident correctly is half the battle. Write down exactly what happened, list every single body part that hurts, and keep a copy of the report for yourself. Don't let your boss talk you into 'handling it under the table' without a formal record. If they refuse to file the claim, it's time to bring in a pro. We'll make sure the insurance company listens.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "description": "Reporting Your Accident Without the Usual Headaches - Boise, West Valley City, West Jordan, Sandy, Murray, Millcreek, South Salt Lake, North Salt Lake, Bountiful, Midvale, Taylorsville, Cottonwood Heights, Holladay, Draper, Riverton, Farmington, Centerville"
+}

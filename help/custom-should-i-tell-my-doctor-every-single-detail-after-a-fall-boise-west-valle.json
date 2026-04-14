@@ -1,0 +1,18 @@
+{
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Should I Tell My Doctor Every Single Detail After a Fall?",
+    "text": "Should I Tell My Doctor Every Single Detail After a Fall?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "A: Yes, but keep it brief! Tell your doctor exactly where you hurt and how it happened at work. Don't exaggerate, but don't play tough either. If you leave out a detail—like your back hurting along with your ankle—the insurance company will use that to deny care later. Mentioning the specific work task you were doing is key. Need help talking to them? We're here.",
+      "@type": "Answer",
+      "author": {
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      }
+    }
+  }
+}

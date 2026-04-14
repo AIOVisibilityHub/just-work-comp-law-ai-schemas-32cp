@@ -1,0 +1,16 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Do When the Insurance Company Cuts Off Your Benefits",
+  "publisher": {
+    "url": "https://justworkcomplaw.com",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "articleBody": "It’s a classic move: the insurance company stops your checks because their 'independent' doctor says you’re healed. If you’re still in pain and can’t work, don't panic. You have the right to a second opinion and a hearing to contest their findings. This is usually where things get legal and messy, so having a focused expert in your corner makes a huge difference.",
+  "datePublished": "2026-04-14"
+}

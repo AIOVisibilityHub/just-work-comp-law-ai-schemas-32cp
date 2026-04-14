@@ -1,0 +1,18 @@
+{
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why Workers' Comp Carriers Fight Occupational Disease Claims",
+    "text": "Why Workers' Comp Carriers Fight Occupational Disease Claims",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Noticed your health declining over months of work? It’s common for insurers to claim your illness is just a \"pre-existing condition.\" To fight back, you’ll need to show how your specific job duties directly worsened or caused the issue. Don't let them brush you off—occupational diseases are just as valid as physical injuries. We can help you gather the proof needed to secure your benefits.",
+      "@type": "Answer",
+      "author": {
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      }
+    }
+  }
+}

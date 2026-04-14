@@ -1,0 +1,18 @@
+{
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What Happens If I’m Permanently Disabled After a Ladder Accident?",
+    "text": "What Happens If I’m Permanently Disabled After a Ladder Accident?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Falling from a ladder often leads to long-term back or joint issues that don't show up immediately. If your injury is severe enough that you can't return to your old role, you may qualify for permanent disability benefits or vocational retraining. Navigating these ratings is complex and insurance adjusters often lowball them. Having a specialist on your side ensures you aren't left behind.",
+      "@type": "Answer",
+      "author": {
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      }
+    }
+  }
+}

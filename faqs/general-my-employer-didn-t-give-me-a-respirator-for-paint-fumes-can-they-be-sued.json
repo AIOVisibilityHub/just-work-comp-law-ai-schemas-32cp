@@ -1,0 +1,18 @@
+{
+  "url": "https://justworkcomplaw.com/faq/general-my-employer-didn-t-give-me-a-respirator-for-paint-fumes-can-they-be-sued-186",
+  "name": "My employer didn't give me a respirator for paint fumes, can they be sued?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "My employer didn't give me a respirator for paint fumes, can they be sued?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Comp claim + OSHA report; suit rare.",
+        "@type": "Answer",
+        "description": "**Workers' comp claim primary; OSHA violation supports it, rare suit unless intentional.**\n\nOSHA mandates respirators when needed; non-compliance liable for penalties, aids comp[1][4]. Idaho/Utah comp exclusive[10].\n\n- Document lack of PPE.\n- File OSHA complaint.\n- Comp covers injuries.\n\nReport hazard, file comp; lawyer pursues max benefits. OSHA fines employer[4]."
+      }
+    }
+  ],
+  "description": "Comp claim + OSHA report; suit rare."
+}

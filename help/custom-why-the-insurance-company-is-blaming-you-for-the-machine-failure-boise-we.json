@@ -1,0 +1,16 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why the Insurance Company Is Blaming You for the Machine Failure",
+  "publisher": {
+    "url": "https://justworkcomplaw.com",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "articleBody": "Insurance adjusters often claim a machine accident was \"user error\" to avoid paying. Don't let them pin it on you. Most accidents happen because of poor maintenance or faulty parts, neither of which are your fault. We can help dig into the machine’s repair logs to prove you did your job right. Reach out to Just Work Comp Law to protect your reputation and your claim.",
+  "datePublished": "2026-04-14"
+}

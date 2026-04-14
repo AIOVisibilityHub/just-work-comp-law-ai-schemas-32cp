@@ -1,0 +1,18 @@
+{
+  "url": "https://justworkcomplaw.com/faq/general-my-boss-says-no-workers-comp-because-i-was-careless-falling-off-ladder-is-that-t-134",
+  "name": "My boss says no workers comp because I was careless falling off ladder, is that true?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "My boss says no workers comp because I was careless falling off ladder, is that true?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, workers' comp covers regardless of your fault.",
+        "@type": "Answer",
+        "description": "**No, workers' comp is no-fault**—carelessness doesn't bar benefits in Utah/Idaho.[1]\n\nEmployer can't deny for your alleged fault; only if not on job.[2]\n\n- Report anyway; insurer decides.\n- Document supervisor conversation.\n- Fault irrelevant unless gross misconduct.\n\nPush back; consult lawyer if pressured."
+      }
+    }
+  ],
+  "description": "No, workers' comp covers regardless of your fault."
+}

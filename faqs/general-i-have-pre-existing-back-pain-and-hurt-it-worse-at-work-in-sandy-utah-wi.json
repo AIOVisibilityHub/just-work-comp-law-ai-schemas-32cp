@@ -1,0 +1,18 @@
+{
+  "url": "https://justworkcomplaw.com/faq/general-i-have-pre-existing-back-pain-and-hurt-it-worse-at-work-in-sandy-utah-will-insur-31",
+  "name": "I have pre-existing back pain and hurt it worse at work in Sandy Utah, will insurance pay?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "I have pre-existing back pain and hurt it worse at work in Sandy Utah, will insurance pay?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, covers work-related aggravation; prove with medical records.[1]",
+        "@type": "Answer",
+        "description": "Yes, Utah workers' comp covers aggravation of pre-existing conditions if work caused worsening, paying for that portion of disability. Medical evidence must show job accident substantially contributed.[1] Key factors: doctor opinion on causation, records pre/post-injury, no proof needed of total injury cause. Get independent medical exam if disputed, track all treatments; attorney negotiates fair apportionment. Aggravation claims succeed with strong documentation."
+      }
+    }
+  ],
+  "description": "Yes, covers work-related aggravation; prove with medical records.[1]"
+}
