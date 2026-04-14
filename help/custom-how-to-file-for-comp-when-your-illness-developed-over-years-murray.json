@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to File for Comp When Your Illness Developed Over Years",
+  "description": "How to File for Comp When Your Illness Developed Over Years - Murray",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1",
+      "text": "If you've been diagnosed with a work-related illness, start by notifying your supervisor in writing immediately. Next, seek a medical evaluation from a doctor who understands industrial exposure. Document every chemical or environment you were exposed to daily. Finally, track all your out-of-pocket medical costs. If the paperwork gets overwhelming, a legal expert can take the lead for you."
+    }
+  ]
+}

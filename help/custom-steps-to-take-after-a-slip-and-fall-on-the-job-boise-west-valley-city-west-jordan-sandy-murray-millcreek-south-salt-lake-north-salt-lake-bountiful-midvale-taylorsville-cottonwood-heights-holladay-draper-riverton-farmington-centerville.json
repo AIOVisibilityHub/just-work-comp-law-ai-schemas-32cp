@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "Steps to Take After a Slip and Fall on the Job",
+  "description": "Steps to Take After a Slip and Fall on the Job - Boise, West Valley City, West Jordan, Sandy, Murray, Millcreek, South Salt Lake, North Salt Lake, Bountiful, Midvale, Taylorsville, Cottonwood Heights, Holladay, Draper, Riverton, Farmington, Centerville",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1",
+      "text": "Slipping on a wet floor is embarrassing, but don't just brush it off. First, take a photo of whatever caused the fall before someone mops it up. Second, report it to your boss right away so there's a paper trail. Third, get checked out by a doctor, even if you just feel stiff. If the insurance company starts acting \"shady,\" give us a call at 801-746-0290."
+    }
+  ]
+}

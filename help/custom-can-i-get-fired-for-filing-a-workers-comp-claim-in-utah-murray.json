@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Can I Get Fired for Filing a Workers' Comp Claim in Utah?",
+    "text": "Can I Get Fired for Filing a Workers' Comp Claim in Utah?",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The short answer: No, it's illegal to fire you just for filing. However, employers sometimes find other \"reasons\" to let people go. If you notice a sudden shift in how you're treated or your hours get cut after reporting an injury, start documenting everything. If you feel like you're being pushed out, getting legal advice early is your best defense. Contact us to see where you stand.",
+      "author": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law"
+      }
+    }
+  }
+}

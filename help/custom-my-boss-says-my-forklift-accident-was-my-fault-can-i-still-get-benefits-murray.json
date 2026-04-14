@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "My Boss Says My Forklift Accident Was My Fault—Can I Still Get Benefits?",
+    "text": "My Boss Says My Forklift Accident Was My Fault—Can I Still Get Benefits?",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Worried because you made a mistake leading to a forklift crash? In the world of workers' comp, you're usually covered even if you were at fault. Unless there was intentional harm or drug use involved, you should still receive medical and wage benefits. Don't let an employer intimidate you into not filing. If they’re pressuring you to stay quiet, it's time to seek legal advice immediately.",
+      "author": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What to Do When You Can’t Hear Your Family After a Day at Work",
+    "text": "What to Do When You Can’t Hear Your Family After a Day at Work",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Is it getting harder to follow conversations at dinner? High-decibel environments cause permanent damage that might not show up fully until later. You need to document the noise levels and report the change to your employer right away. When the insurance company starts playing games with your benefits, getting an expert lawyer involved is your best move. Contact us for a free consult today.",
+      "author": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law"
+      }
+    }
+  }
+}

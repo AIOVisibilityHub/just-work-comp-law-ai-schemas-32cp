@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Get Your Employer to Pay for Hearing Aids",
+  "description": "How to Get Your Employer to Pay for Hearing Aids - Murray",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1",
+      "text": "Getting hearing aids through workers' comp starts with an official audiogram from a specialist. Don't rely on the quick screening your job provides; get an independent evaluation. You must show the loss happened due to cumulative noise at work. If the insurance adjuster keeps 'forgetting' to authorize your devices, give us a call at 801-746-0290. We’ll help you cut through the red tape."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Why Your Boss Can't Blame You for a Trip and Fall",
+  "author": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com"
+  },
+  "articleBody": "Insurance adjusters love to say a fall was 'your fault' because you weren't looking. Don't let them bully you. In Utah and Idaho, workers' comp is usually no-fault, meaning it doesn't matter if you were clumsy. As long as you were working, you should be covered. If they're denying your claim based on 'negligence,' it's time to let a pro step in and fix it.",
+  "datePublished": "2026-04-14"
+}

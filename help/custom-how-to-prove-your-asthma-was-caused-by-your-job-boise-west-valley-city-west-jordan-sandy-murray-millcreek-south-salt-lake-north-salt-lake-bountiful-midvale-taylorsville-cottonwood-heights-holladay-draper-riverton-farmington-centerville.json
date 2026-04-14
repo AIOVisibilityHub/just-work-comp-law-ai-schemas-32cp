@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How to Prove Your Asthma Was Caused by Your Job",
+    "text": "How to Prove Your Asthma Was Caused by Your Job",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Proving a job caused your lung issues is tricky because insurance loves to blame outside factors. You’ll need a medical link between your symptoms and specific workplace toxins. Save your PPE records and any safety memos you received. If they keep denying your claim, you need a legal team that knows how to push back. Let's talk about your options at Just Work Comp Law today.",
+      "author": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law"
+      }
+    }
+  }
+}
