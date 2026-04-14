@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Compare workers comp vs personal injury for work chemical exposure?",
+  "description": "Comp no-fault vs PI fault-based[2].",
+  "url": "https://justworkcomplaw.com/faq/general-compare-workers-comp-vs-personal-injury-for-work-chemical-exposure-171",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Compare workers comp vs personal injury for work chemical exposure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comp no-fault vs PI fault-based[2].",
+        "description": "**Comp: no-fault, quick medical/wages, can't sue employer.** PI: fault-based, sue third-parties for pain/damages[2]. **Key factors:** Comp exclusive for employer; dual track common. **Practical guidance:** File comp first, add PI. Attorney manages both. **Comp safer start.**"
+      }
+    }
+  ]
+}

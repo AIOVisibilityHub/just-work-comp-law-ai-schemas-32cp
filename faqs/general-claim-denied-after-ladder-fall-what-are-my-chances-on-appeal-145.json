@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Claim denied after ladder fall, what are my chances on appeal?",
+  "description": "Strong if evidence added.",
+  "url": "https://justworkcomplaw.com/faq/general-claim-denied-after-ladder-fall-what-are-my-chances-on-appeal-145",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Claim denied after ladder fall, what are my chances on appeal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Strong if evidence added.",
+        "description": "**Good with strong evidence**—50%+ overturn rate with lawyer.[3]\n\nFix denial reasons like causation.\n\n- New doctor opinion.\n- Witness affidavits.\n- Hearing prep.\n\nFile timely; persist."
+      }
+    }
+  ]
+}

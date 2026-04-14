@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Uninsured employer after my fall in South Salt Lake, what benefits do I get?",
+  "description": "Utah Uninsured Fund pays benefits; file with state.[4]",
+  "url": "https://justworkcomplaw.com/faq/general-uninsured-employer-after-my-fall-in-south-salt-lake-what-benefits-do-i-get-116",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Uninsured employer after my fall in South Salt Lake, what benefits do I get?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Utah Uninsured Fund pays benefits; file with state.[4]",
+        "description": "Utah has Uninsured Employers Fund for comp if employer lacks coverage.[4] Covers medical/wages like insured.[4] Key factors: prove no insurance; file with state fund; penalties on employer.[4] Report to labor commission, document injury, attorney accesses fund quickly.[3] Ensures you aren't left out."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of money can I get for workplace hearing loss?",
+  "description": "Medical, wages, disability per impairment %; lawyer estimates value.[1][3]",
+  "url": "https://justworkcomplaw.com/faq/general-what-kind-of-money-can-i-get-for-workplace-hearing-loss-204",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of money can I get for workplace hearing loss?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical, wages, disability per impairment %; lawyer estimates value.[1][3]",
+        "description": "Compensation varies by loss severity, covering medical bills, lost wages, disability benefits, and sometimes pain; Utah uses scheduled loss (percentage impairment x weeks).[1][3] Context: Claims yield hearing aids, treatments, reduced earning capacity; severe cases add permanent partial disability.[1][5] Key factors: Binaural impairment rating, work impact, medical costs; negligence boosts third-party suits.[1][4] Practical guidance: Get a lawyer to value your case via independent medical exam; file soon to maximize benefits like Utah's scheduled payments.[3][7] Estimates need professional review."
+      }
+    }
+  ]
+}

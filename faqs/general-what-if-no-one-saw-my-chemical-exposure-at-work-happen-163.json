@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if no one saw my chemical exposure at work happen?",
+  "description": "Footage, tests, records prove it[3][2].",
+  "url": "https://justworkcomplaw.com/faq/general-what-if-no-one-saw-my-chemical-exposure-at-work-happen-163",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if no one saw my chemical exposure at work happen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Footage, tests, records prove it[3][2].",
+        "description": "**Use surveillance, logs, medical tests, co-worker later statements, site photos.** Circumstantial evidence suffices[3]. **Key factors:** Chemical residue tests[2]. **Practical guidance:** Request employer footage/records immediately. Build timeline. **No witnesses ok with docs.**"
+      }
+    }
+  ]
+}

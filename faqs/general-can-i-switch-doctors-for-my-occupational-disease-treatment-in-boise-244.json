@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I switch doctors for my occupational disease treatment in Boise?",
+  "description": "Get written approval after initial provider.[1]",
+  "url": "https://justworkcomplaw.com/faq/general-can-i-switch-doctors-for-my-occupational-disease-treatment-in-boise-244",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I switch doctors for my occupational disease treatment in Boise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Get written approval after initial provider.[1]",
+        "description": "Possibly after initial authorized care, but get written approval to avoid denials.[1] Idaho similar.[2] Key factors: Carrier directs first; prove need for specialist; no self-pay coverage.[1] Request in writing early. Legal advice prevents bill disputes."
+      }
+    }
+  ]
+}

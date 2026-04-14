@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence do I need for chemical exposure workers comp case?",
+  "description": "Safety sheets, photos, medical tests, witnesses, hygienist report[2][6].",
+  "url": "https://justworkcomplaw.com/faq/general-what-evidence-do-i-need-for-chemical-exposure-workers-comp-case-156",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence do I need for chemical exposure workers comp case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Safety sheets, photos, medical tests, witnesses, hygienist report[2][6].",
+        "description": "**Collect safety data sheets, labels, photos of site/chemicals, medical records, co-worker statements, and exposure tests.** Industrial hygienist inspection proves dose[2][6]. OSHA logs help[1]. **Key factors:** Link symptoms to specific chemicals via experts for causation[2]; timeline of events. **Practical guidance:** Report immediately, save contaminated items, request employer tests. Don't delay medical visits. **Strong evidence prevents denial.**"
+      }
+    }
+  ]
+}

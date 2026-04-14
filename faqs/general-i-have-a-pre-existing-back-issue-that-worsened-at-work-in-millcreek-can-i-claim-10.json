@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I have a pre-existing back issue that worsened at work in Millcreek, can I claim?",
+  "description": "Yes if work aggravated—prove with medical evidence[1].",
+  "url": "https://justworkcomplaw.com/faq/general-i-have-a-pre-existing-back-issue-that-worsened-at-work-in-millcreek-can-i-claim-10",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I have a pre-existing back issue that worsened at work in Millcreek, can I claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes if work aggravated—prove with medical evidence[1].",
+        "description": "**Yes, if work aggravated it—Utah covers conditions arising from employment.** Need medical evidence of causation beyond daily life[1]. **Key factors:** Doctor opinion key; not just recurrence. **Practical guidance:** Report fully, get specialist eval linking aggravation to job, document prior records. Avoid gaps in proof. **Aggravation claims often approved.**"
+      }
+    }
+  ]
+}

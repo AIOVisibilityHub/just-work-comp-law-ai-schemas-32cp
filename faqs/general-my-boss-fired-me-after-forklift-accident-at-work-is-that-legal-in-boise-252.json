@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My boss fired me after forklift accident at work is that legal in Boise?",
+  "description": "Illegal retaliation; file complaint with state labor commission ASAP and document everything.[2]",
+  "url": "https://justworkcomplaw.com/faq/general-my-boss-fired-me-after-forklift-accident-at-work-is-that-legal-in-boise-252",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My boss fired me after forklift accident at work is that legal in Boise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Illegal retaliation; file complaint with state labor commission ASAP and document everything.[2]",
+        "description": "**No, retaliation for filing a workers' compensation claim is illegal in Idaho and Utah.** Employers cannot terminate you for reporting injuries or pursuing benefits.[2] Key factors: Document all communications, note timing of termination post-accident, and prove the firing links to your claim. File a retaliation complaint with the Idaho Industrial Commission or Utah Labor Commission within deadlines, typically 180 days.[3] Preserve evidence like emails and witness statements; seek legal help immediately to protect your rights and pursue wrongful termination alongside comp benefits.[2]"
+      }
+    }
+  ]
+}

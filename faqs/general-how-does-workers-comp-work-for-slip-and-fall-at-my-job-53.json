@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does workers comp work for slip and fall at my job?",
+  "description": "Employer reports to insurer; you get med bills paid, partial wages—file ASAP.",
+  "url": "https://justworkcomplaw.com/faq/general-how-does-workers-comp-work-for-slip-and-fall-at-my-job-53",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does workers comp work for slip and fall at my job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Employer reports to insurer; you get med bills paid, partial wages—file ASAP.",
+        "description": "**Workers' compensation provides medical treatment, wage replacement, and disability benefits for work-related slip and falls without proving fault.** In Utah and Idaho, employers must carry this insurance for employee injuries.[1] Key factors: (1) Report injury quickly; (2) Employer files claim with insurer; (3) You attend approved medical care; (4) Temporary benefits up to 72% of wages. Disputes go to an administrative hearing. Hire an attorney if denied or underrated."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a lawyer for my work hearing loss claim or can I DIY?",
+  "description": "Lawyer recommended for proof and denials; often no upfront cost.[7]",
+  "url": "https://justworkcomplaw.com/faq/general-do-i-need-a-lawyer-for-my-work-hearing-loss-claim-or-can-i-diy-208",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a lawyer for my work hearing loss claim or can I DIY?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lawyer recommended for proof and denials; often no upfront cost.[7]",
+        "description": "You can file alone but a lawyer greatly improves success, especially for denials or disputes.[5][7] Context: Complex proof like causation and negligence needs expert handling.[1] Key factors: Gathering records, negotiating insurers, hearings; no upfront fees in workers' comp.[7] Practical guidance: DIY initial filing but hire if contested; they secure max benefits like aids and PPI.[5][7] Representation boosts outcomes."
+      }
+    }
+  ]
+}

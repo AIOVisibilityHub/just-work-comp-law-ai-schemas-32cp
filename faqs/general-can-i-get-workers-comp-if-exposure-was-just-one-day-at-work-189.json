@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get workers comp if exposure was just one day at work?",
+  "description": "Yes, prove medical link from incident.",
+  "url": "https://justworkcomplaw.com/faq/general-can-i-get-workers-comp-if-exposure-was-just-one-day-at-work-189",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get workers comp if exposure was just one day at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, prove medical link from incident.",
+        "description": "**Yes, single incidents qualify if causing injury/illness.**\n\nCovers acute exposures like fumes; prove link[3][2]. No minimum time required.\n\n- ER records immediate.\n- Witness incident.\n- MSDS for substance.\n\nFile promptly; viable even brief. Doctor ties to event[3]."
+      }
+    }
+  ]
+}

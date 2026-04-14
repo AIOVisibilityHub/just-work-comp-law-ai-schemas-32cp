@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Permanent disability from job accident in Centerville, what benefits?",
+  "description": "Impairment % x wages x weeks + medical.[1]",
+  "url": "https://justworkcomplaw.com/faq/general-permanent-disability-from-job-accident-in-centerville-what-benefits-47",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Permanent disability from job accident in Centerville, what benefits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Impairment % x wages x weeks + medical.[1]",
+        "description": "Utah permanent partial disability pays 66 2/3% wages x impairment rating (0-100%) x weeks; total disability lifetime. Medical lifelong.[1] Key factors: MMI certification, AMA guides rating, retraining. Dispute low ratings, negotiate lump sum; plan finances. Ratings drive value."
+      }
+    }
+  ]
+}

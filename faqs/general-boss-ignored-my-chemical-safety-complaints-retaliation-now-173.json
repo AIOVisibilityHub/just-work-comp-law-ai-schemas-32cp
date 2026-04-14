@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Boss ignored my chemical safety complaints - retaliation now?",
+  "description": "OSHA complaint; can't retaliate[1].",
+  "url": "https://justworkcomplaw.com/faq/general-boss-ignored-my-chemical-safety-complaints-retaliation-now-173",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Boss ignored my chemical safety complaints - retaliation now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "OSHA complaint; can't retaliate[1].",
+        "description": "**Illegal; file OSHA charge and comp if injured.** Protects reporters[1][5]. **Key factors:** Document complaints. **Practical guidance:** Written records, union help. Lawyer sues for reinstatement. **Strong anti-retaliation laws.**"
+      }
+    }
+  ]
+}

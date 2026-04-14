@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much is my on-the-job injury case worth in South Salt Lake?",
+  "description": "Medical + 2/3 wages + impairment; $20K-$100K+ typical.[1]",
+  "url": "https://justworkcomplaw.com/faq/general-how-much-is-my-on-the-job-injury-case-worth-in-south-salt-lake-36",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much is my on-the-job injury case worth in South Salt Lake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical + 2/3 wages + impairment; $20K-$100K+ typical.[1]",
+        "description": "Value based on medical costs, lost wages (2/3 in Utah), permanent impairment, pain; averages $20K-$100K+ depending on severity. Multipliers for future care.[1] Key factors: doctor ratings, comp rate (Utah 66 2/3% wages), settlement vs. trial. Track all losses, get impairment rating; negotiate post-MMI. Lawyer calculates accurately."
+      }
+    }
+  ]
+}

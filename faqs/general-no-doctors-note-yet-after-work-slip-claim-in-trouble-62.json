@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "No doctors note yet after work slip, claim in trouble?",
+  "description": "See doctor now—med records prove injury.",
+  "url": "https://justworkcomplaw.com/faq/general-no-doctors-note-yet-after-work-slip-claim-in-trouble-62",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "No doctors note yet after work slip, claim in trouble?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "See doctor now—med records prove injury.",
+        "description": "**Not yet, but see a doctor ASAP as medical evidence is required for approval.** Delaying treatment weakens Utah/Idaho claims.[1] Key factors: (1) Initial care within days; (2) Consistent records link to work; (3) Insurer picks doctor often. Go to ER if needed. Lawyer ensures proper panel."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Missed 2 months work after ladder fall, how to prove lost wages?",
+  "description": "Pay stubs, employer note, doctor ok.",
+  "url": "https://justworkcomplaw.com/faq/general-missed-2-months-work-after-ladder-fall-how-to-prove-lost-wages-144",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Missed 2 months work after ladder fall, how to prove lost wages?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pay stubs, employer note, doctor ok.",
+        "description": "**Submit pay stubs, tax returns, employer letter**.[4]\n\nW-2s, time sheets show average earnings.\n\n- Doctor work restrictions.\n- Job search records.\n- Future loss projection.\n\nComp pays 2/3; sue for more if third-party."
+      }
+    }
+  ]
+}

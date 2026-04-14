@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My slip and fall claim at work got denied, now what?",
+  "description": "Appeal fast with lawyer—get hearing to overturn denial.",
+  "url": "https://justworkcomplaw.com/faq/general-my-slip-and-fall-claim-at-work-got-denied-now-what-59",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My slip and fall claim at work got denied, now what?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal fast with lawyer—get hearing to overturn denial.",
+        "description": "**Appeal the denial within 20 days in Utah or promptly in Idaho via hearing request.** Common reasons: late notice or not work-related.[1] Key factors: (1) Gather more medical proof; (2) Attorney represents at administrative law judge; (3) Success rate high with counsel. Don't accept denial. File appeal and sue if third-party fault."
+      }
+    }
+  ]
+}

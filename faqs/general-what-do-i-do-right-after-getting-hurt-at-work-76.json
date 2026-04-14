@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What do I do right after getting hurt at work?",
+  "description": "Report immediately to your supervisor, document details, and get authorized medical care to secure benefits.[1][2]",
+  "url": "https://justworkcomplaw.com/faq/general-what-do-i-do-right-after-getting-hurt-at-work-76",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What do I do right after getting hurt at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report immediately to your supervisor, document details, and get authorized medical care to secure benefits.[1][2]",
+        "description": "Report the injury to your supervisor immediately, either verbally or in writing, and seek medical attention from an authorized provider.[1][2][4] In Utah, notify within 180 days but do so as soon as practicable to avoid disqualification; in Idaho, report within 60 days or risk losing benefits.[1][3] Key factors: Document the how, when, and where; employer files Form 122 within 7 days in Utah or equivalent in Idaho; follow medical instructions to prevent benefit suspension.[2][4] Practical guidance: Email or text your report for a timestamp, request Form 100 (Utah) outlining rights, and avoid signing anything without understanding it. Consulting a workers' comp attorney early protects your claim."
+      }
+    }
+  ]
+}

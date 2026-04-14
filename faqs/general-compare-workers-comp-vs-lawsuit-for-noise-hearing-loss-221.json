@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Compare workers comp vs lawsuit for noise hearing loss?",
+  "description": "Comp no-fault basics; suit for extras.[1]",
+  "url": "https://justworkcomplaw.com/faq/general-compare-workers-comp-vs-lawsuit-for-noise-hearing-loss-221",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Compare workers comp vs lawsuit for noise hearing loss?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comp no-fault basics; suit for extras.[1]",
+        "description": "Comp for medical/wages no-fault; lawsuit for negligence adds pain damages against employer/third-party.[1] Context: Comp primary, suits if gross negligence.[1]\n| Aspect | Workers Comp | Lawsuit |\n|--------|-------------|---------|\n| Fault | No | Yes |\n| Benefits | Medical, disability | Unlimited |\n| Time | Faster | Longer | Practical guidance: Start comp, lawyer advises suit potential.[1][7] Comp safer first."
+      }
+    }
+  ]
+}

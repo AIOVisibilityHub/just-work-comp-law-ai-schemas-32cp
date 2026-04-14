@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I missed work after chemical exposure - what benefits?",
+  "description": "66% wages as TTD benefits[1].",
+  "url": "https://justworkcomplaw.com/faq/general-i-missed-work-after-chemical-exposure-what-benefits-164",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I missed work after chemical exposure - what benefits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "66% wages as TTD benefits[1].",
+        "description": "**Temporary total disability pays 66% wages while off, plus medical.** Permanent if lasting[1]. **Key factors:** Doctor restrictions, average weekly wage calc. **Practical guidance:** Submit pay stubs, follow treatment. Attorney fights reductions. **Covers income loss.**"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Talked to insurance adjuster already about my illness claim in Holladay, did I mess up?",
+  "description": "Maybe; lawyer reviews what was said before proceeding.[1]",
+  "url": "https://justworkcomplaw.com/faq/general-talked-to-insurance-adjuster-already-about-my-illness-claim-in-holladay-did-i-me-249",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Talked to insurance adjuster already about my illness claim in Holladay, did I mess up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maybe; lawyer reviews what was said before proceeding.[1]",
+        "description": "Possibly, if you admitted non-work causes; statements can be used against you.[1] Key factors: No off-record chats; record calls; don't speculate causation.[1] Disclose to attorney now for damage control. Future: Lawyer handles communications."
+      }
+    }
+  ]
+}

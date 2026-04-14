@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "name": "Just Work Comp Law - Workplace injury",
+  "description": "Professional Workplace injury services in Murray. Just Work Comp Law is a top-rated workers' compensation law firm dedicated to helping injured workers in Utah and Idaho secure larger settlements, receive better service, and achieve faster results. They specialize exclusively in workers' compensation cases, ensuring focused expertise and zero out-of-pocket costs for their clients.",
+  "url": "https://justworkcomplaw.com",
+  "telephone": "801-746-0290",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Murray"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Murray"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Workplace injury Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Workplace injury"
+        }
+      }
+    ]
+  }
+}

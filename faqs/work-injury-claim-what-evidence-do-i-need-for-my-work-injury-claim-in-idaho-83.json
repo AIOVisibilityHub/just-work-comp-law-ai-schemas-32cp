@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence do I need for my work injury claim in Idaho?",
+  "description": "Report details, medical records, witnesses, and forms.[4]",
+  "url": "https://justworkcomplaw.com/faq/work-injury-claim-what-evidence-do-i-need-for-my-work-injury-claim-in-idaho-83",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence do I need for my work injury claim in Idaho?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report details, medical records, witnesses, and forms.[4]",
+        "description": "Key evidence includes your detailed report (how/when/where), medical records, witness statements, and Form filings.[3][4] Prompt reporting strengthens proof of work-relatedness.[4] Key factors: Doctor's Form 123 (Utah equivalent); employer First Report; photos or incident logs.[2][4] Practical guidance: Collect everything immediately, help file reports if employer delays, and keep appointment records. Lawyers organize evidence to counter denials."
+      }
+    }
+  ]
+}

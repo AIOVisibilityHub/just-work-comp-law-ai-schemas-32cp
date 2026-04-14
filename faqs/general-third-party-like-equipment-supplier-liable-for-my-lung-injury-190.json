@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Third party like equipment supplier liable for my lung injury?",
+  "description": "Yes, sue for negligence beyond comp.",
+  "url": "https://justworkcomplaw.com/faq/general-third-party-like-equipment-supplier-liable-for-my-lung-injury-190",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Third party like equipment supplier liable for my lung injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, sue for negligence beyond comp.",
+        "description": "**Yes, if their negligence contributed, sue separately for full damages.**\n\nBeyond comp, personal injury against contractors/ makers for faulty gear[2][1]. Unlimited pain/suffering.\n\n- Prove defect or protocol failure.\n- Independent from comp.\n- Higher payouts possible.\n\nLawyer evaluates liability; dual claims common. More compensation avenue[2]."
+      }
+    }
+  ]
+}

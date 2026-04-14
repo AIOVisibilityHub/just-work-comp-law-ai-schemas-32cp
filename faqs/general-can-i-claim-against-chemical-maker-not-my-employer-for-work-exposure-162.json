@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I claim against chemical maker not my employer for work exposure?",
+  "description": "Yes, sue makers for defects after comp filing[2].",
+  "url": "https://justworkcomplaw.com/faq/general-can-i-claim-against-chemical-maker-not-my-employer-for-work-exposure-162",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I claim against chemical maker not my employer for work exposure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, sue makers for defects after comp filing[2].",
+        "description": "**Yes, third-party lawsuits against manufacturers for faulty warnings/products alongside comp.** Prove their negligence caused harm[2]. **Key factors:** Specific product ID, safety sheets showing failures[2]. **Practical guidance:** Attorney coordinates comp and suit; clock starts on comp filing. Preserve evidence. **Dual claims possible.**"
+      }
+    }
+  ]
+}

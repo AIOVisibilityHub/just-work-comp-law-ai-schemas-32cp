@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I was running when I slipped at work, will they say it's my fault?",
+  "description": "No-fault system—your actions rarely deny workers' comp benefits.",
+  "url": "https://justworkcomplaw.com/faq/general-i-was-running-when-i-slipped-at-work-will-they-say-it-s-my-fault-57",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I was running when I slipped at work, will they say it's my fault?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No-fault system—your actions rarely deny workers' comp benefits.",
+        "description": "**Workers' comp is no-fault, so your contributory negligence doesn't bar benefits in Utah or Idaho.** You get coverage regardless of horseplay unless intentional misconduct.[1] Key factors: (1) Benefits reduced only for intoxication; (2) Employer can't deny for partial fault; (3) Focus on injury causation. Still report fully. Lawyer protects against blame-shifting."
+      }
+    }
+  ]
+}

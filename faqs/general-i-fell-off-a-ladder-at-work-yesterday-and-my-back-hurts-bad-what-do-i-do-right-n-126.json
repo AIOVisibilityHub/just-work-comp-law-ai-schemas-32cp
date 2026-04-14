@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I fell off a ladder at work yesterday and my back hurts bad, what do I do right now?",
+  "description": "Get medical help now, report to supervisor in writing, take photos, and don't talk to insurance alone.",
+  "url": "https://justworkcomplaw.com/faq/general-i-fell-off-a-ladder-at-work-yesterday-and-my-back-hurts-bad-what-do-i-do-right-n-126",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I fell off a ladder at work yesterday and my back hurts bad, what do I do right now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Get medical help now, report to supervisor in writing, take photos, and don't talk to insurance alone.",
+        "description": "**Seek immediate medical attention** and report the incident to your supervisor in writing.[3]\n\nFalls from ladders often cause serious injuries like fractures or herniated discs that may not show symptoms right away.[1] Delaying care can weaken your claim by suggesting injuries were aggravated later.[3]\n\n- Document everything: photos of the ladder/scene, witness names.\n- Get a doctor's note detailing injuries and work restrictions.\n- Avoid giving recorded statements to insurance without advice.\n\nNotify your employer promptly to start workers' comp; in Utah/Idaho, benefits cover medical and lost wages regardless of fault.[intent: immediate_action]"
+      }
+    }
+  ]
+}

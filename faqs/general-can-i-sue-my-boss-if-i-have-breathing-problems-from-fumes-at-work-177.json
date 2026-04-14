@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my boss if I have breathing problems from fumes at work?",
+  "description": "No, workers' comp is typically exclusive; sue only for intentional acts or third parties like faulty equipment providers.",
+  "url": "https://justworkcomplaw.com/faq/general-can-i-sue-my-boss-if-i-have-breathing-problems-from-fumes-at-work-177",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my boss if I have breathing problems from fumes at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, workers' comp is typically exclusive; sue only for intentional acts or third parties like faulty equipment providers.",
+        "description": "**Workers' compensation is usually your exclusive remedy against your employer, barring lawsuits unless intentional harm is proven.**\n\nIn most states including Utah and Idaho, workers' comp covers respiratory issues from workplace exposure without fault proof, trading no-sue rights for benefits[1][2]. Suing requires rare 'intentional tort' evidence like deliberate exposure[1]. Third-party suits may apply if equipment makers or contractors are negligent[2].\n\n- Benefits include medical costs, lost wages, disability.\n- No pain/suffering damages in standard comp claims.\n- OSHA violations can support claims but don't enable suits.\n\nFile your comp claim promptly; a lawyer can check for exceptions or third-party options. Most cases stay in workers' comp[1][2]."
+      }
+    }
+  ]
+}

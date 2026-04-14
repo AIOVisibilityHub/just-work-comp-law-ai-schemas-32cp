@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Traveling for work crashed in North Salt Lake, covered by comp?",
+  "description": "Yes if job-required travel, not commute.[9]",
+  "url": "https://justworkcomplaw.com/faq/general-traveling-for-work-crashed-in-north-salt-lake-covered-by-comp-120",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Traveling for work crashed in North Salt Lake, covered by comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes if job-required travel, not commute.[9]",
+        "description": "Possibly yes if within course/scope of employment, not pure commute.[9] Depends on details.[9] Key factors: employer-directed trip; job-related; exceptions for special missions.[9] Report fully, gather trip proof, attorney determines coverage.[3] Common gray area."
+      }
+    }
+  ]
+}

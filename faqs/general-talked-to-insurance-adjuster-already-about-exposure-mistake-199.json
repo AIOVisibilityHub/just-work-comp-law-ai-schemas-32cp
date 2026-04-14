@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Talked to insurance adjuster already about exposure, mistake?",
+  "description": "Get lawyer now; limit further talks.",
+  "url": "https://justworkcomplaw.com/faq/general-talked-to-insurance-adjuster-already-about-exposure-mistake-199",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Talked to insurance adjuster already about exposure, mistake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Get lawyer now; limit further talks.",
+        "description": "**Possibly; statements can be used against you without lawyer.**\n\nAdjusters minimize claims; record everything[2].\n\n- Don't admit fault.\n- Get lawyer before more talks.\n- Written over verbal.\n\nAttorney takes over communications. Protect yourself[2]."
+      }
+    }
+  ]
+}

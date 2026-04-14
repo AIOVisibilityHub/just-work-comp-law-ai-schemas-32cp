@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In Boise, workers comp hearing loss worth much?",
+  "description": "PPI per rating, medical.[4]",
+  "url": "https://justworkcomplaw.com/faq/general-in-boise-workers-comp-hearing-loss-worth-much-224",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In Boise, workers comp hearing loss worth much?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "PPI per rating, medical.[4]",
+        "description": "Varies by impairment; Idaho covers medical/PPI like aids, no TTD if working.[4] Context: Prove over age for award.[4] Key factors: % loss rating.[4] Practical guidance: Audiogram first, file with Industrial Commission; attorney values.[4][7] Case-specific."
+      }
+    }
+  ]
+}

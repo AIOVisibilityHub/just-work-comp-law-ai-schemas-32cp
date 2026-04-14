@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I quit my noisy job 2 years ago and just noticed hearing problems, can I still claim?",
+  "description": "Yes, within 1 year of last exposure in Utah; prove with tests.[1][3]",
+  "url": "https://justworkcomplaw.com/faq/general-i-quit-my-noisy-job-2-years-ago-and-just-noticed-hearing-problems-can-i-still-cl-205",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I quit my noisy job 2 years ago and just noticed hearing problems, can I still claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, within 1 year of last exposure in Utah; prove with tests.[1][3]",
+        "description": "Yes, if you file within the time limit from last exposure; Utah's 1-year SOL starts from final injurious noise.[1][3] Context: Former employees qualify for occupational disease claims with proof of work causation.[1] Key factors: Audiogram confirming NIHL, old exposure records, no recent non-work causes.[1][4] Practical guidance: Act fast—get tested, collect safety logs or witness statements, submit to state commission; attorney handles proof gaps.[3][7] Delays risk denial but appeals work."
+      }
+    }
+  ]
+}

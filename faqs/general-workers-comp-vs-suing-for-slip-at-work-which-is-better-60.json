@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Workers comp vs suing for slip at work, which is better?",
+  "description": "Comp for quick no-fault pay; sue third parties for extras.",
+  "url": "https://justworkcomplaw.com/faq/general-workers-comp-vs-suing-for-slip-at-work-which-is-better-60",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Workers comp vs suing for slip at work, which is better?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comp for quick no-fault pay; sue third parties for extras.",
+        "description": "**Workers' comp is faster and guaranteed if work-related; suing employer is barred, but third-party suits offer more damages.** Compare no-fault speed vs potential pain/suffering awards.[1] Key factors: (1) Comp: limited benefits; (2) Lawsuit: prove negligence, 4-year limit; (3) Both possible if contractor caused hazard. Assess with attorney. Comp first for quick aid."
+      }
+    }
+  ]
+}

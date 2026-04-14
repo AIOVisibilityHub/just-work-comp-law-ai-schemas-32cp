@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my employer if forklift crushed my leg on the job?",
+  "description": "Workers' comp is exclusive remedy unless intentional or uninsured; sue third parties.[3]",
+  "url": "https://justworkcomplaw.com/faq/general-can-i-sue-my-employer-if-forklift-crushed-my-leg-on-the-job-253",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my employer if forklift crushed my leg on the job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Workers' comp is exclusive remedy unless intentional or uninsured; sue third parties.[3]",
+        "description": "**Generally no, due to workers' compensation exclusive remedy, but yes if intentional harm or no insurance.** In Utah and Idaho, workers' comp covers job injuries like forklift accidents without suing the employer.[3] Exceptions: deliberate injury by supervisors or uninsured employers allow tort suits.[3] Key factors include proving intent (e.g., removed safety guards knowingly) or lack of coverage. For third-party fault like defective equipment, sue separately for full damages including pain and suffering.[1][3] File comp first, then explore exceptions with an attorney."
+      }
+    }
+  ]
+}

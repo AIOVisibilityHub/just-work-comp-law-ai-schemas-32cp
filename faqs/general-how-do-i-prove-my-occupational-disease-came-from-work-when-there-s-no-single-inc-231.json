@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I prove my occupational disease came from work when there's no single incident, like in Idaho?",
+  "description": "Use medical evidence, exposure records, and expert opinion to show work causation by preponderance.[2]",
+  "url": "https://justworkcomplaw.com/faq/general-how-do-i-prove-my-occupational-disease-came-from-work-when-there-s-no-single-inc-231",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I prove my occupational disease came from work when there's no single incident, like in Idaho?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use medical evidence, exposure records, and expert opinion to show work causation by preponderance.[2]",
+        "description": "Prove by preponderance that the disease arose out of and in the course of employment, showing work environment caused it.[2] For Idaho, it must be peculiar to your job, not common public hazards.[2] Key factors: Medical expert testimony; exposure logs; rule out non-work causes.[2] Collect coworker statements, job descriptions, and testing results. File with Idaho Industrial Commission and consider legal help for fact-finding."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a lawyer for my work injury claim or can I handle it myself in West Valley City?",
+  "description": "Better with a lawyer; they maximize benefits on contingency, handle denials free upfront.[2][3]",
+  "url": "https://justworkcomplaw.com/faq/work-injury-claim-do-i-need-a-lawyer-for-my-work-injury-claim-or-can-i-handle-it-myself-in-west-va-103",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a lawyer for my work injury claim or can I handle it myself in West Valley City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Better with a lawyer; they maximize benefits on contingency, handle denials free upfront.[2][3]",
+        "description": "You can try handling it yourself, but most injured workers benefit from a lawyer due to insurance tactics and complexity.[2][3] Insurers often lowball settlements or deny claims without legal pushback.[2] Key factors: lawyers work contingency (no upfront fees); they handle deadlines, appeals, maximize benefits; free consults available.[3] Avoid recorded statements alone, don't accept first offers, consult an attorney experienced in Utah workers' comp to protect your claim.[2]"
+      }
+    }
+  ]
+}

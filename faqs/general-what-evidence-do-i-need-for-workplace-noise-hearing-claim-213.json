@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence do I need for workplace noise hearing claim?",
+  "description": "Audiograms, noise logs, no-protection proof.[1]",
+  "url": "https://justworkcomplaw.com/faq/general-what-evidence-do-i-need-for-workplace-noise-hearing-claim-213",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence do I need for workplace noise hearing claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Audiograms, noise logs, no-protection proof.[1]",
+        "description": "Audiograms, noise level docs, protection records, witness statements, medical opinions.[1][2] Context: Builds direct job link and negligence.[1] Key factors: OSHA violations, pre/post tests, coworker issues.[2] Practical guidance: Request employer records, test ASAP, file with all; lawyer organizes.[7] Comprehensive proof essential."
+      }
+    }
+  ]
+}

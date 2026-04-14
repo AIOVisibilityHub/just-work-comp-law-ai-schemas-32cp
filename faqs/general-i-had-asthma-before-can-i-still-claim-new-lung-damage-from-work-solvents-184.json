@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I had asthma before, can I still claim new lung damage from work solvents?",
+  "description": "Yes, covers aggravation; prove worsening via doctor.",
+  "url": "https://justworkcomplaw.com/faq/general-i-had-asthma-before-can-i-still-claim-new-lung-damage-from-work-solvents-184",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I had asthma before, can I still claim new lung damage from work solvents?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, covers aggravation; prove worsening via doctor.",
+        "description": "**Yes, if exposure aggravated or caused new harm, per medical proof.**\n\nWorkers' comp covers aggravation of pre-existing conditions[2][8]. Doctor must differentiate work-related worsening[3].\n\n- Baseline records help.\n- Objective tests like spirometry.\n- No need to prove sole cause.\n\nGet specialist evaluation; attorney argues apportionment. Viable with strong MD opinion[8]."
+      }
+    }
+  ]
+}

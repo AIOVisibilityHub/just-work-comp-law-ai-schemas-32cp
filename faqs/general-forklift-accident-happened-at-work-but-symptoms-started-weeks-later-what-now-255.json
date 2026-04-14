@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Forklift accident happened at work but symptoms started weeks later what now?",
+  "description": "Report delayed symptoms to doctor/employer ASAP; comp covers if causally linked.[3]",
+  "url": "https://justworkcomplaw.com/faq/general-forklift-accident-happened-at-work-but-symptoms-started-weeks-later-what-now-255",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Forklift accident happened at work but symptoms started weeks later what now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report delayed symptoms to doctor/employer ASAP; comp covers if causally linked.[3]",
+        "description": "**Yes, delayed symptoms from work forklift accidents qualify for workers' comp if linked to the incident.** Medical records must connect the delay to the job injury.[3] Key factors: See a doctor immediately upon symptoms, get opinions tying it to the accident, and notify employer promptly. Utah presumes on-premises injuries work-related.[3] Avoid gaps in treatment; document everything for claim approval despite delay.[2]"
+      }
+    }
+  ]
+}

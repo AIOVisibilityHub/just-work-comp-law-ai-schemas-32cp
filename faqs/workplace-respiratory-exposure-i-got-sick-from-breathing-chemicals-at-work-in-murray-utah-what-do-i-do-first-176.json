@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I got sick from breathing chemicals at work in Murray Utah, what do I do first?",
+  "description": "File a workers' comp claim right away, document exposure details, see a doctor for a work-related diagnosis, and report to your employer in writing.",
+  "url": "https://justworkcomplaw.com/faq/workplace-respiratory-exposure-i-got-sick-from-breathing-chemicals-at-work-in-murray-utah-what-do-i-do-first-176",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I got sick from breathing chemicals at work in Murray Utah, what do I do first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "File a workers' comp claim right away, document exposure details, see a doctor for a work-related diagnosis, and report to your employer in writing.",
+        "description": "**File a workers' compensation claim immediately with your employer.**\n\nWorkplace respiratory exposure often qualifies as a work-related injury covered by workers' comp in Utah, providing medical benefits and wage replacement without proving fault[1][2]. Employers must follow OSHA rules for safe conditions, including PPE and hazard warnings; failure can strengthen your claim[1].\n\n- **Document everything**: Note exposure date, location, chemicals involved, symptoms, and witnesses.\n- **Seek medical care**: Get a doctor's diagnosis linking symptoms to work exposure.\n- **Report to employer in writing** and notify OSHA if hazards persist.\n- **Avoid signing anything** without understanding.\n\nNotify your employer within Utah's 180-day limit and consult a workers' comp attorney to file properly. Act quickly to preserve benefits[1][2]."
+      }
+    }
+  ]
+}

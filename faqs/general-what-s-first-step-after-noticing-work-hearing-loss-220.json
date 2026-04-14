@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's first step after noticing work hearing loss?",
+  "description": "Audiogram and notify employer.[6]",
+  "url": "https://justworkcomplaw.com/faq/general-what-s-first-step-after-noticing-work-hearing-loss-220",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's first step after noticing work hearing loss?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Audiogram and notify employer.[6]",
+        "description": "Get audiogram and notify employer in writing.[6][7] Context: Starts medical proof and claim process.[6] Key factors: Early testing shows baseline damage.[1] Practical guidance: See doctor, file incident report, consult lawyer before insurer; preserve evidence.[7] Act within days."
+      }
+    }
+  ]
+}

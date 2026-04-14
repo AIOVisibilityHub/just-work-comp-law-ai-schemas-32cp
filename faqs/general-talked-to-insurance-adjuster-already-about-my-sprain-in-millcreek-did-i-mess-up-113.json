@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Talked to insurance adjuster already about my sprain in Millcreek, did I mess up?",
+  "description": "May hurt but fixable; lawyer reviews, halts further talks.[2]",
+  "url": "https://justworkcomplaw.com/faq/general-talked-to-insurance-adjuster-already-about-my-sprain-in-millcreek-did-i-mess-up-113",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Talked to insurance adjuster already about my sprain in Millcreek, did I mess up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "May hurt but fixable; lawyer reviews, halts further talks.[2]",
+        "description": "Possibly, adjusters seek statements to deny/lowball; avoid more without lawyer.[2] Stick to facts given.[2] Key factors: don't give recorded statement alone; they twist words; early talk risks claim.[2] Stop contact, consult attorney to counter any issues, protect remaining value.[3] Common mistake fixable."
+      }
+    }
+  ]
+}

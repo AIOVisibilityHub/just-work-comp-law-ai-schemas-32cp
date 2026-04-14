@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to value my case with ongoing chemical exposure effects?",
+  "description": "Medical + wages + future; expert calc[2].",
+  "url": "https://justworkcomplaw.com/faq/general-how-to-value-my-case-with-ongoing-chemical-exposure-effects-174",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to value my case with ongoing chemical exposure effects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical + wages + future; expert calc[2].",
+        "description": "**Sum medical, lost wages, future care, pain via experts; multipliers for toxics.** Settlements average $50k-$1M+[2]. **Key factors:** Life care plans, wage loss projections. **Practical guidance:** Independent medical exam. Negotiate post-MMI. **Experts set true value.**"
+      }
+    }
+  ]
+}

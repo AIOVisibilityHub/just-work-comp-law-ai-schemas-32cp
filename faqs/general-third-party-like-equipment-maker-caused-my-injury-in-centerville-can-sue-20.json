@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Third party like equipment maker caused my injury in Centerville, can sue?",
+  "description": "Yes for pain/suffering beyond comp[1][4].",
+  "url": "https://justworkcomplaw.com/faq/general-third-party-like-equipment-maker-caused-my-injury-in-centerville-can-sue-20",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Third party like equipment maker caused my injury in Centerville, can sue?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes for pain/suffering beyond comp[1][4].",
+        "description": "**Yes, pursue negligence suit alongside comp for extras.** Prove duty/breach/causation[1][3][4]. **Key factors:** Comp lien on settlement; no pain from employer. **Practical guidance:** Identify party, file within 4 years, lawyer coordinates. **Often doubles recovery.**"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Denied comp because 'not work-related', now what?",
+  "description": "Appeal with stronger medical proof.",
+  "url": "https://justworkcomplaw.com/faq/general-denied-comp-because-not-work-related-now-what-193",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Denied comp because 'not work-related', now what?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal with stronger medical proof.",
+        "description": "**Request reconsideration with new doctor evidence, then appeal to hearing.**\n\nChallenge causation denial; specialist reports overturn[8][2].\n\n- Get independent medical exam.\n- Add exposure docs.\n- Deadlines 20-60 days.\n\nAttorney handles appeals successfully often. Persistence pays[2]."
+      }
+    }
+  ]
+}

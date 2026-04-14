@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of payout can I get for work-related breathing problems?",
+  "description": "Medical, 2/3 wages, disability benefits; $20K-$100K+ typical, more via third-party.",
+  "url": "https://justworkcomplaw.com/faq/general-what-kind-of-payout-can-i-get-for-work-related-breathing-problems-180",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of payout can I get for work-related breathing problems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical, 2/3 wages, disability benefits; $20K-$100K+ typical, more via third-party.",
+        "description": "**Workers' comp covers medical bills, lost wages (60-70% usually), and disability; averages $20K-$100K+ depending on severity.**\n\nSevere cases add permanent partial disability or retraining[3]. No pain/suffering in comp; third-party suits allow more[1][2].\n\n- Factors: time off work, impairment rating, future care.\n- Utah/Idaho caps apply.\n- Settlements common post-medical evaluation.\n\nGet impairment rating; lawyer maximizes value via negotiation. Values vary widely[1]."
+      }
+    }
+  ]
+}

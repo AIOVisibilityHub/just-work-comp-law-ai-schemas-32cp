@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence do I need for on-the-job injury claim in West Jordan?",
+  "description": "Medical records, reports, witnesses, photos, wages.[3]",
+  "url": "https://justworkcomplaw.com/faq/general-what-evidence-do-i-need-for-on-the-job-injury-claim-in-west-jordan-32",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence do I need for on-the-job injury claim in West Jordan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical records, reports, witnesses, photos, wages.[3]",
+        "description": "Gather medical records, incident reports, witness statements, photos of scene/hazards, wage stubs, and employer communications to prove injury occurred at work and extent of damages. This builds causation and value.[3] Key factors: contemporaneous documentation strongest, expert testimony for complex injuries, maintenance logs for negligence. Preserve evidence immediately, request employer reports; lawyer subpoenas more. Solid proof maximizes benefits."
+      }
+    }
+  ]
+}

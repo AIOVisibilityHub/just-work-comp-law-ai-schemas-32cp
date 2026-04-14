@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "No sick days for hearing test, does that hurt claim?",
+  "description": "No, claim PPI/medical.[4]",
+  "url": "https://justworkcomplaw.com/faq/general-no-sick-days-for-hearing-test-does-that-hurt-claim-222",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "No sick days for hearing test, does that hurt claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, claim PPI/medical.[4]",
+        "description": "No lost time doesn't bar; claim PPI and medical anyway.[4] Context: Idaho denied TTD but considered PPI.[4] Key factors: Impairment rating key.[4] Practical guidance: File regardless, get aids covered; attorney pushes benefits.[4][7] Focus on permanent loss."
+      }
+    }
+  ]
+}

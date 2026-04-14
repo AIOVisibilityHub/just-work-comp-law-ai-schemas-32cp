@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Injured walking under forklift load at warehouse job whose fault?",
+  "description": "Comp pays; avoid under loads per OSHA.[2][4]",
+  "url": "https://justworkcomplaw.com/faq/general-injured-walking-under-forklift-load-at-warehouse-job-whose-fault-269",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Injured walking under forklift load at warehouse job whose fault?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comp pays; avoid under loads per OSHA.[2][4]",
+        "description": "**Pedestrians shouldn't walk under raised loads; employer ensures safe paths, but comp covers regardless.** OSHA standards apply.[2][4] Key factors: Fault irrelevant for comp; third-party if signage/equipment poor.[3] Report near-misses too."
+      }
+    }
+  ]
+}

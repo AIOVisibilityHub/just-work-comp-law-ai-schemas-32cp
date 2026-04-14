@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the deadline to report my work-related hearing loss in Boise? I'm freaking out I waited too long.",
+  "description": "Report immediately to employer with medical proof; no fixed deadline but delays weaken your case under Idaho law.[2]",
+  "url": "https://justworkcomplaw.com/faq/general-what-s-the-deadline-to-report-my-work-related-hearing-loss-in-boise-i-m-freaking-227",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the deadline to report my work-related hearing loss in Boise? I'm freaking out I waited too long.",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report immediately to employer with medical proof; no fixed deadline but delays weaken your case under Idaho law.[2]",
+        "description": "In Idaho, report occupational diseases like hearing loss as soon as practicable, ideally immediately upon diagnosis, with no strict 180-day rule like Utah but prove it arose from employment.[2] Workers must prove the disease was incurred in the course of employment by preponderance of evidence.[2] Key factors: Gather medical records showing work causation; employer can't easily dismiss if on-the-job; delays make proof harder.[2] Notify your employer in writing now, seek authorized medical care, and file a claim promptly to avoid evidentiary issues. A local attorney can help navigate Idaho's Industrial Commission."
+      }
+    }
+  ]
+}

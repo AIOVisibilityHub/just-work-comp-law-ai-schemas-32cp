@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is fault decided in work ladder fall cases?",
+  "description": "Comp no-fault; suits need negligence proof.",
+  "url": "https://justworkcomplaw.com/faq/general-how-is-fault-decided-in-work-ladder-fall-cases-141",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is fault decided in work ladder fall cases?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comp no-fault; suits need negligence proof.",
+        "description": "**Workers' comp no-fault**; third-party negligence proven via unsafe ladder/site.[1][6]\n\nOSHA violations, improper equipment key.[5]\n\n- Expert on ladder standards.\n- Witness setup errors.\n- Maintenance logs.\n\nEmployer liable via comp; others sued."
+      }
+    }
+  ]
+}

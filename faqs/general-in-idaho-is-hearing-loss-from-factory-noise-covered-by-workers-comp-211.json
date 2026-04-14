@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In Idaho, is hearing loss from factory noise covered by workers comp?",
+  "description": "Yes, prove work causation.[4]",
+  "url": "https://justworkcomplaw.com/faq/general-in-idaho-is-hearing-loss-from-factory-noise-covered-by-workers-comp-211",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In Idaho, is hearing loss from factory noise covered by workers comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, prove work causation.[4]",
+        "description": "Yes, if proven as occupational disease from work exposure without protection.[4] Context: Idaho Industrial Commission handles claims; must show job causation over age.[4] Key factors: Audiology reports, exposure history, no TTD if no lost time.[4] Practical guidance: File with tests and records; lawyer argues against age defenses.[4][7] Benefits include medical and PPI."
+      }
+    }
+  ]
+}

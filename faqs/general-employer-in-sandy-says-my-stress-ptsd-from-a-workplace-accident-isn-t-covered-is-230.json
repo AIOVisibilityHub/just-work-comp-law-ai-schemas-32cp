@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Employer in Sandy says my stress PTSD from a workplace accident isn't covered, is that true?",
+  "description": "Not true; Utah covers PTSD with strong medical proof of work causation.[1]",
+  "url": "https://justworkcomplaw.com/faq/general-employer-in-sandy-says-my-stress-ptsd-from-a-workplace-accident-isn-t-covered-is-230",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Employer in Sandy says my stress PTSD from a workplace accident isn't covered, is that true?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not true; Utah covers PTSD with strong medical proof of work causation.[1]",
+        "description": "Utah covers mental health claims like PTSD if objective medical evidence shows it exceeds everyday job stress and arises from employment.[1] It's not automatically barred.[1] Key factors: Need proof beyond normal pressures; tied to specific incident; medical documentation essential.[1] Push back with psychiatrist reports and file Form 122. An attorney can challenge denials effectively."
+      }
+    }
+  ]
+}

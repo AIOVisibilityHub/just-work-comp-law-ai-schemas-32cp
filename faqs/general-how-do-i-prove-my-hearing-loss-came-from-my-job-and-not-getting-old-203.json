@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I prove my hearing loss came from my job and not getting old?",
+  "description": "Use audiograms showing NIHL pattern, noise logs, and expert ruling out age.[1][4]",
+  "url": "https://justworkcomplaw.com/faq/general-how-do-i-prove-my-hearing-loss-came-from-my-job-and-not-getting-old-203",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I prove my hearing loss came from my job and not getting old?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use audiograms showing NIHL pattern, noise logs, and expert ruling out age.[1][4]",
+        "description": "Prove causation with medical evidence like audiograms showing high-frequency NIHL patterns, plus workplace noise documentation.[1][4] Context: Courts require linking loss to job via OSHA logs, lack of protection, and expert opinions ruling out age-related causes.[1][4] Key factors: Pre- and post-exposure hearing tests, decibel measurements over 85 dB, coworker testimonies, employer negligence.[1][2] Practical guidance: Request your medical and exposure records, see an audiologist for a work-related diagnosis, avoid insurer talks alone; hire an attorney for expert witnesses.[2][7] Strong proof overcomes age defenses."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My workers comp claim got denied in Millcreek, what are my next steps?",
+  "description": "Appeal via commission hearing; get a lawyer.[2][4]",
+  "url": "https://justworkcomplaw.com/faq/general-my-workers-comp-claim-got-denied-in-millcreek-what-are-my-next-steps-84",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My workers comp claim got denied in Millcreek, what are my next steps?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal via commission hearing; get a lawyer.[2][4]",
+        "description": "Request a hearing with the Utah Labor Commission or Idaho Industrial Commission immediately after denial notice.[1][4] Appeals preserve rights if filed timely.[2] Key factors: Gather more medical proof; show AOE/COE; rebut insurer reasons.[1] Practical guidance: Don't sign settlements yet, get legal representation for hearings, and continue treatment. Many denials reverse with proper advocacy."
+      }
+    }
+  ]
+}

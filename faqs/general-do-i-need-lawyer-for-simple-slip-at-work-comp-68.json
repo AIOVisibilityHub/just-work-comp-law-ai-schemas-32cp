@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need lawyer for simple slip at work comp?",
+  "description": "Highly recommended—boosts value, fights denials.",
+  "url": "https://justworkcomplaw.com/faq/general-do-i-need-lawyer-for-simple-slip-at-work-comp-68",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need lawyer for simple slip at work comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Highly recommended—boosts value, fights denials.",
+        "description": "**Yes, even simple claims benefit from lawyers who increase payouts 2-3x and handle denials.** Free consult, no win no fee.[1] Key factors: (1) Insurers lowball; (2) Navigate rules; (3) Permanent ratings higher. Many settle wrong without help. Call experienced one."
+      }
+    }
+  ]
+}

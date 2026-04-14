@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long til I get check after falling at work?",
+  "description": "2-4 weeks typically; lawyer accelerates.",
+  "url": "https://justworkcomplaw.com/faq/general-how-long-til-i-get-check-after-falling-at-work-63",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long til I get check after falling at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "2-4 weeks typically; lawyer accelerates.",
+        "description": "**First workers' comp check in 2-4 weeks if undisputed; complex cases take months.** Utah mandates first payment within 20 days of claim.[1] Key factors: (1) Retroactive from disability date; (2) Delays for investigation; (3) Appeals extend. Track status. Attorney speeds process."
+      }
+    }
+  ]
+}

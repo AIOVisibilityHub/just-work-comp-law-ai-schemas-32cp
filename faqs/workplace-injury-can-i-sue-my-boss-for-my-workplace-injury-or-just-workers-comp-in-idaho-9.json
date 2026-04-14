@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my boss for my workplace injury or just workers comp in Idaho?",
+  "description": "No, exclusive remedy unless intentional/no insurance[4].",
+  "url": "https://justworkcomplaw.com/faq/workplace-injury-can-i-sue-my-boss-for-my-workplace-injury-or-just-workers-comp-in-idaho-9",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my boss for my workplace injury or just workers comp in Idaho?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, exclusive remedy unless intentional/no insurance[4].",
+        "description": "**Usually no—workers comp is exclusive remedy barring employer suits except intentional acts or no insurance.** Idaho follows this; third-parties suable separately[4][6]. **Key factors:** Prove deliberate harm rare; uninsured employer loses shield. **Practical guidance:** Stick to comp claim first; identify third-parties like equipment makers for extra damages. Consult lawyer. **Comp provides no-fault benefits faster.**"
+      }
+    }
+  ]
+}

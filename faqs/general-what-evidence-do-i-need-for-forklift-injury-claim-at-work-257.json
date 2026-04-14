@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence do I need for forklift injury claim at work?",
+  "description": "Med records, reports, photos, witnesses; file Form 122.[2][3]",
+  "url": "https://justworkcomplaw.com/faq/general-what-evidence-do-i-need-for-forklift-injury-claim-at-work-257",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence do I need for forklift injury claim at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Med records, reports, photos, witnesses; file Form 122.[2][3]",
+        "description": "**Medical records, incident reports, witness statements, photos, and expert opinions on causation.** These prove injury arose from employment.[3] Key factors: Document scene immediately, get employer report, preserve forklift maintenance logs for defects.[1][2] Videos/security footage strengthen negligence against third parties. Avoid admitting fault early."
+      }
+    }
+  ]
+}

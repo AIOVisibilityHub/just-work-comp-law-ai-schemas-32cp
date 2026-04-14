@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence do I need for my ladder fall work injury claim?",
+  "description": "Photos, medical records, witnesses, reports, ladder condition.",
+  "url": "https://justworkcomplaw.com/faq/work-injury-claim-what-evidence-do-i-need-for-my-ladder-fall-work-injury-claim-131",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence do I need for my ladder fall work injury claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Photos, medical records, witnesses, reports, ladder condition.",
+        "description": "**Gather medical records, scene photos, witness contacts, incident reports**.[4]\n\nLadders often fail from improper setup/maintenance; document ladder condition, height, safety gear absence.[1][5]\n\n- Video ladder defects.\n- Doctor notes linking injury to fall.\n- Pay stubs for wage loss.\n\nPreserve ASAP; chains of custody matter. Don't alter scene."
+      }
+    }
+  ]
+}

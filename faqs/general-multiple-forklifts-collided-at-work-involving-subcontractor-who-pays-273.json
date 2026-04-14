@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Multiple forklifts collided at work involving subcontractor who pays?",
+  "description": "Comp + third-party suit vs sub.[3]",
+  "url": "https://justworkcomplaw.com/faq/general-multiple-forklifts-collided-at-work-involving-subcontractor-who-pays-273",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Multiple forklifts collided at work involving subcontractor who pays?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comp + third-party suit vs sub.[3]",
+        "description": "**Your workers' comp first; sue negligent subcontractor as third-party.** Full tort damages possible.[3] Key factors: Prove their breach (e.g., untrained operator).[3] Comp carrier liens reduced in settlement."
+      }
+    }
+  ]
+}

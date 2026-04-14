@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if symptoms from work injury show up weeks later in Idaho?",
+  "description": "Report when noticed if within 60 days; get medical link.[3][10]",
+  "url": "https://justworkcomplaw.com/faq/general-what-if-symptoms-from-work-injury-show-up-weeks-later-in-idaho-89",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if symptoms from work injury show up weeks later in Idaho?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report when noticed if within 60 days; get medical link.[3][10]",
+        "description": "Still compensable if linked to work event; report when noticed, within 60 days max.[3][10] Delayed symptoms common in repetitive or latent injuries.[1] Key factors: Medical opinion on causation; timely overall reporting; document progression.[4] Practical guidance: See doctor promptly, explain work connection, and notify employer even late. Attorney proves nexus for approval."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Compare workers comp vs suing after job ladder fall?",
+  "description": "Comp fast no-fault; suit for extras.",
+  "url": "https://justworkcomplaw.com/faq/general-compare-workers-comp-vs-suing-after-job-ladder-fall-146",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Compare workers comp vs suing after job ladder fall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comp fast no-fault; suit for extras.",
+        "description": "**Comp: quick, no-fault medical/wages**; suing: pain damages, slower proof needed.[1][6]\n\nComp first, then third-party.\n\n| Aspect | Workers' Comp | Lawsuit |\n|--------|---------------|---------|\n| Fault | No | Yes |\n| Covers | Med/Wages | All + Pain |\n| Time | Fast | 1-2 yrs |\n\nBest: both if possible."
+      }
+    }
+  ]
+}

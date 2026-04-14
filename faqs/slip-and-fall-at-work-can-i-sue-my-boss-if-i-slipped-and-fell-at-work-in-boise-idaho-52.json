@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my boss if I slipped and fell at work in Boise Idaho?",
+  "description": "No, use workers' comp instead—it's no-fault coverage for work injuries.",
+  "url": "https://justworkcomplaw.com/faq/slip-and-fall-at-work-can-i-sue-my-boss-if-i-slipped-and-fell-at-work-in-boise-idaho-52",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my boss if I slipped and fell at work in Boise Idaho?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, use workers' comp instead—it's no-fault coverage for work injuries.",
+        "description": "**No, you generally cannot sue your employer for a slip and fall at work; workers' compensation is your exclusive remedy in Idaho and Utah.** These systems provide no-fault benefits for work injuries, protecting employers from lawsuits.[1] Key factors: (1) Covers medical bills and lost wages; (2) No need to prove fault; (3) Benefits limited to specific categories. If a third party caused the hazard, you might sue them separately. Contact a local workers' comp lawyer to file your claim and maximize benefits."
+      }
+    }
+  ]
+}

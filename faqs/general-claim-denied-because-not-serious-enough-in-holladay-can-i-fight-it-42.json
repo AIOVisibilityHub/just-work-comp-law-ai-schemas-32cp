@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Claim denied because 'not serious enough' in Holladay, can I fight it?",
+  "description": "Appeal with treatment proof; many win.[1]",
+  "url": "https://justworkcomplaw.com/faq/general-claim-denied-because-not-serious-enough-in-holladay-can-i-fight-it-42",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Claim denied because 'not serious enough' in Holladay, can I fight it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal with treatment proof; many win.[1]",
+        "description": "Yes, appeal showing ongoing treatment, lost work, impairment; Utah comp covers even minor if work-related. Burden on you initially.[1] Key factors: new doctor reports, functional limits proof. File ALJ hearing, subpoena records; win reinstatement. Denials often overturned."
+      }
+    }
+  ]
+}

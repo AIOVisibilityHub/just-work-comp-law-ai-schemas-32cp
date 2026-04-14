@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is fault determined in work injury cases?",
+  "description": "No-fault system; coverage based on work connection, not blame.[1]",
+  "url": "https://justworkcomplaw.com/faq/general-how-is-fault-determined-in-work-injury-cases-85",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is fault determined in work injury cases?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No-fault system; coverage based on work connection, not blame.[1]",
+        "description": "Workers' comp is no-fault—you don't prove employer negligence for benefits.[1][5] Fault matters only for third-party suits.[1] Key factors: AOE/COE test for coverage; employer can't deny for your partial fault usually.[1] Practical guidance: Focus on reporting and medical compliance, not blame; sue third parties separately if negligent. This system ensures quick aid."
+      }
+    }
+  ]
+}

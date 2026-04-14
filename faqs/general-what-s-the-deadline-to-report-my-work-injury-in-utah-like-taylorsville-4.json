@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the deadline to report my work injury in Utah like Taylorsville?",
+  "description": "180 days in Utah, but ASAP to avoid denial[1].",
+  "url": "https://justworkcomplaw.com/faq/general-what-s-the-deadline-to-report-my-work-injury-in-utah-like-taylorsville-4",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the deadline to report my work injury in Utah like Taylorsville?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "180 days in Utah, but ASAP to avoid denial[1].",
+        "description": "**Report within 180 days 'as soon as practicable' or benefits may be barred.** Utah Labor Commission presumes on-premises/clock injuries work-related[1]. Failure without good cause denies claims. **Key factors:** Written notice best for proof; email timestamps help; occupational diseases need medical causation. **Practical guidance:** Notify supervisor now via email detailing facts, then file Form 122. Don't wait for symptoms to worsen. **Timely reports secure coverage.**"
+      }
+    }
+  ]
+}

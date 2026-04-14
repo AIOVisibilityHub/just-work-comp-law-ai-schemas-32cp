@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How handle medical care after work comp approval in Sandy?",
+  "description": "Authorized doctors only, follow instructions[1].",
+  "url": "https://justworkcomplaw.com/faq/general-how-handle-medical-care-after-work-comp-approval-in-sandy-23",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How handle medical care after work comp approval in Sandy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Authorized doctors only, follow instructions[1].",
+        "description": "**Use authorized providers; get permission to switch.** Refusal suspends benefits[1]. **Key factors:** Keep appointments, save notes. **Practical guidance:** Follow plan, request referrals in writing. No self-pay risks. **Compliance ensures coverage.**"
+      }
+    }
+  ]
+}

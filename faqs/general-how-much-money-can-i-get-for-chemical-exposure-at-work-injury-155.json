@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much money can I get for chemical exposure at work injury?",
+  "description": "Medical 100%, wages 2/3, plus disability; third-party suits add more[2].",
+  "url": "https://justworkcomplaw.com/faq/general-how-much-money-can-i-get-for-chemical-exposure-at-work-injury-155",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much money can I get for chemical exposure at work injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical 100%, wages 2/3, plus disability; third-party suits add more[2].",
+        "description": "**Workers' comp covers medical bills, lost wages (60-70% of average), disability, and death benefits; no cap on medical.** Amounts depend on injury severity, like cancer vs. burns[2][4]. Third-party suits can yield more for negligence[2]. **Key factors:** Prove exposure levels exceeded safe limits (PEL/TLV)[2]; long-term effects boost value. **Practical guidance:** Track all costs, get impairment ratings. Attorney maximizes settlement. **Value varies widely by proof and state caps.**"
+      }
+    }
+  ]
+}

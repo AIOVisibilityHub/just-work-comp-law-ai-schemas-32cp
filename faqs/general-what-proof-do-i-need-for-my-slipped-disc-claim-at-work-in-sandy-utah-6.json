@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What proof do I need for my slipped disc claim at work in Sandy Utah?",
+  "description": "Medical reports, incident form, witnesses showing job link[1].",
+  "url": "https://justworkcomplaw.com/faq/general-what-proof-do-i-need-for-my-slipped-disc-claim-at-work-in-sandy-utah-6",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What proof do I need for my slipped disc claim at work in Sandy Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical reports, incident form, witnesses showing job link[1].",
+        "description": "**Medical records, incident report, witness statements, and wage docs proving work causation.** Utah requires objective evidence injury arose from employment[1]. **Key factors:** Timestamped notice; doctor notes linking to job; photos of hazard if possible. **Practical guidance:** Report in writing immediately, photograph scene, attend authorized exams, save all bills. No need to prove fault against employer. **Strong evidence speeds approval.**"
+      }
+    }
+  ]
+}

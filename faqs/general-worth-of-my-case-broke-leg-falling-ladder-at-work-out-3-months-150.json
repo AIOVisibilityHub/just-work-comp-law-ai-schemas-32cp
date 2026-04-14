@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Worth of my case: broke leg falling ladder at work, out 3 months?",
+  "description": "$50K+ depending on details.",
+  "url": "https://justworkcomplaw.com/faq/general-worth-of-my-case-broke-leg-falling-ladder-at-work-out-3-months-150",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Worth of my case: broke leg falling ladder at work, out 3 months?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$50K+ depending on details.",
+        "description": "**$50K-$150K typical** for fracture, lost wages, comp + third-party.[1]\n\nFactors: age, job, permanency.\n\n- Med $20K+, wages $15K.\n- Pain settlement extra.\n- No future work loss boosts.\n\nAttorney calculators precise."
+      }
+    }
+  ]
+}
