@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is workers comp or personal injury lawsuit better for toxic exposure?",
+  "description": "Comp for employer, suit for others.[5]",
+  "url": "https://justworkcomplaw.com/faq/general-is-workers-comp-or-personal-injury-lawsuit-better-for-toxic-exposure-185",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is workers comp or personal injury lawsuit better for toxic exposure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comp for employer, suit for others.[5]",
+        "description": "**Workers' comp for employer claims (faster, no fault-proof); lawsuits for third-party negligence (higher payouts possible).** Comp covers basics; suits add pain/suffering.[5][10] Compare: comp limits, suits need fault proof. Assess via lawyer."
+      }
+    }
+  ]
+}

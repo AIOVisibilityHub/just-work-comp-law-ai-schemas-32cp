@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Utah mine worker with hearing loss, special rules?",
-  "description": "1-year SOL, scheduled benefits.[3]",
   "url": "https://justworkcomplaw.com/faq/general-utah-mine-worker-with-hearing-loss-special-rules-219",
+  "name": "Utah mine worker with hearing loss, special rules?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Utah mine worker with hearing loss, special rules?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "1-year SOL, scheduled benefits.[3]",
+        "@type": "Answer",
         "description": "Standard Utah comp applies; 1-year SOL from last exposure.[3] Context: Sites like Kennecott have high noise, strong claims if unprotected.[3] Key factors: Scheduled binaural loss benefits.[3] Practical guidance: File with Labor Commission, document mine noise; attorney handles.[3][7] Industry common."
       }
     }
-  ]
+  ],
+  "description": "1-year SOL, scheduled benefits.[3]"
 }

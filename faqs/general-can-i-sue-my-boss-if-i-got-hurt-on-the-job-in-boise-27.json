@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my boss if I got hurt on the job in Boise?",
+  "description": "Workers' comp is usually your only remedy; you can't sue your employer unless intentional misconduct.[5]",
+  "url": "https://justworkcomplaw.com/faq/general-can-i-sue-my-boss-if-i-got-hurt-on-the-job-in-boise-27",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my boss if I got hurt on the job in Boise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Workers' comp is usually your only remedy; you can't sue your employer unless intentional misconduct.[5]",
+        "description": "**No, in Idaho and Utah, workers' compensation is generally your exclusive remedy against your employer for on-the-job injuries.**\n\nWorkers' comp laws provide no-fault benefits like medical care and lost wages in exchange for immunity from lawsuits.[5] Exceptions exist for intentional harm or gross negligence by the employer.\n\n- Third parties (e.g., equipment manufacturers) may be suable separately.\n- Prove employer intent or removed immunity to pursue a lawsuit.\n- Benefits cover 66-75% of wages plus medical costs.\n\nDocument everything and file promptly. An attorney can assess if exceptions apply in your case."
+      }
+    }
+  ]
+}

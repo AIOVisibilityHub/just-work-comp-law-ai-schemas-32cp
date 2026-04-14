@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Machine accident happened at work 3 months ago, is it too late to file in Boise?",
+  "description": "Probably not too late yet; notify employer immediately and get lawyer.",
+  "url": "https://justworkcomplaw.com/faq/general-machine-accident-happened-at-work-3-months-ago-is-it-too-late-to-file-in-boise-154",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Machine accident happened at work 3 months ago, is it too late to file in Boise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Probably not too late yet; notify employer immediately and get lawyer.",
+        "description": "In Idaho, file within 1 year of injury or knowledge; Utah 180 days for notice, 3 years for claim.[8] Delays risk denial but possible if good cause like delayed symptoms.[5] Key factors: Document why late; medical evidence shows progression; employer knew informally. Act now before deadline. Consult attorney for extensions or appeals."
+      }
+    }
+  ]
+}

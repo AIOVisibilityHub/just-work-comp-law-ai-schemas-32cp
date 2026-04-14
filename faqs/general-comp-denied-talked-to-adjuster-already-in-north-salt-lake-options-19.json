@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Comp denied, talked to adjuster already in North Salt Lake, options?",
+  "description": "Request ULC hearing; stop talking to adjuster.[3]",
+  "url": "https://justworkcomplaw.com/faq/general-comp-denied-talked-to-adjuster-already-in-north-salt-lake-options-19",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Comp denied, talked to adjuster already in North Salt Lake, options?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Request ULC hearing; stop talking to adjuster.[3]",
+        "description": "File Labor Commission hearing despite adjuster talks; their notes can be used against you.[3] Don't negotiate alone post-denial.[2] Key factors: (1) Gather all evidence; (2) Avoid new statements; (3) Prepare for cross-exam; (4) Third-party? Pursue.[3][4] Organize file, cease adjuster contact. Appeal reverses many denials."
+      }
+    }
+  ]
+}

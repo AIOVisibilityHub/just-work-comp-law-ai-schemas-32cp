@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My doctor says my cancer might be from years of paint fumes at work—now what?",
+  "description": "Prove job link via experts, file occupational claim.[9]",
+  "url": "https://justworkcomplaw.com/faq/general-my-doctor-says-my-cancer-might-be-from-years-of-paint-fumes-at-work-now-what-184",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My doctor says my cancer might be from years of paint fumes at work—now what?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prove job link via experts, file occupational claim.[9]",
+        "description": "**File workers' comp for occupational disease, proving substantial job causation.** Latent effects qualify if linked.[9][1] Timeline: exposure history, medical nexus. Get specialist eval, notify employer. Long-term claims succeed with documentation."
+      }
+    }
+  ]
+}

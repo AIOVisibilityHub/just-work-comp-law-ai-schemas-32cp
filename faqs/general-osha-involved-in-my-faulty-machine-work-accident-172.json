@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "OSHA involved in my faulty machine work accident?",
+  "description": "Yes, report for safety/enforce benefits.",
+  "url": "https://justworkcomplaw.com/faq/general-osha-involved-in-my-faulty-machine-work-accident-172",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "OSHA involved in my faulty machine work accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, report for safety/enforce benefits.",
+        "description": "File complaint if unsafe conditions; helps your comp case.[5][2] Key factors: Report defects anonymously; citations pressure employer. Not direct payout."
+      }
+    }
+  ]
+}

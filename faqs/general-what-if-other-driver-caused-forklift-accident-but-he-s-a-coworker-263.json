@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if other driver caused forklift accident but he's a coworker?",
-  "description": "Comp benefits; sue third-party equipment providers.[3]",
   "url": "https://justworkcomplaw.com/faq/general-what-if-other-driver-caused-forklift-accident-but-he-s-a-coworker-263",
+  "name": "What if other driver caused forklift accident but he's a coworker?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "What if other driver caused forklift accident but he's a coworker?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Comp benefits; sue third-party equipment providers.[3]",
+        "@type": "Answer",
         "description": "**Workers' comp covers you; can't sue coworker usually, but third-party if equipment maker at fault.** Exclusive remedy bars co-employee suits.[3] Key factors: Identify defective parts/manufacturers for separate negligence claim.[1][3] Comp pays regardless of who."
       }
     }
-  ]
+  ],
+  "description": "Comp benefits; sue third-party equipment providers.[3]"
 }

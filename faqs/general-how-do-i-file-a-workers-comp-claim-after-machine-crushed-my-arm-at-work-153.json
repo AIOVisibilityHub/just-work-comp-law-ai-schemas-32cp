@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I file a workers comp claim after machine crushed my arm at work?",
+  "description": "Tell employer ASAP, get treated, they file claim. Lawyer helps.",
+  "url": "https://justworkcomplaw.com/faq/general-how-do-i-file-a-workers-comp-claim-after-machine-crushed-my-arm-at-work-153",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I file a workers comp claim after machine crushed my arm at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tell employer ASAP, get treated, they file claim. Lawyer helps.",
+        "description": "Notify employer in writing within 180 days (Utah), get medical treatment, and employer files Form 200 with insurer.[8] Process starts with medical report linking injury to machine accident.[1][4] Key factors: Use authorized doctors; keep records of treatment; attend independent exams. If third-party like machine maker at fault, sue separately.[6] Track all communications. Attorney handles paperwork to maximize benefits."
+      }
+    }
+  ]
+}

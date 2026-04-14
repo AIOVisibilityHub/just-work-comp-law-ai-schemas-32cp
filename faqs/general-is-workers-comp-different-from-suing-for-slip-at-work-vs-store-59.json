@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is workers comp different from suing for slip at work vs store?",
+  "description": "Comp: no-fault, limited damages; store: fault-based, full damages possible.",
+  "url": "https://justworkcomplaw.com/faq/general-is-workers-comp-different-from-suing-for-slip-at-work-vs-store-59",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is workers comp different from suing for slip at work vs store?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comp: no-fault, limited damages; store: fault-based, full damages possible.",
+        "description": "Workplace slips use no-fault workers' comp for medical/wages only; public property slips allow negligence lawsuits for pain/suffering too. Comp faster but caps benefits[1][2]. Key factors: Comp exclusive remedy vs employer; third-party suits possible if contractor at fault. Store claims need prove owner notice of hazard. Comp bars employer suits."
+      }
+    }
+  ]
+}

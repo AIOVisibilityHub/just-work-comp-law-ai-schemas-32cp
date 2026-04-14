@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In Utah, is silicosis from construction work compensable?",
+  "description": "Yes, as occupational illness[9].",
+  "url": "https://justworkcomplaw.com/faq/general-in-utah-is-silicosis-from-construction-work-compensable-218",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In Utah, is silicosis from construction work compensable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, as occupational illness[9].",
+        "description": "Yes, cumulative silica exposure qualifies as occupational disease under workers' comp, covering lung damage. Strong with industry links[9]. - X-rays, exposure logs key. Utah recognizes. File with pulmonologist report."
+      }
+    }
+  ]
+}

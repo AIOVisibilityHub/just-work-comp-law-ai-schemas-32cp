@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my boss if I was exposed to toxic fumes at work in Boise?",
+  "description": "File workers' comp first; sue third parties if applicable, not employer directly.[2][5]",
+  "url": "https://justworkcomplaw.com/faq/general-can-i-sue-my-boss-if-i-was-exposed-to-toxic-fumes-at-work-in-boise-177",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my boss if I was exposed to toxic fumes at work in Boise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "File workers' comp first; sue third parties if applicable, not employer directly.[2][5]",
+        "description": "**In most cases, you cannot sue your employer directly but can file a workers' compensation claim; third-party suits are possible if another party is negligent.** Workers' comp is the exclusive remedy for job-related injuries in Idaho and Utah, providing no-fault benefits.[5][2] Factors: employer negligence like missing PPE, long-term vs. acute exposure, provable causation. Report to OSHA, gather medical records, avoid signing insurer releases hastily. Consider a lawyer for complex toxic cases."
+      }
+    }
+  ]
+}

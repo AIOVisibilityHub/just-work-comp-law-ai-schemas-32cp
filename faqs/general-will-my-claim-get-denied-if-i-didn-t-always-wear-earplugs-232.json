@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will my claim get denied if I didn't always wear earplugs?",
+  "description": "Often no, if employer negligent.[1]",
+  "url": "https://justworkcomplaw.com/faq/general-will-my-claim-get-denied-if-i-didn-t-always-wear-earplugs-232",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will my claim get denied if I didn't always wear earplugs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Often no, if employer negligent.[1]",
+        "description": "**Not necessarily; employer duty to provide protection and safe conditions often outweighs inconsistent use if negligence proven.**\n\nClaims succeed if noise exceeded OSHA limits and employer failed duties.[1][3] Partial compliance doesn't bar recovery.\n\n**Key factors:**\n- Proof employer didn't supply or enforce protection.\n- Your exposure history vs. protection availability.\n- Severity of loss from cumulative noise.\n- No gross negligence on your part.\n\nDocument what was provided; attorney navigates defenses.[2] Many win despite imperfect use.\n\nFocus on employer faults."
+      }
+    }
+  ]
+}

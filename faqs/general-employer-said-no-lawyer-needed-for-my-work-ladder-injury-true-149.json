@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Employer said no lawyer needed for my work ladder injury, true?",
+  "description": "False; lawyers increase payouts significantly.[2]",
+  "url": "https://justworkcomplaw.com/faq/general-employer-said-no-lawyer-needed-for-my-work-ladder-injury-true-149",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Employer said no lawyer needed for my work ladder injury, true?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "False; lawyers increase payouts significantly.[2]",
+        "description": "No, insurers lowball without representation; lawyers secure 2-3x more on average.[2][3]\n\nHandle complexities like denials or third-parties.[1]\n\n- Free consult, contingency pay.\n- Spot extra claims.\n- Negotiate better.\n\nInsist on independent advice; protect your future."
+      }
+    }
+  ]
+}

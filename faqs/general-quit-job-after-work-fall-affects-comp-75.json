@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Quit job after work fall, affects comp?",
+  "description": "No impact; comp separate from job status.",
+  "url": "https://justworkcomplaw.com/faq/general-quit-job-after-work-fall-affects-comp-75",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Quit job after work fall, affects comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No impact; comp separate from job status.",
+        "description": "No, benefits continue independently of employment status in UT/ID[3]. Key factors: Can't quit to inflate TPD. Prove unrelated to claim."
+      }
+    }
+  ]
+}

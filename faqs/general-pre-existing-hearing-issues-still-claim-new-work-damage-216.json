@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Pre-existing hearing issues, still claim new work damage?",
-  "description": "Yes, for work aggravation.[5]",
   "url": "https://justworkcomplaw.com/faq/general-pre-existing-hearing-issues-still-claim-new-work-damage-216",
+  "name": "Pre-existing hearing issues, still claim new work damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Pre-existing hearing issues, still claim new work damage?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, for work aggravation.[5]",
+        "@type": "Answer",
         "description": "Yes, claim aggravation from work noise; comp covers worsened loss.[5] Context: Prove job accelerated progression.[1] Key factors: Baseline tests vs. current, NIHL pattern.[1][4] Practical guidance: Get comparative audiograms, file claim; lawyer differentiates.[7] Aggravation compensable."
       }
     }
-  ]
+  ],
+  "description": "Yes, for work aggravation.[5]"
 }

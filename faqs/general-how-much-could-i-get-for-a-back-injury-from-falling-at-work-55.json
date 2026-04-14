@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much could I get for a back injury from falling at work?",
+  "description": "$20k-$50k typical for back in UT workers' comp, based on wages/medical/impairment.",
+  "url": "https://justworkcomplaw.com/faq/general-how-much-could-i-get-for-a-back-injury-from-falling-at-work-55",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much could I get for a back injury from falling at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$20k-$50k typical for back in UT workers' comp, based on wages/medical/impairment.",
+        "description": "Workers' comp settlements in Utah average $20,000-$50,000 for back injuries but vary by medical costs, lost wages, impairment rating, and return-to-work ability. No pain/suffering damages, only economic losses[10]. Key factors: TTD max $1,100/week, PPI based on AMA guides; multiply impairment % by body part value. Get full medical evaluation, negotiate via attorney. Comparable cases settle post-MMI (maximum medical improvement)."
+      }
+    }
+  ]
+}

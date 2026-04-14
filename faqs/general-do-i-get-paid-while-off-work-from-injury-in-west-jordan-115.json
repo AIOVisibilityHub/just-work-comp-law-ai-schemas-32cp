@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I get paid while off work from injury in West Jordan?",
+  "description": "Yes, 2/3 wages as TTD benefits.",
+  "url": "https://justworkcomplaw.com/faq/general-do-i-get-paid-while-off-work-from-injury-in-west-jordan-115",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I get paid while off work from injury in West Jordan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, 2/3 wages as TTD benefits.",
+        "description": "Yes, temporary total disability at 2/3 wages, max 52 weeks or until return. Key factors: Doctor releases needed; Utah rates 66 2/3% AWW. Apply after 3 missed days. Track earnings."
+      }
+    }
+  ]
+}

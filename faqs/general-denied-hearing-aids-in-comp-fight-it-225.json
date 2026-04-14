@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Denied hearing aids in comp, fight it?",
-  "description": "Appeal with doctor proof.[4]",
   "url": "https://justworkcomplaw.com/faq/general-denied-hearing-aids-in-comp-fight-it-225",
+  "name": "Denied hearing aids in comp, fight it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Denied hearing aids in comp, fight it?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Appeal with doctor proof.[4]",
+        "@type": "Answer",
         "description": "Yes, appeal for medical necessity proof.[4] Context: Idaho paid some but disputed aids.[4] Key factors: Doctor recommendation, work link.[1] Practical guidance: Submit Rx, lawyer negotiates; OSHA backs need.[2][7] Often won on appeal."
       }
     }
-  ]
+  ],
+  "description": "Appeal with doctor proof.[4]"
 }

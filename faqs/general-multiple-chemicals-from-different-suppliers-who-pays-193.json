@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Multiple chemicals from different suppliers—who pays?",
+  "description": "Comp + multi-party suits.[1]",
+  "url": "https://justworkcomplaw.com/faq/general-multiple-chemicals-from-different-suppliers-who-pays-193",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Multiple chemicals from different suppliers—who pays?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comp + multi-party suits.[1]",
+        "description": "**Workers' comp first, then apportion third-party liability.** Each negligent party shares.[1] Trace sources via manifests. Lawyer coordinates."
+      }
+    }
+  ]
+}

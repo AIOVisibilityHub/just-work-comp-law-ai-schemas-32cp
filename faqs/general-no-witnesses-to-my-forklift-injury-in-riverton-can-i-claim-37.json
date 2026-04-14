@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "No witnesses to my forklift injury in Riverton, can I claim?",
+  "description": "Yes, medical proof and your account work.[6]",
+  "url": "https://justworkcomplaw.com/faq/general-no-witnesses-to-my-forklift-injury-in-riverton-can-i-claim-37",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "No witnesses to my forklift injury in Riverton, can I claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, medical proof and your account work.[6]",
+        "description": "**Yes, your testimony, medical records, and circumstantial evidence suffice.**[6]\n\nWorkers' comp doesn't require witnesses; focus on medical causation from work.\n\n- Photos of scene/equipment.\n- Supervisor statements.\n- Consistent doctor history.\n\nBuild case early. Insurers deny solo claims often; lawyer helps."
+      }
+    }
+  ]
+}

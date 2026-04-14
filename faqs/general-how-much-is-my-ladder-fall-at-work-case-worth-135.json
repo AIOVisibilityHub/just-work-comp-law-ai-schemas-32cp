@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much is my ladder fall at work case worth?",
+  "description": "$20K-$500K+ depending on injuries and fault; lawyer assesses.[2]",
+  "url": "https://justworkcomplaw.com/faq/general-how-much-is-my-ladder-fall-at-work-case-worth-135",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much is my ladder fall at work case worth?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$20K-$500K+ depending on injuries and fault; lawyer assesses.[2]",
+        "description": "Case value ranges $20K-$500K+ based on injury severity, lost wages, and liability; fractures average $50K, spinal $150K+.[1][2]\n\nFactors include medical costs, work impact, and pain; third-party claims increase via full damages.[3]\n\n- Mild: $20K-50K.\n- Severe/paralysis: $300K+.\n- Add future care.\n\nGet a free evaluation from a specialist; track all losses accurately.[2] Settlements vary by state."
+      }
+    }
+  ]
+}

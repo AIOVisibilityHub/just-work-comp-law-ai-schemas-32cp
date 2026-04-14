@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I slipped and fell at work in Murray yesterday, what do I do first?",
+  "description": "Report your work injury to your employer in writing immediately (within 180 days in Utah) and seek medical care.[5]",
+  "url": "https://justworkcomplaw.com/faq/on-the-job-accident-i-slipped-and-fell-at-work-in-murray-yesterday-what-do-i-do-first-26",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I slipped and fell at work in Murray yesterday, what do I do first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report your work injury to your employer in writing immediately (within 180 days in Utah) and seek medical care.[5]",
+        "description": "**Report the injury to your employer immediately, ideally in writing within 180 days under Utah law.**\n\nOn-the-job accidents in Utah are typically covered by workers' compensation, not personal injury lawsuits against your employer.[5] This no-fault system provides medical benefits and wage replacement without proving fault.\n\n- Notify your supervisor or HR verbally and follow up with a written incident report.\n- Seek medical attention right away and inform doctors it's a work injury.\n- Keep records of all treatments, bills, and lost wages.\n\nFile a formal claim through your employer's workers' comp insurance if not initiated automatically. Consult a workers' comp attorney if denied or facing delays.[5]\n\nUtah's strict timelines make prompt action essential to protect your benefits."
+      }
+    }
+  ]
+}

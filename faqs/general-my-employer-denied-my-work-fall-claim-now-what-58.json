@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My employer denied my work fall claim, now what?",
+  "description": "Object within 20 days (UT)/60 (ID), request hearing with attorney help.",
+  "url": "https://justworkcomplaw.com/faq/general-my-employer-denied-my-work-fall-claim-now-what-58",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My employer denied my work fall claim, now what?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Object within 20 days (UT)/60 (ID), request hearing with attorney help.",
+        "description": "File an objection with Utah Labor Commission within 20 days of denial notice to request hearing; Idaho has 60 days for Commission application. Appeals can lead to full benefits[4]. Key factors: Gather more evidence like expert medical opinions; attorney handles hearings. Deadlines strict—don't delay. Many denials overturned with proper advocacy."
+      }
+    }
+  ]
+}

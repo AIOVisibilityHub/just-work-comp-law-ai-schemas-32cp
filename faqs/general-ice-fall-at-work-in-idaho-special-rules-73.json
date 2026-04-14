@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Ice fall at work in Idaho, special rules?",
+  "description": "Standard workers' comp; report uncleared ice.",
+  "url": "https://justworkcomplaw.com/faq/general-ice-fall-at-work-in-idaho-special-rules-73",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Ice fall at work in Idaho, special rules?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Standard workers' comp; report uncleared ice.",
+        "description": "Same comp rules; employer must mitigate known ice hazards, but no-fault coverage applies[14]. Key factors: Document uncleared walks. File within 1 year."
+      }
+    }
+  ]
+}

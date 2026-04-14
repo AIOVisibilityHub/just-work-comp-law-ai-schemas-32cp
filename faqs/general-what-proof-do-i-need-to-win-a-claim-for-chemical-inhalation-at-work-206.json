@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What proof do I need to win a claim for chemical inhalation at work?",
+  "description": "Medical link to work exposure, safety sheets, witnesses, air tests[1][4].",
+  "url": "https://justworkcomplaw.com/faq/general-what-proof-do-i-need-to-win-a-claim-for-chemical-inhalation-at-work-206",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What proof do I need to win a claim for chemical inhalation at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical link to work exposure, safety sheets, witnesses, air tests[1][4].",
+        "description": "Medical records linking your condition to specific workplace exposures, plus job descriptions, safety data sheets, and witness accounts of hazards. OSHA requires evidence like air sampling showing overexposure potential[1][3][4]. Doctor opinions via QME tie illness to job. - Exposure history: duration, substances, lack of PPE. - No pre-work lung issues in records. Collect coworker statements, photos of conditions, and file OSHA complaint for support docs."
+      }
+    }
+  ]
+}

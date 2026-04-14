@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I claim if exposed via coworker not wearing mask?",
+  "description": "Yes, employer hazard duty[1].",
+  "url": "https://justworkcomplaw.com/faq/general-can-i-claim-if-exposed-via-coworker-not-wearing-mask-224",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I claim if exposed via coworker not wearing mask?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, employer hazard duty[1].",
+        "description": "Yes, if workplace allowed hazard creating exposure to you—employer controls environment[1][3]. Your protection matters. - Prove secondary exposure. Comp covers. Document incidents."
+      }
+    }
+  ]
+}

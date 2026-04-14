@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Missed a week of work after forklift hit me does comp pay?",
-  "description": "Yes, 66% wages post-waiting period.[3]",
   "url": "https://justworkcomplaw.com/faq/general-missed-a-week-of-work-after-forklift-hit-me-does-comp-pay-267",
+  "name": "Missed a week of work after forklift hit me does comp pay?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Missed a week of work after forklift hit me does comp pay?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, 66% wages post-waiting period.[3]",
+        "@type": "Answer",
         "description": "**Yes, temporary total disability pays ~66% wages after 3-day waiting period in Utah.** Covers lost time.[3] Key factors: Doctor excuses work, submit wage stubs. Permanent partial adds later if impaired.[3] Track all missed pay."
       }
     }
-  ]
+  ],
+  "description": "Yes, 66% wages post-waiting period.[3]"
 }

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I have no doctor note or witnesses for paint fumes making me sick at work.",
+  "description": "Possible—use history, SDS, get diagnosis now[3].",
+  "url": "https://justworkcomplaw.com/faq/general-i-have-no-doctor-note-or-witnesses-for-paint-fumes-making-me-sick-at-work-216",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I have no doctor note or witnesses for paint fumes making me sick at work.",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Possible—use history, SDS, get diagnosis now[3].",
+        "description": "Claims possible with later medical diagnosis, exposure history, and SDS sheets—build case retrospectively. OSHA air policy aids[3]. - Self-report symptoms timeline. Start with doctor visit now. Seek coworkers later, file anyway for investigation."
+      }
+    }
+  ]
+}

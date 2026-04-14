@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Symptoms showed up weeks after work accident in Midvale, still eligible?",
+  "description": "Yes, prove work causation within 180 days.[1]",
+  "url": "https://justworkcomplaw.com/faq/general-symptoms-showed-up-weeks-after-work-accident-in-midvale-still-eligible-96",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Symptoms showed up weeks after work accident in Midvale, still eligible?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, prove work causation within 180 days.[1]",
+        "description": "Yes if linked to work; report within 180 days, prove causation.[1][3] Delayed common for back/strain.[3] Key factors: doctor connects to incident. Get records.[2] Don't delay filing."
+      }
+    }
+  ]
+}

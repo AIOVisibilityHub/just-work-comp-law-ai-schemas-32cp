@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does workers comp work if I fell at work in West Valley City?",
+  "description": "No-fault benefits for medical, wages via employer's insurance; report and file promptly in Utah.",
+  "url": "https://justworkcomplaw.com/faq/general-how-does-workers-comp-work-if-i-fell-at-work-in-west-valley-city-53",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does workers comp work if I fell at work in West Valley City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No-fault benefits for medical, wages via employer's insurance; report and file promptly in Utah.",
+        "description": "Utah workers' compensation provides no-fault benefits for work-related injuries like slips and falls, paid by employer's insurance regardless of fault. Covers reasonable medical care, temporary total disability (TTD) at 66 2/3% of average weekly wage, and permanent impairment awards[1]. Key factors: Employer must carry coverage; file within 1 year but notify within 180 days; disputes go to administrative law judge. Report incident, get doctor approval for treatment, track all expenses. Avoid signing anything waiving rights without review."
+      }
+    }
+  ]
+}

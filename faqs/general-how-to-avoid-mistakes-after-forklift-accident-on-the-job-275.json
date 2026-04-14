@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to avoid mistakes after forklift accident on the job?",
-  "description": "Med first, report, lawyer before adjuster.[2][3]",
   "url": "https://justworkcomplaw.com/faq/general-how-to-avoid-mistakes-after-forklift-accident-on-the-job-275",
+  "name": "How to avoid mistakes after forklift accident on the job?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "How to avoid mistakes after forklift accident on the job?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Med first, report, lawyer before adjuster.[2][3]",
+        "@type": "Answer",
         "description": "**Get treatment, report immediately, no insurance chats alone, lawyer up for value.** Avoid signing releases early.[2] Key factors: Photos/video scene, follow doc orders, track expenses. Don't quit or miss work without note.[3] Preserve all evidence."
       }
     }
-  ]
+  ],
+  "description": "Med first, report, lawyer before adjuster.[2][3]"
 }

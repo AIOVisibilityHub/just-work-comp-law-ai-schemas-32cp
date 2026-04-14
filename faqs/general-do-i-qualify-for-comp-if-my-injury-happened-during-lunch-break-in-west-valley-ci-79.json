@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I qualify for comp if my injury happened during lunch break in West Valley City?",
+  "description": "Yes if it advances employer's business or on premises; presumed covered.[1]",
+  "url": "https://justworkcomplaw.com/faq/general-do-i-qualify-for-comp-if-my-injury-happened-during-lunch-break-in-west-valley-ci-79",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I qualify for comp if my injury happened during lunch break in West Valley City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes if it advances employer's business or on premises; presumed covered.[1]",
+        "description": "Possibly, if it meets the 'arises out of and in course of employment' test, like advancing employer's business.[1] Utah presumes on-premises or on-clock injuries are work-related, shifting burden to employer.[1] Key factors: employment-created risk; not personal errands; medical causation needed for occupational diseases. Document location/time and report within 180 days.[1] Seek legal advice for borderline cases."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Missed work 2 weeks after injury in Cottonwood Heights, what pay?",
+  "description": "66.67% wages from day 4.[3]",
+  "url": "https://justworkcomplaw.com/faq/general-missed-work-2-weeks-after-injury-in-cottonwood-heights-what-pay-41",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Missed work 2 weeks after injury in Cottonwood Heights, what pay?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "66.67% wages from day 4.[3]",
+        "description": "**66 2/3% of average weekly wage, up to Utah max (~$1,200/week in 2026).**[3]\n\nCovers from day 4 if over 3 days lost; retroactive if longer.\n\n- Calculate from prior 13 weeks.\n- No caps on medical.\n- Permanent separate.\n\nSubmit pay stubs. Dispute low calcs."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I fell off a ladder carrying heavy stuff at work, whose fault is it?",
+  "description": "Employer/GC for safety failures; comp no-fault.[1][3]",
+  "url": "https://justworkcomplaw.com/faq/general-i-fell-off-a-ladder-carrying-heavy-stuff-at-work-whose-fault-is-it-134",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I fell off a ladder carrying heavy stuff at work, whose fault is it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Employer/GC for safety failures; comp no-fault.[1][3]",
+        "description": "Your employer or general contractor may be liable for not providing help or proper safety under labor laws.[3]\n\nLadders must be suitable; failure to assist with loads shifts responsibility.[1] Workers' comp is no-fault, but suits target negligence.\n\n- Owner/contractor for fall protection.\n- Supervisor for oversight.\n- Manufacturer if defective.\n\nInvestigate via lawyer; NY Scaffold Law exemplifies strict liability.[2] Fault impacts extra compensation."
+      }
+    }
+  ]
+}

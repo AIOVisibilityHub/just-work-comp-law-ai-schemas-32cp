@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Multiple jobs with noise, which covers loss?",
-  "description": "Last exposure employer.[3]",
   "url": "https://justworkcomplaw.com/faq/general-multiple-jobs-with-noise-which-covers-loss-223",
+  "name": "Multiple jobs with noise, which covers loss?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Multiple jobs with noise, which covers loss?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Last exposure employer.[3]",
+        "@type": "Answer",
         "description": "Last injurious exposure employer usually; prove primary source.[3] Context: Utah ties to final exposure.[3] Key factors: Duration/intensity per job.[1] Practical guidance: List all, get full history eval; lawyer apportions.[7] Recent job often liable."
       }
     }
-  ]
+  ],
+  "description": "Last exposure employer.[3]"
 }

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a lawyer for my work breathing injury claim?",
+  "description": "Recommended—higher wins, no fee unless you win[2].",
+  "url": "https://justworkcomplaw.com/faq/general-do-i-need-a-lawyer-for-my-work-breathing-injury-claim-213",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a lawyer for my work breathing injury claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Recommended—higher wins, no fee unless you win[2].",
+        "description": "Not required, but lawyers boost success 40-60%, negotiate better settlements, handle denials free on contingency. Complex respiratory proofs need expertise[2]. - No upfront cost. - They front appeals. Call for free consult to assess strength."
+      }
+    }
+  ]
+}

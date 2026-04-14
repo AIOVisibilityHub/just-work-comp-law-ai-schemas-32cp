@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My work lung claim got denied, what now?",
+  "description": "Appeal in 20-30 days with better medical proof and witnesses[4].",
+  "url": "https://justworkcomplaw.com/faq/general-my-work-lung-claim-got-denied-what-now-208",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My work lung claim got denied, what now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal in 20-30 days with better medical proof and witnesses[4].",
+        "description": "Appeal within 20-30 days depending on state by requesting a hearing; gather stronger medical evidence like a second opinion linking exposure. Denials often cite insufficient work nexus, but reversals happen with better proof[4]. Utah allows formal hearings. - Challenge insurer's doctor with your QME. - Add new evidence: coworker affidavits, SDS. File appeal fast, get legal help for 50%+ win rates on good cases."
+      }
+    }
+  ]
+}

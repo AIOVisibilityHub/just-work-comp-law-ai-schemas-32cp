@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Utah forklift accident workers comp vs personal injury lawsuit?",
-  "description": "Comp no-fault basics; PI for pain/suffering vs others.[3]",
   "url": "https://justworkcomplaw.com/faq/general-utah-forklift-accident-workers-comp-vs-personal-injury-lawsuit-270",
+  "name": "Utah forklift accident workers comp vs personal injury lawsuit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Utah forklift accident workers comp vs personal injury lawsuit?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Comp no-fault basics; PI for pain/suffering vs others.[3]",
+        "@type": "Answer",
         "description": "**Comp: quick no-fault medical/wages; PI: fuller damages but prove negligence, only vs third-parties.** Exclusive remedy limits employer suits.[3] Key factors: Comp first, then PI for extras like pain; lien negotiation needed.[3] PI riskier/higher potential."
       }
     }
-  ]
+  ],
+  "description": "Comp no-fault basics; PI for pain/suffering vs others.[3]"
 }

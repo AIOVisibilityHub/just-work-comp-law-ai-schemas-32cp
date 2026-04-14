@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Employer says injury not work-related—how prove?",
+  "description": "Doctor nexus + job details prove it.",
+  "url": "https://justworkcomplaw.com/faq/general-employer-says-injury-not-work-related-how-prove-122",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Employer says injury not work-related—how prove?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Doctor nexus + job details prove it.",
+        "description": "Medicals stating causation, duties description, timeline. Key factors: \"Arising out of\" employment test. Expert if needed."
+      }
+    }
+  ]
+}

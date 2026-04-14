@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Repetitive strain from job in Sandy, file claim?",
+  "description": "Yes, prove work causation.[4]",
+  "url": "https://justworkcomplaw.com/faq/general-repetitive-strain-from-job-in-sandy-file-claim-46",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Repetitive strain from job in Sandy, file claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, prove work causation.[4]",
+        "description": "**Yes, cumulative trauma claims covered if work caused.**[4]\n\nUtah recognizes gradual injuries; report when disabling.\n\n- Medical links to duties.\n- 180-day report from diagnosis.\n- Common in offices/warehouses.\n\nSpecialist opinion key."
+      }
+    }
+  ]
+}

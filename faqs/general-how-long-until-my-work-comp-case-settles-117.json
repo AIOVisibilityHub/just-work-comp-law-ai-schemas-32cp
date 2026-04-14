@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long until my work comp case settles?",
+  "description": "1-2 years post-treatment typically.",
+  "url": "https://justworkcomplaw.com/faq/general-how-long-until-my-work-comp-case-settles-117",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long until my work comp case settles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1-2 years post-treatment typically.",
+        "description": "1-2 years average after max medical improvement; faster if simple. Key factors: Treatment completion triggers; negotiate post-plateau. Utah hearings add time. Patience key."
+      }
+    }
+  ]
+}

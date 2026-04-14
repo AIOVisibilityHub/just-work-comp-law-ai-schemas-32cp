@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I get workers comp for carpal tunnel from my repetitive assembly line job in West Valley City?",
-  "description": "Yes, if medically proven to arise from repetitive work duties in Utah.[1]",
   "url": "https://justworkcomplaw.com/faq/general-can-i-get-workers-comp-for-carpal-tunnel-from-my-repetitive-assembly-line-job-in-228",
+  "name": "Can I get workers comp for carpal tunnel from my repetitive assembly line job in West Valley City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Can I get workers comp for carpal tunnel from my repetitive assembly line job in West Valley City?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, if medically proven to arise from repetitive work duties in Utah.[1]",
+        "@type": "Answer",
         "description": "Yes, Utah workers' comp covers carpal tunnel as an occupational disease from repetitive motion if linked to your job.[1] It must arise out of employment, with medical causation proven.[1] Key factors: Show job risks caused it; on-premises presumption helps; need doctor reports.[1] Report within 180 days, file Form 122, and use approved doctors. Consult an attorney if your claim faces pushback on causation."
       }
     }
-  ]
+  ],
+  "description": "Yes, if medically proven to arise from repetitive work duties in Utah.[1]"
 }

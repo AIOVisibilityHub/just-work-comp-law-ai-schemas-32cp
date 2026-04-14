@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long til I hear back on comp claim after reporting in Bountiful?",
+  "description": "Weeks typically; follow up and prepare for hearing if denied.[3]",
+  "url": "https://justworkcomplaw.com/faq/general-how-long-til-i-hear-back-on-comp-claim-after-reporting-in-bountiful-13",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long til I hear back on comp claim after reporting in Bountiful?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Weeks typically; follow up and prepare for hearing if denied.[3]",
+        "description": "Utah insurers must respond promptly, but full adjudication can take weeks to months; denials lead to hearings.[3] Report starts clock.[1] Key factors: (1) Immediate report speeds; (2) Medicals delay if priors; (3) Disputes extend; (4) Track status.[1][3] Follow up weekly, document delays. Patience needed but persist."
+      }
+    }
+  ]
+}

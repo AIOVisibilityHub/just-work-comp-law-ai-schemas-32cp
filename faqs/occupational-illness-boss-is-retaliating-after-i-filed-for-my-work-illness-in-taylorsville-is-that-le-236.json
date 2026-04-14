@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Boss is retaliating after I filed for my work illness in Taylorsville, is that legal?",
-  "description": "Illegal; file retaliation complaint with Utah Labor Commission.[1]",
   "url": "https://justworkcomplaw.com/faq/occupational-illness-boss-is-retaliating-after-i-filed-for-my-work-illness-in-taylorsville-is-that-le-236",
+  "name": "Boss is retaliating after I filed for my work illness in Taylorsville, is that legal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Boss is retaliating after I filed for my work illness in Taylorsville, is that legal?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Illegal; file retaliation complaint with Utah Labor Commission.[1]",
+        "@type": "Answer",
         "description": "No, Utah prohibits retaliation for filing legitimate workers' comp claims, including occupational illnesses.[1] You can pursue wrongful discharge claims.[1] Key factors: Timing of firing suspicious; document threats; prove good-faith filing.[1] Report to Labor Commission and consult employment lawyer alongside comp claim. Don't quit—fight protected status."
       }
     }
-  ]
+  ],
+  "description": "Illegal; file retaliation complaint with Utah Labor Commission.[1]"
 }

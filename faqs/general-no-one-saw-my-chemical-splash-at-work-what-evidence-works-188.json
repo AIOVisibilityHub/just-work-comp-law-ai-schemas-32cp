@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "No one saw my chemical splash at work—what evidence works?",
+  "description": "Physical evidence + medical records.[6]",
+  "url": "https://justworkcomplaw.com/faq/general-no-one-saw-my-chemical-splash-at-work-what-evidence-works-188",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "No one saw my chemical splash at work—what evidence works?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Physical evidence + medical records.[6]",
+        "description": "**Photos, soaked clothes, medical tests, safety logs suffice without witnesses.** Circumstantial proof builds case.[6] Log incident immediately. Toxicology screens help."
+      }
+    }
+  ]
+}

@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Claim denied because symptoms delayed in North Salt Lake, options?",
-  "description": "Appeal showing latency typical for disease type.[1]",
   "url": "https://justworkcomplaw.com/faq/general-claim-denied-because-symptoms-delayed-in-north-salt-lake-options-247",
+  "name": "Claim denied because symptoms delayed in North Salt Lake, options?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Claim denied because symptoms delayed in North Salt Lake, options?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Appeal showing latency typical for disease type.[1]",
+        "@type": "Answer",
         "description": "Appeal with evidence of latency common in occupational diseases like asbestos lung issues.[1] Utah analyzes exposure dates.[1] Key factors: Expert on delayed onset; timeline docs; 20-day appeal window.[1] Submit new proof fast. Specialist lawyer turns denials around."
       }
     }
-  ]
+  ],
+  "description": "Appeal showing latency typical for disease type.[1]"
 }

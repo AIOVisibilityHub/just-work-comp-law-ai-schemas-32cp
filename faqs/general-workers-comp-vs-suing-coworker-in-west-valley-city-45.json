@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Workers comp vs suing coworker in West Valley City?",
+  "description": "Comp primary; coworker suits rare.[3]",
+  "url": "https://justworkcomplaw.com/faq/general-workers-comp-vs-suing-coworker-in-west-valley-city-45",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Workers comp vs suing coworker in West Valley City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comp primary; coworker suits rare.[3]",
+        "description": "**Comp for employer; sue coworker only if gross negligence outside scope.**[3]\n\nFellow servant immunity bars most coworker suits; comp exclusive.\n\n- Intentional assault exception.\n- Third-party stronger.[2]\n\nComp faster, guaranteed if eligible."
+      }
+    }
+  ]
+}

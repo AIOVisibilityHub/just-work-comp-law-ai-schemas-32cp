@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Multiple injuries from one work accident—how to claim?",
+  "description": "Claim all together—docs cover each.",
+  "url": "https://justworkcomplaw.com/faq/general-multiple-injuries-from-one-work-accident-how-to-claim-120",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Multiple injuries from one work accident—how to claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Claim all together—docs cover each.",
+        "description": "File for all; comp covers cumulative effects. Key factors: Detail each in report/medicals. Valued together. Comprehensive eval needed."
+      }
+    }
+  ]
+}

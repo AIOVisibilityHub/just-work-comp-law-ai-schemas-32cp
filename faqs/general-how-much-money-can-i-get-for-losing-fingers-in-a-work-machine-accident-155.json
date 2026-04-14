@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much money can I get for losing fingers in a work machine accident?",
+  "description": "$50k-$200k+ via workers comp; depends on disability/wages.",
+  "url": "https://justworkcomplaw.com/faq/general-how-much-money-can-i-get-for-losing-fingers-in-a-work-machine-accident-155",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much money can I get for losing fingers in a work machine accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$50k-$200k+ via workers comp; depends on disability/wages.",
+        "description": "Settlements average $50k-$200k+ depending on injury severity, lost wages, future care; workers' comp pays 2/3 wages + medical.[1][3] Value factors: Age, job, permanent disability rating.[4] Key factors: Finger amputation often 10-30% impairment; pain/suffering extra if suing manufacturer.[6] Use comp calculator or attorney estimate. Negotiate settlement carefully."
+      }
+    }
+  ]
+}

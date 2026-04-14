@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Boss firing me after injury in Bountiful, is that legal?",
+  "description": "Illegal retaliation; file wrongful termination suit.[5]",
+  "url": "https://justworkcomplaw.com/faq/general-boss-firing-me-after-injury-in-bountiful-is-that-legal-35",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Boss firing me after injury in Bountiful, is that legal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Illegal retaliation; file wrongful termination suit.[5]",
+        "description": "**No, retaliation for filing workers' comp is illegal in Utah; you can sue for wrongful termination.**[5]\n\nUtah protects against discharge due to injury claims. Prove timing and causal link.\n\n- Document performance pre/post-injury.\n- File retaliation claim separately.\n- Damages include back pay, reinstatement.\n\nReport to Labor Commission. Lawyer essential for proof."
+      }
+    }
+  ]
+}

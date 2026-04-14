@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In West Valley City, how's fault figured in respiratory exposure cases?",
+  "description": "No-fault in comp; just prove work link[2].",
+  "url": "https://justworkcomplaw.com/faq/general-in-west-valley-city-how-s-fault-figured-in-respiratory-exposure-cases-215",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In West Valley City, how's fault figured in respiratory exposure cases?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No-fault in comp; just prove work link[2].",
+        "description": "Workers' comp is no-fault—employer covers if work-related, no proving negligence needed. OSHA violations strengthen but aren't required[1][2]. Utah follows this. - Third-party suits need negligence. File comp regardless of blame."
+      }
+    }
+  ]
+}

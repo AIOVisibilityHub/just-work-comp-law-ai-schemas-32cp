@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What proof do I need for my repetitive strain injury claim in Boise?",
+  "description": "Medical link to job, reports, witnesses, work logs for repetitive injuries.[2]",
+  "url": "https://justworkcomplaw.com/faq/general-what-proof-do-i-need-for-my-repetitive-strain-injury-claim-in-boise-6",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What proof do I need for my repetitive strain injury claim in Boise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical link to job, reports, witnesses, work logs for repetitive injuries.[2]",
+        "description": "Prove the injury occurred during employment with medical records, incident reports, witness statements, and work logs showing repetition.[2] Challenges arise for gradual onset like strains without acute event.[2] Key factors: (1) Doctor opinion linking to job duties; (2) Photos/diagrams of work area; (3) Consistent history across reports; (4) Disclose priors honestly.[2][9] Document symptoms daily, get work-related diagnosis, avoid inconsistencies. Strong evidence prevents denials."
+      }
+    }
+  ]
+}

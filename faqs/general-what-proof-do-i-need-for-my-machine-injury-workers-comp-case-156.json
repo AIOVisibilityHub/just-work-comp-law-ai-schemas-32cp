@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What proof do I need for my machine injury workers comp case?",
+  "description": "Med records, photos, witnesses, employer reports.",
+  "url": "https://justworkcomplaw.com/faq/general-what-proof-do-i-need-for-my-machine-injury-workers-comp-case-156",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What proof do I need for my machine injury workers comp case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Med records, photos, witnesses, employer reports.",
+        "description": "Medical records, incident report, witness statements, machine photos, maintenance logs.[2][7] Evidence shows malfunction, lack of training, or unsafe conditions.[5] Key factors: Timestamped photos; doctor notes linking injury to machine; payroll for wage loss. Preserve defective parts. Attorney subpoenas employer records."
+      }
+    }
+  ]
+}

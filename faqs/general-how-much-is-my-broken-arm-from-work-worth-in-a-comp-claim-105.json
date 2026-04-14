@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much is my broken arm from work worth in a comp claim?",
+  "description": "Medical + 2/3 wages + impairment; often settles for thousands after treatment.",
+  "url": "https://justworkcomplaw.com/faq/general-how-much-is-my-broken-arm-from-work-worth-in-a-comp-claim-105",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much is my broken arm from work worth in a comp claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical + 2/3 wages + impairment; often settles for thousands after treatment.",
+        "description": "Value depends on medical bills, lost wages (typically 2/3 of average weekly wage), permanent impairment rating, and future earning loss; averages 1-2 years to settle post-treatment. Key factors: AMA impairment guides disability pay; age, job affect multipliers; Utah/Idaho cap non-economic. Gather bills/rehab records; negotiate settlement after max medical improvement. Attorney maximizes value without trial."
+      }
+    }
+  ]
+}

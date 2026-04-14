@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Talked to workers comp adjuster after fall, did I mess up?",
+  "description": "Maybe; stop talking, get lawyer to handle adjuster.",
+  "url": "https://justworkcomplaw.com/faq/general-talked-to-workers-comp-adjuster-after-fall-did-i-mess-up-66",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Talked to workers comp adjuster after fall, did I mess up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maybe; stop talking, get lawyer to handle adjuster.",
+        "description": "Possibly—adjusters minimize claims; don't sign releases or give recorded statements without lawyer. Statements can twist against you[11]. Key factors: Politely end calls, note details. Attorney reviews transcripts. Damage control possible."
+      }
+    }
+  ]
+}

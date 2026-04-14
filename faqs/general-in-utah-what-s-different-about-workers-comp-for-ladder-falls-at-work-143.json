@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In Utah, what's different about workers comp for ladder falls at work?",
+  "description": "180-day report; state fund option; suits allowed.[1]",
+  "url": "https://justworkcomplaw.com/faq/general-in-utah-what-s-different-about-workers-comp-for-ladder-falls-at-work-143",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In Utah, what's different about workers comp for ladder falls at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "180-day report; state fund option; suits allowed.[1]",
+        "description": "Utah workers' comp covers ladder falls via no-fault system; report within 180 days, benefits up to 312 weeks.[1]\n\nThird-party suits possible if negligence by others; local rules favor quick filing.[2]\n\n- Use state fund if employer uninsured.\n- Attorney fees capped.\n- Murray-area firms know nuances.\n\nFile promptly; lawyer navigates Utah specifics.[3]"
+      }
+    }
+  ]
+}

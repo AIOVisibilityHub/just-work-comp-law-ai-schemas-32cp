@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Forklift tipped over on job no training given can I sue someone?",
-  "description": "Comp + third-party suit for defective/lack training.[2][4]",
   "url": "https://justworkcomplaw.com/faq/general-forklift-tipped-over-on-job-no-training-given-can-i-sue-someone-268",
+  "name": "Forklift tipped over on job no training given can I sue someone?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Forklift tipped over on job no training given can I sue someone?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Comp + third-party suit for defective/lack training.[2][4]",
+        "@type": "Answer",
         "description": "**Comp covers; sue manufacturer or trainer for negligence if third-party.** OSHA requires training; violations aid proof.[4] Key factors: Show lack of certification caused accident.[2][4] Punitive if gross negligence.[1]"
       }
     }
-  ]
+  ],
+  "description": "Comp + third-party suit for defective/lack training.[2][4]"
 }

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Ladder broke during work fall, can I sue the maker?",
+  "description": "Yes, product liability suit.[2][6]",
+  "url": "https://justworkcomplaw.com/faq/general-ladder-broke-during-work-fall-can-i-sue-the-maker-146",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Ladder broke during work fall, can I sue the maker?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, product liability suit.[2][6]",
+        "description": "Yes, product liability claim against manufacturer for defective ladder, separate from comp.[2][6]\n\nProves design/sale defect caused fall; strict liability applies.[1]\n\n- Preserve broken ladder.\n- Expert inspection.\n- Covers all damages.\n\nAttorney files against seller too; high success if defect clear.[3]"
+      }
+    }
+  ]
+}

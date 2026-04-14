@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Claim denied after machine crushed my leg at factory, now what?",
+  "description": "Appeal fast with lawyer; add medical/witness proof.",
+  "url": "https://justworkcomplaw.com/faq/general-claim-denied-after-machine-crushed-my-leg-at-factory-now-what-158",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Claim denied after machine crushed my leg at factory, now what?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal fast with lawyer; add medical/witness proof.",
+        "description": "Appeal within 20 days (Utah) or 60 (Idaho) with new evidence like medical opinions.[5] Common denials: missed deadlines or pre-existing issues.[2] Key factors: Hire attorney experienced in hearings; gather malfunction proof. Many denials overturned. File OSHA if employer hid defects."
+      }
+    }
+  ]
+}

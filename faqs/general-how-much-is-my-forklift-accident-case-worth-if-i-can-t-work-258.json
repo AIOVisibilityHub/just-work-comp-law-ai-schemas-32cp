@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much is my forklift accident case worth if I can't work?",
-  "description": "Comp: medical + partial wages; third-party adds pain/suffering based on damages.[1][3]",
   "url": "https://justworkcomplaw.com/faq/general-how-much-is-my-forklift-accident-case-worth-if-i-can-t-work-258",
+  "name": "How much is my forklift accident case worth if I can't work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "How much is my forklift accident case worth if I can't work?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Comp: medical + partial wages; third-party adds pain/suffering based on damages.[1][3]",
+        "@type": "Answer",
         "description": "**Depends on medical costs, lost wages, permanency, and pain; comp covers 66-85% wages plus medical.** Full value higher in third-party suits.[1][3] Key factors: Calculate total bills, future care, wage loss; Utah caps non-economic but allows punitives rarely.[3] No insurance? Sue employer directly. Attorney evaluates via similar cases."
       }
     }
-  ]
+  ],
+  "description": "Comp: medical + partial wages; third-party adds pain/suffering based on damages.[1][3]"
 }

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to prove employer didn't give ear protection?",
+  "description": "Records, witnesses, no supply evidence.[1]",
+  "url": "https://justworkcomplaw.com/faq/general-how-to-prove-employer-didn-t-give-ear-protection-242",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to prove employer didn't give ear protection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Records, witnesses, no supply evidence.[1]",
+        "description": "**Collect HR policies, training logs, purchase records, and coworker statements showing lack or inadequacy.**\n\nNegligence key if no OSHA-compliant program.[1][3]\n\n**Key factors:**n- Absent protection issuance docs.\n- Violation citations.\n- Your consistent exposure notes.\n- Interviews/testimony.\n\nAttorney investigates formally.[2] Shifts burden to employer.\n\nProof unlocks liability."
+      }
+    }
+  ]
+}

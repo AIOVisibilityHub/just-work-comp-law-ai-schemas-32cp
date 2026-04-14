@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get pain and suffering money for work slip injury?",
+  "description": "No, comp only covers economic losses—no pain/suffering.",
+  "url": "https://justworkcomplaw.com/faq/general-can-i-get-pain-and-suffering-money-for-work-slip-injury-68",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get pain and suffering money for work slip injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, comp only covers economic losses—no pain/suffering.",
+        "description": "No, workers' comp excludes non-economic damages like pain/suffering; only medical, wages, impairment[4]. Key factors: Third-party fault allows suit. Comp trade-off: quicker, guaranteed."
+      }
+    }
+  ]
+}

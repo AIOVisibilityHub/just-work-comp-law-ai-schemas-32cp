@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Denied forklift claim because not on clock in Millcreek Utah?",
-  "description": "Presumption for premises; appeal denial.[3]",
   "url": "https://justworkcomplaw.com/faq/general-denied-forklift-claim-because-not-on-clock-in-millcreek-utah-274",
+  "name": "Denied forklift claim because not on clock in Millcreek Utah?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Denied forklift claim because not on clock in Millcreek Utah?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Presumption for premises; appeal denial.[3]",
+        "@type": "Answer",
         "description": "**Challenge: Utah presumes on-premises injuries work-related during employment course.** Burden on employer.[3] Key factors: Show advancing business interests; appeal in 30 days with time logs.[3] Off-clock rare denial."
       }
     }
-  ]
+  ],
+  "description": "Presumption for premises; appeal denial.[3]"
 }

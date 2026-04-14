@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I have pre-existing asthma, can work chemicals make it an occupational illness claim in Millcreek?",
-  "description": "Yes, if work substantially aggravated it—prove with medical evidence.[1]",
   "url": "https://justworkcomplaw.com/faq/occupational-illness-i-have-pre-existing-asthma-can-work-chemicals-make-it-an-occupational-illness-cl-235",
+  "name": "I have pre-existing asthma, can work chemicals make it an occupational illness claim in Millcreek?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "I have pre-existing asthma, can work chemicals make it an occupational illness claim in Millcreek?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Yes, if work substantially aggravated it—prove with medical evidence.[1]",
+        "@type": "Answer",
         "description": "Yes, if work aggravates it into a compensable condition under Utah's AOE/COE test.[1] Aggravation claims are viable with medical proof.[1] Key factors: Show work substantially worsened it; doctor opinion key; not just baseline flare.[1] Document exposures and get specialist eval. Attorney help clarifies aggravation vs. pre-existing denial."
       }
     }
-  ]
+  ],
+  "description": "Yes, if work substantially aggravated it—prove with medical evidence.[1]"
 }

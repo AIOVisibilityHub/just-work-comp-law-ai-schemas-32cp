@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What proof do I need that my tinnitus is from shop noise?",
+  "description": "Audiograms, noise records, medical link to work.[1][2]",
+  "url": "https://justworkcomplaw.com/faq/general-what-proof-do-i-need-that-my-tinnitus-is-from-shop-noise-231",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What proof do I need that my tinnitus is from shop noise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Audiograms, noise records, medical link to work.[1][2]",
+        "description": "**Gather audiograms, workplace noise logs, employment records, and expert medical opinion linking loss to job.**\n\nProving causation requires showing exposure above 85 dB consistently without protection.[1][3] Coworker affidavits strengthen cases.\n\n**Key factors:**\n- Pre- and post-exposure hearing tests.[2]\n- OSHA violation records or decibel measurements.\n- Doctor's report ruling out non-work causes.\n- Duration of employment in noisy role.\n\nPreserve all docs; an attorney can subpoena employer records.[1] Don't delete personal notes.\n\nSolid evidence overcomes denials."
+      }
+    }
+  ]
+}

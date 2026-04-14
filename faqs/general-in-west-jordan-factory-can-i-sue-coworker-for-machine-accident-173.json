@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In West Jordan factory, can I sue coworker for machine accident?",
+  "description": "No, comp covers; sue third parties.",
+  "url": "https://justworkcomplaw.com/faq/general-in-west-jordan-factory-can-i-sue-coworker-for-machine-accident-173",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In West Jordan factory, can I sue coworker for machine accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, comp covers; sue third parties.",
+        "description": "Rarely; workers comp exclusive unless gross negligence.[9][6] Key factors: Intentional acts only. Sue machine parties instead."
+      }
+    }
+  ]
+}

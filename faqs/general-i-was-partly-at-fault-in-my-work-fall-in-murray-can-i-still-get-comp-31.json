@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I was partly at fault in my work fall in Murray, can I still get comp?",
+  "description": "Yes, workers' comp ignores your fault level.[2]",
+  "url": "https://justworkcomplaw.com/faq/general-i-was-partly-at-fault-in-my-work-fall-in-murray-can-i-still-get-comp-31",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I was partly at fault in my work fall in Murray, can I still get comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, workers' comp ignores your fault level.[2]",
+        "description": "**Yes, workers' compensation is no-fault, so your partial responsibility doesn't bar benefits.**[2]\n\nUnlike personal injury suits, workers' comp doesn't reduce or deny claims based on employee fault unless intoxication or intentional self-harm.\n\n- Focus on work-relatedness, not blame.\n- Employer negligence irrelevant for comp eligibility.\n- Comparative fault applies only to third-party claims.[3]\n\nReport promptly regardless. This protects your medical and wage benefits fully."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Missed 2 weeks work after machine injury, what benefits?",
+  "description": "2/3 pay + medical; file TTD claim.",
+  "url": "https://justworkcomplaw.com/faq/general-missed-2-weeks-work-after-machine-injury-what-benefits-168",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Missed 2 weeks work after machine injury, what benefits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "2/3 pay + medical; file TTD claim.",
+        "description": "Temporary total disability: 2/3 wages from day 4 (Utah) or after waiting period.[4][1] Key factors: Doctor release needed to return; calculate via paystubs. Permanent if ongoing."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I fell from a ladder on the job, what evidence do I need?",
+  "description": "Photos, medical records, witnesses, incident report, preserved ladder.[3][5]",
+  "url": "https://justworkcomplaw.com/faq/general-i-fell-from-a-ladder-on-the-job-what-evidence-do-i-need-131",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I fell from a ladder on the job, what evidence do I need?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Photos, medical records, witnesses, incident report, preserved ladder.[3][5]",
+        "description": "Gather medical records, incident reports, photos of the ladder and site, witness statements, and preserve your gear.[3][5]\n\nThis proves the fall occurred at work, injury extent, and any safety violations like improper equipment.[1] OSHA logs from employer help too.\n\n- Doctor notes linking injury to fall.\n- Supervisor report copy.\n- Video if available.\n\nStrong evidence speeds claims and counters denials; photograph before cleanup.[3] An attorney organizes it effectively."
+      }
+    }
+  ]
+}

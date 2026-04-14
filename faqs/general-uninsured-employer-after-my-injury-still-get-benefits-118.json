@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Uninsured employer after my injury—still get benefits?",
+  "description": "Yes, state fund pays—employer penalized.",
+  "url": "https://justworkcomplaw.com/faq/general-uninsured-employer-after-my-injury-still-get-benefits-118",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Uninsured employer after my injury—still get benefits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, state fund pays—employer penalized.",
+        "description": "Yes, state funds cover (Utah Uninsured Employers Fund); penalties on employer. Key factors: Prove employment; file against fund. No worker loss. Attorney accesses."
+      }
+    }
+  ]
+}

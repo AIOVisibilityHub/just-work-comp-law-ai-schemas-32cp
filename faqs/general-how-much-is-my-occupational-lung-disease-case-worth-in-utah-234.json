@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much is my occupational lung disease case worth in Utah?",
-  "description": "Covers medical, wages; value based on disability extent—no pain/suffering cap in comp.[1]",
   "url": "https://justworkcomplaw.com/faq/general-how-much-is-my-occupational-lung-disease-case-worth-in-utah-234",
+  "name": "How much is my occupational lung disease case worth in Utah?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "How much is my occupational lung disease case worth in Utah?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Covers medical, wages; value based on disability extent—no pain/suffering cap in comp.[1]",
+        "@type": "Answer",
         "description": "Value includes medical costs, lost wages (past/future), and temporary benefits; no pain/suffering in standard workers' comp.[1] Settlements vary by severity and earning capacity.[1] Key factors: Total disability maxes benefits; calculate diminished capacity; third-party suits add noneconomic damages.[1] Get a case evaluation from an attorney using your records. Avoid settling too early without full assessment."
       }
     }
-  ]
+  ],
+  "description": "Covers medical, wages; value based on disability extent—no pain/suffering cap in comp.[1]"
 }

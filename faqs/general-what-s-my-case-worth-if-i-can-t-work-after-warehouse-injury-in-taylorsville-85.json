@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's my case worth if I can't work after warehouse injury in Taylorsville?",
+  "description": "Partial wages + medical; full tort in third-party suit.[1]",
+  "url": "https://justworkcomplaw.com/faq/general-what-s-my-case-worth-if-i-can-t-work-after-warehouse-injury-in-taylorsville-85",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's my case worth if I can't work after warehouse injury in Taylorsville?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Partial wages + medical; full tort in third-party suit.[1]",
+        "description": "Comp pays medical, wage replacement (partial), rehab; third-party for full damages like pain, punitives.[1] Factors: lost wages/commissions, future earning loss.[1] Key factors: prove causation; carrier liens apply. Document finances/doctor limits.[1] Lawyer negotiates max value."
+      }
+    }
+  ]
+}

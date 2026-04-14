@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to report unsafe chemicals to OSHA from Taylorsville?",
+  "description": "Call OSHA hotline immediately.[3]",
+  "url": "https://justworkcomplaw.com/faq/general-how-to-report-unsafe-chemicals-to-osha-from-taylorsville-194",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to report unsafe chemicals to OSHA from Taylorsville?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Call OSHA hotline immediately.[3]",
+        "description": "**Call 1-800-321-OSHA or online, anonymously if needed.** Triggers inspection.[3] Detail exposure, risks. Protects your claim."
+      }
+    }
+  ]
+}

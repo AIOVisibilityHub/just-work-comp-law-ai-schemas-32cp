@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In Idaho, do I need witnesses for long-term exposure claim?",
+  "description": "Experts > witnesses.[9]",
+  "url": "https://justworkcomplaw.com/faq/general-in-idaho-do-i-need-witnesses-for-long-term-exposure-claim-198",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In Idaho, do I need witnesses for long-term exposure claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Experts > witnesses.[9]",
+        "description": "**Not always; medical/expert testimony + records suffice.** Coworker statements strengthen.[9] Build cumulative case."
+      }
+    }
+  ]
+}

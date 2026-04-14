@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My back went out lifting boxes at work but I had issues before, will workers comp cover it in Utah?",
+  "description": "Yes, work aggravation of pre-existing back injury is covered in Utah.[3]",
+  "url": "https://justworkcomplaw.com/faq/general-my-back-went-out-lifting-boxes-at-work-but-i-had-issues-before-will-workers-comp-78",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My back went out lifting boxes at work but I had issues before, will workers comp cover it in Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, work aggravation of pre-existing back injury is covered in Utah.[3]",
+        "description": "Yes, Utah covers aggravation of pre-existing conditions if work caused it, even with prior back problems.[3] Insurers often deny claiming prior injury, but job aggravation qualifies for benefits.[3] Key factors: medical records show causation; report promptly; prove work link via doctor notes. Get evaluated by approved providers and gather prior records.[1][3] An attorney can fight denials based on pre-existing issues."
+      }
+    }
+  ]
+}

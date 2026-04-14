@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does the workers comp process work after I report my injury in Sandy?",
+  "description": "Report, file Form 122, get approved care, appeal if denied within 30 days.[1]",
+  "url": "https://justworkcomplaw.com/faq/general-how-does-the-workers-comp-process-work-after-i-report-my-injury-in-sandy-80",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does the workers comp process work after I report my injury in Sandy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report, file Form 122, get approved care, appeal if denied within 30 days.[1]",
+        "description": "Employer files First Report (Form 122) within 7 days; you ensure it's filed, get authorized treatment, and receive medical/wage benefits if approved.[1] Carriers investigate; denials lead to appeals.[4] Key factors: follow treatment; cooperate with exams; light duty offers may reduce benefits if refused.[2] Track all docs and appeal denials within 30 days to a hearing.[1][4] Hire an attorney for disputes."
+      }
+    }
+  ]
+}

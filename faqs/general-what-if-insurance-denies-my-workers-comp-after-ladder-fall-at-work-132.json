@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if insurance denies my workers comp after ladder fall at work?",
+  "description": "Appeal within 20-60 days with more evidence; get a lawyer.[2]",
+  "url": "https://justworkcomplaw.com/faq/general-what-if-insurance-denies-my-workers-comp-after-ladder-fall-at-work-132",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if insurance denies my workers comp after ladder fall at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal within 20-60 days with more evidence; get a lawyer.[2]",
+        "description": "Appeal the denial within your state's deadline, usually 20-60 days, by requesting a hearing.[2]\n\nCommon denial reasons include missed reporting or disputed injury severity; provide more evidence like doctor opinions.[3] Many denials overturn on appeal.\n\n- Gather additional medical proof.\n- File formal protest.\n- Represented appeals succeed more.\n\nContact a workers' comp lawyer immediately; they handle paperwork and fights insurers.[1] Don't accept initial no."
+      }
+    }
+  ]
+}

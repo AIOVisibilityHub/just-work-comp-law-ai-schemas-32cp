@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Part time job slip in Millcreek, full benefits?",
+  "description": "Yes, benefits on your actual part-time wages.",
+  "url": "https://justworkcomplaw.com/faq/general-part-time-job-slip-in-millcreek-full-benefits-72",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Part time job slip in Millcreek, full benefits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, benefits on your actual part-time wages.",
+        "description": "Yes, Utah comp bases on actual earnings including part-time; covers full injury costs[6]. Key factors: Prove hours/wages via paystubs. No pro-rating disability."
+      }
+    }
+  ]
+}

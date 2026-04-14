@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Employer has no workers comp insurance forklift accident now what Boise?",
-  "description": "Direct lawsuit allowed; full damages possible.[3]",
   "url": "https://justworkcomplaw.com/faq/general-employer-has-no-workers-comp-insurance-forklift-accident-now-what-boise-272",
+  "name": "Employer has no workers comp insurance forklift accident now what Boise?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "Employer has no workers comp insurance forklift accident now what Boise?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Direct lawsuit allowed; full damages possible.[3]",
+        "@type": "Answer",
         "description": "**Sue employer directly in tort for full damages—no exclusive remedy shield.** Idaho requires coverage.[3] Key factors: Verify uninsured status, file comp anyway (state fund may cover), then lawsuit. Higher recovery potential.[3]"
       }
     }
-  ]
+  ],
+  "description": "Direct lawsuit allowed; full damages possible.[3]"
 }

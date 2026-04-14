@@ -1,18 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "No witnesses to forklift hitting me at work how to prove it?",
-  "description": "Med records, videos, reports; on-site presumption helps.[3]",
   "url": "https://justworkcomplaw.com/faq/general-no-witnesses-to-forklift-hitting-me-at-work-how-to-prove-it-262",
+  "name": "No witnesses to forklift hitting me at work how to prove it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "mainEntity": [
     {
-      "@type": "Question",
       "name": "No witnesses to forklift hitting me at work how to prove it?",
+      "@type": "Question",
       "acceptedAnswer": {
-        "@type": "Answer",
         "text": "Med records, videos, reports; on-site presumption helps.[3]",
+        "@type": "Answer",
         "description": "**Use medical records, employer logs, security video, and your testimony; presumption for on-premises injuries.** Utah shifts burden to employer.[3] Key factors: Report immediately, get scene photos, maintenance records for defects.[1] Circumstantial evidence like position of forklift suffices often."
       }
     }
-  ]
+  ],
+  "description": "Med records, videos, reports; on-site presumption helps.[3]"
 }

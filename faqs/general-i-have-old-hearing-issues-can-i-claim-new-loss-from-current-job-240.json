@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I have old hearing issues, can I claim new loss from current job?",
+  "description": "Yes, for work-aggravated portion.[4]",
+  "url": "https://justworkcomplaw.com/faq/general-i-have-old-hearing-issues-can-i-claim-new-loss-from-current-job-240",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I have old hearing issues, can I claim new loss from current job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, for work-aggravated portion.[4]",
+        "description": "**Yes, if you prove aggravation or new loss from current noise exposure beyond pre-existing condition.**\n\nComp covers occupational contributions; baselines help quantify.[4][6] Doctors differentiate.\n\n**Key factors:**\n- Baseline audiogram comparison.\n- Recent exposure documentation.\n- Specialist apportionment.\n- No non-work worsening.\n\nAttorney handles 'eggshell plaintiff' arguments.[1] Full recovery possible.\n\nPre-existing doesn't bar claims."
+      }
+    }
+  ]
+}

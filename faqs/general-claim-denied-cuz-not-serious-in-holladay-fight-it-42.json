@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Claim denied cuz 'not serious' in Holladay, fight it?",
+  "description": "Appeal immediately; all injuries covered.[5]",
+  "url": "https://justworkcomplaw.com/faq/general-claim-denied-cuz-not-serious-in-holladay-fight-it-42",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Claim denied cuz 'not serious' in Holladay, fight it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal immediately; all injuries covered.[5]",
+        "description": "**Yes, appeal; 'seriousness' irrelevant for eligibility.**[5]\n\nComp covers all work injuries; minor ones qualify for treatment.\n\n- Refile with doctor proof.\n- 20-day appeal window.\n- Hearing proves work link.\n\nAttorney overturns 70% denials."
+      }
+    }
+  ]
+}

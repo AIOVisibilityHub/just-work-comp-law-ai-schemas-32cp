@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get pain and suffering money for ladder fall at work?",
+  "description": "Yes, via third-party suit, not comp.[2][3]",
+  "url": "https://justworkcomplaw.com/faq/general-can-i-get-pain-and-suffering-money-for-ladder-fall-at-work-150",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get pain and suffering money for ladder fall at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, via third-party suit, not comp.[2][3]",
+        "description": "Not from workers' comp, but yes from third-party lawsuits against negligent parties like owners or GCs.[2][3]\n\nComp limits to economic; suits award non-economic damages.[1]\n\n- Need provable fault.\n- Severe injuries qualify higher.\n- Multiplies total recovery.\n\nLawyer pursues if viable; many overlook this.[2]"
+      }
+    }
+  ]
+}

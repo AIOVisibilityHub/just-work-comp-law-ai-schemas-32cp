@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What do I do first if I slip and fall at my job in Boise?",
+  "description": "Report immediately to supervisor, get authorized medical care, file Form 122.[1][2]",
+  "url": "https://justworkcomplaw.com/faq/general-what-do-i-do-first-if-i-slip-and-fall-at-my-job-in-boise-77",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What do I do first if I slip and fall at my job in Boise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report immediately to supervisor, get authorized medical care, file Form 122.[1][2]",
+        "description": "Report the injury to your supervisor immediately, seek medical treatment from an authorized provider, and file Form 122 with the workers' comp division.[1][2] Delaying report raises proof and credibility problems, so document everything like emails or photos.[2] Key factors: on-the-clock injuries are presumed work-related; follow medical instructions to avoid benefit suspension; employer must file First Report within 7 days.[1] Notify in writing, attend all appointments, and don't switch doctors without approval.[1] Early action maximizes benefits."
+      }
+    }
+  ]
+}

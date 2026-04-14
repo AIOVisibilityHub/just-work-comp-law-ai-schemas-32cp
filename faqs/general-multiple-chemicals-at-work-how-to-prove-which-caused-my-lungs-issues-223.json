@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Multiple chemicals at work—how to prove which caused my lungs issues?",
+  "description": "Doctor diagnosis + full exposure history[4].",
+  "url": "https://justworkcomplaw.com/faq/general-multiple-chemicals-at-work-how-to-prove-which-caused-my-lungs-issues-223",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Multiple chemicals at work—how to prove which caused my lungs issues?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Doctor diagnosis + full exposure history[4].",
+        "description": "Doctor specifies via differential diagnosis, exposure history, and tox studies—cumulative ok[4][5]. SDS list all. - Pulmonologist key. Not one chemical needed. Build full exposure profile."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My claim denied for light duty refusal in Centerville, now what?",
+  "description": "Appeal if duty improper; attend hearing.[2][4]",
+  "url": "https://justworkcomplaw.com/faq/general-my-claim-denied-for-light-duty-refusal-in-centerville-now-what-95",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My claim denied for light duty refusal in Centerville, now what?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal if duty improper; attend hearing.[2][4]",
+        "description": "Refusal justifies denial if appropriate; appeal if restrictions ignored.[2] Show employer violated limits.[2] Key factors: one IME usually; cooperate. Hearing proves case.[4] Lawyer negotiates."
+      }
+    }
+  ]
+}

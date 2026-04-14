@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of compensation can I get for falling off a ladder at work?",
+  "description": "Medical, 2/3 wages, disability from comp; pain/suffering from third-party suits.[2][3]",
+  "url": "https://justworkcomplaw.com/faq/general-what-kind-of-compensation-can-i-get-for-falling-off-a-ladder-at-work-130",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of compensation can I get for falling off a ladder at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical, 2/3 wages, disability from comp; pain/suffering from third-party suits.[2][3]",
+        "description": "Workers' comp provides medical bills, lost wages (about 2/3), and disability payments; third-party lawsuits can add pain and suffering damages.[2]\n\nSevere ladder fall injuries like broken bones or herniated discs qualify for ongoing treatment and future lost earnings.[1][3] Values depend on injury severity and income.\n\n- Economic: bills, wages, home mods.\n- Non-economic: pain via separate claims.\n- Average settlements $50K-$200K+.\n\nTrack all expenses; a lawyer evaluates full case worth including GC or owner liability.[2]"
+      }
+    }
+  ]
+}

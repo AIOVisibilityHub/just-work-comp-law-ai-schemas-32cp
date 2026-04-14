@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do I have to report a ladder fall injury from work?",
+  "description": "Report within 30 days typically; file claim up to 1 year, but sooner is better.[1]",
+  "url": "https://justworkcomplaw.com/faq/general-how-long-do-i-have-to-report-a-ladder-fall-injury-from-work-129",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do I have to report a ladder fall injury from work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report within 30 days typically; file claim up to 1 year, but sooner is better.[1]",
+        "description": "Report the ladder fall injury to your employer within 30 days in most states, though some allow up to a year for filing the formal claim.[1]\n\nPrompt reporting creates an official record and starts benefits for medical and wages; delays can lead to denial.[3] Statutes of limitations for third-party suits are 1-3 years.\n\n- Check your state's labor department rules.\n- Document date, time, and details immediately.\n- In Utah or Idaho, notify within 180 days for comp.\n\nAct fast to avoid bars on claims; consult a local attorney to confirm deadlines.[2]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Claim denied for no witnesses to fall at work—what now?",
+  "description": "Appeal—hearing accepts indirect proof.",
+  "url": "https://justworkcomplaw.com/faq/general-claim-denied-for-no-witnesses-to-fall-at-work-what-now-116",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Claim denied for no witnesses to fall at work—what now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal—hearing accepts indirect proof.",
+        "description": "Appeal with medicals/photos/report; circumstantial evidence works. Key factors: Your testimony + treatment suffices often. Hearing proves case. Attorney presents effectively."
+      }
+    }
+  ]
+}

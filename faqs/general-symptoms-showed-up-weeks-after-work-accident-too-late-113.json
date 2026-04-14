@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Symptoms showed up weeks after work accident, too late?",
+  "description": "No, report when known—docs prove connection.",
+  "url": "https://justworkcomplaw.com/faq/general-symptoms-showed-up-weeks-after-work-accident-too-late-113",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Symptoms showed up weeks after work accident, too late?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, report when known—docs prove connection.",
+        "description": "No, file if connected to work; delayed symptoms common, report within deadlines. Key factors: Medical nexus proves link; Utah 180 days from knowledge. Treat promptly. Attorney gathers retro evidence."
+      }
+    }
+  ]
+}

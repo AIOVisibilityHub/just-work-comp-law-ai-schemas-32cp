@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the deadline to report my warehouse injury in Sandy Utah?",
+  "description": "Report immediately; Utah allows up to 180 days but delays hurt claims badly.[1][2]",
+  "url": "https://justworkcomplaw.com/faq/general-what-s-the-deadline-to-report-my-warehouse-injury-in-sandy-utah-4",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the deadline to report my warehouse injury in Sandy Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report immediately; Utah allows up to 180 days but delays hurt claims badly.[1][2]",
+        "description": "Utah requires reporting workplace injuries to your employer as soon as practicable, ideally immediately, with a formal 180-day limit for claims.[1][2] Delays beyond immediate notice complicate proof and credibility.[1] Key factors: (1) No case benefits from not reporting; (2) Employer won't report? Use Labor Commission; (3) Late reports risk denial for lack of documentation; (4) Track exact date reported.[1][2] Note the injury date now, report today, and save proof like emails. Time-sensitive—act fast to protect benefits."
+      }
+    }
+  ]
+}
