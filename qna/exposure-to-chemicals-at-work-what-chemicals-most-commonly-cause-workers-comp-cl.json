@@ -1,0 +1,24 @@
+{
+  "url": "https://justworkcomplaw.com/qna/exposure-to-chemicals-at-work-what-chemicals-most-commonly-cause-workers-comp-claims-in-salt-lake-county-180",
+  "name": "Top Chemicals in Salt Lake County Workers' Comp Exposure Claims",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What chemicals most commonly cause workers' comp claims in Salt Lake County?",
+    "text": "What chemicals most commonly cause workers' comp claims in Salt Lake County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Common chemicals in Salt Lake County claims: solvents (toluene), acids, benzene, welding fumes, and pesticides, leading to respiratory, skin, and neurological injuries.",
+      "@type": "Answer",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Manufacturing and construction in Sandy/Millcreek expose workers to VOCs and metals. Claims spike for cumulative effects. Document SDS sheets. Utah data shows solvents top list; prove dosage via air monitoring. Employers minimize via PPE defenses—experts rebut. Just Work Comp Law handles local trends for stronger cases.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Common chemicals in Salt Lake County claims: solvents (toluene), acids, benzene, welding fumes, and pesticides, leading to respiratory, skin, and neurological i"
+}

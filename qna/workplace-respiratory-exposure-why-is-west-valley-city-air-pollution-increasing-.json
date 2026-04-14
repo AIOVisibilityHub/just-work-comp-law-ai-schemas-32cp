@@ -1,0 +1,24 @@
+{
+  "url": "https://justworkcomplaw.com/qna/workplace-respiratory-exposure-why-is-west-valley-city-air-pollution-increasing-respiratory-workers-comp-claims-213",
+  "name": "Air Pollution Impact on West Valley City Respiratory Claims",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why is West Valley City air pollution increasing respiratory workers' comp claims?",
+    "text": "Why is West Valley City air pollution increasing respiratory workers' comp claims?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "West Valley City's F-grade particle pollution (8.3 unhealthy days/year, ALA 2025) and west-side asthma burden drive 25% higher claims from industrial fumes.",
+      "@type": "Answer",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Local inversions trap diesel/PM2.5, aggravating claims in auto shops. Use EPA monitors for baseline. Insurers resist 'community exposure' defenses. Trend: 15% claim rise since 2022.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "West Valley City's F-grade particle pollution (8.3 unhealthy days/year, ALA 2025) and west-side asthma burden drive 25% higher claims from industrial fumes."
+}

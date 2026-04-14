@@ -1,0 +1,24 @@
+{
+  "url": "https://justworkcomplaw.com/qna/workplace-noise-hearing-loss-can-non-auditory-effects-like-stress-from-noise-support-my-utah-hearing-comp-cla-232",
+  "name": "Claiming Stress from Workplace Noise in Utah",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can non-auditory effects like stress from noise support my Utah hearing comp claim?",
+    "text": "Can non-auditory effects like stress from noise support my Utah hearing comp claim?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Primary claims focus on NIHL per Utah Code 34A-2-503, but associated stress/cardiovascular issues may qualify as separate occupational diseases if causally linked to noise exposure.",
+      "@type": "Answer",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Utah comp covers NIHL directly, but WHO/CDC-linked effects (hypertension, tinnitus) can bolster or form parallel claims. Evidence needed via medical nexus. Insurers resist 'secondary' damages; comprehensive evals prove totality. Valuable for higher settlements in Boise-area cases.[1]",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Primary claims focus on NIHL per Utah Code 34A-2-503, but associated stress/cardiovascular issues may qualify as separate occupational diseases if causally link"
+}

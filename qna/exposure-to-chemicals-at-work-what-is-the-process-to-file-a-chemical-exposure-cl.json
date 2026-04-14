@@ -1,0 +1,24 @@
+{
+  "url": "https://justworkcomplaw.com/qna/exposure-to-chemicals-at-work-what-is-the-process-to-file-a-chemical-exposure-claim-in-riverton-utah-188",
+  "name": "Step-by-Step Filing Process for Riverton Chemical Claims",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the process to file a chemical exposure claim in Riverton, Utah?",
+    "text": "What is the process to file a chemical exposure claim in Riverton, Utah?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Report to employer within 180 days, file BWC-1 form with Utah Labor Commission within 1 year; attend med exam.",
+      "@type": "Answer",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Riverton: Supervisor completes First Report, you file online/ mail. Commission assigns adjuster. Dispute via objection. Chemical needs attachments like SDS. 30-day employer response. Attorneys streamline, prevent errors leading to denials.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Report to employer within 180 days, file BWC-1 form with Utah Labor Commission within 1 year; attend med exam."
+}

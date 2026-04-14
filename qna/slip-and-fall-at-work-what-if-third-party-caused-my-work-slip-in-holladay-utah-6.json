@@ -1,0 +1,24 @@
+{
+  "url": "https://justworkcomplaw.com/qna/slip-and-fall-at-work-what-if-third-party-caused-my-work-slip-in-holladay-utah-66",
+  "name": "Third Party Liability in Holladay Work Slips",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What if third party caused my work slip in Holladay Utah?",
+    "text": "What if third party caused my work slip in Holladay Utah?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "File workers' comp then subrogate or sue third party separately for additional damages beyond comp limits.[5]",
+      "@type": "Answer",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Employer insurer pays comp then pursues at-fault vendor. Employee sues directly for negligence pain damages. Common in construction sites. Attorney coordinates dual claims avoiding offsets. Higher totals possible.[5]",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "File workers' comp then subrogate or sue third party separately for additional damages beyond comp limits.[5]"
+}

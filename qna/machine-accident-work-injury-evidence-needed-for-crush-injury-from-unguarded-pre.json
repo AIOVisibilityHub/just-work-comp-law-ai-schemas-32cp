@@ -1,0 +1,24 @@
+{
+  "url": "https://justworkcomplaw.com/qna/machine-accident-work-injury-evidence-needed-for-crush-injury-from-unguarded-press-in-north-salt-lake-169",
+  "name": "Evidence for Unguarded Machine Crush Claims",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Evidence needed for crush injury from unguarded press in North Salt Lake?",
+    "text": "Evidence needed for crush injury from unguarded press in North Salt Lake?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Incident reports, maintenance logs, witness affidavits, machine blueprints showing missing safeguards.[1][6]",
+      "@type": "Answer",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "OSHA 1910.217 mandates guards. Expert reconstruction proves defect. North Salt Lake manufacturers face scrutiny.[1][6]",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Incident reports, maintenance logs, witness affidavits, machine blueprints showing missing safeguards.[1][6]"
+}

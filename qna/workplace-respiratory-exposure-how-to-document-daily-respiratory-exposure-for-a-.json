@@ -1,0 +1,24 @@
+{
+  "url": "https://justworkcomplaw.com/qna/workplace-respiratory-exposure-how-to-document-daily-respiratory-exposure-for-a-millcreek-manufacturing-claim-219",
+  "name": "Documenting Exposure for Millcreek Manufacturing Claims",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How to document daily respiratory exposure for a Millcreek manufacturing claim?",
+    "text": "How to document daily respiratory exposure for a Millcreek manufacturing claim?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Use exposure diary, peak flow meter logs, co-worker statements, MSDS sheets, and air sampling results showing hazards like isocyanates.",
+      "@type": "Answer",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Millcreek claims strengthen with apps tracking symptoms/shifts. Correlate to production logs. Expert reconstruction costs $5K but wins 80% disputes.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Use exposure diary, peak flow meter logs, co-worker statements, MSDS sheets, and air sampling results showing hazards like isocyanates."
+}

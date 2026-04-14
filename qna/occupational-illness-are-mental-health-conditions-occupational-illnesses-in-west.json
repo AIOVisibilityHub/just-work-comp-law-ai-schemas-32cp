@@ -1,0 +1,24 @@
+{
+  "url": "https://justworkcomplaw.com/qna/occupational-illness-are-mental-health-conditions-occupational-illnesses-in-west-jordan-261",
+  "name": "Mental Occupational Illness in West Jordan",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Are mental health conditions occupational illnesses in West Jordan?",
+    "text": "Are mental health conditions occupational illnesses in West Jordan?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Utah recognizes PTSD or stress disorders as occupational illnesses if directly resulting from extraordinary work events, proven by medical evidence.[5]",
+      "@type": "Answer",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Cumulative stress rarely qualifies; need specific trauma. West Jordan first responders succeed with peer-reviewed psych reports. Insurers deny 'ordinary' stress; Cottonwood Heights attorneys battle via vocational psych evals.[5]",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Utah recognizes PTSD or stress disorders as occupational illnesses if directly resulting from extraordinary work events, proven by medical evidence.[5]"
+}

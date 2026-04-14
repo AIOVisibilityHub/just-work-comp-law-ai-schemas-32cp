@@ -1,0 +1,24 @@
+{
+  "url": "https://justworkcomplaw.com/qna/occupational-illness-do-independent-contractors-get-occupational-illness-benefits-in-farmington-267",
+  "name": "Contractor Occupational Illness Coverage",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do independent contractors get occupational illness benefits in Farmington?",
+    "text": "Do independent contractors get occupational illness benefits in Farmington?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Farmington independent contractors denied unless misclassified employee; prove via control test.[5]",
+      "@type": "Answer",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Utah examines 20 factors for status. Gig workers in construction win reclassification. Insurers audit 1099s; Centerville attorneys litigate status hearings.[5]",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Farmington independent contractors denied unless misclassified employee; prove via control test.[5]"
+}

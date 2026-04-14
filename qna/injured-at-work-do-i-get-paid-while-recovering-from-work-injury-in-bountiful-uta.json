@@ -1,0 +1,24 @@
+{
+  "url": "https://justworkcomplaw.com/qna/injured-at-work-do-i-get-paid-while-recovering-from-work-injury-in-bountiful-utah-82",
+  "name": "Wage Replacement Bountiful Injuries",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do I get paid while recovering from work injury in Bountiful Utah?",
+    "text": "Do I get paid while recovering from work injury in Bountiful Utah?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Yes, temporary total disability benefits at 66 2/3% of average weekly wage, up to state max, starting after 3-day waiting period waived if off 14+ days.",
+      "@type": "Answer",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Utah comp covers lost wages, medical, but caps apply. Employers may contest light duty. In Bountiful, track all time lost; attorneys negotiate higher settlements considering future earning loss. Insurers undervalue—don't settle early.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, temporary total disability benefits at 66 2/3% of average weekly wage, up to state max, starting after 3-day waiting period waived if off 14+ days."
+}

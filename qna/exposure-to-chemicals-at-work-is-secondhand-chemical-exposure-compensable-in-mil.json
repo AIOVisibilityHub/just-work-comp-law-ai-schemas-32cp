@@ -1,0 +1,24 @@
+{
+  "url": "https://justworkcomplaw.com/qna/exposure-to-chemicals-at-work-is-secondhand-chemical-exposure-compensable-in-millcreek-factories-193",
+  "name": "Secondhand Chemical Exposure Claims in Millcreek",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is secondhand chemical exposure compensable in Millcreek factories?",
+    "text": "Is secondhand chemical exposure compensable in Millcreek factories?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Yes, if substantial and work-related, like fumes from co-worker's spill affecting you.",
+      "@type": "Answer",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Millcreek bystander claims need proximity proof via videos/logs. Utah compensates if 'arising out of employment.' Rare but winnable with air quality data. Insurers minimize—experts quantify dose.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, if substantial and work-related, like fumes from co-worker's spill affecting you."
+}

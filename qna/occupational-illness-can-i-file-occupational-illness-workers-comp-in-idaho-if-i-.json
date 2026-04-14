@@ -1,0 +1,24 @@
+{
+  "url": "https://justworkcomplaw.com/qna/occupational-illness-can-i-file-occupational-illness-workers-comp-in-idaho-if-i-work-in-boise-but-liv-251",
+  "name": "Cross-State Occupational Illness Claims: Boise to Murray",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I file occupational illness workers' comp in Idaho if I work in Boise but live in Murray?",
+    "text": "Can I file occupational illness workers' comp in Idaho if I work in Boise but live in Murray?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "File occupational illness claims in the state where exposure primarily occurred. For Boise work with Murray residence, Idaho workers' comp applies if injury/illness arose there. Dual-state rules may allow Utah filing.[1]",
+      "@type": "Answer",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Jurisdiction for cross-border occupational illness claims depends on where the harmful exposure happened. Boise employment triggers Idaho's Industrial Commission process, but Utah may cover if significant exposure occurred there. Complicating factors include traveling workers; consult local experts in Murray or Boise to file in both if needed. Employers' insurance policies often specify primary state, impacting benefits like TTD rates.[1]",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "File occupational illness claims in the state where exposure primarily occurred. For Boise work with Murray residence, Idaho workers' comp applies if injury/ill"
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://justworkcomplaw.com/qna/workplace-injury-do-i-get-paid-during-light-duty-after-workplace-injury-in-millcreek-15",
+  "name": "Light Duty Pay Under Utah Workers' Comp",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do I get paid during light duty after workplace injury in Millcreek?",
+    "text": "Do I get paid during light duty after workplace injury in Millcreek?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Yes, temporary partial disability: 2/3 of wage loss between regular and light duty pay.",
+      "@type": "Answer",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Utah requires 'comparable' light duty; unreasonable refusal forfeits benefits. Track hours/pay stubs. Insurers push light duty to cut costs; verify suitability.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, temporary partial disability: 2/3 of wage loss between regular and light duty pay."
+}

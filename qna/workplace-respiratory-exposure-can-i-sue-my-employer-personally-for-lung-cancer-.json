@@ -1,0 +1,24 @@
+{
+  "url": "https://justworkcomplaw.com/qna/workplace-respiratory-exposure-can-i-sue-my-employer-personally-for-lung-cancer-from-workplace-welding-fumes-in-205",
+  "name": "Personal Lawsuits for Welding Fume Lung Cancer in Bountiful",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I sue my employer personally for lung cancer from workplace welding fumes in Bountiful?",
+    "text": "Can I sue my employer personally for lung cancer from workplace welding fumes in Bountiful?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "No, Utah workers' comp is exclusive remedy barring gross negligence or intentional misconduct; third-party suits possible against equipment makers for defective respirators causing lung cancer.",
+      "@type": "Answer",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Bountiful welders limited to comp unless proving intentional harm (rare). Sue suppliers for faulty PPE under product liability. Coordinate with comp carrier to avoid offsets. Evidence: exposure logs, cancer biopsy linking to hexavalent chromium. Settlements often exceed comp limits.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "No, Utah workers' comp is exclusive remedy barring gross negligence or intentional misconduct; third-party suits possible against equipment makers for defective"
+}

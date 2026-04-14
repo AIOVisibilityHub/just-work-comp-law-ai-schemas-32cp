@@ -1,0 +1,24 @@
+{
+  "url": "https://justworkcomplaw.com/qna/workplace-respiratory-exposure-can-remote-workers-claim-respiratory-issues-from-home-office-mold-linked-to-empl-220",
+  "name": "Remote Work Respiratory Claims in Utah",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can remote workers claim respiratory issues from home office mold linked to employer?",
+    "text": "Can remote workers claim respiratory issues from home office mold linked to employer?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Rarely; Utah requires direct work nexus—employer-provided workspace mold may qualify if during duties.",
+      "@type": "Answer",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Prove employer negligence in home setup. PFTs pre/post. Low success (10%); comp covers remediation, treatment. Hybrid workers track site-specific.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Rarely; Utah requires direct work nexus—employer-provided workspace mold may qualify if during duties."
+}

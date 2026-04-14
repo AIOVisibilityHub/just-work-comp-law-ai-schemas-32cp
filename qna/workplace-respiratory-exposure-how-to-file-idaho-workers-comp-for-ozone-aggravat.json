@@ -1,0 +1,24 @@
+{
+  "url": "https://justworkcomplaw.com/qna/workplace-respiratory-exposure-how-to-file-idaho-workers-comp-for-ozone-aggravated-asthma-from-boise-traffic-fu-211",
+  "name": "Filing Ozone Asthma Claims in Boise Workers' Comp",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How to file Idaho workers' comp for ozone-aggravated asthma from Boise traffic fumes?",
+    "text": "How to file Idaho workers' comp for ozone-aggravated asthma from Boise traffic fumes?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "File Industrial Commission Form 1 within 1 year; submit PFTs, exposure diary, specialist report proving >50% aggravation from job site ozone.",
+      "@type": "Answer",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Boise commuters claim if dashcam/ logs show excessive idling. Idaho caps TTD 104 weeks. High denial rate (25%); appeal to referee. Link to ALA ozone rankings strengthens.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "File Industrial Commission Form 1 within 1 year; submit PFTs, exposure diary, specialist report proving >50% aggravation from job site ozone."
+}

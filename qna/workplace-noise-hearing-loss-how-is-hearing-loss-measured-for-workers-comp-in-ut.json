@@ -1,0 +1,24 @@
+{
+  "url": "https://justworkcomplaw.com/qna/workplace-noise-hearing-loss-how-is-hearing-loss-measured-for-workers-comp-in-utah-after-noise-exposure-225",
+  "name": "How Utah Measures Workplace Hearing Loss for Compensation",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How is hearing loss measured for workers' comp in Utah after noise exposure?",
+    "text": "How is hearing loss measured for workers' comp in Utah after noise exposure?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Utah Code 34A-2-507 requires audiometric testing no sooner than 6 weeks after noise exposure ends, using ANSI-S3.6-1969 calibrated audiometers by qualified professionals to measure hearing threshold levels from 0 dB.",
+      "@type": "Answer",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Hearing loss for Utah workers' comp is quantified via audiograms performed at least 6 weeks post-exposure by medical experts using ANSI-standard equipment. This establishes permanent threshold shift for compensation. Employers may dispute tests; independent medical exams are common. Retain records and seek legal review to counter biased employer-provided tests. Proper measurement directly impacts benefit amounts.[4]",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Utah Code 34A-2-507 requires audiometric testing no sooner than 6 weeks after noise exposure ends, using ANSI-S3.6-1969 calibrated audiometers by qualified prof"
+}

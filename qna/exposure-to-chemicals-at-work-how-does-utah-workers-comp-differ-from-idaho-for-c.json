@@ -1,0 +1,24 @@
+{
+  "url": "https://justworkcomplaw.com/qna/exposure-to-chemicals-at-work-how-does-utah-workers-comp-differ-from-idaho-for-chemical-exposure-claims-184",
+  "name": "Utah vs Idaho Chemical Exposure Workers' Comp Differences",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How does Utah workers' comp differ from Idaho for chemical exposure claims?",
+    "text": "How does Utah workers' comp differ from Idaho for chemical exposure claims?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Utah emphasizes medical proof for diseases (6-yr limit); Idaho uses 'arising out of' test with 1-yr filing from disability, higher wage replacement (75%).",
+      "@type": "Answer",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Utah caps at 66 2/3% wages, Idaho 75%; both cover toxics but Idaho easier for psych claims. Cross-state workers in Boise/West Valley face jurisdiction fights. Choose domiciled state. Local firms clarify venue for max benefits—insurers exploit confusion.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Utah emphasizes medical proof for diseases (6-yr limit); Idaho uses 'arising out of' test with 1-yr filing from disability, higher wage replacement (75%)."
+}

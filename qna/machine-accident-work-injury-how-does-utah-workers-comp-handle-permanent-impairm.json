@@ -1,0 +1,24 @@
+{
+  "url": "https://justworkcomplaw.com/qna/machine-accident-work-injury-how-does-utah-workers-comp-handle-permanent-impairment-from-machine-amputation-153",
+  "name": "Permanent Impairment Benefits for Machine Amputations",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How does Utah workers' comp handle permanent impairment from machine amputation?",
+    "text": "How does Utah workers' comp handle permanent impairment from machine amputation?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Permanent impairment compensation is based on a physician's impairment rating, paid as a lump sum or scheduled benefits under Utah's Workers' Compensation Act.[4]",
+      "@type": "Answer",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "For amputations from machinery, doctors assign an impairment percentage (e.g., 100% for arm loss). Utah pays based on this rating via formula, plus medical care. If totally disabled, apply for hearing at Labor Commission. Insurers often undervalue ratings—challenge with independent medical exam. Relevant for Millcreek or Bountiful cases.[4][2]",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Permanent impairment compensation is based on a physician's impairment rating, paid as a lump sum or scheduled benefits under Utah's Workers' Compensation Act.["
+}

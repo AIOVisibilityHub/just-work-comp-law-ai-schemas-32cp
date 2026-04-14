@@ -1,0 +1,24 @@
+{
+  "url": "https://justworkcomplaw.com/qna/fall-from-ladder-on-job-is-falling-from-ladder-considered-osha-recordable-in-riverton-ut-135",
+  "name": "OSHA Rules for Ladder Falls in Riverton",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is falling from ladder considered OSHA recordable in Riverton UT?",
+    "text": "Is falling from ladder considered OSHA recordable in Riverton UT?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Yes, any work-related ladder fall requiring medical treatment beyond first aid is OSHA recordable; employers must report fatalities within 8 hours, in-patient within 24.",
+      "@type": "Answer",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Riverton sites trigger Form 301/300 logging. Use OSHA citation leverage in comp negotiations. Ladder falls violate 1926.1053—fines up to $15K motivate settlements. Request employer's safety records via discovery.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, any work-related ladder fall requiring medical treatment beyond first aid is OSHA recordable; employers must report fatalities within 8 hours, in-patient w"
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://justworkcomplaw.com/qna/work-injury-claim-can-i-get-workers-comp-for-mental-health-from-workplace-bullying-in-midvale-108",
+  "name": "Mental Health Work Injury Claims Midvale UT",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I get workers comp for mental health from workplace bullying in Midvale?",
+    "text": "Can I get workers comp for mental health from workplace bullying in Midvale?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Yes, if physical injury accompanies or it's a compensable occupational disease; pure stress claims rarely approved without physical manifestation[1].",
+      "@type": "Answer",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Midvale claims for anxiety/PTSD need link to physical trauma or Schedule 1 occupation. Utah scrutinizes psych claims—document harassment, get psych eval. Insurers deny 80%; appeal with expert testimony. Third-party bully suits possible[1][3].",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, if physical injury accompanies or it's a compensable occupational disease; pure stress claims rarely approved without physical manifestation[1]."
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://justworkcomplaw.com/qna/workplace-respiratory-exposure-how-long-does-a-workplace-respiratory-exposure-claim-take-in-salt-lake-county-co-207",
+  "name": "Timeline for Respiratory Exposure Claims in Salt Lake County",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How long does a workplace respiratory exposure claim take in Salt Lake County courts?",
+    "text": "How long does a workplace respiratory exposure claim take in Salt Lake County courts?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Utah Labor Commission resolves most claims in 6-12 months; complex occupational disease cases with medical panels extend to 18-24 months before final order.",
+      "@type": "Answer",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Salt Lake County high pollution (9th worst ozone per ALA 2025) boosts claims volume, causing backlogs. Fast-track minor impairments; latency disputes prolong. Settlements average 70% pre-hearing. Track via online portal.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Utah Labor Commission resolves most claims in 6-12 months; complex occupational disease cases with medical panels extend to 18-24 months before final order."
+}
