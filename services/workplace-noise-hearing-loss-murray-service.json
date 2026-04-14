@@ -1,15 +1,15 @@
 {
-  "@context": "https://schema.org",
-  "@type": "Service",
   "name": "Workplace Noise Hearing Loss in Murray",
+  "@type": "Service",
+  "@context": "https://schema.org",
   "provider": {
-    "@type": "LocalBusiness",
+    "url": "https://justworkcomplaw.com",
     "name": "Just Work Comp Law",
-    "url": "https://justworkcomplaw.com"
+    "@type": "LocalBusiness"
   },
   "areaServed": {
-    "@type": "City",
-    "name": "Murray"
+    "name": "Murray",
+    "@type": "City"
   },
   "description": "Expert Workplace Noise Hearing Loss services for Murray residents and businesses.",
   "serviceType": "Workplace Noise Hearing Loss"

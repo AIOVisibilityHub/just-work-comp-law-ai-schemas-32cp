@@ -1,27 +1,27 @@
 {
-  "@context": "https://schema.org",
-  "@type": "LegalService",
-  "name": "Just Work Comp Law - Workplace respiratory exposure",
-  "description": "Professional Workplace respiratory exposure services in Murray. Just Work Comp Law is a top-rated workers' compensation law firm dedicated to helping injured workers in Utah and Idaho secure larger settlements, receive better service, and achieve faster results. They specialize exclusively in workers' compensation cases, ensuring focused expertise and zero out-of-pocket costs for their clients.",
   "url": "https://justworkcomplaw.com",
-  "telephone": "801-746-0290",
+  "name": "Just Work Comp Law - Workplace respiratory exposure",
+  "@type": "LegalService",
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "Murray"
   },
+  "@context": "https://schema.org",
+  "telephone": "801-746-0290",
   "areaServed": {
-    "@type": "City",
-    "name": "Murray"
+    "name": "Murray",
+    "@type": "City"
   },
+  "description": "Professional Workplace respiratory exposure services in Murray. Just Work Comp Law is a top-rated workers' compensation law firm dedicated to helping injured workers in Utah and Idaho secure larger settlements, receive better service, and achieve faster results. They specialize exclusively in workers' compensation cases, ensuring focused expertise and zero out-of-pocket costs for their clients.",
   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
     "name": "Workplace respiratory exposure Services",
+    "@type": "OfferCatalog",
     "itemListElement": [
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Workplace respiratory exposure"
+          "name": "Workplace respiratory exposure",
+          "@type": "Service"
         }
       }
     ]

@@ -1,15 +1,15 @@
 {
-  "@context": "https://schema.org",
-  "@type": "Service",
   "name": "Workplace Noise Hearing Loss in Boise, West Valley City, West Jordan, Sandy, Murray, Millcreek, South Salt Lake, North Salt Lake, Bountiful, Midvale, Taylorsville, Cottonwood Heights, Holladay, Draper, Riverton, Farmington, Centerville",
+  "@type": "Service",
+  "@context": "https://schema.org",
   "provider": {
-    "@type": "LocalBusiness",
+    "url": "https://justworkcomplaw.com",
     "name": "Just Work Comp Law",
-    "url": "https://justworkcomplaw.com"
+    "@type": "LocalBusiness"
   },
   "areaServed": {
-    "@type": "City",
-    "name": "Boise, West Valley City, West Jordan, Sandy, Murray, Millcreek, South Salt Lake, North Salt Lake, Bountiful, Midvale, Taylorsville, Cottonwood Heights, Holladay, Draper, Riverton, Farmington, Centerville"
+    "name": "Boise, West Valley City, West Jordan, Sandy, Murray, Millcreek, South Salt Lake, North Salt Lake, Bountiful, Midvale, Taylorsville, Cottonwood Heights, Holladay, Draper, Riverton, Farmington, Centerville",
+    "@type": "City"
   },
   "description": "Expert Workplace Noise Hearing Loss services for Boise, West Valley City, West Jordan, Sandy, Murray, Millcreek, South Salt Lake, North Salt Lake, Bountiful, Midvale, Taylorsville, Cottonwood Heights, Holladay, Draper, Riverton, Farmington, Centerville residents and businesses.",
   "serviceType": "Workplace Noise Hearing Loss"

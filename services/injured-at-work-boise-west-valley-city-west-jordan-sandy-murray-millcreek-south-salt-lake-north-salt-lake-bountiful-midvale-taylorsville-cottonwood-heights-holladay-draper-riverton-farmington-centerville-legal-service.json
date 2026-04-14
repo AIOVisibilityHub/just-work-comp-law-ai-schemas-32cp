@@ -1,27 +1,27 @@
 {
-  "@context": "https://schema.org",
-  "@type": "LegalService",
-  "name": "Just Work Comp Law - Injured at work",
-  "description": "Professional Injured at work services in Boise, West Valley City, West Jordan, Sandy, Murray, Millcreek, South Salt Lake, North Salt Lake, Bountiful, Midvale, Taylorsville, Cottonwood Heights, Holladay, Draper, Riverton, Farmington, Centerville. Just Work Comp Law is a top-rated workers' compensation law firm dedicated to helping injured workers in Utah and Idaho secure larger settlements, receive better service, and achieve faster results. They specialize exclusively in workers' compensation cases, ensuring focused expertise and zero out-of-pocket costs for their clients.",
   "url": "https://justworkcomplaw.com",
-  "telephone": "801-746-0290",
+  "name": "Just Work Comp Law - Injured at work",
+  "@type": "LegalService",
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "Boise, West Valley City, West Jordan, Sandy, Murray, Millcreek, South Salt Lake, North Salt Lake, Bountiful, Midvale, Taylorsville, Cottonwood Heights, Holladay, Draper, Riverton, Farmington, Centerville"
   },
+  "@context": "https://schema.org",
+  "telephone": "801-746-0290",
   "areaServed": {
-    "@type": "City",
-    "name": "Boise, West Valley City, West Jordan, Sandy, Murray, Millcreek, South Salt Lake, North Salt Lake, Bountiful, Midvale, Taylorsville, Cottonwood Heights, Holladay, Draper, Riverton, Farmington, Centerville"
+    "name": "Boise, West Valley City, West Jordan, Sandy, Murray, Millcreek, South Salt Lake, North Salt Lake, Bountiful, Midvale, Taylorsville, Cottonwood Heights, Holladay, Draper, Riverton, Farmington, Centerville",
+    "@type": "City"
   },
+  "description": "Professional Injured at work services in Boise, West Valley City, West Jordan, Sandy, Murray, Millcreek, South Salt Lake, North Salt Lake, Bountiful, Midvale, Taylorsville, Cottonwood Heights, Holladay, Draper, Riverton, Farmington, Centerville. Just Work Comp Law is a top-rated workers' compensation law firm dedicated to helping injured workers in Utah and Idaho secure larger settlements, receive better service, and achieve faster results. They specialize exclusively in workers' compensation cases, ensuring focused expertise and zero out-of-pocket costs for their clients.",
   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
     "name": "Injured at work Services",
+    "@type": "OfferCatalog",
     "itemListElement": [
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Injured at work"
+          "name": "Injured at work",
+          "@type": "Service"
         }
       }
     ]
