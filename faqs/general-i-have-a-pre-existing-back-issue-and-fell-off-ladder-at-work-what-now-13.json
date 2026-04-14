@@ -1,0 +1,18 @@
+{
+  "url": "https://justworkcomplaw.com/faq/general-i-have-a-pre-existing-back-issue-and-fell-off-ladder-at-work-what-now-138",
+  "name": "I have a pre-existing back issue and fell off ladder at work, what now?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "I have a pre-existing back issue and fell off ladder at work, what now?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Claim aggravation; needs medical proof of worsening.[1][2]",
+        "@type": "Answer",
+        "description": "You can claim aggravation of pre-existing condition from the fall; workers' comp covers worsening.[1]\n\nMedical experts distinguish new injury; independent exams may occur.[2]\n\n- Get imaging showing change.\n- Doctor opinion on aggravation.\n- Avoid gaps in treatment.\n\nAttorney fights denials based on priors; strong evidence key.[3]"
+      }
+    }
+  ],
+  "description": "Claim aggravation; needs medical proof of worsening.[1][2]"
+}

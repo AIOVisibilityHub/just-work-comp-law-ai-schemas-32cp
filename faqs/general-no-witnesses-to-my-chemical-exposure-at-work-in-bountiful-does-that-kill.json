@@ -1,0 +1,18 @@
+{
+  "url": "https://justworkcomplaw.com/faq/general-no-witnesses-to-my-chemical-exposure-at-work-in-bountiful-does-that-kill-my-clai-239",
+  "name": "No witnesses to my chemical exposure at work in Bountiful, does that kill my claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "No witnesses to my chemical exposure at work in Bountiful, does that kill my claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, use medical proof and records—presumption aids on-site exposures.[1]",
+        "@type": "Answer",
+        "description": "No, medical evidence and records can suffice; Utah presumes on-premises claims work-related.[1] Witnesses help but not required.[1] Key factors: Exposure logs, co-worker affidavits, testing; doctor causation report.[1] Reconstruct timeline with emails/reports. Legal guidance strengthens silent-exposure cases."
+      }
+    }
+  ],
+  "description": "No, use medical proof and records—presumption aids on-site exposures.[1]"
+}

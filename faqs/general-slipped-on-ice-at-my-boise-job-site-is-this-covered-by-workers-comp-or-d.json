@@ -1,0 +1,18 @@
+{
+  "url": "https://justworkcomplaw.com/faq/general-slipped-on-ice-at-my-boise-job-site-is-this-covered-by-workers-comp-or-do-i-sue--52",
+  "name": "Slipped on ice at my Boise job site, is this covered by workers comp or do I sue my boss?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Slipped on ice at my Boise job site, is this covered by workers comp or do I sue my boss?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, covered by Idaho workers' comp only—no suing employer; report ASAP and file within 1 year.",
+        "@type": "Answer",
+        "description": "In Idaho, workplace slip and falls are typically handled exclusively through workers' compensation, barring lawsuits against your employer unless gross negligence is proven. This no-fault system covers medical costs, wage loss up to 72% of average weekly wage, and disability benefits[2]. Key factors: Must have active Idaho workers' comp insurance; report within 60 days and file claim within 1 year; no personal injury suit possible. Notify employer immediately, seek treatment, gather scene photos. Idaho Industrial Commission oversees claims; hire an attorney if denied."
+      }
+    }
+  ],
+  "description": "Yes, covered by Idaho workers' comp only—no suing employer; report ASAP and file within 1 year."
+}

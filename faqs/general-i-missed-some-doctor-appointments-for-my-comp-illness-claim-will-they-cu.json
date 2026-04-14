@@ -1,0 +1,18 @@
+{
+  "url": "https://justworkcomplaw.com/faq/general-i-missed-some-doctor-appointments-for-my-comp-illness-claim-will-they-cut-my-ben-243",
+  "name": "I missed some doctor appointments for my comp illness claim, will they cut my benefits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "I missed some doctor appointments for my comp illness claim, will they cut my benefits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, follow all medical instructions or risk benefit cuts.[1]",
+        "@type": "Answer",
+        "description": "Yes, Utah allows suspension for refusing reasonable treatment.[1] Compliance is mandatory.[1] Key factors: Document reasons for misses; get approvals; attend rehab.[1] Reschedule immediately and notify carrier. Attorney can argue extenuating circumstances."
+      }
+    }
+  ],
+  "description": "Yes, follow all medical instructions or risk benefit cuts.[1]"
+}

@@ -1,0 +1,18 @@
+{
+  "url": "https://justworkcomplaw.com/faq/general-i-got-hurt-on-a-machine-at-my-factory-job-in-murray-do-i-qualify-for-workers-com-152",
+  "name": "I got hurt on a machine at my factory job in Murray, do I qualify for workers comp?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "I got hurt on a machine at my factory job in Murray, do I qualify for workers comp?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes for Utah employees injured on job machinery. Report to employer fast.",
+        "@type": "Answer",
+        "description": "Yes, if injured by machinery during your job duties in Utah, workers' comp applies regardless of fault.[1][4] It covers medical costs, lost wages (2/3 of average weekly wage), and disability benefits for machine accidents.[2] Key factors: Must be an employee, not independent contractor; injury arose out of employment; report promptly. Pre-existing conditions don't disqualify if aggravated.[7] File claim through employer; if denied, appeal within 20 days in Utah. Free attorney consult clarifies eligibility."
+      }
+    }
+  ],
+  "description": "Yes for Utah employees injured on job machinery. Report to employer fast."
+}
